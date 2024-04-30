@@ -1,0 +1,67 @@
+<script_info tipo='back' personagem='indefinido' tamanho='449' inicio_ponteiros='4' fim_ponteiros='31' inicio_textos='32' />
+<#####################>
+
+
+No data found
+<*********************>
+
+
+Data corrupted
+<*********************>
+
+
+<dpad>Control Pad <cima>/<baixo>:Select
+<btn_a>Button:Save <btn_b>Button:Cancel
+<*********************>
+
+
+<dpad>Control Pad <cima>/<baixo>:Select Data
+<btn_a>Button:Load <btn_b>Button:Cancel
+<*********************>
+
+
+<dpad>Control Pad <cima>/<baixo>:Select Data
+<btn_a>Button:Delete<btn_b>Button:Cancel
+<*********************>
+
+
+Overwrite this data?
+  Yes    No
+<*********************>
+
+
+Load this data?
+  Yes    No
+<*********************>
+
+
+Delete this data?
+  Yes    No
+<*********************>
+
+
+Data saved
+<*********************>
+
+
+Data loaded
+<*********************>
+
+
+Data deleted
+<*********************>
+
+
+Failed to save data
+<*********************>
+
+
+Saving data...
+Do not turn the power off.
+<*********************>
+
+
+Failed to delete data
+<*********************>
+
+<FIM>
