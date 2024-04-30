@@ -2,8 +2,8 @@
 <#####################>
 
 <p 02><d E903><a 0D><n 03>
-Alô! Cảm ơn quý khách đã
-chọn dịch vụ Chuyển Phát
+Alô! Cảm ơn quý khách 
+đã chọn dịch vụ Chuyển
 Phát Nhanh Girouette!
 <--------------------->
 
