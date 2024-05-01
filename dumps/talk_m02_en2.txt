@@ -1,0 +1,252 @@
+<script_info tipo='Mission 2' personagem='Aile' tamanho='2473' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d D107><a 02><n 55>
+The transporter Giro
+appears to have met
+<--------------------->
+
+with Maverick
+aggression in Area B.
+<--------------------->
+
+<p 02><d D207><a 02><n 55>
+Go to Area B and find
+his whereabouts.
+<*********************>
+
+<p 02><d D307><a 05><n 02>
+It looks like there was
+a fight here.
+<--------------------->
+
+<p 02><d D407><a 05><n 02>
+I can try following
+this road. Maybe
+it'll lead to Giro.
+<*********************>
+
+<p 02><d D507><a 02><n 04>
+Aile? Come in Aile.
+<--------------------->
+
+<p 02><d D607><a 02><n 04>
+About the Mavericks
+that attacked us,
+<--------------------->
+
+something with the
+whole thing is
+bothering me.
+<--------------------->
+
+<p 02><d D707><a 02><n 04>
+There might be a clue
+in the ruins about
+<--------------------->
+
+what's causing the
+Maverick outbreaks.
+<--------------------->
+
+<p 02><d D807><a 02><n 04>
+Check them out and see
+if you can find
+something.
+<*********************>
+
+<p 02><d D907><a 02><n 04>
+There might be a clue
+in the ruins about
+<--------------------->
+
+what's causing the
+Maverick outbreaks.
+<--------------------->
+
+<p 02><d DA07><a 02><n 04>
+Check them out and see
+if you can find
+something.
+<*********************>
+
+<p 02><d DB07><a 05><n 02>
+What's this? Is this a
+computer chip?
+<--------------------->
+
+<p 02><d DC07><a 02><n 04>
+It must be a part that
+fell off one of the
+Mavericks.
+<--------------------->
+
+<p 02><d DD07><a 02><n 04>
+If you bring it back to
+HQ, we can analyze it.
+<--------------------->
+
+It might give us the
+lead we need.
+<--------------------->
+
+<p 02><d DE07><a 02><n 04>
+If you find anything
+else, bring that back
+too.
+<*********************>
+
+<p 02><d DF07><a 32><n 06>
+So this is the chosen
+one for Model X?
+<--------------------->
+
+<p 02><d E007><a 11><n 00>
+Yes, she's very special
+to me.
+<*********************>
+
+<p 02><d E107><a 0D><n 03>
+Aile, it looks like
+you've been chosen by
+the Biometal too.
+<--------------------->
+
+<p 03><d E207><a 07><n 02>
+Giro! Just what is
+Biometal?
+<--------------------->
+
+I don't understand
+what's going on!
+<--------------------->
+
+<p 02><d E307><a 0D><n 03>
+This is my partner,
+Biometal Model Z.
+<--------------------->
+
+<p 02><d E407><a 0D><n 03>
+I'm sorry I kept this a
+secret from you,
+<--------------------->
+
+but I'm a member of the
+Guardians.
+<--------------------->
+
+<p 02><d E507><a 0D><n 03>
+You and me are both
+chosen ones.
+<--------------------->
+
+We can transform with
+the power of the
+Biometal.
+<--------------------->
+
+<p 02><d E607><a 0D><n 03>
+I was given an order to
+protect you from the
+<--------------------->
+
+people who are after
+the power inside you.
+<--------------------->
+
+<p 03><d E707><a 05><n 02>
+I'm a chosen one?
+<--------------------->
+
+<p 02><d E807><a 10><n 03>
+I didn't want to hide
+it from you. I was
+planning on telling you
+<--------------------->
+
+everything once we
+safely delivered the
+Biometal.
+<--------------------->
+
+<p 02><d E907><a 0D><n 03>
+Aile. Will you join me
+and the other
+Guardians?
+<--------------------->
+
+<p 02><d EA07><a 0D><n 03>
+The Biometal is the key
+to understanding why
+<--------------------->
+
+the Maverick outbreaks
+are occurring.
+<--------------------->
+
+<p 03><d EB07><a 08><n 02>
+This is all so much for
+me to take in. I just
+don't know Giro...
+<--------------------->
+
+<p 02><d EC07><a 0D><n 03>
+I don't want to force
+you to do anything
+against your will.
+<--------------------->
+
+It's your decision.
+<--------------------->
+
+<p 02><d ED07><a 0D><n 03>
+I'm going to use the
+transerver to go back
+to Guardian HQ.
+<--------------------->
+
+<p 02><d EE07><a 0D><n 03>
+I'll be waiting there
+for your decision.
+<--------------------->
+
+Please don't take too
+long.
+<*********************>
+
+<p 02><d EF07><a 02><n 04>
+It sounds like you
+managed to meet up with
+Giro. That's a relief.
+<--------------------->
+
+<p 02><d F007><a 02><n 04>
+Oh, be sure to go to
+the transerver in the
+<--------------------->
+
+back room and select
+Mission Report.
+<--------------------->
+
+<p 02><d F107><a 02><n 04>
+Then send confirmation
+to HQ that the mission
+has been completed.
+<--------------------->
+
+<p 03><d F207><a 08><n 02>
+Was Giro with me all
+those years just
+because he was
+<--------------------->
+
+ordered to protect the
+chosen one?
+<--------------------->
+
+<p 03><d F307><a 08><n 02>
+I feel so confused...
+<*********************>
+
+<FIM>
