@@ -8,37 +8,37 @@ echo "+ Trans-Center, 2015           +" . PHP_EOL;
 echo "+ Solid_One                    +" . PHP_EOL;
 echo "+==============================+" . PHP_EOL;
 echo PHP_EOL;
-echo "Como usar:" . PHP_EOL;
-echo " - Crie uma pasta chamada 'scripts' no mesmo local onde estão os arquivos da tool;" . PHP_EOL;
-echo " - Dentro da pasta 'scripts', crie outras duas pastas de nome 'originais' e 'dumpados';" . PHP_EOL;
-echo " - Extraia, da pasta 'data' da rom do jogo (preferencialmente a americana), os seguintes arquivos:" . PHP_EOL;
-echo "  1. Todos os arquivos em extensão .bin cujo nome começa com 'm_' e termina com 'en';" . PHP_EOL;
-echo "  2. Todos os arquivos em extensão .bin cujo nome começa com 'talk_' e termina com 'en', 'en1' ou 'en2';" . PHP_EOL;
-echo " - Ponha os seguintes arquivos dentro da pasta 'originais' e execute este script;" . PHP_EOL;
-echo " - A extração dará início em seguida, salvando os scripts na pasta 'dumpados'." . PHP_EOL;
+echo "Cách sử dụng:" . PHP_EOL;
+echo " - Tạo thư mục có tên 'scripts' ở cùng vị trí với các file công cụ;" . PHP_EOL;
+echo " - Bên trong thư mục 'scripts' tạo 2 thư mục khác tên là 'orignal' và 'dumps';" . PHP_EOL;
+echo " - Giải nén từ thư mục 'data' của rom game (tốt nhất là của Mỹ), các file sau:" . PHP_EOL;
+echo "  1. Tất cả các tệp có phần mở rộng .bin có tên bắt đầu bằng 'm_' và kết thúc bằng 'en';" . PHP_EOL;
+echo "  2. Tất cả các tệp có phần mở rộng .bin có tên bắt đầu bằng 'talk_' và kết thúc bằng 'en', 'en1' hoặc 'en2';" . PHP_EOL;
+echo " - Đặt các tệp sau vào thư mục 'orignal' và chạy tập lệnh này;" . PHP_EOL;
+echo " - Sau đó, quá trình trích xuất sẽ bắt đầu, lưu các tập lệnh vào thư mục 'dumps'." . PHP_EOL;
 echo PHP_EOL;
 
-aviso('Verificando quantidade de scripts...', false);
-$scripts = glob('scripts/originais/*.bin', GLOB_BRACE);
+aviso('Kiểm tra số lượng file script...', false);
+$scripts = glob('scripts/orignal/*.bin', GLOB_BRACE);
 $total_scripts = count($scripts);
 aviso($total_scripts);
 if($total_scripts > 0){
-	aviso('Lendo tabela...', false);
+	aviso('Đang đọc table...', false);
 	$tabela = lerTabelaCaracteres(false);
 	aviso('OK!');
-	aviso('Iniciando extração dos scripts...');
+	aviso('Bắt đầu trích xuất các file script...');
 	foreach($scripts as $script) {
 		$nome_arquivo_original = basename($script);
 		if($nome_arquivo_original == 'talk_q07_en1.bin'){
-			aviso("O script \"$nome_arquivo_original\" é nulo e será ignorado.");
+			aviso("Script \"$nome_arquivo_original\" là file null và sẽ bỏ qua.");
 			continue;
 		}
 		$nome_arquivo_dumpado = str_replace('.bin', '.txt', $nome_arquivo_original);
 		
-		aviso("Extraindo script \"$nome_arquivo_original\" para arquivo de texto \"$nome_arquivo_dumpado\"...", false);
+		aviso("Trích xuất script \"$nome_arquivo_original\" vào file text \"$nome_arquivo_dumpado\"...", false);
 		
 		$script = fopen($script, 'r');
-		$texto = fopen("scripts/dumpados/$nome_arquivo_dumpado", 'w');
+		$texto = fopen("scripts/dumps/$nome_arquivo_dumpado", 'w');
 
 		// Obtendo tamanho do arquivo
 		$tamanho_arquivo = ler2BytesHexInvertido($script, 0) + 4;
@@ -202,8 +202,8 @@ if($total_scripts > 0){
 		fclose($texto);
 		aviso("OK!");
 	}
-	aviso('Scripts extraídos com sucesso!');
+	aviso('Đã trích xuất thành công file script!');
 } else {
-	aviso('Nenhum script encontrado!');
+	aviso('Không tìm thấy file script nào!');
 }
 ?>

@@ -8,36 +8,36 @@ echo "+ Trans-Center, 2015           +" . PHP_EOL;
 echo "+ Solid_One                    +" . PHP_EOL;
 echo "+==============================+" . PHP_EOL;
 echo PHP_EOL;
-echo "Como usar:" . PHP_EOL;
-echo " - Extraia os scripts da rom americana com o Script Dumper, se já não tiver o feito;" . PHP_EOL;
-echo " - Dentro da pasta 'scripts', crie outras duas pastas 'traduzidos' e 'reinseridos';" . PHP_EOL;
-echo " - Copie todos os arquivos de texto da pasta 'dumpados' para a pasta 'traduzidos';" . PHP_EOL;
-echo " - Comece a traduzir os scripts da pasta 'traduzidos', mantendo os originais da pasta 'dumpados' intactos;" . PHP_EOL;
-echo " - À medida que for traduzindo, ou ao terminar tudo, execute este script;" . PHP_EOL;
-echo " - A reinserção dará início em seguida, re-gerando os arquivos .bin na pasta 'dumpados', prontos para serem reinseridos no jogo;" . PHP_EOL;
+echo "Cách sử dụng:" . PHP_EOL;
+echo " - Giải nén các file script từ rom Mỹ bằng Script Dumper, nếu bạn chưa thực hiện;" . PHP_EOL;
+echo " - Bên trong thư mục 'scripts', tạo hai thư mục khác là 'trans' và 'reinsert';" . PHP_EOL;
+echo " - Sao chép tất cả các file txt từ thư mục 'dumps' sang thư mục 'trans';" . PHP_EOL;
+echo " - Bắt đầu dịch các tập lệnh trong thư mục 'trans', giữ nguyên các bản gốc trong thư mục 'dumps';" . PHP_EOL;
+echo " - Khi bạn dịch hoặc khi mọi thứ kết thúc, hãy chạy tập lệnh này;" . PHP_EOL;
+echo " - Sau đó, quá trình chèn lại sẽ bắt đầu, tạo lại các tệp .bin trong thư mục 'dumps', sẵn sàng để đưa lại vào trò chơi;" . PHP_EOL;
 echo PHP_EOL;
 
-aviso('Verificando quantidade de scripts dumpados...', false);
-$textos = glob('scripts/traduzidos/*.txt', GLOB_BRACE);
+aviso('Kiểm tra số lượng file dumps...', false);
+$textos = glob('scripts/trans/*.txt', GLOB_BRACE);
 $total_textos = count($textos);
 aviso($total_textos);
 if($total_textos > 0){
-	aviso('Lendo tabela...', false);
+	aviso('Đang đọc table...', false);
 	$tabela = lerTabelaCaracteres(true);
 	aviso('OK!');
 
-	aviso('Iniciando recompilação dos scripts...');
+	aviso('Bắt đầu đóng gói lại file script...');
 	foreach($textos as $texto) {
 		$nome_arquivo_dumpado = basename($texto);
 		if($nome_arquivo_dumpado == 'talk_q07_en1.txt'){
-			aviso("O script \"$nome_arquivo_original\" é nulo e será ignorado.");
+			aviso("Script \"$nome_arquivo_original\" là file null và sẽ bỏ qua.");
 			continue;
 		}
 		$nome_arquivo_recompilado = str_replace('.txt', '.bin', $nome_arquivo_dumpado);
 		
-		aviso("Recompilando script \"$nome_arquivo_dumpado\" para arquivo binário \"$nome_arquivo_recompilado\"...", false);
+		aviso("Đóng gói file script \"$nome_arquivo_dumpado\" sang file \"$nome_arquivo_recompilado\"...", false);
 		$texto = fopen($texto, 'r');
-		$script = fopen("scripts/reinseridos/$nome_arquivo_recompilado", 'w');
+		$script = fopen("scripts/reinsert/$nome_arquivo_recompilado", 'w');
 		
 		$posicao_inicio_ponteiros = $posicao_fim_ponteiros = $posicao_inicio_textos = $posicao_inicio_script = '';
 		
@@ -126,8 +126,6 @@ if($total_textos > 0){
 								$flag_quebra_linha = true; // Workaround para script m_sys_en.txt, onde há o texto <cursor_esq>
 							} elseif($atributo_tag == 'c'){ // Cor do texto
 								escreverByte($script, "F1{$valor_tag}");
-							} elseif($atributo_tag == ' '){ // Nome do protagonista
-								escreverByte($script, "20");
 							} elseif($atributo_tag == 'nome'){ // Nome do protagonista
 								escreverByte($script, "FA");
 							} else {
@@ -183,8 +181,8 @@ if($total_textos > 0){
 		fclose($script);
 		aviso("OK!");
 	}
-	aviso('Scripts recompilados com sucesso!');
+	aviso('Đã đóng gói lại thành công file script!');
 } else {
-	aviso('Nenhum script encontrado!');
+	aviso('Không tìm thấy file script nào!');
 }
 ?>

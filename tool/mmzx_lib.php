@@ -30,7 +30,7 @@ function escreverByte($arquivo, $byte, $hexadecimal=true){
 function converterCharByte($char, $tabela_invertida){
 	$byte = strtr(utf8_encode($char), $tabela_invertida);
 	if(strlen($byte) != 2){
-		echo PHP_EOL . "AVISO: Caractere inválido, substituindo para arroba..." . PHP_EOL;
+		echo PHP_EOL . "CẢNH BÁO: Ký tự không hợp lệ, thay thế bằng @..." . PHP_EOL;
 		$byte = '20';
 	}
 	return $byte;
@@ -110,17 +110,17 @@ function obterTipoScript($nome_arquivo){
 	$infos = explode('_', $nome_arquivo_sem_extensao);
 	$tipo = $infos[1];
 	if(startsWith($tipo, 'gd')){ // NPCs do QG dos Guardiões
-		$tipo = 'NPCs Guardiões';
+		$tipo = 'Guardian NPCs';
 	} elseif(startsWith($tipo, 'm')){ // Missão
 		$numero_missao = hexdec(substr($tipo, -2));
-		$tipo = 'Missão ' . $numero_missao;
+		$tipo = 'Mission ' . $numero_missao;
 	} elseif(startsWith($tipo, 'q')){ // Quests do jogo
 		$numero_quest = hexdec(substr($tipo, -2));
 		$tipo = 'Quest ' . $numero_quest;
 	} elseif(startsWith($tipo, 'sys')){ // Textos de sistema
-		$tipo = 'Sistema';
+		$tipo = 'System';
 	} elseif(startsWith($tipo, 'tw')){ // NPCs da cidade
-		$tipo = 'NPCs Cidade';
+		$tipo = 'NPCs City';
 	} else {
 		$tipo = $infos[1];
 	}
