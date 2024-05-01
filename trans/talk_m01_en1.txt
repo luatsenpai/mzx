@@ -182,12 +182,12 @@ kích của lũ Phiến Quân.
 
 <p 02><d 0404><a 0D><n 03>
 Còn về vụ gói hàng,
-tốt nhất nên không
-hỏi nhiều.
+tốt nhất là không
+nên hỏi nhiều.
 <--------------------->
 
 Tớ chắc chắn nó rất
-quan trong và rất
+quan trọng và rất
 nguy hiểm.
 <--------------------->
 
@@ -254,20 +254,19 @@ gói hàng.
 
 <p 02><d 1204><a 04><n 03>
 Sau đó đưa nó đến
-điểm hẹn và
+điểm hẹn và đưa nó
 <--------------------->
 
-đưa nó cho
-Đội Vệ Binh!
+cho Đội Vệ Binh!
 <--------------------->
 
 <p 02><d 1304><a 04><n 03>
 Tớ sẽ bắt kịp cậu
-sau khi tớ sử lý
+sau khi tớ xử lý
 đám trên này!
 <--------------------->
 
-Hãy bảo vệ gọi hàng
+Hãy bảo vệ gói hàng
 bằng mói giá!
 <*********************>
 
@@ -356,7 +355,7 @@ kẻ xấu!
 
 <p 02><d 2404><a 07><n 01>
 Dù nó là gì đi nữa!
-Nó không đang để
+Nó không đáng để
 <--------------------->
 
 hy sinh mạng sống
@@ -401,11 +400,11 @@ khủng khiếp!
 
 <p 01><p 02><d 2C04><a 31><n 05>
 Đừng sợ, tôi là
-Livemetal Mẫu X.
+Livemetal Model X.
 <--------------------->
 
 <p 01><p 02><d 2D04><a 07><n 01>
-Mẫu... X? Tôi nghe
+Model... X? Tôi nghe
 thấy cậu trong đầu.
 Do cậu làm sao?
 <--------------------->
@@ -483,7 +482,7 @@ Hãy bảo trọng, Vent!
 
 <p 02><d 3B04><a 05><n 01>
 Thắng rồi... Cậu nói
-cậu tên Mẩu X. Tại
+cậu tên Model X. Tại
 sao cậu lại giúp tớ?
 <--------------------->
 
@@ -661,7 +660,7 @@ Prairie!?
 <p 02><d 5904><a 02><n 04>
 Đi mà, Fleuve. Cậu ta
 có thể chống lại lũ
-Phiến Quâm.
+Phiến Quân.
 <--------------------->
 
 <p 02><d 5A04><a 02><n 04>
