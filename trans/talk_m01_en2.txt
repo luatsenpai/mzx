@@ -1,4 +1,4 @@
-<script_info tipo='Misson 1' personagem='Vent' tamanho='7157' inicio_ponteiros='4' fim_ponteiros='91' inicio_textos='92' />
+<script_info tipo='Mission 1' personagem='Aile' tamanho='7665' inicio_ponteiros='4' fim_ponteiros='91' inicio_textos='92' />
 <#####################>
 
 <p 02><d E903><a 0D><n 03>
@@ -52,16 +52,16 @@ hãy gặp nhau ở đó.
 <*********************>
 
 <p 02><d F203><a 0D><n 03>
-Này Vent! Cậu đã sẵn
+Này Aile! Cậu đã sẵn
 sàng lên đường chưa?
 <*********************>
 
 <p 02><d F303><a 0D><n 03>
-Vent! Cậu có nghe
+Aile! Cậu có nghe
 không!?
 <--------------------->
 
-<p 03><d F403><a 05><n 01>
+<p 03><d F403><a 05><n 02>
 ...
 <*********************>
 
@@ -72,88 +72,88 @@ Serpent từ đây.
 <--------------------->
 
 <p 01><p 02><d F603><a 0D><n 03>
-Đất nước này tăng
-trưởng và phát triển
-là nhờ vào họ.
+Họ chắc hẳn đã phải nỗ
+lực rất nhiều để giải
+cứu đất nước này.
 <--------------------->
 
-<p 01><p 03><d F703><a 07><n 01>
-Đâu phải cứ to lớn
-là tốt đâu.
+<p 01><p 03><d F703><a 08><n 02>
+Đất nước thì có thể,
+nhưng 10 năm trước
+lực lượng an ninh
 <--------------------->
 
-<p 01><p 03><d F803><a 07><n 01>
-Nếu 10 năm trước lực
-lượng an ninh của họ
-đến sớm hơn...
+của họ đã không thể
+cứu được mẹ tớ.
 <--------------------->
 
-<p 01><p 03><d F903><a 07><n 01>
-Thì mẹ của tớ có lẽ
-vẫn còn sống.
+<p 01><p 03><d F803><a 08><n 02>
+Chúng tớ đã bị vây hãm
+bởi lũ Phiến Quân...
+<--------------------->
+
+Tới tận bây giờ tớ vẫn
+nghe thấy tiếng la hét
+của người dân.
+<--------------------->
+
+<p 01><p 03><d F903><a 08><n 02>
+Lũ Phiên Quân đã lấy
+đi mọi thứ từ tớ.
 <--------------------->
 
 <p 01><p 02><d FA03><a 0D><n 03>
-Tớ rất tiếc khi mẹ cậu
-đã mất sau vụ đột kích
-của lũ Phiến Quân.
+Tớ vẫn nhớ cái ngày
+tớ gặp cậu, hoàn toàn
+trơ trọi.
 <--------------------->
 
 <p 01><p 02><d FB03><a 0D><n 03>
-Tớ hiểu cảm xúc của
-cậu, nhưng đừng
+Tớ biết việc này rất
+khó chấp nhận, nhưng
+tớ tin mẹ của cậu 
 <--------------------->
 
-bộc lộ cảm xúc trong
-thành phố này.
+không muốn nhìn thấy
+cậu buồn.
 <--------------------->
 
 <p 01><p 02><d FC03><a 0D><n 03>
-Chúng ta đang phải trải
-qua cuộc khủng hoảng
-năng lượng và bị
-<--------------------->
-bao vây bởi những cuộc
-đột kích không ngừng.
-của lũ Phiến Quân.
+Dù sao thì, trong nhưng
+lúc ngặt nghèo cậu cũng
+đã nỗ lực hết mình.
 <--------------------->
 
 <p 01><p 02><d FD03><a 0D><n 03>
-Nhưng tập đoàn của họ
-đã đứng lên và khắc
-phục mọi vấn đề.
+Khá chắc là cậu không
+biết là khách hàng rất
+thích cậu đấy.
 <*********************>
 
-<p 02><d FE03><a 0D><n 03>
-Đối với người dân,
-vị chủ tịch của
-công ty đó.
+<p 03><d FE03><a 07><n 02>
+Không tồi đấy!? Giro!
+Cậu đang ngầm khen tớ
+sao!?
 <--------------------->
 
-Ngài Serpent là anh
-hùng đích thực.
+<p 02><d FF03><a 0E><n 03>
+Hahaha! Dù sao thì,
+chúng ta phải đi thôi.
 <--------------------->
 
-<p 02><d FF03><a 0D><n 03>
-Dù sao thì, chúng ta
-lên đường thôi, khách
-hàng đang trên đường
-<--------------------->
-
-tới điểm hẹn rồi đó.
+Khách hàng đang trên
+đường đến điểm hẹn
+rồi đó.
 <*********************>
 
-<p 03><d 0004><a 05><n 01>
-Mà Sếp, chúng ta nhận
-nhiệm vụ từ
+<p 03><d 0004><a 05><n 02>
+Mà Girouette, chúng ta 
+nhận nhiệm vụ từ ai 
+trong Đội Vệ Binh thế?
 <--------------------->
 
-ai trong Đội Vệ Binh
-thế?
-<--------------------->
-
-<p 03><d 0104><a 05><n 01>
-Họ còn chả thèm nói
+<p 03><d 0104><a 05><n 02>
+Họ còn chẳng thèm nói
 cho chúng ta biết
 <--------------------->
 
@@ -196,7 +196,7 @@ Tốt hơn là chúng ta
 không nên biết.
 <*********************>
 
-<p 03><d 0604><a 07><n 01>
+<p 03><d 0604><a 07><n 02>
 C-chuyện gì thế!?
 <--------------------->
 
@@ -215,25 +215,25 @@ Chúng chắc hẳn đang
 nhắm vào gói hàng!
 <*********************>
 
-<p 03><d 0A04><a 07><n 01>
-Aaaah!
+<p 03><d 0A04><a 07><n 02>
+Yaaah!
 <--------------------->
 
 <p 02><d 0B04><a 0F><n 03>
-Vent!
+Aile!
 <*********************>
 
-<p 02><d 0C04><a 08><n 01>
+<p 02><d 0C04><a 08><n 02>
 Ui...
 <*********************>
 
-<p 02><d 0D04><a 08><n 01>
+<p 02><d 0D04><a 08><n 02>
 Ui... Cú ngã nguy hiểm
 quá.
 <*********************>
 
 <p 02><d 0E04><a 04><n 03>
-Vent! Cậu không sao
+Aile! Cậu không sao
 chứ!?
 <--------------------->
 
@@ -243,8 +243,8 @@ chứ!? Chắc hẳn nó rơi
 gần chỗ cậu đó.
 <*********************>
 
-<p 02><d 1004><a 05><n 01>
-Đó chắc là nó...
+<p 02><d 1004><a 05><n 02>
+Là nó sao?
 <*********************>
 
 <p 02><d 1104><a 04><n 03>
@@ -275,7 +275,7 @@ Ngươi là ai!? Ngươi
 làm gì ở đây!?
 <--------------------->
 
-<p 02><d 1504><a 07><n 01>
+<p 02><d 1504><a 05><n 02>
 K-khoan! Tôi đến đây
 chỉ để giao hàng.
 <*********************>
@@ -285,11 +285,11 @@ Hạ vũ khí xuống.
 <*********************>
 
 <p 03><d 1704><a 09><n 04>
-Cậu là người vận
+Cô là người vận
 chuyển?
 <*********************>
 
-<p 02><d 1804><a 05><n 01>
+<p 02><d 1804><a 05><n 02>
 Đúng thế... Còn cô là
 Đội Vệ Binh?
 <--------------------->
@@ -304,10 +304,10 @@ thấy tiếng nổ và đến
 C-cái gì thế!?
 <*********************>
 
-<p 02><d 1B04><a 07><n 01>
-Đó chắc hẳn là kẻ đã 
-cầm đầu nhóm Phiến Quân
-hồi nãy.
+<p 02><d 1B04><a 07><n 02>
+Là rắn Mechaniloid! Nó
+đi cùng với lũ Phiến
+Quân sao!?
 <*********************>
 
 <p 03><d 1C04><a 23><n 2B>
@@ -333,15 +333,18 @@ H-hãy lấy nó...
 và... chạy đi!
 <*********************>
 
-<p 02><d 2104><a 07><n 01>
-Này! Đứng dậy đi! Chúng
-ta phải rời khỏi đây!
+<p 02><d 2104><a 07><n 02>
+Nhanh lên! Đứng dậy
+đi! Chúng ta phải rời
+khỏi đây!
 <--------------------->
 
-<p 02><d 2204><a 07><n 01>
+<p 02><d 2204><a 07><n 02>
 Chúng nhắm vào gói
-hàng! Bỏ nó đi!
+hàng! Cô cứ mặc kệ nó
+và chạy đi.
 <--------------------->
+
 Nếu chúng ta đem nó
 theo, chúng sẽ săn
 đuổi chúng ta!
@@ -353,13 +356,10 @@ Livemetal rơi vào tay
 kẻ xấu!
 <--------------------->
 
-<p 02><d 2404><a 07><n 01>
-Dù nó là gì đi nữa!
-Nó không đáng để
-<--------------------->
-
-hy sinh mạng sống
-đâu!
+<p 02><d 2404><a 07><n 02>
+Bộ cái thứ Livemetal
+quan trọn đến thế sao?
+Nào, chúng ta đi thôi!
 <--------------------->
 
 <p 03><d 2504><a 0C><n 04>
@@ -372,30 +372,34 @@ tôi. Nó quá giá trị để
 vứt bỏ!
 <*********************>
 
-<p 02><d 2704><a 07><n 01>
-Cô đang đùa phải
-không!
+<p 02><d 2704><a 07><n 02>
+Dù Girouette bảo mình
+không nên xen vào...
 <--------------------->
 
-<p 02><d 2804><a 07><n 01>
-Giờ sao? Tôi không thể
-xử nó một mình đâu.
+<p 02><d 2804><a 07><n 02>
+Nhưng có vẻ cô gái này 
+nghĩ Livemetal là vật
+rất quan trọng.
+<--------------------->
+
+Mình không biết mình
+phải làm gì nữa...
 <*********************>
 
 <p 03><d 2904><a 31><n 05>
-Nhưng chúng ta có thể
-hợp lực.
+Đừng lo.
 <--------------------->
 
 <p 03><d 2A04>
-Tôi sẽ giúp cậu một
+Tôi sẽ giúp cô một
 tay.
 <*********************>
 
-<p 01><p 02><d 2B04><a 07><n 01>
-*phù* Sức mạnh của
-Livemetal thật
-khủng khiếp!
+<p 01><p 02><d 2B04><a 07><n 02>
+*phù* Chuyện gì đang
+xảy ra với mình? Đây là
+sức mạnh Livemetal!?
 <--------------------->
 
 <p 01><p 02><d 2C04><a 31><n 05>
@@ -403,10 +407,10 @@ khủng khiếp!
 Livemetal Model X.
 <--------------------->
 
-<p 01><p 02><d 2D04><a 07><n 01>
-Model... X? Tôi nghe
-thấy cậu trong đầu.
-Do cậu làm sao?
+<p 01><p 02><d 2D04><a 07><n 02>
+Model... X? Livemetal
+trong đầu mình đang
+giao tiếp với mình!
 <--------------------->
 
 <p 01><p 02><d 2E04><a 31><n 05>
@@ -424,27 +428,40 @@ của chúng ta, chúng ta
 có thể hạ chúng!
 <--------------------->
 
-<p 01><p 02><d 3004><a 07><n 01>
+<p 01><p 02><d 3004><a 07><n 02>
 ...
 <*********************>
 
 <p 02><d 3104><a 0B><n 04>
-Cậu ta biến hình? Cậu
+Cô ta biến hình? Cô
 ta là người được chọn?
 <*********************>
 
-<p 03><d 3204><a 07><n 01>
-Này, cô gì đó ơi!
-<--------------------->
-
-<p 03><d 3304><a 05><n 01>
+<p 03><d 3204><a 05><n 02>
 Tôi cần đưa thứ này
-đến điểm hẹn, phải
-không?
+đến điểm hẹn
 <--------------------->
 
-<p 03><d 3404><a 05><n 01>
-Cô cứ đợi ở đây!
+phải không?
+<--------------------->
+
+<p 03><d 3304><a 05><n 02>
+Sẽ rất nguy hiểm nếu
+cô đi theo tôi, vậy
+<--------------------->
+
+hãy đợi ở đây cho tới
+khi tôi gọi cứu viện!
+<--------------------->
+
+<p 03><d 3404><a 07><n 02>
+Tôi đang gặp nguy hiểm
+tới tính mạng, vậy nên
+hãy chờ trả khoản phí
+<--------------------->
+
+bổ sung khi hóa đơn
+gửi đến!
 <*********************>
 
 <p 02><d 3504><a 09><n 04>
@@ -452,38 +469,41 @@ K-khoan!
 <*********************>
 
 <p 02><d 3604><a 09><n 04>
-Người ta có tên nha!
+Cảm ơn cô đã cứu tôi.
 <--------------------->
 
 <p 02><d 3704><a 09><n 04>
-Prairie. Tôi tên 
-Prairie.
+Tôi là Prairie.
 <--------------------->
 
-<p 03><d 3804><a 06><n 01>
-Xin lỗi. Tôi là Vent
-và tôi là người vận
-chuyện của cô!
+<p 03><d 3804><a 06><n 02>
+Và tôi là Aile. Hôm nay
+tôi sẽ là người vận
+chuyển của cô!
 <--------------------->
 
-<p 03><d 3904><a 05><n 01>
-Cứ ở lại đấy Tôi sẽ
-gọi cứu viện!
+<p 03><d 3904><a 05><n 02>
+Hãy đợi ở đây. Tôi sẽ
+mang cứu viện đến!
 <--------------------->
 
 <p 02><d 3A04><a 09><n 04>
-Được rồi... Hãy bảo
-trọng, Vent!
+Được rồi... Hãy cẩn
+thận, Aile!
 <*********************>
 
 <p 02><a 09><n 04>
-Hãy bảo trọng, Vent!
+Hãy cẩn thận Aile!
 <*********************>
 
-<p 02><d 3B04><a 05><n 01>
-Thắng rồi... Cậu nói
-cậu tên Model X. Tại
-sao cậu lại giúp tớ?
+<p 02><d 3B04><a 05><n 02>
+Đã đến lúc dọn đám
+rác rưởi này rồi.
+<--------------------->
+
+Cậu nói cậu tên Model
+X. Tại sao cậu lại
+giúp tớ?
 <--------------------->
 
 <p 02><d 3C04><a 31><n 05>
@@ -492,49 +512,52 @@ giúp người khác sao?
 <--------------------->
 
 <p 02><d 3D04><a 31><n 05>
-Cậu có vẻ quyết tâm
+Cô có vẻ quyết tâm
 giúp cô gái đó
 <--------------------->
 
-kể cả khi cậu chưa
+kể cả khi cô chưa
 từng gặp trước đây.
 <--------------------->
 
 <p 02><d 3E04><a 31><n 05>
-Tôi chỉ giúp cậu một
-tay thôi, cậu thật
-dũng cảm
+Tôi chỉ hỗ trợ một ít
+sức mạnh cho sự dũng
+cảm của cô thôi.
 <--------------------->
 
-<p 02><d 3F04><a 08><n 01>
-Dủng cảm ư? Tớ á?
-Không hẳn.
+<p 02><d 3F04><a 05><n 02>
+Sức mạnh sao? Dù cậu
+có làm gì thì nó cũng
+đã giúp tôi.
 <--------------------->
 
-<p 02><d 4004><a 08><n 01>
-Tớ chỉ biết nếu tớ
-không thử thì tớ sẽ
-hối hận.
+<p 02><d 4004><a 08><n 02>
+Dũng cảm thôi là chưa
+đủ để đánh bại thứ này
+đâu...
 <--------------------->
 
 <p 02><d 4104><a 31><n 05>
 ...
 <--------------------->
 
-<p 02><d 4204><a 05><n 01>
-Điểm hẹn đang ở
-phía trước.
+<p 02><d 4204><a 05><n 02>
+Điểm hẹn đang ở phía
+trước phải không?
+Đi thôi.
 <*********************>
 
-<p 02><d 4304><a 05><n 01>
+<p 02><d 4304><a 05><n 02>
 Tôi là người vận
 chuyển, đây là gói
 hàng của anh.
 <--------------------->
 
-<p 02><d 4404><a 05><n 01>
-Một số đồng đội của
-anh đang cần giúp đó.
+<p 02><d 4404><a 05><n 02>
+Phía sau có cô gái tên
+Prairie đang cần các
+anh giúp đấy.
 <*********************>
 
 <p 03><d 4504><a 23><n 2D>
@@ -543,15 +566,18 @@ Prairie và những người
 khác đang cần chúng ta!
 <*********************>
 
-<p 02><d 4604><a 05><n 01>
-Mọi người có vẻ như
-ro lắng cho cô gái
-tên là Prairie đó...
+<p 02><d 4604><a 05><n 02>
+Sao họ khẩn trương thế?
+Đội Vệ Binh có vẻ nghĩ
+<--------------------->
+
+Prairie rất quan trọng
+thì phải. 
 <--------------------->
 
 <p 03><d 4704><a 22><n 18>
 Tuyệt... Có vẻ như
-cậu đã được
+cô đã được
 <--------------------->
 
 liên kết với
@@ -564,17 +590,18 @@ khi cậu đã đưa nó tới
 đây an toàn.
 <--------------------->
 
-<p 02><d 4904><a 05><n 01>
-Khoan đã. Vẫn còn một
-người đi cùng tôi.
+<p 02><d 4904><a 05><n 02>
+Này, ông có trông thấy
+Girouette? Lẽ ra phải
 <--------------------->
 
-Ông có nhìn thấy cậu
-ta không?
+còn một người vận
+chuyển nữa chứ. Cậu ta
+đã đến đây chưa?
 <--------------------->
 
 <p 03><d 4A04><a 22><n 18>
-Không. Cậu là người
+Không. Cô là người
 duy nhất tôi từng gặp.
 <*********************>
 
@@ -616,17 +643,18 @@ ai đó đang bị tấn
 công!
 <--------------------->
 
-<p 02><d 5104><a 07><n 01>
-Không... Sếp!
+<p 02><d 5104><a 08><n 02>
+Không... Girouette!
 <*********************>
 
-<p 02><d 5204><a 07><n 01>
-Tôi cần phải mượn
-Livemetal thêm một
-chút nữa.
+<p 02><d 5204><a 07><n 02>
+Tôi xin lỗi, nhưng tôi
+cần phải giữ
 <--------------------->
 
-Tôi phải cứu cậu ta!
+Livemetal thêm một chút
+nữa. Tôi phải cứu
+cậu ta!
 <--------------------->
 
 <p 03><d 5304><a 22><n 18>
@@ -634,14 +662,19 @@ Gì cơ!?
 <--------------------->
 
 <p 03><d 5404><a 22><n 18>
-Cậu muốn lôi Livemetal
+Cô muốn lôi Livemetal
 vào rắc rối nữa sao!?
 <--------------------->
 
-<p 02><d 5504><a 07><n 01>
-Sếp của tôi đang gặp
-nguy, tôi không có
-thời gian tranh cãi!
+<p 02><d 5504><a 07><n 02>
+Vậu sao! Bây giờ gói
+hàng quý giá của ông
+đã về, ông không
+<--------------------->
+
+quan tâm đến người đã
+sẵn sàng từ bỏ tính
+mạng để giao nó sao!
 <--------------------->
 
 <p 03><d 5604><a 22><n 18>
@@ -650,7 +683,7 @@ N-nhưng!
 
 <p 02><d 5704><a 02><n 04>
 Khoan! Fleuve! Cứ để
-cậu ta đi!
+cô ta đi!
 <--------------------->
 
 <p 03><d 5804><a 22><n 18>
@@ -658,23 +691,26 @@ Prairie!?
 <--------------------->
 
 <p 02><d 5904><a 02><n 04>
-Đi mà, Fleuve. Cậu ta
-có thể chống lại lũ
-Phiến Quân.
+Không sao đâu Fleuve.
+<--------------------->
+
+Cô ấy sẽ bảo vệ 
+Livemetal khỏi bọn
+phiến quân.
 <--------------------->
 
 <p 02><d 5A04><a 02><n 04>
-Vent...
+Aile...
 <--------------------->
 
 <p 02><d 5B04><a 02><n 04>
-Cậu đã mạo hiểm tính
+Cô đã mạo hiểm tính
 mạng để cứu tôi dù
 không hề quen biết.
 <--------------------->
 
 <p 02><d 5C04><a 02><n 04>
-Tôi nợ ơn cậu.
+Tôi nợ ơn cô.
 <--------------------->
 
 <p 02><d 5D04><a 02><n 04>
@@ -683,20 +719,20 @@ Trụ Sở Vệ Binh.
 <--------------------->
 
 <p 02><d 5E04><a 02><n 04>
-Đi giúp cậu ta đi.
+Go, help him.
 <--------------------->
 
-<p 02><d 5F04><a 05><n 01>
-Cảm ơn Prairie.
+<p 02><d 5F04><a 05><n 02>
+Đi giúp cậu ta đi.
 <--------------------->
 
 <p 03><d 6004><a 22><n 18>
 Được rồi, chúng tôi sẽ
-giúp cậu sao lưu.
+giúp cô sao lưu.
 <--------------------->
 
 <p 03><d 6104><a 22><n 18>
-Có lẽ cậu đã biết thứ
+Có lẽ cô đã biết thứ
 này rồi, thiết bị này
 được gọi là
 <--------------------->
@@ -707,7 +743,7 @@ nước này.
 <--------------------->
 
 <p 03><d 6204><a 22><n 18>
-Với thiết bị này cậu
+Với thiết bị này cô
 có thể lưu tiến trình
 <--------------------->
 
@@ -732,11 +768,11 @@ lưu thành công.
 <*********************>
 
 <p 03><d 6704><a 22><n 18>
-Cậu không cần lưu dữ
+Cô không cần lưu dữ
 liệu lại sao?
 <--------------------->
 
-Tôi mong cậu biết cậu
+Tôi mong cô biết cô
 đang làm gì.
 <*********************>
 
@@ -746,7 +782,7 @@ từ Trụ Sở.
 <--------------------->
 
 <p 03><d 6904><a 22><n 18>
-Hiện tại cậu đang có
+Hiện tại cô đang có
 2 nhiệm vụ.
 <--------------------->
 
@@ -777,25 +813,26 @@ Tại Trụ Sở, chúng tôi
 sẽ phê duyệt đơn hàng
 <--------------------->
 
-và công việc của cậu
+và công việc của cô
 sẽ hoàn tất.
 <--------------------->
 
 <p 03><d 6E04><a 22><n 18>
-Cậu có thể quyết định
+Cô có thể quyết định
 chọn nhiệm vụ nào
 làm trước.
 <--------------------->
 
-<p 02><d 6F04><a 05><n 01>
-Ra vậy... Tôi chỉ cần
-hoàn thành 2 nhiệm vụ
-thôi.
+<p 02><d 6F04><a 05><n 02>
+10 năm trước, Girouette
+đã cứu mình khỏi lũ
+Phiến Quân...
 <--------------------->
 
-<p 02><d 7004><a 07><n 01>
-Hãy chờ tôi, Sếp!
-Tôi tới đây!
+<p 02><d 7004><a 07><n 02>
+Giờ tới lườn mình trả
+ơn. Cố lên Girouette,
+tớ tới đây!
 <*********************>
 
 <FIM>
