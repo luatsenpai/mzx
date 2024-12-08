@@ -1,0 +1,204 @@
+<script_info tipo='Mission 2' personagem='indefinido' tamanho='1986' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d D107><a 02><n 55>
+The transporter
+Girouette appears
+to have met
+<--------------------->
+
+with Irregular
+aggression in Area B.
+<--------------------->
+
+<p 02><d D207><a 02><n 55>
+Go to Area B and find
+his whereabouts.
+<*********************>
+
+<p 02><d D307><a 05><n 01>
+There are signs of a
+struggle here.
+<--------------------->
+
+<p 02><d D407><a 05><n 01>
+Following the trail
+should lead to my boss.
+<*********************>
+
+<p 02><d D507><a 02><n 04>
+Vent? Come in Vent.
+<--------------------->
+
+<p 02><d D607><a 02><n 04>
+About the Irregulars
+that attacked us,
+<--------------------->
+
+something with the
+whole thing is
+bothering me.
+<--------------------->
+
+<p 02><d D707><a 02><n 04>
+There might be a clue
+in the ruins about
+<--------------------->
+
+what's causing the
+Irregular outbreaks.
+<--------------------->
+
+<p 02><d D807><a 02><n 04>
+Check them out and see
+if you can find
+something.
+<*********************>
+
+<p 02><d D907><a 02><n 04>
+There might be a clue
+in the ruins about
+<--------------------->
+
+what's causing the
+Irregular outbreaks.
+<--------------------->
+
+<p 02><d DA07><a 02><n 04>
+Check them out and see
+if you can find
+something.
+<*********************>
+
+<p 02><d DB07><a 05><n 01>
+Is this a computer
+chip?
+<--------------------->
+
+<p 02><d DC07><a 02><n 04>
+It must be a part that
+fell off one of the
+Irregulars.
+<--------------------->
+
+<p 02><d DD07><a 02><n 04>
+If you bring it back
+to Base, we can analyze
+it.
+<--------------------->
+
+It might give us the
+lead we need.
+<--------------------->
+
+<p 02><d DE07><a 02><n 04>
+If you find anything
+else, bring that back
+too.
+<*********************>
+
+<p 03><d DF07><a 07><n 01>
+Is this the power of
+Livemetal?
+<--------------------->
+
+<p 02><d E007><a 11><n 00>
+It looks like you came
+in contact with the
+Livemetal too.
+<*********************>
+
+<p 03><d E107><a 05><n 01>
+Boss!
+<--------------------->
+
+<p 02><d E207><a 0D><n 03>
+When the Irregulars had
+me cornered,
+<--------------------->
+
+the Livemetal suddenly
+started to shine.
+<--------------------->
+
+<p 02><d E307><a 0D><n 03>
+The next moment, I was
+fighting them off in
+that form.
+<--------------------->
+
+<p 02><d E407><a 0D><n 03>
+I knew we were hauling
+something important.
+<--------------------->
+
+<p 02><d E507><a 0D><n 03>
+But I had no idea of
+the power that was
+hidden in that package.
+<--------------------->
+
+<p 03><d E607><a 05><n 01>
+Huh? How do you know
+about the Livemetal?
+<--------------------->
+
+<p 02><d E707><a 0D><n 03>
+Ah... Well... I heard
+about it when I got the
+request.
+<--------------------->
+
+<p 02><d E807><a 0D><n 03>
+They told me to keep it
+quiet because it would
+be too risky to let
+<--------------------->
+
+anyone know what
+was inside.
+<--------------------->
+
+<p 03><d E907><a 05><n 01>
+Oh... I see.
+<--------------------->
+
+<p 02><d EA07><a 0D><n 03>
+At least we know the
+two Livemetal fragments
+are safe now.
+<--------------------->
+
+<p 02><d ED07><a 0D><n 03>
+I'm going to use the
+transerver to go back
+to Guardian Base.
+<--------------------->
+
+<p 02><d EE07><a 0D><n 03>
+I'll be waiting. Don't
+take too long.
+<*********************>
+
+<p 02><d EF07><a 02><n 04>
+It sounds like you
+managed to meet up with
+Girouette. Nice.
+<--------------------->
+
+<p 02><d F007><a 02><n 04>
+Oh, be sure to go to
+the transerver in the
+<--------------------->
+
+back room and select
+Mission Report.
+<--------------------->
+
+<p 02><d F107><a 02><n 04>
+Then send confirmation
+to Base that the
+mission is completed.
+<*********************>
+
+<FIM>
