@@ -1,0 +1,279 @@
+<script_info tipo='Mission 3' personagem='indefinido' tamanho='2820' inicio_ponteiros='4' fim_ponteiros='29' inicio_textos='30' />
+<#####################>
+
+<p 02><d B90B><a 02><n 55>
+Vượt qua thử thách để
+được cấp phép vào
+căn cứ đội Vệ Binh.
+<--------------------->
+
+<p 02><d BA0B><a 02><n 55>
+Đội Vệ Binh đang
+ẩn náu trong
+<--------------------->
+
+khu dân cư
+ở Khu C.
+<--------------------->
+
+<p 02><d BB0B><a 02><n 55>
+Xác định vị trí của họ
+và lấy chứng nhận
+vượt qua thử thách.
+<*********************>
+
+<p 02><d BC0B><a 02><n 04>
+Khoan đã. Hình như
+lực lượng an ninh
+của tập đoàn Serpent
+<--------------------->
+
+đang tuần tra trong
+khu vực này.
+<--------------------->
+
+<p 02><d BD0B><a 05><n 02>
+Tuần tra sao? Đây là
+lần đầu tiên tôi thấy
+họ làm việc đó đấy.
+<--------------------->
+
+<p 02><d BE0B><a 02><n 04>
+Có lẽ tập đoàn Serpent
+đã nghe về vụ đột kích
+của lũ Phiến Quân.
+<--------------------->
+
+<p 02><d BF0B><a 02><n 04>
+Nếu cô ở trong
+trạng thái biến hình
+thì cô sẽ bị họ
+<--------------------->
+
+nghĩ cô là lũ
+Phiến Quân và bắn
+cô đấy.
+<--------------------->
+
+<p 02><d C00B><a 02><n 04>
+Tôi nghĩ người dân
+trong thị trấn cũng sẽ
+không trò chuyện với
+<--------------------->
+
+cô nếu cô ở trong
+bộ dạng đó.
+<--------------------->
+
+<p 02><d C10B><a 02><n 04>
+Dù sao đi nữa, nếu giữ
+bộ dạng biến hình đi
+loanh quanh thành phố
+<--------------------->
+
+loanh quanh thành phố
+sẽ rất nguy hiểm.
+<*********************>
+
+<p 02><d C20B><a 23><n 2E>
+Cô sẽ phải tham gia
+bài kiểm tra để được
+<--------------------->
+
+cấp phép vào Căn Cứ,
+hiểu rồi chứ?
+<*********************>
+
+<p 02><d C30B><a 23><n 2E>
+Có 4 Vệ Binh giống tôi
+đang ẩn náu trong
+thành phố.
+<--------------------->
+
+<p 02><d C40B><a 23><n 2E>
+Nếu cô có thể tìm thấy
+toàn bộ, cậu sẽ vượt
+qua thử thách.
+<*********************>
+
+<p 02><d C50B><a 23><n 2E>
+Bắt đầu thử thách đi!
+Chúc may mắn!
+<*********************>
+
+<p 02><d C60B><a 24><n 28>
+Ha ha! Biết thế đã
+không trốn chỗi này
+rồi.
+<--------------------->
+
+<p 02><d C70B><a 24><n 28>
+Nhưng cô sẽ không dễ
+tìm thấy đồng đội
+của tôi đâu.
+<--------------------->
+
+Họ ở những nơi không
+thể đi qua.
+<--------------------->
+
+<p 02><d C80B><a 24><n 28>
+Nhấn nút mũi tên xuống
+để cúi trong lúc
+di chuyển.
+<--------------------->
+
+<p 02><d C90B><a 24><n 28>
+Khám phá xung quanh,
+cô sẽ tìm ra những
+thứ thú vị.
+<--------------------->
+
+<p 02><d CA0B><a 24><n 28>
+Tôi về căn cứ đây.
+Chúc may mắn với phần
+còn lại của thử thách!
+<*********************>
+
+<p 02><d CB0B><a 25><n 19>
+A, cô đã tìm thấy tôi
+rồi!
+<--------------------->
+
+<p 02><d CC0B><a 25><n 19>
+Cô nên đề phòng với
+các robot tuần tra
+an ninh đấy.
+<--------------------->
+
+<p 02><d CD0B><a 25><n 19>
+Miễn là họ bật đèn xanh
+là họ sẽ không tấn công
+cô đâu.
+<--------------------->
+
+<p 02><d CE0B><a 25><n 19>
+Nhưng nếu họ thấy cô
+mang vũ khí thì họ
+sẽ xử đẹp cô
+<--------------------->
+
+mà không cần phải hỏi
+gì cả!
+<--------------------->
+
+<p 02><d CF0B><a 25><n 19>
+Dù sao thì, tôi phải về
+Căn Cứ đây, chúc may mắn
+với bài kiểm tra!
+<*********************>
+
+<p 02><d D00B><a 2B><n 1F>
+Áaaaa!
+<--------------------->
+
+<p 02><d D10B><a 2B><n 1F>
+A, cô đã tìm thấy tôi
+rồi!
+<--------------------->
+
+<p 02><d D20B><a 2B><n 1F>
+Tôi sợ phải đụng độ
+với lực lượng an ninh
+và bị thương.
+<--------------------->
+
+<d D30B><a 2B><n 1F>
+Đó là lý do tại sao
+tôi phải trốn ở đây.
+<--------------------->
+
+<d D40B><a 2B><n 1F>
+*phù* cứ tưởng là không
+ai tìm thấy tôi chứ.
+<--------------------->
+
+Giờ tôi có thể trở về
+Căn Cứ rồi.
+<*********************>
+
+<p 02><d D50B><a 2C><n 20>
+Hahaha! Tìm thấy tôi
+thì cũng khá đấy!
+<--------------------->
+
+<p 02><d D60B><a 2C><n 20>
+Giá mà chúng tôi có
+những người như cậu
+trong đội Vệ Binh.
+<--------------------->
+
+<p 02><d D70B><a 2C><n 20>
+Nhưng việc cô có muốn
+tham gia không thì
+tuỳ cô.
+<--------------------->
+
+<p 02><d D80B><a 2C><n 20>
+Tôi phải quay về rồi.
+Hẹn gặp lại!
+<*********************>
+
+<p 02><d D90B><a 02><n 04>
+Cô đã tìm thấy tất cả
+rồi.
+<--------------------->
+
+<p 02><d DA0B><a 02><n 04>
+Đi tới Khu C-2 và lấy
+chứng nhận hoàn thành
+thử thách.
+<--------------------->
+
+<p 02><d DB0B><a 02><n 04>
+Bài thử thách kết thúc
+tại đây.
+<*********************>
+
+<p 02><d DC0B><a 23><n 2E>
+Cô đã vượt qua
+thử thách.
+Đây, cầm lấy.
+<*********************>
+
+<p 03><d DD0B><a 05><n 02>
+Gấu nhồi bông?
+*hi hi*
+<--------------------->
+
+Dễ thương quá, nhưng
+nó là chứng nhận của
+tôi thật à?!
+<--------------------->
+
+<p 02><d DE0B><a 23><n 2E>
+Cô nên giữ gìn nó
+thật kỹ.
+<--------------------->
+
+Đó là thứ Prairie
+yêu quý nhất.
+<--------------------->
+
+<p 02><d DF0B><a 23><n 2E>
+Dù sao thì, thử thách
+của cô đã kết thúc.
+<--------------------->
+
+<p 02><d E00B><a 23><n 2E>
+Có một thiết bị
+dịch chuyển ở căn
+phòng phía sau tôi đấy.
+<*********************>
+
+<p 02><d E10B><a 23><n 2E>
+Đừng quên báo cáo
+nhiệm vụ nhé!
+<*********************>
+
+<FIM>
