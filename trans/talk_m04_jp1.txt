@@ -1,0 +1,1133 @@
+<script_info tipo='Mission 4' personagem='indefinido' tamanho='10552' inicio_ponteiros='4' fim_ponteiros='133' inicio_textos='134' />
+<#####################>
+
+<p 02><d A10F><a 02><n 18>
+Nhiệm vụ đã hoàn thành.
+Làm tốt lắm.
+<--------------------->
+
+<p 02><d A20F><a 02><n 18>
+Anh đã có quyền
+dịch chuyển tới Căn Cứ.
+<--------------------->
+
+<p 02><d A30F><a 02><n 18>
+Dùng thiết bị
+dịch chuyển để đi tới
+đó.
+<*********************>
+
+<p 03><d A40F><a 05><n 01>
+Đây là Căn Cứ đội
+Vệ Binh sao?
+<*********************>
+
+<p 01><p 03><d A50F><a 05><n 01>
+Không ngờ nó là một
+con tàu bay đấy.
+<--------------------->
+
+<p 01><p 02><d A60F><a 09><n 04>
+Đội Vệ Binh phải đi
+khắp nơi trên thế giới,
+nên chúng tôi
+<--------------------->
+
+cần một thứ để
+di chuyển.
+<*********************>
+
+<p 02><d A70F><a 09><n 04>
+Tôi rất vui khi thấy
+hai người vẫn bình an.
+<--------------------->
+
+<p 03><d A80F><a 05><n 01>
+A, Prairie, tôi tìm
+thấy con chip này trên
+đường đi.
+<--------------------->
+
+Đây, cầm lấy.
+<*********************>
+
+
+Đã đưa <c 03>Chip Máy Tính
+<*********************>
+
+<p 03><d A90F><a 05><n 01>
+Còn chứng nhận rằng
+tôi đã vượt qua
+thử thách.
+<--------------------->
+
+Chắc là nó... nhỉ?
+<*********************>
+
+
+Đã đưa <c 03>Gấu Bông
+<*********************>
+
+<p 02><d AA0F><a 0A><n 04>
+Ừm, nó là món quà từ
+chị. Nó chứa đựng nhiều
+ký ức từ chị tôi.
+<--------------------->
+
+Cảm ơn anh đã đưa nó
+về.
+<*********************>
+
+<p 03><d AB0F><a 0F><n 03>
+Vent! Cậu không được
+gọi thẳng tên cô ấy!
+<--------------------->
+
+<p 03><d AC0F><a 0F><n 03>
+Hiểu chưa? Ừm, nhóc...
+<--------------------->
+
+<p 02><d AD0F><a 09><n 04>
+Không cần bận tâm
+chuyện đó đâu,
+Girouette.
+<--------------------->
+
+<p 02><d AE0F><a 09><n 04>
+Tôi xin lỗi vì khiến
+cả hai vướng vào
+nguy hiểm.
+<--------------------->
+
+<p 02><d AF0F><a 09><n 04>
+Hãy gặp nhau tại
+trung tâm chỉ huy
+<--------------------->
+
+và tôi sẽ giải thích
+mọi chuyện tại đó.
+<--------------------->
+
+<p 02><d B00F><a 09><n 04>
+Ra khỏi căn phòng này
+và rẽ trái.
+<--------------------->
+
+<p 03><d B10F><a 0D><n 03>
+*phù*
+<*********************>
+
+<p 03><d B20F><a 05><n 01>
+...
+<*********************>
+
+<p 02><d B30F><a 09><n 04>
+Chào mừng quý vị
+đến với
+<--------------------->
+
+Căn Cứ Vệ Binh.
+<--------------------->
+
+<p 02><d B40F><a 09><n 04>
+Và...
+<*********************>
+
+<p 01><p 02><d B50F><a 09><n 04>
+Tôi là Prairie, chỉ huy
+đội Vệ Binh.
+<--------------------->
+
+<p 01><p 03><d B60F><a 05><n 01>
+Chỉ huy của đội
+Vệ Binh? V-vậy
+có nghĩa là...
+<--------------------->
+
+<p 01><p 03><d B70F><a 0D><n 03>
+Cô ấy là một khách hàng
+rất quan trọng.
+<--------------------->
+
+Đó là lý do tại sao tớ
+bảo cậu gọi cô ấy bằng
+chức danh.
+<--------------------->
+
+<p 01><p 03><d B80F><a 05><n 01>
+Làm sao một cô gái trẻ
+như Prairie
+<--------------------->
+
+lại có thể là chỉ huy
+đội Vệ Binh?!
+<*********************>
+
+<p 01><p 02><d B90F><a 0B><n 04>
+Những cỗ máy có ý thức
+được gọi là Phiến Quân
+<--------------------->
+
+lại tiếp tục tấn công
+người dân.
+<*********************>
+
+<p 01><p 02><d BA0F><a 0B><n 04>
+Tính huống tồi tệ này
+đáng lẽ không nên
+xảy ra.
+<--------------------->
+
+<p 01><p 02><d BB0F><a 0B><n 04>
+Hàng trăm năm trước,
+loài người và máy móc
+đã gác lại
+<--------------------->
+
+những bất đồng và
+ký kết hiệp ước
+đình chiến
+<--------------------->
+
+<p 01><p 02><d BC0F><a 0B><n 04>
+Đội Vệ Binh vẫn đang
+điều tra nguồn gốc
+của các đợt tấn công
+<--------------------->
+
+bất thường của
+lũ Phiến Quân.
+<--------------------->
+
+<p 01><p 02><d BD0F><a 0B><n 04>
+Chúng tôi đã tình cờ
+phát hiện một phòng
+thí nghiệm bí mật.
+<--------------------->
+
+<p 01><p 03><d BE0F><a 05><n 01>
+"Phòng thí nghiệm
+bí mật?"
+<*********************>
+
+<p 02><d BF0F><a 0C><n 04>
+Chỉ huy đầu tiên của
+đội Vệ Binh... người
+đang mất tích.
+<--------------------->
+
+<p 02><d C00F><a 0C><n 04>
+Cô ấy là chị của tôi.
+<--------------------->
+
+<p 03><d C10F><a 08><n 01>
+Vậy là cô thay thế
+chị ấy khi chị ấy
+mất tích...
+<--------------------->
+
+<p 03><d C20F><a 0D><n 03>
+Và chúng tôi đang giao
+Livemetal mà cô lấy từ
+phòng thí nghiệm đó.
+<*********************>
+
+<p 02><d C30F><a 0B><n 04>
+Cách đây rất lâu, lúc
+con người và máy móc
+cùng chung sống,
+<--------------------->
+
+một nhóm anh hùng
+huyền thoại đã đứng
+lên cứu rỗi thế giới.
+<--------------------->
+
+<p 02><d C40F><a 0B><n 04>
+Livemetal là những
+mảnh vỡ chứa đựng
+<--------------------->
+
+sức mạnh của những
+vị anh hùng đó.
+<--------------------->
+
+<p 02><d C50F><a 0B><n 04>
+Có thể trong phòng
+thí nghiệm bí mật đó
+có chứa dữ liệu
+<--------------------->
+
+hé lộ manh mối về
+những cuộc tấn công
+của lũ Phiến Quân.
+<*********************>
+
+<p 02><d C60F><a 09><n 04>
+Phòng thí nghiệm của
+Fleuve nằm ngay cạnh
+<--------------------->
+
+thiết bị dịch chuyển.
+<--------------------->
+
+<p 02><d C70F><a 09><n 04>
+Đến đó và lấy dữ liệu
+Livemetal để phân tích.
+<--------------------->
+
+<p 02><d C80F><a 09><n 04>
+Tôi sẽ phân tích
+con chíp anh mang về
+ở đó.
+<*********************>
+
+<p 03><d C90F><a 22><n 18>
+A, hay quá. Cuối cùng
+anh cũng đến!
+<--------------------->
+
+Rồi, mảnh Livemetal
+đâu rồi?
+<*********************>
+
+
+Đã đưa <c 03>Livemetal
+<*********************>
+
+<p 03><d CA0F><a 22><n 18>
+A, tuyệt vời...
+<*********************>
+
+<p 03><d CB0F><a 22><n 18>
+Đã truyền dữ liệu xong.
+Cảm ơn nhiều!
+<--------------------->
+
+Anh có thể lấy lại
+Livemetal rồi.
+<*********************>
+
+
+Đã nhận <c 03>Livemetal<c 00>
+<*********************>
+
+<p 02><d CC0F><a 02><n 55>
+Phát hiện lũ Phiến Quân
+ở Khu D!
+<--------------------->
+
+<p 02><d CD0F><a 02><n 55>
+Hãy rời khỏi vị trí
+và chờ lệnh tiếp theo.
+<--------------------->
+
+Khi đến nơi sẽ giao
+nhiệm vụ sau.
+<*********************>
+
+<p 02><d CE0F><a 02><n 55>
+Đã rõ! Phát hiện lũ
+Phiến Quân ở Khu D!
+<--------------------->
+
+<p 02><d CF0F><a 02><n 55>
+Hãy rời khỏi vị trí
+và chờ lệnh tiếp theo.
+<--------------------->
+
+Khi đến nơi sẽ giao
+nhiệm vụ sau.
+<--------------------->
+
+<p 02><d D00F><a 0F><n 03>
+Khu D... nó ở gần
+văn phòng lãnh đạo của
+tập đoàn Serpent!
+<--------------------->
+
+<p 03><d D10F><a 22><n 18>
+Quay lại thành phố
+lúc này sẽ rất
+nguy hiểm.
+<--------------------->
+
+<p 03><d D20F><a 22><n 18>
+Chúng ta phải nhanh
+chóng tới trung tâm
+chỉ huy.
+<*********************>
+
+<p 02><d D30F><a 0B><n 04>
+Có vẻ như kẻ thù của
+chúng ta đang bắt đầu
+hành động rồi
+<--------------------->
+
+<p 03><d D40F><a 0F><n 03>
+"Kẻ thù"? Đó không phải
+là tấn công ngẫu nhiên
+của lũ Phiến Quân sao?
+<--------------------->
+
+<p 02><d D50F><a 0B><n 04>
+Sau khi kiểm tra con
+chíp mà anh mang về.
+Chúng tôi phát hiện
+<--------------------->
+
+nó chứa chương trình
+điều khiển lũ
+Phiến Quân.
+<--------------------->
+
+<p 02><d D60F><a 0B><n 04>
+There is someone behind
+the Irregular attacks,
+but they're just
+<--------------------->
+
+making them seem like
+random raids.
+<--------------------->
+
+<p 02><d D70F><a 0B><n 04>
+They must be trying to
+steal the Livemetal you
+were carrying.
+<--------------------->
+
+<p 03><d D80F><a 07><n 01>
+Serpent's security
+force... Where are
+they?
+<--------------------->
+
+Why haven't they
+arrived yet?!
+<--------------------->
+
+<p 02><d D90F><a 0B><n 04>
+It takes time for them
+to be recalled to the
+head office from their
+<--------------------->
+
+patrol routes in the
+city.
+<--------------------->
+
+<p 02><d DA0F><a 0B><n 04>
+Guardian ground forces
+are moving to intercept
+<--------------------->
+
+the Irregulars in
+Area D.
+<*********************>
+
+<p 02><d DB0F><a 02><n 2C>
+Ground forces
+reporting!
+<--------------------->
+
+The Irregulars are
+heading for the
+residential district.
+<--------------------->
+
+<p 02><d DC0F><a 02><n 2C>
+Troops are exchanging
+fire on the highway
+in Area D.
+<--------------------->
+
+<p 03><d DD0F><a 07><n 01>
+No!
+<*********************>
+
+<p 02><d DE0F><a 22><n 18>
+Vent?! Where are you
+going?!
+<*********************>
+
+<p 03><d DF0F><a 07><n 01>
+I can help them if I
+use the Livemetal!
+<*********************>
+
+<p 02><d E00F><a 0F><n 03>
+Think Vent! That
+Livemetal is exactly
+what they want!
+<--------------------->
+
+<p 02><d E10F><a 0F><n 03>
+You'll play straight
+into their hands if you
+go out there to fight!
+<*********************>
+
+<p 03><d E20F><a 07><n 01>
+I lost my mom to an
+Irregular raid...
+<--------------------->
+
+<p 03><d E30F><a 07><n 01>
+If the security force
+had reached us in time,
+<--------------------->
+
+she would still be
+alive today.
+<--------------------->
+
+<p 03><d E40F><a 07><n 01>
+They had the power to
+prevent that horrible
+attack.
+<--------------------->
+
+<p 03><d E50F><a 07><n 01>
+But they did nothing...
+I refuse to be like
+them!
+<*********************>
+
+<p 02><d E60F><a 0B><n 04>
+Vent!
+<*********************>
+
+<p 02><d E70F><a 10><n 03>
+Why won't he ever
+listen?!
+<*********************>
+
+<p 02><d E80F><a 11><n 03>
+Hold on Vent!
+<*********************>
+
+<p 03><d E90F><a 07><n 01>
+Boss, I...
+<--------------------->
+
+<p 02><d EA0F><a 11><n 03>
+I'm not going to try
+and stop you.
+<--------------------->
+
+<p 02><d EB0F><a 11><n 03>
+But I'm not going to
+let you play the hero
+alone.
+<--------------------->
+
+<p 02><d EC0F><a 11><n 03>
+Come on Vent, let's go!
+<--------------------->
+
+<p 03><d ED0F><a 06><n 01>
+Right!
+<*********************>
+
+<p 03><d EE0F><a 23><n 2C>
+Another transporter?!
+You came too?
+<--------------------->
+
+<p 03><d EF0F><a 23><n 2C>
+The other one rescued
+me and continued on
+alone.
+<--------------------->
+
+<p 03><d F00F><a 23><n 2C>
+You have to save him!
+<*********************>
+
+<p 02><d F10F><a 07><n 01>
+Boss?!
+<*********************>
+
+<p 03><d F20F><a 14><n 00>
+Ah, you've come.
+Model X, the blue
+Rockman.
+<--------------------->
+
+<p 03><d F30F><a 14><n 00>
+It's time to see the
+legend in action.
+<*********************>
+
+<p 03><d F40F><a 12><n 03>
+Ugh... Stay... away...
+It's a trap...
+<*********************>
+
+<p 03><d F50F><a 12><n 03>
+Aaargh!
+<*********************>
+
+<p 02><d F60F><a 07><n 01>
+Boss! What happened?!
+<--------------------->
+
+<p 03><d F70F><a 13><n 03>
+Vent! Sh-shoot me...
+<*********************>
+
+<p 02><d F80F><a 07><n 01>
+Stop it! Come on Boss,
+stay with me!
+<--------------------->
+
+<p 03><d F90F><a 13><n 03>
+Grr... aaagh!
+<*********************>
+
+<p 02><d FA0F><a 07><n 01>
+Boss!!!
+<*********************>
+
+<p 03><d FB0F><a 14><n 00>
+Model X, the blue
+Rockman... Model Z,
+the red Rockman...
+<--------------------->
+
+Such disappointments.
+<--------------------->
+
+<p 03><d FC0F><a 14><n 00>
+The Livemetal the
+Guardians found might
+<--------------------->
+
+as well have been tin
+can scrapings.
+<*********************>
+
+<p 02><d FD0F><a 07><n 01>
+Who are you?!
+<*********************>
+
+<p 01><p 03><d FE0F><a 14><n 0C>
+The name is Serpent.
+<--------------------->
+
+<p 01><p 03><d FF0F><a 14><n 0C>
+I rule all that lies
+before me. I am the
+Model V Rockman!
+<--------------------->
+
+<p 01><p 02><d 0010><a 07><n 01>
+Serpent?! You're the
+president of Serpent
+Co.!
+<--------------------->
+
+<p 01><p 03><d 0110><a 14><n 0C>
+I see my reputation
+precedes me.
+<--------------------->
+
+You'd do well to
+remember me, blue
+Rockman!
+<*********************>
+
+<p 02><d 0210><a 07><n 01>
+You're the one behind
+the Irregulars and what
+happened to Boss!
+<--------------------->
+
+<p 03><d 0310><a 19><n 00>
+You're shaking... Is it
+anger... Or fear?
+<*********************>
+
+<p 03><d 0410><a 18><n 00>
+Hmph, at least the red
+one was more of a man
+than this.
+<--------------------->
+
+<p 02><d 0510><a 07><n 01>
+I'll show you what kind
+of man I am!
+<*********************>
+
+<p 03><d 0610><a 14><n 0C>
+Prometheus.
+<--------------------->
+
+<p 03><d 0710><a 18><n 0D>
+Ah, poor blue Rockman.
+<--------------------->
+
+What you mistake for
+courage is nothing more
+than mere recklessness.
+<--------------------->
+
+<p 02><d 0810><a 07><n 01>
+Quiet!
+<*********************>
+
+<p 02><d 0910><a 08><n 01>
+No!
+<--------------------->
+
+<p 03><d 0A10><a 14><n 0C>
+Chosen ones like us,
+who can control the
+Livemetal's
+<--------------------->
+
+R.O.C.K. system and
+transform.
+<--------------------->
+
+<p 03><d 0B10><a 14><n 0C>
+We are called Rockmen.
+<--------------------->
+
+<p 03><d 0C10><a 14><n 0C>
+The chosen few are the
+shepherds for guiding
+<--------------------->
+
+the flock in a new
+world.
+<--------------------->
+
+<p 03><d 0D10><a 14><n 0C>
+But you've proven with
+your pathetic abilities
+<--------------------->
+
+that not all Rockmen
+are fit to rule.
+<*********************>
+
+<p 02><d 0E10><a 08><n 01>
+Aaagh!
+<--------------------->
+
+<p 03><d 0F10><a 14><n 0C>
+Pull the password data
+out of them.
+<--------------------->
+
+<p 03><d 1010><a 19><n 0E>
+Understood...
+<*********************>
+
+<p 03><d 1110><a 18><n 0D>
+That was far too easy.
+What should we do with
+them?
+<--------------------->
+
+<p 03><d 1210><a 14><n 0C>
+Leave them to the
+Irregulars and carry on
+as you were.
+<--------------------->
+
+<p 03><d 1310><a 14><n 0C>
+A battle between the
+evil Irregulars and the
+<--------------------->
+
+good Serpent Co.
+security force.
+<--------------------->
+
+<p 03><d 1410><a 14><n 0C>
+Classic. The people of
+this town will go on
+<--------------------->
+
+with their lives as
+usual.
+<--------------------->
+
+<p 03><d 1510><a 14><n 0C>
+We need the facade of
+peace to continue on
+<--------------------->
+
+just a little bit
+longer.
+<--------------------->
+
+<p 03><d 1610><a 14><n 0C>
+Eventually they will
+all become a glorious
+sacrifice for Model V.
+<*********************>
+
+<p 02><d 1710><a 07><n 01>
+W-what?!
+<*********************>
+
+<p 03><d 1810><a 19><n 0E>
+Password data retrieval
+complete...
+<--------------------->
+
+<p 03><d 1910><a 14><n 0C>
+Gyahaha! Now we have
+all of the passwords.
+<--------------------->
+
+<p 03><d 1A10><a 14><n 0C>
+Let's go. It's time to
+proceed with Project
+Haven.
+<*********************>
+
+<p 03><d 1B10><a 18><n 0D>
+It seems the heroic
+legends of Model X
+and Z are nothing
+<--------------------->
+
+more than that,
+legends.
+<*********************>
+
+<p 02><d 1C10><a 08><n 01>
+Argh... My body...
+won't move...
+<*********************>
+
+<p 03><d 1D10><a 12><n 03>
+Never... give up... You
+still have something...
+you must protect.
+<*********************>
+
+<p 02><d 1E10><a 08><n 01>
+Boss! You're awake!
+<--------------------->
+
+<p 03><d 1F10><a 12><n 03>
+Model Z, listen...
+Don't worry... about
+me...
+<--------------------->
+
+<p 03><d 2010><a 32><n 06>
+Do you know what you're
+asking?
+<--------------------->
+
+Your body is already
+beyond recovery.
+<--------------------->
+
+<p 03><d 2110><a 32><n 06>
+If you transform back,
+you will not survive
+the wounds...
+<--------------------->
+
+<p 03><d 2210><a 12><n 03>
+Please... lend your
+strength... to Vent...
+<--------------------->
+
+<p 03><d 2310><a 32><n 06>
+Alright, I will...
+<--------------------->
+
+<p 03><d 2410><a 11><n 03>
+Vent... be strong...
+<*********************>
+
+<p 02><d 2510><a 08><n 01>
+Boss! Boss!!!
+<--------------------->
+
+<p 02><d 2610><a 08><n 01>
+Not again... First my
+mom... Now Boss... I
+can't protect anyone...
+<--------------------->
+
+<p 02><d 2710><a 31><n 05>
+Vent. This is your last
+chance.
+<--------------------->
+
+<p 02><d 2810><a 31><n 05>
+If you combine the
+power from the two
+Livemetal
+<--------------------->
+
+fragments, you might be
+able to transform
+again.
+<--------------------->
+
+<p 02><d 2910><a 31><n 05>
+I can't be certain
+whether or not you'll
+be able to bear
+<--------------------->
+
+the strain when the two
+fragments are combined.
+<*********************>
+
+<p 03><d 2A10><a 32><n 06>
+It's your decision. You
+alone must make it.
+<--------------------->
+
+<p 03><d 2B10><a 32><n 06>
+Do you have the will to
+fight?
+<--------------------->
+
+<p 03><d 2C10><a 32><n 06>
+Do you have what it
+takes to continue where
+<--------------------->
+
+that brave man left
+off?
+<*********************>
+
+<p 01><p 02><d 2D10><a 31><n 05>
+Vent, our strength...
+<--------------------->
+
+<p 01><p 02><d 2E10><a 32><n 06>
+Is yours!
+<--------------------->
+
+<p 01><p 02><d 2F10><a 32><n 06>
+And Girouette's spirit
+is also with you!
+<--------------------->
+
+<p 01><p 02><d 3010><a 07><n 01>
+Let's do this!
+<*********************>
+
+<p 02><d 3110><a 07><n 01>
+That's a Serpent Co.
+airship!
+<*********************>
+
+<p 02><d 3210><a 07><n 01>
+No... This isn't good!
+<*********************>
+
+<p 02><d 3310><a 02><n 04>
+Vent... The battle
+between the Irregulars
+<--------------------->
+
+and the security force
+has begun.
+<--------------------->
+
+<p 02><d 3410><a 02><n 04>
+You can't stay there.
+It's too dangerous.
+<--------------------->
+
+Return to Base
+immediately.
+<--------------------->
+
+<p 02><d 3510><a 07><n 01>
+Prairie... let me
+fight.
+<--------------------->
+
+<p 02><d 3610><a 07><n 01>
+I must... Protect
+them...
+<--------------------->
+
+<p 02><d 3710><a 07><n 01>
+Every last one of them.
+<*********************>
+
+<p 02><d 3810><a 0C><n 04>
+Vent...
+<--------------------->
+
+<p 03><d 3910><a 05><n 01>
+I'm fine. I can't sit
+out on the sidelines
+wiping my tears
+<--------------------->
+
+away while the world
+falls to pieces.
+<--------------------->
+
+<p 03><d 3A10><a 05><n 01>
+Serpent said he would
+sacrifice the country
+to power Model V.
+<--------------------->
+
+<p 03><d 3B10><a 05><n 01>
+I have to keep
+fighting. We must stop
+Serpent.
+<--------------------->
+
+<p 03><d 3C10><a 05><n 01>
+Boss would want it that
+way. That's why he gave
+me Model Z.
+<--------------------->
+
+<p 02><d 3D10><a 0B><n 04>
+Alright...
+<*********************>
+
+<p 02><d 3F10><a 0B><n 04>
+We've analyzed the data
+and found out a few
+things.
+<--------------------->
+
+<p 02><d 4010><a 0B><n 04>
+Model V has the power
+to corrupt machines and
+humans alike.
+<--------------------->
+
+<p 02><d 4110><a 0B><n 04>
+That's what has been
+causing the Irregular
+outbreaks.
+<--------------------->
+
+<p 02><d 4210><a 0B><n 04>
+But Serpent only has
+the Model V Livemetal
+fragment now.
+<--------------------->
+
+<p 03><d 4310><a 07><n 01>
+How could he control
+Boss and the Irregulars
+<--------------------->
+
+with just that one
+piece?
+<--------------------->
+
+<p 02><d 4410><a 0B><n 04>
+The Model V Core is
+lying dormant somewhere
+waiting to be awoken.
+<--------------------->
+
+<p 02><d 4510><a 0B><n 04>
+I'm not sure what that
+Project Haven Serpent
+mentioned is...
+<--------------------->
+
+<p 02><d 4610><a 0B><n 04>
+But I think he's going
+to try and awaken
+Model V.
+<--------------------->
+
+<p 02><d 4710><a 0B><n 04>
+He'll use it to take
+over the world.
+<--------------------->
+
+<p 03><d 4810><a 07><n 01>
+Where's the Model V
+Core now?
+<--------------------->
+
+<p 02><d 4910><a 0C><n 04>
+I'm not sure... Some of
+the data was corrupt
+<--------------------->
+
+and we couldn't
+complete the analysis.
+<--------------------->
+
+<p 02><d 4A10><a 0B><n 04>
+What I do know is that
+the six passwords
+encoded into
+<--------------------->
+
+the Livemetal fragments
+are the keys.
+<--------------------->
+
+<p 02><d 4B10><a 0B><n 04>
+Combined they will
+unlock the seal that
+contains the core.
+<--------------------->
+
+<p 02><d 4C10><a 0B><n 04>
+I managed to get to
+Model X and Model Z
+first...
+<--------------------->
+
+<p 03><d 4D10><a 07><n 01>
+But Serpent Co. found
+the other four.
+<--------------------->
+
+<p 03><d 4E10><a 07><n 01>
+It looks like we don't
+have much choice.
+<--------------------->
+
+We have to fight and
+take them by force!
+<--------------------->
+
+<p 02><d 4F10><a 0B><n 04>
+I'm going to simulate
+the data and narrow
+down the
+<--------------------->
+
+Livemetal locations
+using the Irregular
+signatures.
+<--------------------->
+
+<p 02><d 5010><a 0B><n 04>
+Once I get a mission
+plan together, I'll add
+<--------------------->
+
+that information to
+the transerver.
+<--------------------->
+
+<p 02><d 5110><a 0B><n 04>
+Vent, be careful out
+there!
+<*********************>
+
+<FIM>

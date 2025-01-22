@@ -45,14 +45,14 @@ của lũ Phiến Quân.
 <--------------------->
 
 <p 02><d BF0B><a 02><n 04>
-Nếu cậu ở trong
+Nếu anh ở trong
 trạng thái biến hình
-thì cậu sẽ bị họ
+thì anh sẽ bị họ
 <--------------------->
 
-nghĩ cậu là lũ
+nghĩ anh là lũ
 Phiến Quân và bắn
-cậu đấy.
+anh đấy.
 <--------------------->
 
 <p 02><d C00B><a 02><n 04>
@@ -61,7 +61,7 @@ trong thị trấn cũng sẽ
 không trò chuyện với
 <--------------------->
 
-cậu nếu cậu ở trong
+anh nếu anh ở trong
 bộ dạng đó.
 <--------------------->
 
@@ -76,7 +76,7 @@ sẽ rất nguy hiểm.
 <*********************>
 
 <p 02><d C20B><a 23><n 2E>
-Cậu sẽ phải tham gia
+Anh sẽ phải tham gia
 bài kiểm tra để được
 <--------------------->
 
@@ -91,8 +91,8 @@ thành phố.
 <--------------------->
 
 <p 02><d C40B><a 23><n 2E>
-Nếu cậu có thể tìm thấy
-toàn bộ, cậu sẽ vượt
+Nếu anh có thể tìm thấy
+toàn bộ, anh sẽ vượt
 qua thử thách.
 <*********************>
 
@@ -108,7 +108,7 @@ rồi.
 <--------------------->
 
 <p 02><d C70B><a 24><n 28>
-Nhưng cậu sẽ không dễ
+Nhưng anh sẽ không dễ
 tìm thấy đồng đội
 của tôi đâu.
 <--------------------->
@@ -125,7 +125,7 @@ di chuyển
 
 <p 02><d C90B><a 24><n 28>
 Khám phá xung quanh,
-cậu sẽ tìm ra những
+anh sẽ tìm ra những
 thứ thú vị.
 <--------------------->
 
@@ -136,12 +136,12 @@ còn lại của thử thách!
 <*********************>
 
 <p 02><d CB0B><a 25><n 19>
-A, cậu đã tìm thấy tôi
+A, anh đã tìm thấy tôi
 rồi!
 <--------------------->
 
 <p 02><d CC0B><a 25><n 19>
-Cậu nên đề phòng với
+Anh nên đề phòng với
 các robot tuần tra
 an ninh đấy.
 <--------------------->
@@ -149,13 +149,13 @@ an ninh đấy.
 <p 02><d CD0B><a 25><n 19>
 Miễn là họ bật đèn xanh
 là họ sẽ không tấn công
-cậu đâu.
+anh đâu.
 <--------------------->
 
 <p 02><d CE0B><a 25><n 19>
-Nhưng nếu họ thấy cậu
+Nhưng nếu họ thấy anh
 mang vũ khí thì họ
-sẽ xử đẹp cậu
+sẽ xử đẹp anh
 <--------------------->
 
 mà không cần phải hỏi
@@ -173,7 +173,7 @@ với bài kiểm tra!
 <--------------------->
 
 <p 02><d D10B><a 2B><n 1F>
-A, cậu đã tìm thấy tôi
+A, anh đã tìm thấy tôi
 rồi!
 <--------------------->
 
@@ -204,7 +204,7 @@ thì cũng khá đấy!
 
 <p 02><d D60B><a 2C><n 20>
 Giá mà chúng tôi có
-những người như cậu
+những người như anh
 trong đội Vệ Binh.
 <--------------------->
 
@@ -220,7 +220,7 @@ Hẹn gặp lại!
 <*********************>
 
 <p 02><d D90B><a 02><n 04>
-Cậu đã tìm thấy tất cả
+Anh đã tìm thấy tất cả
 rồi.
 <--------------------->
 
@@ -236,7 +236,7 @@ tại đây.
 <*********************>
 
 <p 02><d DC0B><a 23><n 2E>
-Cậu đã vượt qua
+Anh đã vượt qua
 thử thách.
 Đây, cầm lấy.
 <*********************>
@@ -247,7 +247,7 @@ chứng nhận của tôi à?!
 <--------------------->
 
 <p 02><d DE0B><a 23><n 2E>
-Cậu nên giữ gìn nó
+Anh nên giữ gìn nó
 thật kỹ.
 <--------------------->
 
@@ -257,7 +257,7 @@ yêu quý nhất.
 
 <p 02><d DF0B><a 23><n 2E>
 Dù sao thì, thử thách
-của cậu đã kết thúc.
+của anh đã kết thúc.
 <--------------------->
 
 <p 02><d E00B><a 23><n 2E>

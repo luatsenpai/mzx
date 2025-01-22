@@ -92,7 +92,7 @@ thành phố.
 
 <p 02><d C40B><a 23><n 2E>
 Nếu cô có thể tìm thấy
-toàn bộ, cậu sẽ vượt
+toàn bộ, cô sẽ vượt
 qua thử thách.
 <*********************>
 
@@ -204,7 +204,7 @@ thì cũng khá đấy!
 
 <p 02><d D60B><a 2C><n 20>
 Giá mà chúng tôi có
-những người như cậu
+những người như cô
 trong đội Vệ Binh.
 <--------------------->
 
