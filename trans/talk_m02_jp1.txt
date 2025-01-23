@@ -85,7 +85,7 @@ Phiến Quân rơi ra đấy.
 <--------------------->
 
 <p 02><d DD07><a 02><n 04>
-Nếu cậu có thể mang nó
+Nếu anh có thể mang nó
 về căn cứ. Chúng tôi
 có thể phân tích nó.
 <--------------------->
@@ -95,7 +95,7 @@ quan trọng mà chúng ta
 <--------------------->
 
 <p 02><d DE07><a 02><n 04>
-Nếu cậu tìm thấy thứ gì
+Nếu anh tìm thấy thứ gì
 khác thì hãy mang về
 luôn nhá.
 <*********************>
@@ -184,7 +184,7 @@ nhanh tới đó nhé.
 <*********************>
 
 <p 02><d EF07><a 02><n 04>
-Nghe nói cậu đã tìm
+Nghe nói anh đã tìm
 thấy Girouette. Vậy là
 tốt rồi.
 <--------------------->

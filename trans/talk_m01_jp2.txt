@@ -13,7 +13,7 @@ mọi thứ đến mọi nơi!
 <--------------------->
 
 <p 02><d EB03><a 02><n 00>
-Girouette? Là cậu phải
+Girouette? Là anh phải
 không?
 <--------------------->
 
@@ -23,7 +23,7 @@ gọi là khách hàng.
 <--------------------->
 
 <p 02><d ED03><a 02><n 00>
-Cậu đã nhận được gói
+Anh đã nhận được gói
 hàng từ
 <--------------------->
 

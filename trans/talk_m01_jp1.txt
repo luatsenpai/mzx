@@ -13,7 +13,7 @@ mọi thứ đến mọi nơi!
 <--------------------->
 
 <p 02><d EB03><a 02><n 00>
-Girouette? Là cậu phải
+Girouette? Là anh phải
 không?
 <--------------------->
 
@@ -23,7 +23,7 @@ gọi là khách hàng.
 <--------------------->
 
 <p 02><d ED03><a 02><n 00>
-Cậu đã nhận được gói
+Anh đã nhận được gói
 hàng từ
 <--------------------->
 
@@ -285,7 +285,7 @@ Hạ vũ khí xuống.
 <*********************>
 
 <p 03><d 1704><a 09><n 04>
-Cậu là người vận
+Anh là người vận
 chuyển?
 <*********************>
 
@@ -429,7 +429,7 @@ có thể hạ chúng!
 <*********************>
 
 <p 02><d 3104><a 0B><n 04>
-Cậu ta biến hình? Cậu
+Anh ta biến hình? Anh
 ta là người được chọn?
 <*********************>
 
@@ -492,17 +492,17 @@ giúp người khác sao?
 <--------------------->
 
 <p 02><d 3D04><a 31><n 05>
-Cậu có vẻ quyết tâm
+Anh có vẻ quyết tâm
 giúp cô gái đó
 <--------------------->
 
-kể cả khi cậu chưa
+kể cả khi anh chưa
 từng gặp trước đây.
 <--------------------->
 
 <p 02><d 3E04><a 31><n 05>
-Tôi chỉ giúp cậu một
-tay thôi, cậu thật
+Tôi chỉ giúp anh một
+tay thôi, anh thật
 dũng cảm
 <--------------------->
 
@@ -551,7 +551,7 @@ tên là Prairie đó...
 
 <p 03><d 4704><a 22><n 18>
 Tuyệt... Có vẻ như
-cậu đã được
+anh đã được
 <--------------------->
 
 liên kết với
@@ -560,7 +560,7 @@ Livemetal.
 
 <p 03><d 4804><a 22><n 18>
 Dù sao thì, tôi rất vui
-khi cậu đã đưa nó tới
+khi anh đã đưa nó tới
 đây an toàn.
 <--------------------->
 
@@ -574,7 +574,7 @@ ta không?
 <--------------------->
 
 <p 03><d 4A04><a 22><n 18>
-Không. Cậu là người
+Không. Anh là người
 duy nhất tôi từng gặp.
 <*********************>
 
@@ -634,7 +634,7 @@ Gì cơ!?
 <--------------------->
 
 <p 03><d 5404><a 22><n 18>
-Cậu muốn lôi Livemetal
+Anh muốn lôi Livemetal
 vào rắc rối nữa sao!?
 <--------------------->
 
@@ -650,7 +650,7 @@ N-nhưng!
 
 <p 02><d 5704><a 02><n 04>
 Khoan! Fleuve! Cứ để
-cậu ta đi!
+anh ta đi!
 <--------------------->
 
 <p 03><d 5804><a 22><n 18>
@@ -658,7 +658,7 @@ Prairie!?
 <--------------------->
 
 <p 02><d 5904><a 02><n 04>
-Đi mà, Fleuve. Cậu ta
+Đi mà, Fleuve. Anh ta
 có thể chống lại lũ
 Phiến Quân.
 <--------------------->
@@ -668,13 +668,13 @@ Vent...
 <--------------------->
 
 <p 02><d 5B04><a 02><n 04>
-Cậu đã mạo hiểm tính
+Anh đã mạo hiểm tính
 mạng để cứu tôi dù
 không hề quen biết.
 <--------------------->
 
 <p 02><d 5C04><a 02><n 04>
-Tôi nợ ơn cậu.
+Tôi nợ ơn anh.
 <--------------------->
 
 <p 02><d 5D04><a 02><n 04>
@@ -692,7 +692,7 @@ Cảm ơn Prairie.
 
 <p 03><d 6004><a 22><n 18>
 Được rồi, chúng tôi sẽ
-giúp cậu sao lưu.
+giúp anh sao lưu.
 <--------------------->
 
 <p 03><d 6104><a 22><n 18>
@@ -707,7 +707,7 @@ nước này.
 <--------------------->
 
 <p 03><d 6204><a 22><n 18>
-Với thiết bị này cậu
+Với thiết bị này anh
 có thể lưu tiến trình
 <--------------------->
 
@@ -732,11 +732,11 @@ lưu thành công.
 <*********************>
 
 <p 03><d 6704><a 22><n 18>
-Cậu không cần lưu dữ
+Anh không cần lưu dữ
 liệu lại sao?
 <--------------------->
 
-Tôi mong cậu biết cậu
+Tôi mong anh biết anh
 đang làm gì.
 <*********************>
 
@@ -746,7 +746,7 @@ từ Trụ Sở.
 <--------------------->
 
 <p 03><d 6904><a 22><n 18>
-Hiện tại cậu đang có
+Hiện tại anh đang có
 2 nhiệm vụ.
 <--------------------->
 
@@ -777,12 +777,12 @@ Tại Trụ Sở, chúng tôi
 sẽ phê duyệt đơn hàng
 <--------------------->
 
-và công việc của cậu
+và công việc của anh
 sẽ hoàn tất.
 <--------------------->
 
 <p 03><d 6E04><a 22><n 18>
-Cậu có thể quyết định
+Anh có thể quyết định
 chọn nhiệm vụ nào
 làm trước.
 <--------------------->
