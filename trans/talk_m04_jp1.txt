@@ -149,7 +149,7 @@ Cô ấy là một khách hàng
 rất quan trọng.
 <--------------------->
 
-Đó là lý do tại sao tớ
+Đó là lý do tại sao tôi
 bảo cậu gọi cô ấy bằng
 chức danh.
 <--------------------->
@@ -468,7 +468,7 @@ chui vào rọ!
 <*********************>
 
 <p 03><d E20F><a 07><n 01>
-Tớ đã mất mẹ trong một
+Tôi đã mất mẹ trong một
 vụ đột kích của lũ
 Phiến Quân...
 <--------------------->
@@ -512,11 +512,11 @@ Sếp, tớ...
 <--------------------->
 
 <p 02><d EA0F><a 11><n 03>
-Tớ không có ý cản cậu.
+Tôi không có ý cản cậu.
 <--------------------->
 
 <p 02><d EB0F><a 11><n 03>
-Nhứng tớ sẽ không để
+Nhứng tôi sẽ không để
 cậu chơi trò anh hùng
 một mình.
 <--------------------->
@@ -804,175 +804,182 @@ Thiên Đường rồi.
 <*********************>
 
 <p 03><d 1B10><a 18><n 0D>
-It seems the heroic
-legends of Model X
-and Z are nothing
+Có vẻ như sự vĩ đại
+của Model X và
+Model Z
 <--------------------->
 
-more than that,
-legends.
+chỉ là lời đồn.
 <*********************>
 
 <p 02><d 1C10><a 08><n 01>
-Argh... My body...
-won't move...
+A... Mình... không thể
+cự động được...
 <*********************>
 
 <p 03><d 1D10><a 12><n 03>
-Never... give up... You
-still have something...
-you must protect.
+Đừng... bỏ cuộc... cậu
+vẫn còn thứ... cậu vẫn
+phải bảo vệ.
 <*********************>
 
 <p 02><d 1E10><a 08><n 01>
-Boss! You're awake!
+Sếp! Anh tỉnh lại rồi!
 <--------------------->
 
 <p 03><d 1F10><a 12><n 03>
-Model Z, listen...
-Don't worry... about
-me...
+Model Z, nghe đây...
+Đừng lo lắng... cho
+tôi...
 <--------------------->
 
 <p 03><d 2010><a 32><n 06>
-Do you know what you're
-asking?
+Cậu có chắc chắn với
+những gì mình đang nói
+không đấy?
 <--------------------->
 
-Your body is already
-beyond recovery.
+Cơ thể của cậu không
+thể cầm cự được nữa.
 <--------------------->
 
 <p 03><d 2110><a 32><n 06>
-If you transform back,
-you will not survive
-the wounds...
+Nếu cậu biến hình, cậu
+sẽ không thể sống sót
+nếu bị thương...
 <--------------------->
 
 <p 03><d 2210><a 12><n 03>
-Please... lend your
-strength... to Vent...
+Làm ơn đi... hãy đưa
+sức mạnh của cậu
+cho... Vent...
 <--------------------->
 
 <p 03><d 2310><a 32><n 06>
-Alright, I will...
+Được thôi...
 <--------------------->
 
 <p 03><d 2410><a 11><n 03>
-Vent... be strong...
+Vent... cố lên...
 <*********************>
 
 <p 02><d 2510><a 08><n 01>
-Boss! Boss!!!
+Sếp! Sếp!!!
 <--------------------->
 
 <p 02><d 2610><a 08><n 01>
-Not again... First my
-mom... Now Boss... I
-can't protect anyone...
+Lại nữa sao... đầu tiên
+là mẹ mình... giờ tới
+Sếp...
+<--------------------->
+
+Mình không thể bảo vệ
+được ai...
 <--------------------->
 
 <p 02><d 2710><a 31><n 05>
-Vent. This is your last
-chance.
+Vent. Đây là cơ hội
+cuối cùng của cậu.
 <--------------------->
 
 <p 02><d 2810><a 31><n 05>
-If you combine the
-power from the two
-Livemetal
+Nếu cậu kết hợp hai
+mảnh Livemetal, cậu
+có thể
 <--------------------->
 
-fragments, you might be
-able to transform
-again.
+biến hình trở lại.
 <--------------------->
 
 <p 02><d 2910><a 31><n 05>
-I can't be certain
-whether or not you'll
-be able to bear
+Tôi cũng không chắc
+là cậu có thể chịu
+được áp lực
 <--------------------->
 
-the strain when the two
-fragments are combined.
+khi hai mảnh kết hợp
+lại hay không.
 <*********************>
 
 <p 03><d 2A10><a 32><n 06>
-It's your decision. You
-alone must make it.
+Quyết định tùy vào cậu.
+Cậu hãy tự mình quyết
+định đi.
 <--------------------->
 
 <p 03><d 2B10><a 32><n 06>
-Do you have the will to
-fight?
+Cậu có quyết tâm
+chiến đấu không?
 <--------------------->
 
 <p 03><d 2C10><a 32><n 06>
-Do you have what it
-takes to continue where
+Cậu có đủ bản lĩnh để
+bước tiếp con đường
 <--------------------->
 
-that brave man left
-off?
+mà vị anh hùng đó
+đã ngã xuống?
 <*********************>
 
 <p 01><p 02><d 2D10><a 31><n 05>
-Vent, our strength...
+Vent, sức mạnh của
+chúng tôi...
 <--------------------->
 
 <p 01><p 02><d 2E10><a 32><n 06>
-Is yours!
+Là của anh!
 <--------------------->
 
 <p 01><p 02><d 2F10><a 32><n 06>
-And Girouette's spirit
-is also with you!
+Và linh hồn của
+Girouette sẽ luôn
+bên anh!
 <--------------------->
 
 <p 01><p 02><d 3010><a 07><n 01>
-Let's do this!
+Khởi hành thôi!
 <*********************>
 
 <p 02><d 3110><a 07><n 01>
-That's a Serpent Co.
-airship!
+Là tàu bay của
+Tập Đoàn Serpent!
 <*********************>
 
 <p 02><d 3210><a 07><n 01>
-No... This isn't good!
+Không... tệ rồi đây!
 <*********************>
 
 <p 02><d 3310><a 02><n 04>
-Vent... The battle
-between the Irregulars
+Vent... Trận chiến
+giữa lũ Phiến Quân
 <--------------------->
 
-and the security force
-has begun.
+và lực lượng An Ninh
+sắp bắt đầu rồi.
 <--------------------->
 
 <p 02><d 3410><a 02><n 04>
-You can't stay there.
-It's too dangerous.
+Cậu không thể ở lại
+đây. Nguy hiểm lắm.
 <--------------------->
 
-Return to Base
-immediately.
+Quay về căn cứ
+nhanh đi.
 <--------------------->
 
 <p 02><d 3510><a 07><n 01>
-Prairie... let me
-fight.
+Prairie... hãy để tôi
+chiến đấu.
 <--------------------->
 
 <p 02><d 3610><a 07><n 01>
-I must... Protect
-them...
+Tôi phải... bảo vệ...
+họ...
 <--------------------->
 
 <p 02><d 3710><a 07><n 01>
-Every last one of them.
+Tất cả, từng người
+một.
 <*********************>
 
 <p 02><d 3810><a 0C><n 04>
@@ -980,105 +987,109 @@ Vent...
 <--------------------->
 
 <p 03><d 3910><a 05><n 01>
-I'm fine. I can't sit
-out on the sidelines
-wiping my tears
+Tôi ổn. Tôi không thể
+ngồi nhìn thế giới
+sụp đổ
 <--------------------->
 
-away while the world
-falls to pieces.
+mà chỉ biết khóc.
 <--------------------->
 
 <p 03><d 3A10><a 05><n 01>
-Serpent said he would
-sacrifice the country
-to power Model V.
+Serpent nói sẵn sàng
+hy sinh quốc gia để
+củng cố quyền lực
+<--------------------->
+
+cho Model V.
 <--------------------->
 
 <p 03><d 3B10><a 05><n 01>
-I have to keep
-fighting. We must stop
-Serpent.
+Tôi phải tiếp tục
+chiến đấu. Tôi phải
+ngăn tên Serpent lại.
 <--------------------->
 
 <p 03><d 3C10><a 05><n 01>
-Boss would want it that
-way. That's why he gave
-me Model Z.
+Chắc hẳn Sếp đã nghĩ
+vậy khi đưa tôi
+Model Z.
 <--------------------->
 
 <p 02><d 3D10><a 0B><n 04>
-Alright...
+Ừm...
 <*********************>
 
 <p 02><d 3F10><a 0B><n 04>
-We've analyzed the data
-and found out a few
-things.
+Chúng tôi đã phân tích
+và phát hiện ra
+nhiều thứ.
 <--------------------->
 
 <p 02><d 4010><a 0B><n 04>
-Model V has the power
-to corrupt machines and
-humans alike.
+Model V có khả năng
+làm hỏng máy móc và
+con người.
 <--------------------->
 
 <p 02><d 4110><a 0B><n 04>
-That's what has been
-causing the Irregular
-outbreaks.
+Đó là nguyên nhân gây
+ra những vụ đột kích
+của lũ Phiến Quân.
 <--------------------->
 
 <p 02><d 4210><a 0B><n 04>
-But Serpent only has
-the Model V Livemetal
-fragment now.
+Nhưng Serpent hiện
+chỉ có mảnh Model V
+thôi.
 <--------------------->
 
 <p 03><d 4310><a 07><n 01>
-How could he control
-Boss and the Irregulars
+Làm sao hắn có thể
+kiểm soát được Sếp
+và lũ Phiến Quân
 <--------------------->
 
-with just that one
-piece?
+chỉ với một thứ
+như vậy chứ?
 <--------------------->
 
 <p 02><d 4410><a 0B><n 04>
-The Model V Core is
-lying dormant somewhere
-waiting to be awoken.
+Lõi Model V đang ngủ
+yên ở đâu đó và đang
+chờ được đánh thức.
 <--------------------->
 
 <p 02><d 4510><a 0B><n 04>
-I'm not sure what that
-Project Haven Serpent
-mentioned is...
+Tôi không chắc Dự Án
+Thiên Đường mà Serpent
+nói đến là gì...
 <--------------------->
 
 <p 02><d 4610><a 0B><n 04>
-But I think he's going
-to try and awaken
+Nhưng tôi nghĩ hắn
+đang định đánh thức
 Model V.
 <--------------------->
 
 <p 02><d 4710><a 0B><n 04>
-He'll use it to take
-over the world.
+Hắn ta sẽ sử dụng nó
+để thống trị thế giới.
 <--------------------->
 
 <p 03><d 4810><a 07><n 01>
-Where's the Model V
-Core now?
+Vậy Lõi của Model V
+hiện đang ở đâu?
 <--------------------->
 
 <p 02><d 4910><a 0C><n 04>
-I'm not sure... Some of
-the data was corrupt
+Tôi cũng không chắc
+lắm... một số dữ liệu
+bị hỏng
 <--------------------->
 
-and we couldn't
-complete the analysis.
+và chúng tôi không thể
+phân tích hết được.
 <--------------------->
 
 <p 02><d 4A10><a 0B><n 04>

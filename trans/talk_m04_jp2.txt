@@ -823,62 +823,65 @@ Thiên Đường rồi.
 <*********************>
 
 <p 03><d 1B10><a 18><n 0D>
-These two are already
-finished?
+Vậy là việc với hai tên
+này đã xong rồi sao?
 <--------------------->
 
-This was far easier
-than he had foreseen.
+Việc này còn dễ hơn
+dự tính của ngài ấy.
 <*********************>
 
 <p 02><d 1C10><a 08><n 02>
-Agh... I... can't
-move...
+A... Mình... không thể
+cự động được...
 <*********************>
 
 <p 03><d 1D10><a 12><n 03>
-Never... give up... You
-still have something...
-you must protect.
+Đừng... bỏ cuộc... cậu
+vẫn còn thứ... cậu vẫn
+phải bảo vệ.
 <*********************>
 
 <p 02><d 1E10><a 08><n 02>
 Girouette!
-You're awake!
+Cẩu tỉnh lại rồi!
 <--------------------->
 
 <p 03><d 1F10><a 12><n 03>
-Model Z, listen...
-Don't worry... about
-me...
+Model Z, nghe đây...
+Đừng lo lắng... cho
+tôi...
 <--------------------->
 
 <p 03><d 2010><a 32><n 06>
-Do you know what you're
-asking?
+Cậu có chắc chắn với
+những gì mình đang nói
+không đấy?
 <--------------------->
 
-Your body is already
-beyond recovery.
+Cơ thể của cậu không
+thể cầm cự được nữa.
 <--------------------->
 
 <p 03><d 2110><a 32><n 06>
-If you transform back,
-you will not survive
-the wounds...
+Nếu cậu biến hình, cậu
+sẽ không thể sống sót
+nếu bị thương...
 <--------------------->
 
 <p 03><d 2210><a 12><n 03>
-Please... lend your
-strength... to Aile...
+Làm ơn đi... hãy đưa
+sức mạnh của cậu
+cho... Aile...
 <--------------------->
 
 <p 03><d 2310><a 32><n 06>
-Alright, I will...
+Được thôi...
 <--------------------->
 
 <p 03><d 2410><a 11><n 03>
-Aile... don't... die.
+Aile... đừng...
+chết nhé.
 <*********************>
 
 <p 02><d 2510><a 08><n 02>
@@ -886,154 +889,158 @@ Girouette! Girouette!!!
 <--------------------->
 
 <p 02><d 2610><a 08><n 02>
-It's all my fault! I
-never should have
-charged into this!
+Tất cả là lỗi của tớ,
+đáng lẽ tớ không nên
+đâm đầu vào chuyện này!
 <--------------------->
 
 <p 02><d 2710><a 31><n 05>
-Aile. This is your last
-chance.
+Aile. Đây là cơ hội
+cuối cùng của cậu.
 <--------------------->
 
 <p 02><d 2810><a 31><n 05>
-If you combine the
-power from the two
-Livemetal
+Nếu cậu kết hợp hai
+mảnh Livemetal, cậu
+có thể
 <--------------------->
 
-fragments, you might be
-able to transform
-again.
+biến hình trở lại.
 <--------------------->
 
 <p 02><d 2910><a 31><n 05>
-I can't be certain
-whether or not you'll
-be able to bear
-<--------------------->
-
-the strain when the two
-fragments are combined.
+khi hai mảnh kết hợp
+lại hay không.
 <*********************>
 
 <p 03><d 2A10><a 32><n 06>
-It's your decision. You
-alone must make it.
+Quyết định tùy vào cậu.
+Cậu hãy tự mình quyết
+định đi.
 <--------------------->
 
 <p 03><d 2B10><a 32><n 06>
-Do you have the will to
-fight?
+Cậu có quyết tâm
+chiến đấu không?
 <--------------------->
 
 <p 03><d 2C10><a 32><n 06>
-Do you have what it
-takes to continue where
+Cậu có đủ bản lĩnh để
+bước tiếp con đường
 <--------------------->
 
-that brave man left
-off?
+mà vị anh hùng đó
+đã ngã xuống?
 <*********************>
 
 <p 01><p 02><d 2D10><a 31><n 05>
-Aile, our strength...
+Aile, sức mạnh của
+chúng tôi...
 <--------------------->
 
 <p 01><p 02><d 2E10><a 32><n 06>
-Is yours!
+Là của cô!
 <--------------------->
 
 <p 01><p 02><d 2F10><a 32><n 06>
-And Girouette's spirit
-is also with you!
+Và linh hồn của
+Girouette sẽ luôn
+bên cô!
 <--------------------->
 
 <p 01><p 02><d 3010><a 07><n 02>
-Serpent! I'll make you
-pay for what you did
-today!
+Serpent! Ta sẽ bắt
+ngươi trả giá vì
+những gì
+<--------------------->
+
+ngươi đã làm hôm nay!
 <*********************>
 
 <p 02><d 3110><a 07><n 02>
-That's a Serpent Co.
-airship!
+Là tàu bay của
+Tập Đoàn Serpent!
 <*********************>
 
 <p 02><d 3210><a 07><n 02>
-Girouette... I... I...
+Girouette... tớ...
+tớ...
 <*********************>
 
 <p 02><d 3310><a 02><n 04>
-Aile... The battle
-between the Irregulars
+Aile... Trận chiến
+giữa lũ Phiến Quân
 <--------------------->
 
-and the security force
-has begun.
+và lực lượng An Ninh
+sắp bắt đầu rồi.
 <--------------------->
 
 <p 02><d 3410><a 02><n 04>
-You can't stay there.
-It's too dangerous.
+Cậu không thể ở lại
+đây. Nguy hiểm lắm.
 <--------------------->
 
-Return to Base
-immediately.
+Quay về căn cứ
+nhanh đi.
 <--------------------->
 
 <p 02><d 3510><a 07><n 02>
-Prairie... I will join
-you in your fight.
+Prairie... tôi sẽ
+tham gia chiến đấu
+cùng cô.
 <--------------------->
 
 <p 02><d 3610><a 07><n 02>
-I won't let them get
-away with this!
+Tôi sẽ không để
+chúng thoát tội!
 <--------------------->
 
 <p 02><d 3710><a 07><n 02>
-I will protect
-everyone!
+Tôi sẽ bảo vệ
+mọi người!
 <*********************>
 
 <p 03><d 3810><a 08><n 02>
-I'm such a fool.
-Girouette knew I was
-in over my head and 
+Tôi thật ngu ngốc.
+Girouette biết tôi
+đang liều lĩnh nhưng
 <--------------------->
 
-tried to stop me, but I
-rushed in anyway.
+vẫn cố ngăn cản,
+mà tôi vẫn cố chấp
+lao vào.
 <--------------------->
 
 <p 03><d 3910><a 08><n 02>
-Girouette saved me
-again... Why did I have
+Girouette lại cứu tôi
+thêm một lần nữa...
 <--------------------->
 
-to be the one to make
-it out alive?
+Tại sao tôi lại là
+người duy nhất
+sống sót chứ?
 <--------------------->
 
 <p 02><d 3A10><a 0B><n 04>
-Aile... Don't start
-thinking like that.
+Aile... đừng bi quan
+như thế.
 <--------------------->
 
 <p 03><d 3B10><a 08><n 02>
-Huh?
+Hở?
 <--------------------->
 
 <p 02><d 3C10><a 0B><n 04>
-Girouette gave his life
-protecting you.
+Girouette đã hy sinh
+tính mạng để bảo vệ
+cô.
 <--------------------->
 
 <p 02><d 3D10><a 0B><n 04>
-Don't ever forget how
-much he cared about
-you.
+Đừng quân anh ấy đã
+quan tâm cô như
+thế nào.
 <--------------------->
 
 <p 03><d 3E10><a 05><n 02>
@@ -1041,50 +1048,51 @@ Girouette...
 <*********************>
 
 <p 02><d 3F10><a 0B><n 04>
-We've analyzed the data
-and found out a few
-things.
+Chúng tôi đã phân tích
+và phát hiện ra
+nhiều thứ.
 <--------------------->
 
 <p 02><d 4010><a 0B><n 04>
-Model V has the power
-to corrupt machines and
-humans alike.
+Model V có khả năng
+làm hỏng máy móc và
+con người.
 <--------------------->
 
 <p 02><d 4110><a 0B><n 04>
-That's what has been
-causing the Irregular
-outbreaks.
+Đó là nguyên nhân gây
+ra những vụ đột kích
+của lũ Phiến Quân.
 <--------------------->
 
 <p 02><d 4210><a 0B><n 04>
-But Serpent only has
-the Model V Livemetal
-fragment now.
+Nhưng Serpent hiện
+chỉ có mảnh Model V
+thôi.
 <--------------------->
 
 <p 02><d 4410><a 0B><n 04>
-The Model V Core is
-lying dormant somewhere
-waiting to be awoken.
+Lõi Model V đang ngủ
+yên ở đâu đó và đang
+chờ được đánh thức.
 <--------------------->
 
 <p 02><d 4510><a 0B><n 04>
-I'm not sure what that
-Project Haven Serpent
-mentioned is...
+Tôi không chắc Dự Án
+Thiên Đường mà Serpent
+nói đến là gì...
 <--------------------->
 
 <p 02><d 4610><a 0B><n 04>
-But I think he's going
-to try and awaken
+Nhưng tôi nghĩ hắn
+đang định đánh thức
 Model V.
 <--------------------->
 
 <p 03><d 4710><a 07><n 02>
-He's going to try and
-sacrifice everyone.
+Hắn ta sẽ không
+ngần ngại hy sinh
+tất cả.
 <--------------------->
 
 <p 03><d 4810><a 07><n 02>
@@ -1094,12 +1102,13 @@ Model V Core now?
 <--------------------->
 
 <p 02><d 4910><a 0C><n 04>
-I'm not sure... Some of
-the data was corrupt
+Tôi cũng không chắc
+lắm... một số dữ liệu
+bị hỏng
 <--------------------->
 
-and we couldn't
-complete the analysis.
+và chúng tôi không thể
+phân tích hết được..
 <--------------------->
 
 <p 02><d 4A10><a 0B><n 04>
