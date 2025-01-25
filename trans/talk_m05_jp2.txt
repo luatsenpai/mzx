@@ -1,0 +1,326 @@
+<script_info tipo='Mission 5' personagem='indefinido' tamanho='3203' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d 8913><a 02><n 55>
+Tôi phát hiện thấy
+tín hiệu của Livemetal
+<--------------------->
+
+ở Khu E, nằm ngoài
+khu dân cư.
+<--------------------->
+
+<p 02><d 8A13><a 02><n 55>
+Tập Đoàn Serpent có
+một nhà máy điện ở đó.
+<--------------------->
+
+<p 02><d 8B13><a 02><n 55>
+Cơ sở này đã bị lũ
+Phiến Quân tấn công
+cách đây rất lâu.
+<--------------------->
+
+<p 02><d 8C13><a 02><n 55>
+Kể từ đó, không ai
+dám bén mảng đến
+đó nữa.
+<--------------------->
+
+<p 02><d 8D13><a 02><n 55>
+Điều tra nhà máy và
+thu hồi Livemetal.
+<*********************>
+
+<p 02><d 8E13><a 02><n 04>
+Nhà máy... vẫn đang
+hoạt động và sản xuất
+điện năng.
+<--------------------->
+
+<p 02><d 8F13><a 02><n 04>
+Theo dữ liệu, hệ thống
+đã ngừng hoạt động
+<--------------------->
+
+kể từ đợt lũ
+Phiến Quân tấn công.
+<--------------------->
+
+<p 02><d 9013><a 02><n 04>
+Có chuyện gì đó rất
+mờ ám, hãy cẩn thận
+Aile.
+<*********************>
+
+<p 02><d 9113><a 05><n 02>
+Đó là thứ gì vậy? Tôi
+từng thấy nó khi
+Girouette biến mất.
+<*********************>
+
+<p 02><d 9213><a 02><n 04>
+Tín hiệu nàylà ...
+Tinh Linh Số?!
+<--------------------->
+
+<p 02><d 9313><a 05><n 02>
+Tinh Linh Số?
+Tinh Linh Số là gì?
+<--------------------->
+
+<p 02><d 9413><a 02><n 04>
+Là những sinh mệnh số,
+được tạo ra từ
+năng lượng thuần khiết
+<--------------------->
+
+và mang hình dạng
+tiên linh.
+<--------------------->
+
+<p 02><d 9513><a 02><n 04>
+Tôi không hiểu tại sao
+chúng lại tụ tập đông
+đến thế.
+<--------------------->
+
+<p 02><d 9613><a 02><n 04>
+Nhà máy điện đó...
+<--------------------->
+
+<p 02><d 9713><a 02><n 04>
+Chắc nó đang sử dụng
+Tinh Linh Số để
+tạo ra năng lượng!
+<--------------------->
+
+<p 02><d 9813><a 05><n 02>
+Hình như chúng ta đã
+hiểu ra chuyện gì
+đang xảy ra ở đây rồi.
+<--------------------->
+
+<p 02><d 9913><a 02><n 04>
+Không thể tin được!
+Tinh Linh Số cũng có
+<--------------------->
+
+sinh mạng giống như
+chúng ta!
+<--------------------->
+
+<p 02><d 9A13><a 02><n 04>
+Aile, cô phải tắt
+nguồn nhà máy đó!
+<*********************>
+
+<p 03><d 9B13><a 1B><n 10>
+Hở. Làm sao một cô gái
+bé nhỏ có thể lạc trôi
+đến đây nhỉ?
+<--------------------->
+
+<p 03><d 9C13><a 1B><n 10>
+Thật đáng tiếc, giờ
+ta không thể để ngươi
+rời đi nguyên vẹn.
+<--------------------->
+
+<p 02><d 9D13><a 05><n 02>
+Ngươi là thuộc hạ của
+Serpent? Đúng là tên
+Phiến Quân nói nhiều.
+<--------------------->
+
+<p 03><d 9E13><a 1B><n 10>
+Ngươi cũng nghiên cứu
+kỹ quá nhỉ. Vậy là ta
+<--------------------->
+
+có thể bỏ qua phần
+giới thiệu rồi.
+<--------------------->
+
+<p 03><d 9F13><a 1B><n 10>
+Tuy nhiên, đừng tưởng
+ta là những con rối
+<--------------------->
+
+đơn giản như đám
+Phiến Quân kia..
+<--------------------->
+
+<p 03><d A013><a 1B><n 10>
+Ta là Megaman nhân tạo
+được tạo ra để
+<--------------------->
+
+khai thác sức mạnh
+của Livemetal.
+<--------------------->
+
+<p 03><d A113><a 1B><n 10>
+Ta là Model H
+Falseroid, Hivolt.
+<--------------------->
+
+<p 03><d A213><a 1B><n 10>
+Không cần phải sợ.
+Mọi chuyện sẽ sớm
+kết thúc thôi.
+<--------------------->
+
+<p 03><d A313><a 1B><n 10>
+Chỉ một thoáng
+giật mình rồi chìm vào
+giấc ngủ vĩnh hằng!
+<*********************>
+
+<p 01><p 03><d A413><a 1B><n 10>
+Tò mò giết chết con
+mèo, sự tò mò của
+ngươi sẽ giết ngươi.
+<*********************>
+
+<p 03><d A513><a 1B><n 10>
+Ha ha... dòng điện
+tạo ra ở đây đã
+<--------------------->
+
+trên đường tới với
+Chúa Tể Serpent.
+<--------------------->
+
+<p 03><d A613><a 1B><n 10>
+Việc còn lại chỉ là
+đột nhập vào nơi chứa
+Lõi Model V.
+<--------------------->
+
+<p 03><d A713><a 1B><n 10>
+Kẻ ngu ngốc đáng
+thương. Ngươi sẽ chết
+khi kỷ nguyên mới đến!
+<*********************>
+
+<p 03><d A813><a 33><n 07>
+Tôi là Livemetal của
+Gió, Model H.
+<--------------------->
+
+<p 03><d A913><a 33><n 07>
+Cảm ơn cô đã cứu tôi.
+Người hùng trẻ tuổi.
+<--------------------->
+
+<p 02><d AA13><a 05><n 02>
+Làm ơn hãy giúp tôi,
+Model H.
+<--------------------->
+
+<p 02><d AB13><a 05><n 02>
+I have to defeat
+Serpent and prevent the
+<--------------------->
+
+resurrection of
+Model V.
+<--------------------->
+
+<p 03><d AC13><a 33><n 07>
+Do you think that will
+end this?
+<--------------------->
+
+<p 02><d AD13><a 05><n 02>
+Huh?
+<--------------------->
+
+<p 03><d AE13><a 33><n 07>
+All of this was started
+by a single man.
+<--------------------->
+
+<p 03><d AF13><a 33><n 07>
+Even if you destroy the
+Model V Core and stop
+Serpent...
+<--------------------->
+
+<p 03><d B013><a 33><n 07>
+What's to stop another
+madman from rising up
+and taking his place?
+<--------------------->
+
+<p 02><d B113><a 08><n 02>
+How am I supposed to
+know that?
+<--------------------->
+
+<p 02><d B213><a 08><n 02>
+What I do know is that
+Serpent is deceiving
+<--------------------->
+
+all of the people in
+this country.
+<--------------------->
+
+<p 02><d B313><a 07><n 02>
+I'm the only one that
+sees through it!
+<--------------------->
+
+I can't just let this
+happen!
+<--------------------->
+
+<p 03><d B413><a 33><n 07>
+Hmph. Those humans we
+fought so hard to
+<--------------------->
+
+protect hundreds of
+years ago have been
+<--------------------->
+
+<p 03><d B513><a 33><n 07>
+lulled into a false
+sense of security by
+<--------------------->
+
+the empty promise of
+peace.
+<--------------------->
+
+<p 03><d B613><a 33><n 07>
+But I still believe our
+fight had meaning.
+<--------------------->
+
+<p 03><d B713><a 33><n 07>
+So, young hero, yes I
+will lend you my
+strength.
+<--------------------->
+
+<p 03><d B813><a 33><n 07>
+Serpent has separated
+my data into two
+halves.
+<--------------------->
+
+There is another
+Falseroid with the
+other part.
+<--------------------->
+
+<p 03><d B913><a 33><n 07>
+If you can defeat it, I
+will be able to give
+you my password.
+<*********************>
+
+<FIM>
