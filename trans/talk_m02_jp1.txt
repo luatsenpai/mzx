@@ -14,7 +14,7 @@ Khu B.
 <p 02><d D207><a 02><n 55>
 Hãy đến Khu B và
 xác định vị trí của
-cậu ta.
+anh ta.
 <*********************>
 
 <p 02><d D307><a 05><n 01>
@@ -137,24 +137,24 @@ rất quan trọng.
 <--------------------->
 
 <p 02><d E507><a 0D><n 03>
-Nhưng tớ không hề biết
+Nhưng tôi không hề biết
 có một sức mạnh ẩn chứa
 trong đó.
 <--------------------->
 
 <p 03><d E607><a 05><n 01>
-Mà làm sao cậu biết
+Mà làm sao anh biết
 về Livemetal vậy?
 <--------------------->
 
 <p 02><d E707><a 0D><n 03>
-À... ừm... tớ nghe
+À... ừm... tôi nghe
 về nó sau khi nhận
 ủy thác.
 <--------------------->
 
 <p 02><d E807><a 0D><n 03>
-Họ bảo tớ giữ bí mật
+Họ bảo tôi giữ bí mật
 chuyện này vì nếu
 có ai biết về nó
 <--------------------->

@@ -1093,64 +1093,65 @@ phân tích hết được.
 <--------------------->
 
 <p 02><d 4A10><a 0B><n 04>
-What I do know is that
-the six passwords
-encoded into
+Điều tôi biết là sáu
+mật khẩu được mã hóa
+trong mảnh Livemetal
 <--------------------->
 
-the Livemetal fragments
-are the keys.
+chính là chìa khóa.
 <--------------------->
 
 <p 02><d 4B10><a 0B><n 04>
-Combined they will
-unlock the seal that
-contains the core.
+Kết hợp chúng lại sẽ
+mở khóa phong ấn
+lõi của nó.
 <--------------------->
 
 <p 02><d 4C10><a 0B><n 04>
-I managed to get to
-Model X and Model Z
-first...
+Tôi đã thành công lấy
+được Model Z và
+Model X trước...
 <--------------------->
 
 <p 03><d 4D10><a 07><n 01>
-But Serpent Co. found
-the other four.
+Nhưng Tập Đoàn Serpent
+đã tìm thấy 4 mảnh
+khác.
 <--------------------->
 
 <p 03><d 4E10><a 07><n 01>
-It looks like we don't
-have much choice.
+Có vẻ như chúng ta
+không còn nhiều
+lựa chọn khác.
 <--------------------->
 
-We have to fight and
-take them by force!
+Chúng ta phải chiến đấu
+và cướp chúng bằng
+vũ lực!
 <--------------------->
 
 <p 02><d 4F10><a 0B><n 04>
-I'm going to simulate
-the data and narrow
-down the
+Tôi sẽ mô phỏng dữ liệu
+và thu hẹp phạm vi
+vị trí Livemetal
 <--------------------->
 
-Livemetal locations
-using the Irregular
-signatures.
+bằng cách lợi dụng
+đám Phiến Quân.
 <--------------------->
 
 <p 02><d 5010><a 0B><n 04>
-Once I get a mission
-plan together, I'll add
+Sau khi tôi vạch xong
+kế hoạch, tôi sẽ gửi
 <--------------------->
 
-that information to
-the transerver.
+nó tới máy
+dịch chuyển.
 <--------------------->
 
 <p 02><d 5110><a 0B><n 04>
-Vent, be careful out
-there!
+Vent, hãy cẩn thận
+nhé!
 <*********************>
 
 <FIM>

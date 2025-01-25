@@ -433,8 +433,8 @@ có thể hạ chúng!
 <*********************>
 
 <p 02><d 3104><a 0B><n 04>
-Cô ta biến hình? Cô
-ta là người được chọn?
+Cô ấy biến hình? Cô
+ấy là người được chọn?
 <*********************>
 
 <p 03><d 3204><a 05><n 02>
@@ -503,7 +503,7 @@ rác rưởi này rồi.
 
 Cậu nói cậu tên Model
 X. Tại sao cậu lại
-giúp tớ?
+giúp tôi?
 <--------------------->
 
 <p 02><d 3C04><a 31><n 05>
@@ -737,7 +737,7 @@ này rồi, thiết bị này
 được gọi là
 <--------------------->
 
-trạm trung chuyển, nó
+máy dịch chuyển, nó
 nằm rải rác quanh đất
 nước này.
 <--------------------->

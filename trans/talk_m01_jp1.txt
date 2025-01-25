@@ -66,7 +66,7 @@ không!?
 <*********************>
 
 <p 01><p 02><d F503><a 0D><n 03>
-Cậu có thể thấy toà 
+Anh có thể thấy toà 
 nhà của Tập Đoàn
 Serpent từ đây.
 <--------------------->
@@ -89,18 +89,18 @@ lượng an ninh của họ
 <--------------------->
 
 <p 01><p 03><d F903><a 07><n 01>
-Thì mẹ của tớ có lẽ
+Thì mẹ của tôi có lẽ
 vẫn còn sống.
 <--------------------->
 
 <p 01><p 02><d FA03><a 0D><n 03>
-Tớ rất tiếc khi mẹ cậu
+Tôi rất tiếc khi mẹ cậu
 đã mất sau vụ đột kích
 của lũ Phiến Quân.
 <--------------------->
 
 <p 01><p 02><d FB03><a 0D><n 03>
-Tớ hiểu cảm xúc của
+Tôi hiểu cảm xúc của
 cậu, nhưng đừng
 <--------------------->
 
@@ -261,7 +261,7 @@ cho Đội Vệ Binh!
 <--------------------->
 
 <p 02><d 1304><a 04><n 03>
-Tớ sẽ bắt kịp cậu
+Tôi sẽ bắt kịp cậu
 sau khi tớ xử lý
 đám trên này!
 <--------------------->
@@ -483,7 +483,7 @@ Hãy bảo trọng, Vent!
 <p 02><d 3B04><a 05><n 01>
 Thắng rồi... Cậu nói
 cậu tên Model X. Tại
-sao cậu lại giúp tớ?
+sao cậu lại giúp tôi?
 <--------------------->
 
 <p 02><d 3C04><a 31><n 05>
@@ -507,13 +507,13 @@ dũng cảm
 <--------------------->
 
 <p 02><d 3F04><a 08><n 01>
-Dủng cảm ư? Tớ á?
+Dủng cảm ư? Tôi sao?
 Không hẳn.
 <--------------------->
 
 <p 02><d 4004><a 08><n 01>
-Tớ chỉ biết nếu tớ
-không thử thì tớ sẽ
+Tôi chỉ biết nếu tôi
+không thử thì tôi sẽ
 hối hận.
 <--------------------->
 
@@ -626,7 +626,7 @@ Livemetal thêm một
 chút nữa.
 <--------------------->
 
-Tôi phải cứu cậu ta!
+Tôi phải cứu anh ta!
 <--------------------->
 
 <p 03><d 5304><a 22><n 18>
@@ -701,7 +701,7 @@ này rồi, thiết bị này
 được gọi là
 <--------------------->
 
-trạm trung chuyển, nó
+máy dịch chuyển, nó
 nằm rải rác quanh đất
 nước này.
 <--------------------->

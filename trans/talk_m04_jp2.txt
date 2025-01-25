@@ -1096,9 +1096,9 @@ tất cả.
 <--------------------->
 
 <p 03><d 4810><a 07><n 02>
-I won't let that
-happen! Where is the
-Model V Core now?
+Tôi sẽ không thể để
+chuyện đó xảy ra! Lõi
+Model V hiện ở đâu?
 <--------------------->
 
 <p 02><d 4910><a 0C><n 04>
@@ -1112,68 +1112,66 @@ phân tích hết được..
 <--------------------->
 
 <p 02><d 4A10><a 0B><n 04>
-What I do know is that
-the six passwords
-encoded into
+Điều tôi biết là sáu
+mật khẩu được mã hóa
+trong mảnh Livemetal
 <--------------------->
 
-the Livemetal fragments
-are the keys.
+chính là chìa khóa.
 <--------------------->
 
 <p 02><d 4B10><a 0B><n 04>
-Combined they will
-unlock the seal that
-contains the core.
+Kết hợp chúng lại sẽ
+mở khóa phong ấn
+lõi của nó.
 <--------------------->
 
 <p 02><d 4C10><a 0B><n 04>
-I managed to get to
-Model X and Model Z
-first...
+Tôi đã thành công lấy
+được Model Z và
+Model X trước...
 <--------------------->
 
 <p 03><d 4D10><a 07><n 02>
-Serpent already has the
-other four.
+Nhưng Tập Đoàn Serpent
+đã tìm thấy 4 mảnh
+khác.
 <--------------------->
 
 <p 03><d 4E10><a 07><n 02>
-We're going to have to
-fight and take them
-away!
+Chúng ta sẽ phải
+chiến đấu để cướp
+lấy chúng!
 <--------------------->
 
 <p 02><d 4F10><a 0B><n 04>
-I'm going to simulate
-the data and narrow
-down the
+Tôi sẽ mô phỏng dữ liệu
+và thu hẹp phạm vi
+vị trí Livemetal
 <--------------------->
 
-Livemetal locations
-using the Irregular
-signatures.
+bằng cách lợi dụng
+đám Phiến Quân.
 <--------------------->
 
 <p 02><d 5010><a 0B><n 04>
-Once I get a mission
-plan together, I'll add
+Sau khi tôi vạch xong
+kế hoạch, tôi sẽ gửi
 <--------------------->
 
-that information to
-the transerver.
+nó tới máy
+dịch chuyển.
 <--------------------->
 
 <p 02><d 5110><a 0B><n 04>
-Aile, you're not alone
-in the way you feel
-right now.
+Aile, cô không đơn độc
+như cô đang nghĩ đâu.
 <--------------------->
 
 <p 02><d 5210><a 0B><n 04>
-Please don't forget
-that. Get Serpent...
-for Girouette.
+Đừng quên điều đó.
+Hãy tóm lão Serpent...
+vì Girouette.
 <*********************>
 
 <FIM>
