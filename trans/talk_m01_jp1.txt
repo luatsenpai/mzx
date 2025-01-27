@@ -96,7 +96,7 @@ vẫn còn sống.
 <p 01><p 02><d FA03><a 0D><n 03>
 Tôi rất tiếc khi mẹ cậu
 đã mất sau vụ đột kích
-của lũ Phiến Quân.
+của lũ Maverick.
 <--------------------->
 
 <p 01><p 02><d FB03><a 0D><n 03>
@@ -115,7 +115,7 @@ năng lượng và bị
 <--------------------->
 bao vây bởi những cuộc
 đột kích không ngừng.
-của lũ Phiến Quân.
+của lũ Maverick.
 <--------------------->
 
 <p 01><p 02><d FD03><a 0D><n 03>
@@ -167,7 +167,7 @@ hợp của lực lượng
 <--------------------->
 
 phòng vệ hợp sức chống
-lại lũ Phiến Quân.
+lại lũ Maverick.
 <--------------------->
 
 <p 02><d 0304><a 0D><n 03>
@@ -177,7 +177,7 @@ sang nơi khác để
 <--------------------->
 
 điều tra những vụ đột
-kích của lũ Phiến Quân.
+kích của lũ Maverick.
 <--------------------->
 
 <p 02><d 0404><a 0D><n 03>
@@ -201,7 +201,7 @@ C-chuyện gì thế!?
 <--------------------->
 
 <p 02><d 0704><a 0F><n 03>
-Là lũ Phiến Quân! Làm
+Là lũ Maverick! Làm
 sao chúng tới được
 đây!?
 <*********************>
@@ -306,7 +306,7 @@ C-cái gì thế!?
 
 <p 02><d 1B04><a 07><n 01>
 Đó chắc hẳn là kẻ đã 
-cầm đầu nhóm Phiến Quân
+cầm đầu nhóm Maverick
 hồi nãy.
 <*********************>
 
@@ -660,7 +660,7 @@ Prairie!?
 <p 02><d 5904><a 02><n 04>
 Đi mà, Fleuve. Anh ta
 có thể chống lại lũ
-Phiến Quân.
+Maverick.
 <--------------------->
 
 <p 02><d 5A04><a 02><n 04>

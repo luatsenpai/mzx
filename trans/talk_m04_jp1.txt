@@ -165,7 +165,7 @@ lại có thể là chỉ huy
 
 <p 01><p 02><d B90F><a 0B><n 04>
 Những cỗ máy có ý thức
-được gọi là Phiến Quân
+được gọi là Maverick
 <--------------------->
 
 lại tiếp tục tấn công
@@ -196,7 +196,7 @@ của các đợt tấn công
 <--------------------->
 
 bất thường của
-lũ Phiến Quân.
+lũ Maverick.
 <--------------------->
 
 <p 01><p 02><d BD0F><a 0B><n 04>
@@ -260,7 +260,7 @@ có chứa dữ liệu
 
 hé lộ manh mối về
 những cuộc tấn công
-của lũ Phiến Quân.
+của lũ Maverick.
 <*********************>
 
 <p 02><d C60F><a 09><n 04>
@@ -313,7 +313,7 @@ Livemetal rồi.
 <*********************>
 
 <p 02><d CC0F><a 02><n 55>
-Phát hiện lũ Phiến Quân
+Phát hiện lũ Maverick
 ở Khu D!
 <--------------------->
 
@@ -328,7 +328,7 @@ nhiệm vụ sau.
 
 <p 02><d CE0F><a 02><n 55>
 Đã rõ! Phát hiện lũ
-Phiến Quân ở Khu D!
+Maverick ở Khu D!
 <--------------------->
 
 <p 02><d CF0F><a 02><n 55>
@@ -367,7 +367,7 @@ hành động rồi
 <p 03><d D40F><a 0F><n 03>
 "Kẻ thù"? Đó không phải
 là tấn công ngẫu nhiên
-của lũ Phiến Quân sao?
+của lũ Maverick sao?
 <--------------------->
 
 <p 02><d D50F><a 0B><n 04>
@@ -378,12 +378,12 @@ Chúng tôi phát hiện
 
 nó chứa chương trình
 điều khiển lũ
-Phiến Quân.
+Maverick.
 <--------------------->
 
 <p 02><d D60F><a 0B><n 04>
 Có một thế lực đứng
-đằng sau lũ Phiến Quân
+đằng sau lũ Maverick
 nhưng chúng cố tình
 <--------------------->
 
@@ -423,7 +423,7 @@ di chuyển để ngăn chặn
 <--------------------->
 
 cuộc đột kích của lũ
-Phiến Quân tại Khu D.
+Maverick tại Khu D.
 <*********************>
 
 <p 02><d DB0F><a 02><n 2C>
@@ -431,7 +431,7 @@ Lực lượng mặt đất
 báo cáo!
 <--------------------->
 
-Lũ Phiến Quân đang
+Lũ Maverick đang
 tiến về khu dân cư.
 <--------------------->
 
@@ -470,7 +470,7 @@ chui vào rọ!
 <p 03><d E20F><a 07><n 01>
 Tôi đã mất mẹ trong một
 vụ đột kích của lũ
-Phiến Quân...
+Maverick...
 <--------------------->
 
 <p 03><d E30F><a 07><n 01>
@@ -638,11 +638,11 @@ Megaman Lam!
 <*********************>
 
 <p 02><d 0210><a 07><n 01>
-Ông đứng sau lũ Phiến
-Quân và những chuyện
+Ông đứng sau lũ
+Maverick và những
 <--------------------->
 
-xảy ra với Sếp
+chuyện xảy ra với Sếp
 của ta sao!
 <--------------------->
 
@@ -743,13 +743,13 @@ chúng đây?
 
 <p 03><d 1210><a 14><n 0C>
 Cứ ném chúng cho lũ
-Phiến Quân rồi
+Maverick rồi
 tiếp tục theo kế hoạch.
 <--------------------->
 
 <p 03><d 1310><a 14><n 0C>
 Trận chiến khốc liệt
-giữa lũ Phiến Quân
+giữa lũ Maverick
 độc ác và
 <--------------------->
 
@@ -951,7 +951,7 @@ Không... tệ rồi đây!
 
 <p 02><d 3310><a 02><n 04>
 Vent... Trận chiến
-giữa lũ Phiến Quân
+giữa lũ Maverick
 <--------------------->
 
 và lực lượng An Ninh
@@ -1035,7 +1035,7 @@ con người.
 <p 02><d 4110><a 0B><n 04>
 Đó là nguyên nhân gây
 ra những vụ đột kích
-của lũ Phiến Quân.
+của lũ Maverick.
 <--------------------->
 
 <p 02><d 4210><a 0B><n 04>
@@ -1047,7 +1047,7 @@ thôi.
 <p 03><d 4310><a 07><n 01>
 Làm sao hắn có thể
 kiểm soát được Sếp
-và lũ Phiến Quân
+và lũ Maverick
 <--------------------->
 
 chỉ với một thứ
@@ -1137,7 +1137,7 @@ vị trí Livemetal
 <--------------------->
 
 bằng cách lợi dụng
-đám Phiến Quân.
+đám Maverick.
 <--------------------->
 
 <p 02><d 5010><a 0B><n 04>

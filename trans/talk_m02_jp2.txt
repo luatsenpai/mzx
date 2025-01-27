@@ -4,7 +4,7 @@
 <p 02><d D107><a 02><n 55>
 Có vẻ như vận chuyển
 viên Girouette đã
-bị lũ Phiến Quân
+bị lũ Maverick
 <--------------------->
 
 phục kích bất ngờ tại
@@ -35,7 +35,7 @@ Aile? Aile ơi.
 
 <p 02><d D607><a 02><n 04>
 Vụ tấn công của lũ
-Phiến Quân hồi nãy
+Maverick hồi nãy
 <--------------------->
 
 khiến tôi cảm thấy
@@ -48,7 +48,7 @@ có ẩn chứa manh mối
 nào đó về
 <--------------------->
 vụ tấn công bất ngờ
-của lũ Phiến Quân
+của lũ Maverick
 này.
 <--------------------->
 
@@ -64,7 +64,7 @@ có ẩn chứa manh mối
 nào đó về
 <--------------------->
 vụ tấn công bất ngờ
-của lũ Phiến Quân
+của lũ Maverick
 này.
 <--------------------->
 
@@ -81,7 +81,7 @@ máy tính ư?
 
 <p 02><d DC07><a 02><n 04>
 Chắc là bộ phận của lũ
-Phiến Quân rơi ra đấy.
+Maverick rơi ra đấy.
 <--------------------->
 
 <p 02><d DD07><a 02><n 04>
@@ -186,7 +186,7 @@ mấu chốt để giải mã
 <--------------------->
 những đợt công kích
 bất thường của bọn
-phiến quân.
+Maverick.
 <--------------------->
 
 <p 03><d EB07><a 08><n 02>

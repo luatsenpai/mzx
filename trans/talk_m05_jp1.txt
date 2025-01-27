@@ -17,7 +17,7 @@ một nhà máy điện ở đó.
 
 <p 02><d 8B13><a 02><n 55>
 Cơ sở này đã bị lũ
-Phiến Quân tấn công
+Maverick tấn công
 cách đây rất lâu.
 <--------------------->
 
@@ -44,7 +44,7 @@ Theo dữ liệu, hệ thống
 <--------------------->
 
 kể từ đợt lũ
-Phiến Quân tấn công.
+Maverick tấn công.
 <--------------------->
 
 <p 02><d 9013><a 02><n 04>
@@ -127,7 +127,7 @@ rời đi nguyên vẹn.
 <--------------------->
 
 <p 02><d 9D13><a 07><n 01>
-Ngươi là Phiến Quân
+Ngươi là Maverick
 dưới quyền cai trị
 của tên Serpent sao!
 <--------------------->
@@ -147,7 +147,7 @@ ta là những con rối
 <--------------------->
 
 đơn giản như đám
-Phiến Quân kia.
+Maverick kia.
 <--------------------->
 
 <p 03><d A013><a 1B><n 10>

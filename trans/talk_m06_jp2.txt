@@ -9,7 +9,7 @@ từ Khu F.
 
 <p 02><d 7217><a 02><n 55>
 Có dấu hiệu của lũ
-Phiến Quân và Livemetal
+Maverick và Livemetal
 ở gần đó.
 <--------------------->
 
@@ -18,7 +18,7 @@ Những người đã gửi
 tìn hiệu cầu cứu
 <--------------------->
 
-đang bị lũ Phiến Quân
+đang bị lũ Maverick
 khống chế.
 <--------------------->
 
@@ -250,7 +250,7 @@ Hả! Cái đĩa ngươi
 
 <p 03><d 9117><a 1A><n 0F>
 Hừ! Ta đã ra lệnh lũ
-Phiến Quân vơ vét hết
+Maverick vơ vét hết
 <--------------------->
 
 mấy thứ quan trọng

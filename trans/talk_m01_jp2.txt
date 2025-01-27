@@ -89,7 +89,7 @@ cứu được mẹ tớ.
 
 <p 01><p 03><d F803><a 08><n 02>
 Chúng tớ đã bị vây hãm
-bởi lũ Phiến Quân...
+bởi lũ Maverick...
 <--------------------->
 
 Tới tận bây giờ tớ vẫn
@@ -167,7 +167,7 @@ hợp của lực lượng
 <--------------------->
 
 phòng vệ hợp sức chống
-lại lũ Phiến Quân.
+lại lũ Maverick.
 <--------------------->
 
 <p 02><d 0304><a 0D><n 03>
@@ -177,7 +177,7 @@ sang nơi khác để
 <--------------------->
 
 điều tra những vụ đột
-kích của lũ Phiến Quân.
+kích của lũ Maverick.
 <--------------------->
 
 <p 02><d 0404><a 0D><n 03>
@@ -201,7 +201,7 @@ C-chuyện gì thế!?
 <--------------------->
 
 <p 02><d 0704><a 0F><n 03>
-Là lũ Phiến Quân! Làm
+Là lũ Maverick! Làm
 sao chúng tới được
 đây!?
 <*********************>
@@ -306,8 +306,8 @@ C-cái gì thế!?
 
 <p 02><d 1B04><a 07><n 02>
 Là rắn Mechaniloid! Nó
-đi cùng với lũ Phiến
-Quân sao!?
+đi cùng với lũ Maverick
+sao!?
 <*********************>
 
 <p 03><d 1C04><a 23><n 2B>
@@ -696,7 +696,7 @@ Không sao đâu Fleuve.
 
 Cô ấy sẽ bảo vệ 
 Livemetal khỏi bọn
-phiến quân.
+Maverick.
 <--------------------->
 
 <p 02><d 5A04><a 02><n 04>
@@ -826,7 +826,7 @@ làm trước.
 <p 02><d 6F04><a 05><n 02>
 10 năm trước, Girouette
 đã cứu mình khỏi lũ
-Phiến Quân...
+Maverick...
 <--------------------->
 
 <p 02><d 7004><a 07><n 02>
