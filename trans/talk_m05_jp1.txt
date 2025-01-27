@@ -160,8 +160,8 @@ của Livemetal.
 <--------------------->
 
 <p 03><d A113><a 1B><n 10>
-Ta là Model H
-Falseroid, Hivolt.
+Ta là Hivolt một
+Falseroid Model H.
 <--------------------->
 
 <p 03><d A213><a 1B><n 10>
@@ -219,100 +219,105 @@ sức mạnh, Model H.
 <--------------------->
 
 <p 02><d AB13><a 05><n 01>
-I have to find the
-passwords and destroy
+Tôi phải tìm ra
+mật khẩu và phá huỷ
 <--------------------->
 
-the Model V Core
-before it's too late!
+Model V trước khi
+quá muộn!
 <--------------------->
 
 <p 03><d AC13><a 33><n 07>
-Do you think that will
-end this?
+Anh nghĩ nó sẽ kết thúc
+chuyện này sao?
 <--------------------->
 
 <p 02><d AD13><a 05><n 01>
-What do you mean?
+Ý cậu là sao?
 <--------------------->
 
 <p 03><d AE13><a 33><n 07>
-All of this was started
-by a single man.
+Mọi thứ bắt nguồn
+từ một gã.
 <--------------------->
 
 <p 03><d AF13><a 33><n 07>
-Even if you destroy the
-Model V Core and stop
+Dù anh có phá huỷ Lõi
+Model V và ngăn chặn
 Serpent...
 <--------------------->
 
 <p 03><d B013><a 33><n 07>
-What's to stop another
-madman from rising up
-and taking his place?
+Điều gì có thể ngăn
+một tên điên khác
+đứng lên nắm quyền?
 <--------------------->
 
 <p 02><d B113><a 08><n 01>
-I... don't know...
+Tôi... không biết
+nữa...
 <--------------------->
 
 <p 02><d B213><a 08><n 01>
-But what I do know is
-that Serpent is about
-to destroy the world!
+Nhưng điều tôi biết
+chắc chắn là Serpent
+sắp hủy diệt thế giới!
 <--------------------->
 
 <p 02><d B313><a 07><n 01>
-I'm the only one that
-can stop it now. I
-can't give up!
+Tôi là người duy nhất
+có thể ngăn chặn
+<--------------------->
+
+điều đó lúc này. Tôi
+không thể bỏ cuộc!
 <--------------------->
 
 <p 03><d B413><a 33><n 07>
-Hmph. Those humans we
-fought so hard to
+Hừ. Những con người
+mà chúng ta đã
+chiến đấu hết mình để
 <--------------------->
 
-protect hundreds of
-years ago have been
+bảo vệ hàng trăm năm
+trước đã bị lừa dối
 <--------------------->
 
 <p 03><d B513><a 33><n 07>
-lulled into a false
-sense of security by
+bởi lời hứa suông
+về hòa bình, khiến
 <--------------------->
 
-the empty promise of
-peace.
+chúng ta rơi vào
+hoà bình ảo tưởng.
 <--------------------->
 
 <p 03><d B613><a 33><n 07>
-But I still believe our
-fight had meaning.
+Nhưng tôi tin rằng
+cuộc chiến đấu của tôi
+có ý nghĩa.
 <--------------------->
 
 <p 03><d B713><a 33><n 07>
-So, young hero, yes I
-will lend you my
-strength.
+Vậy nên, người hùng
+trẻ, tôi sẽ ban
+sức mạnh cho anh.
 <--------------------->
 
 <p 03><d B813><a 33><n 07>
-Serpent has separated
-my data into two
-halves.
+Dữ liệu của tôi đã bị
+Serpent chia thành
+hai phần.
 <--------------------->
 
-There is another
-Falseroid with the
-other part.
+Một tên Falseroid khác
+đã giữ phần còn lại.
 <--------------------->
 
 <p 03><d B913><a 33><n 07>
-If you can defeat it, I
-will be able to give
-you my password.
+Nếu anh có thể hạ
+hắn, tôi sẽ đưa
+mật khẩu cho anh.
 <*********************>
 
 <FIM>
