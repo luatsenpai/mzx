@@ -47,6 +47,7 @@ Có thể trong phế tích
 có ẩn chứa manh mối
 nào đó về
 <--------------------->
+
 vụ tấn công bất ngờ
 của lũ Maverick
 này.
@@ -63,6 +64,7 @@ Có thể trong phế tích
 có ẩn chứa manh mối
 nào đó về
 <--------------------->
+
 vụ tấn công bất ngờ
 của lũ Maverick
 này.
@@ -89,6 +91,7 @@ Nếu cô có thể mang nó
 về căn cứ. Chúng tôi
 có thể phân tích nó.
 <--------------------->
+
 Có thể đây là manh mối
 quan trọng mà chúng ta
 đang tìm kiếm.
@@ -184,15 +187,16 @@ chứ?
 Livemetal chính là
 mấu chốt để giải mã
 <--------------------->
+
 những đợt công kích
 bất thường của bọn
 Maverick.
 <--------------------->
 
 <p 03><d EB07><a 08><n 02>
-This is all so much for
-me to take in. I just
-don't know Girouette...
+Có quá nhiều thứ khiến
+tớ bối rối. Cứ như tớ
+không biết Girouette...
 <--------------------->
 
 <p 02><d EC07><a 0D><n 03>

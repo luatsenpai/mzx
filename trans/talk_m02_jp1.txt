@@ -47,6 +47,7 @@ Có thể trong phế tích
 có ẩn chứa manh mối
 nào đó về
 <--------------------->
+
 vụ tấn công bất ngờ
 của lũ Maverick
 này.
@@ -63,6 +64,7 @@ Có thể trong phế tích
 có ẩn chứa manh mối
 nào đó về
 <--------------------->
+
 vụ tấn công bất ngờ
 của lũ Maverick
 này.
@@ -89,6 +91,7 @@ Nếu anh có thể mang nó
 về căn cứ. Chúng tôi
 có thể phân tích nó.
 <--------------------->
+
 Có thể đây là manh mối
 quan trọng mà chúng ta
 đang tìm kiếm.
@@ -173,13 +176,13 @@ an toàn.
 <--------------------->
 
 <p 02><d ED07><a 0D><n 03>
-Tớ sẽ dùng thiết bị
+Tôi sẽ dùng thiết bị
 dịch chuyển để quay về
-căn cứ Vệ Binh..
+căn cứ Vệ Binh.
 <--------------------->
 
 <p 02><d EE07><a 0D><n 03>
-Tớ sẽ đợi ở đó. Hãy
+Tôi sẽ đợi ở đó. Hãy
 nhanh tới đó nhé.
 <*********************>
 
