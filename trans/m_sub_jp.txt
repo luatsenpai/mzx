@@ -1,0 +1,1262 @@
+<script_info tipo='sub' personagem='indefinido' tamanho='11991' inicio_ponteiros='4' fim_ponteiros='427' inicio_textos='428' />
+<#####################>
+
+
+Chọn Model
+<*********************>
+
+
+Hiện không thể biến hình
+<*********************>
+
+
+Về hình dáng con người
+<*********************>
+
+
+Biến hình thành Model X
+<*********************>
+
+
+Biến hình thành Model ZX
+<*********************>
+
+
+Biến hình thành Model HX
+<*********************>
+
+
+Biến hình thành Model FX
+<*********************>
+
+
+Biến hình thành Model LX
+<*********************>
+
+
+Biến hình thành Model PX
+<*********************>
+
+
+Biến hình thành Model OX
+<*********************>
+
+
+Đổi giữ vũ khí chính
+và phụ
+<*********************>
+
+
+Không thể đổi vũ khí
+với model này
+<*********************>
+
+
+Không thể trang bị
+vũ khí khi ở dạng người
+<*********************>
+
+
+Năng lượng dư thừa được
+dự trữ để dùng sau
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>30
+<*********************>
+
+
+Bình dự trữ đã cạn
+và không thể dùng
+<*********************>
+
+
+Không cần dùng bình
+dự trữ
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>29
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>28
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>27
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>26
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>25
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>24
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>23
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>22
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>21
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>20
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>19
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>18
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>17
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>16
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>15
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>14
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>13
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>12
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>11
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>10
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>9
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>8
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>7
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>6
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>5
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>4
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>3
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>2
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>1
+<*********************>
+
+
+Khôi phục năng lượng
+Năng Lượng Còn:<c 01>0
+<*********************>
+
+
+SELECT:Sửa lối bắn
+Sửa ở màn hình dưới
+<*********************>
+
+
+Chọn Sửa/Mặc Định/Thoát
+<*********************>
+
+
+Chọn vũ khí để sửa
+<*********************>
+
+
+Sắp xếp các ô vuông sao
+cho đường đạt nối liền
+<*********************>
+
+
+Không có vật phẩm
+để dùng
+<*********************>
+
+
+Dùng vật phẩm
+Phím <btn_a>:OK, Phím <btn_b>:Hủy
+<*********************>
+
+
+Hiện không cần dùng
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+Phím <btn_a>:OK, Phím <btn_b>:Hủy
+<*********************>
+
+
+Không có vật phẩm
+để trang bị
+<*********************>
+
+
+Trang bị vật phẩm
+Phím <btn_a>:OK, Phím <btn_b>:Hủy
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+Phím <btn_a>:Trang Bị
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+Phím <btn_a>:Gỡ
+<*********************>
+
+
+Không có vật phẩm
+tự động dùng
+<*********************>
+
+
+Vật phẩm tự động dùng
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+Phím <btn_b>:Lùi
+<*********************>
+
+
+Đổi bố cục phím
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+<*********************>
+
+
+Đổi cách tấn công
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+<*********************>
+
+
+Đổi cách hành động
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Kiểu
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Kiểu
+<dpad>Bàn Điều Khiển <cima>/<baixo>:Phím
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <cima>/<baixo>:Hạng mục
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Kiểu
+<*********************>
+
+
+<dpad>Bàn Điều Khiển:Lướt Bản Đồ
+<*********************>
+
+
+Có máy chủ trong khu này
+<dpad>Bàn Điều Khiển:Lướt Bản Đồ
+<*********************>
+
+
+Có 2 máy chủ trong khu này
+<dpad>Bàn Điều Khiển:Scan Khu Map
+<*********************>
+
+
+<c 01>Bánh kem
+<c 00>Một lát bánh
+sinh nhật.
+Hồi 8 điểm
+máu.
+<*********************>
+
+
+<c 01>Bình E
+<c 00>Hồi toàn bộ
+máu. Công nghệ
+tạo ra nó đã
+có từ rất lâu.
+<*********************>
+
+
+<c 01>Bình W
+<c 00>Hồi toàn bộ
+năng lượng cho
+Livemetal đang
+dùng.
+<*********************>
+
+
+<c 01>Cam
+<c 00>Một quả cam từ
+Max. Trông nó
+rất ngọt và
+mọng nước!
+Phục hồi 4
+điểm máu.
+<*********************>
+
+
+<c 01>Kẹo
+<c 00>Viên kẹo dâu
+này là phần
+thưởng từ máy
+gắp thú, hồi
+4 điểm máu.
+<*********************>
+
+
+<c 01>Bánh Mỳ
+<c 00>Bánh mì mới ra
+lò do Lucia
+làm. Hồi 6
+điểm máu.
+<*********************>
+
+
+<c 01>Táo
+<c 00>Quả táo này 
+rụng không xa
+Khu A-3. Hồi
+8 điểm máue.
+<*********************>
+
+
+<c 01>Muối Ngửi
+<c 00>Phục hồi khỏi
+tín hiệu nhiễu
+sóng vệ tinh.
+<*********************>
+
+
+<c 01>Giảm Sóc
+<c 00>Giảm bớt tác
+động và đánh
+bật khi trúng
+đạn.
+<*********************>
+
+
+<c 01>Lông Vũ
+<c 00>Giúp di chuyển
+dễ dàng trên
+các địa hình
+khó đi.
+<*********************>
+
+
+<c 01>Bộ Lặp
+<c 00>Kéo dài hiệu
+ứng bất tử
+khi bị tấn
+công.
+<*********************>
+
+
+<c 01>Nộ Nhanh
+<c 00>Giảm thời gian
+hồi chiêu nộ.
+<*********************>
+
+
+<c 01>Giày Băng
+<c 00>Dùng di chuyển
+trên băng mà
+không trượt.
+<*********************>
+
+
+<c 01>Giày Gió
+<c 00>Bám chặt bề
+mặt để tránh
+gió và lốc
+cuốn đi.
+<*********************>
+
+
+<c 01>Cóc
+<c 00>Giảm tốc độ
+trượt khi
+bám tường.
+<*********************>
+
+
+<c 01>Triệt Tiêu
+<c 00>Giúp vũ khí
+dạng kiếm
+triệt tiêu các
+đòn tấn công
+bằng năng lượng.
+<*********************>
+
+
+<c 01>Giảm Sóc
+<c 00>Giảm bớt tác
+động và đánh
+bật khi trúng
+đạn.
+(Trang Bị)
+<*********************>
+
+
+<c 01>Lông Vũ
+<c 00>Giúp di chuyển
+dễ dàng trên
+các địa hình
+khó đi.
+(Trang Bị)
+<*********************>
+
+
+<c 01>Bộ Lặp
+<c 00>Kéo dài hiệu
+ứng bất tử
+khi bị tấn
+công.
+(Trang Bị)
+<*********************>
+
+
+<c 01>Nộ Nhanh
+<c 00>Giảm thời gian
+hồi chiêu nộ.
+(Trang Bị)
+<*********************>
+
+
+<c 01>Giày Băng
+<c 00>Dùng di chuyển
+trên băng mà
+không trượt.
+(Trang Bị)
+<*********************>
+
+
+<c 01>Giày Gió
+<c 00>Bám chặt bề
+mặt để tránh
+gió và lốc
+cuốn đi.
+(Trang Bị)
+<*********************>
+
+
+<c 01>Cóc
+<c 00>Giảm tốc độ
+trượt khi
+bám tường.
+(Trang Bị)
+<*********************>
+
+
+<c 01>Triệt Tiêu
+<c 00>Giúp vũ khí
+dạng kiếm
+triệt tiêu các
+đòn tấn công
+bằng năng lượng.
+(Trang Bị)
+<*********************>
+
+
+<c 01>Hoa Kỳ Diệu
+<c 00>Loài hoa bí ẩn
+nhận từ ủy thác
+của Michelle.
+Mùi hương của
+nó rất dễ chịu.
+<*********************>
+
+
+<c 01>Gấu Bông
+<c 00>Vật này vô cùng
+quý giá đối với
+Prairie. Nó là
+chứng nhận
+hoàn thành
+thử thách.
+<*********************>
+
+
+<c 01>Tinh Thể Hồng
+<c 00>Một khoáng vật
+bí ẩn nhận từ
+Lou. Chắc chắn
+ai đó sẽ rất
+thích nó.
+<*********************>
+
+
+<c 01>Chim Lục
+<c 00>Chú chim nhỏ
+được tìm thấy
+trong rừng. Nó
+rất hiền, chắc
+là thú cưng
+của ai đó.
+<*********************>
+
+
+<c 01>Nấm
+<c 00>Nấm nhỏ hái từ
+rừng. Không nên
+ăn những loại
+nấm lạ.
+<*********************>
+
+
+<c 01>Lá thư
+<c 00>Lá thư từ
+Truite. Cần
+giao đến một
+người phụ nữ
+ở Khu C-2.
+<*********************>
+
+
+<c 01>Lá thư #2
+<c 00>Lá thư từ
+Truite. Cần
+giao đến một
+người phụ nữ
+ở Khu C-2.
+<*********************>
+
+
+<c 01>Lá thư #3
+<c 00>Lá thư từ
+Truite. Cần
+giao đến một
+người phụ nữ
+ở Khu C-2.
+<*********************>
+
+
+<c 01>Lá thư #4
+<c 00>Lá thư từ
+Truite. Cần
+giao đến một
+người phụ nữ
+ở Khu C-2.
+<*********************>
+
+
+<c 01>Lá thư #5
+<c 00>Lá thư từ
+Truite. Cần
+giao đến một
+người phụ nữ
+ở Khu C-2.
+<*********************>
+
+
+<c 01>Lá thư #6
+<c 00>Lá thư từ
+Truite. Cần
+giao đến một
+người phụ nữ
+ở Khu C-2.
+<*********************>
+
+
+<c 01>Lá thư #7
+<c 00>Lá thư từ
+Melody. Cần
+giao đến
+Truite ở Căn Cứ
+Vệ Binh.
+<*********************>
+
+
+<c 01>Túi Xách
+<c 00>Chiếc ví nhỏ
+của Luca đánh
+rơi được tìm
+thấy ở Khu B.
+Nó khá cao cấp
+với 1 đứa trẻ.
+<*********************>
+
+
+<c 01Ngọc Trai Lạnh
+<c 00>Viên ngọc trai
+này dành cho
+Raven. Nó chỉ
+sinh trưởng nơi
+đáy hồ băng.
+<*********************>
+
+
+<c 01>Đá Đặc Biệt
+<c 00>Một viên đá nhỏ
+được tìm thấy
+gần thác nước.
+Có vẻ như có
+gì đó bị kẹt
+trong đó.
+<*********************>
+
+
+<c 01>Ceratanium
+<c 00>Mảnh nhỏ này
+được tách ra từ
+một tảng đá
+bằng máy nghiền
+tại nhà máy
+điện.
+<*********************>
+
+
+<c 01>Vít A
+<c 00>Thu thập toàn
+bộ vít do
+Anguille đã làm
+rơi để anh ấy
+có thể chế tạo
+ra thứ gì đó.
+<*********************>
+
+
+<c 01>Vít B
+<c 00>Thu thập toàn
+bộ vít do
+Anguille đã làm
+rơi để anh ấy
+có thể chế tạo
+ra thứ gì đó.
+<*********************>
+
+
+<c 01>Vít C
+<c 00>Thu thập toàn
+bộ vít do
+Anguille đã làm
+rơi để anh ấy
+có thể chế tạo
+ra thứ gì đó.
+<*********************>
+
+
+<c 01>Vít D
+<c 00>Thu thập toàn
+bộ vít do
+Anguille đã làm
+rơi để anh ấy
+có thể chế tạo
+ra thứ gì đó.
+<*********************>
+
+
+<c 01>Vít E
+<c 00>Thu thập toàn
+bộ vít do
+Anguille đã làm
+rơi để anh ấy
+có thể chế tạo
+ra thứ gì đó.
+<*********************>
+
+
+<c 01>Túi Cứu Thương
+<c 00>Túi cứu thương
+này dành cho
+Muguet để giúp
+điều trị những
+người bị thương.
+<*********************>
+
+
+
+<*********************>
+
+
+<c 01>Túi Cứu Thương
+<c 00>Túi cứu thương
+này dành cho
+Muguet để giúp
+điều trị những
+người bị thương.
+<*********************>
+
+
+<c 01>Gói Năng Lượng
+<c 00>Rose muốn
+tiếp tế 
+băng lượng
+cho Muguet.
+<*********************>
+
+
+<c 01>Hòn Đá Bí Ẩn
+<c 00>Viên đá nhỏ
+được tìm thấy
+ở Khu N, nó tỏa
+ra luồng khí
+bí ẩn.
+<*********************>
+
+
+<c 01>Chip Máy Tính
+<c 00>Con Chip do lũ
+Maverick làm
+rơi ở Khu B.
+<*********************>
+
+
+<c 01>Thẻ Từ Tím
+<c 00>Chìa khóa dùng
+mở cửa tím.
+<*********************>
+
+
+<c 01>Đĩa Dữ Liệu 1
+<c 00>Đĩa dữ liệu này
+bị bỏ lại trong
+một thiết bị
+thu phát. Nó
+chứa báo cáo của
+đơn vị trinh sát
+của Đội Vệ Binh.
+<*********************>
+
+
+<c 01>Đĩa Dữ Liệu 2
+<c 00>Đĩa lấy từ
+Leganchor. Một
+phần dữ liệu
+của đội trinh
+sát nằm ở đây.
+<*********************>
+
+
+<c 01>Đĩa Dữ Liệu 3
+<c 00>Đĩa tìm thấy
+trong phòng
+Protectos. Một
+phần dữ liệu
+của đội trinh
+sát nằm ở đây.
+<*********************>
+
+
+<c 01>Thẻ Từ Vàng
+<c 00>Nhìn là cũng
+biết nó dùng
+để mở cửa
+vàng
+<*********************>
+
+
+<c 01>Thẻ Từ Lục
+<c 00>Nhìn là cũng
+biết nó dùng
+để mở cửa
+lục.
+<*********************>
+
+
+<c 01>Thẻ Từ Đỏ
+<c 00>Chắc chắn là
+nó dùng để
+mở cửa đỏ rồi.
+<*********************>
+
+
+<c 01>Thẻ Từ Lam
+<c 00>Nó dùng để mở
+cửa lam thì
+cũng không có
+gì lạ.
+<*********************>
+
+
+<c 01>Thẻ Từ Trắng
+<c 00>Không cần phải
+là thiên tài
+cũng biết nó
+mở cửa trắng.
+<*********************>
+
+
+Không có nhiệm vụ.
+<*********************>
+
+
+Nhiệm vụ:Bắt Maverick
+Vị trí:Khu A-2
+<*********************>
+
+
+Nhiệm vụ:Tìm Girouette
+Vị trí:Khu B-1/B-2
+<*********************>
+
+
+Nhiệm vụ:Làm Thử Thách
+Vị trí:Khu C-1/C-2
+<*********************>
+
+
+Nhiệm vụ:Tăng Cường Quân
+Vị trí:Khu D-2
+<*********************>
+
+
+Nhiệm vụ:Tìm Nhà Máy
+Vị trí:Khu E-7
+<*********************>
+
+
+Nhiệm vụ:Tìm Người Sống Sót
+Vị trí:Khu F
+<*********************>
+
+
+Nhiệm vụ:Đánh Maverick
+Vị trí:Khu G
+<*********************>
+
+
+Nhiệm vụ:Bảo Vệ Livemetal
+Vị trí:Khu H-4
+<*********************>
+
+
+Nhiệm vụ:Cứu Người Dân
+Vị trí:Khu I-3
+<*********************>
+
+
+Nhiệm vụ:Khôi Phục Đĩa
+Vị trí:Khu J-5
+<*********************>
+
+
+Nhiệm vụ:Tấn Công Máy Xúc
+Vị trí:Khu K-4
+<*********************>
+
+
+Nhiệm vụ:Bảo Vệ PTN
+Vị trí:Khu L-4
+<*********************>
+
+
+Nhiệm vụ:Bảo Vệ Căn Cứ
+Vị trí:Khu X (Base)
+<*********************>
+
+
+Nhiệm vụ:Chặn Khai Quật
+Vị trí:Khu M
+<*********************>
+
+
+Nhiệm vụ:Đầy Lùi
+Vị trí:Khu O
+<*********************>
+
+
+Nhiệm vụ:Tiêu Diệt Model V
+Vị trí:Khu D-4/D-5
+<*********************>
+
+
+Ủy Thác:Tìm Hoa
+Vị trí:Khu A-1
+<*********************>
+
+
+Ủy Thác:Tìm Cỏ Dại
+Vị trí:Khu C-2
+<*********************>
+
+
+Ủy Thác:Tìm Cậu Bé
+Vị trí:Khu G-1/G-2
+<*********************>
+
+
+Ủy Thác:Câu Đố
+Vị trí:Khu C-1/C-3
+<*********************>
+
+
+Ủy Thác:Lại Câu Đố
+Vị trí:Khu C-1/C-3
+<*********************>
+
+
+Ủy Thác:Dọn Hồ
+Vị trí:Khu B-4
+<*********************>
+
+
+Ủy Thác:Tìm Nấm
+Vị trí:Khu A-2
+<*********************>
+
+
+Ủy Thác:Gửi Thư
+Vị trí:Khu C-2
+<*********************>
+
+
+Ủy Thác:Lại Gửi thư
+Vị trí:Khu C-2
+<*********************>
+
+
+Ủy Thác:Lại Gửi Thư Nữa
+Vị trí:Khu C-2
+<*********************>
+
+
+Ủy Thác:Không Phải Gửi Thư
+Vị trí:Khu C-2
+<*********************>
+
+
+Ủy Thác:Đoán Xem? Gửi Thư
+Vị trí:Khu C-2
+<*********************>
+
+
+Ủy Thác:Một Lá Thư Nữa Thôi
+Vị trí:Khu C-2
+<*********************>
+
+
+Ủy Thác:Gửi Phản Hồi
+Vị trí:Khu X-1 (Base)
+<*********************>
+
+
+Ủy Thác:Tìm Túi Xách
+Vị trí:Khu B-2
+<*********************>
+
+
+Ủy Thác:Tìm Ngọc Trai
+Vị trí:Khu F-2
+<*********************>
+
+
+Ủy Thác:Tìm Hòn Đá
+Vị trí:Khu K-1
+<*********************>
+
+
+Ủy Thác:Phá Hòn Đá
+Vị trí:Khu E-4
+<*********************>
+
+
+Ủy Thác:Thu Thập Vít
+Vị trí:Khu K-3/K-4/K-5
+<*********************>
+
+
+Ủy Thác:Dọn Phòng
+Vị trí:Khu C-1
+<*********************>
+
+
+Ủy Thác:Giao Túi Cấp Cứu
+Vị trí:Khu L-1/L-2/L-3
+<*********************>
+
+
+Ủy Thác:Giao Gói Năng Lượng
+Vị trí:Khu L-1/L-2/L-3
+<*********************>
+
+
+Ủy Thác:Giao Túi Cấp Cứu
+Vị trí:Khu L-1/L-2/L-3
+<*********************>
+
+
+Ủy Thác:Giao Gói Năng Lượng
+Vị trí:Khu L-1/L-2/L-3
+<*********************>
+
+
+Nhiệm vụ:Bắt Maverick
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Tìm Girouette
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Làm Thử Thách
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Tăng Cường Quân
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Tìm Nhà Máy
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Tìm Người Sống Sót
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Đánh Maverick
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Bảo Vệ Livemetal
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Cứu Người Dân
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Khôi Phục Đĩa
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Tấn Công Máy Xúc
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Bảo Vệ PTN
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Bảo Vệ Căn Cứ
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Chặn Khai Quật
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Đầy Lùi
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Nhiệm vụ:Tiêu Diệt Model V
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Tìm Hoa
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Tìm Cỏ Dại
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Tìm Cậu Bé
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Câu Đố
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Lại Câu Đố
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Dọn Hồ
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Tìm Nấm
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Gửi Thư
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Lại Gửi thư
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Lại Gửi Thư Nữa
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Không Phải Gửi Thư
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Đoán Xem? Gửi Thư
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Một Lá Thư Nữa Thôi
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Gửi Phản Hồi
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Tìm Túi Xách
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Tìm Ngọc Trai
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Tìm Hòn Đá
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Phá Hòn Đá
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Thu Thập Vít
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Dọn Phòng
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Giao Túi Cấp Cứu
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Giao Gói Năng Lượng
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Giao Túi Cấp Cứu
+Báo cáo nhiệm vụ
+<*********************>
+
+
+Ủy Thác:Giao Gói Năng Lượng
+Báo cáo nhiệm vụ
+<*********************>
+
+<FIM>

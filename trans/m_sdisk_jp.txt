@@ -1,0 +1,1284 @@
+<script_info tipo='sdisk' personagem='indefinido' tamanho='17242' inicio_ponteiros='4' fim_ponteiros='389' inicio_textos='390' />
+<#####################>
+
+
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+Phím <btn_a>:OK, Phím <btn_b>:Hủy
+<*********************>
+
+
+<dpad>Bàn Điều Khiển: Chọn Đĩa
+Phím <btn_a>:OK, Phím <btn_b>:Hủy
+<*********************>
+
+
+Khí Cầu Mắt
+<*********************>
+
+
+Loại Robot Cơ khí này
+ban đầu được phát triển
+để ngăn chặn chim hoang
+vùng Outland phá hoại
+mùa màng. Khi hết nhu cầu
+thì chúng được trang bị
+vũ khí để xua đuổi
+kẻ thù.
+<*********************>
+
+
+Gấu Băng Giá
+<*********************>
+
+
+Gấu Bắc Cực Cơ Khí được
+trang bị các bộ phận
+làm lạnh trên cánh tay,
+giúp tạo cầu tuyết để
+ném vào kẻ thù. Dù
+nhiệt độ cánh tay giảm
+tới mức đóng băng, nhưng
+nó vẫn giữ ấm cơ thể.
+<*********************>
+
+
+Pháo Nghiêng
+<*********************>
+
+
+Bộ giáp giày của Robot
+này có thể cản phá mọi
+đòn tấn công. Vũ khí
+mạnh mẽ của nó cũng
+có thể xuyên thủng
+bất kỳ lớp giáp nào.
+Nhưng dù mạnh đến đâu
+thì cũng có điểm yếu...
+<*********************>
+
+
+Nhện Vít
+<*********************>
+
+
+Loài nhện cơ khí này sống
+trong hệ thống dây điện.
+Qua thời gian, nó đã
+tiến hóa khả năng phóng
+tia điện để bắt mồi.
+Với cảm biến hồng ngoại
+ở bụng, nó vẫn có thể
+hoạt động trong bóng tối
+<*********************>
+
+
+Chuột Bẫy
+<*********************>
+
+
+Những con chuột cơ khí
+này thường xuất hiện với
+số lượng lớn. Với
+số lượng đông đảo như vậy,
+chúng đôi khi dễ bị
+đoản mạch và phát nổ.
+<*********************>
+
+
+Pháo Điện
+<*********************>
+
+
+Khẩu pháo này có nắp đây
+bảo vệ và chỉ mở ra đủ
+lâu để bắn điện. Qua
+thời gian, nó sẽ học được
+cách dùng điện hiệu quả
+hơn.
+<*********************>
+
+
+Tôm Chèo
+<*********************>
+
+
+Robot tôm cơ khí này
+di chuyển lùi bằng cách
+đẩy nước. Nó sử dụng
+ăng-ten để dò tìm kẻ địch
+và sẽ khai hỏa khi ở
+trong tầm bắn. Phần thân
+như báng súng hoạt động
+giống tuabin đẩy.
+<*********************>
+
+
+Ốc Tiêu Điện 
+<*********************>
+
+
+Loài ốc cơ khí này sống
+gần khu vực nhiều sấm
+và có đôi chân với lực hút
+mạnh giúp chúng bám ngược
+trên bề mặt.
+<*********************>
+
+
+ECO Tự Động
+<*********************>
+
+
+Khi bị tấn công, con Robot
+này sẽ phun lửa khắp
+khu vực xung quanh.
+Ban đầu, nó được thiết kế
+để đốt rác, nhưng giờ đây
+đang bị sử dụng cho
+mục đích xấu.
+<*********************>
+
+
+POP Tự Động
+<*********************>
+
+
+Robot này được thiết kế
+như máy bán hàng tự động,
+nhưng sau khi sửa chữa
+thì nó thành vũ khí kỳ dị
+luôn bắn đồ ăn vào kẻ thù.
+<*********************>
+
+
+Sên Trực Thăng
+<*********************>
+
+
+Sên Trực Thăng bắn đạn
+theo hai hướng. Cánh quạt
+của nó là những lưỡi dao
+sắc bén, có thể cắt
+bất cứ thứ gì tiếp xúc
+với chúng.
+<*********************>
+
+
+Máy Bắn Bóng
+<*********************>
+
+
+Máy Bắn Bóng bắn ra những
+quả bóng hình tròn có thể
+nảy trên bề mặt. Khi bóng
+dừng lại thì nó sẽ nổ ra
+nhiều quả bóng nhỏ hơn.
+<*********************>
+
+
+Galleon Có Cánh
+<*********************>
+
+
+Galleon này gắn bộ cánh
+ở lưng. Nó có thể bay
+tự do trên không và
+tấn công bằng súng.
+Khung sườn của nó nhẹ
+hơn rất nhiều so với
+Galleon thông thường để
+hỗ trợ việc bay.
+<*********************>
+
+
+Galleon Thiết Giáp
+<*********************>
+
+
+Galleon này được bảo vệ
+bởi lớp thiết giáp.
+Nó có một cửa sập để
+phóng tên lửa bazooka và
+bắn đạn từ khe hở. Nếu
+Galleon bên trong chết
+thì lớp thiết giáp cũng
+sẽ bị phá hủy.
+<*********************>
+
+
+Galleon Lái Xe
+<*********************>
+
+
+Galleon này cưỡi một
+chiếc xe chạy bằng
+động cơ nước và được cấp
+khí nén từ một cái ống để
+lặn sâu. Nếu cái ống đó
+bị vỡ, thì xe sẽ bị áp lực
+nước đè bẹp.
+<*********************>
+
+
+Galleon Mỏ Hàn
+<*********************>
+
+
+Galleon này được trang bị
+một bộ đốt phản lực trên
+vai. Khi nhiên liệu
+cạn kiệt, nó sẽ hạ xuống
+và chờ sạc lại năng lượng.
+Nó được trang bị lớp chắn
+nhiệt đặc biệt để chống lại
+nhiệt độ cao.
+<*********************>
+
+
+Galleon Thợ Săn
+<*********************>
+
+
+Đây là mẫu Galleon cơ bản
+được trang bị súng
+phá giáp. Nó được
+lập trình để tuân lệnh
+và hoàn thành nhiệm vụ
+bằng mọi giá.
+<*********************>
+
+
+Galleon Lướt Ván
+<*********************>
+
+
+Đơn vị này được huấn luyện
+để xử lý các tính năng
+đặc biệt của nó. Chúng bắn
+một quả bazooka vên trên
+và một quả buster bên dưới.
+Có hai động cơ phản lực
+gắn trên ván trượt.
+<*********************>
+
+
+Pháo Bay
+<*********************>
+
+
+Pháo Bay này bay lên bay
+xuống trong không trung
+đồng thời bắn đạn hai bên.
+Nếu phá hủy khẩu pháo,
+phần đế bay lơ lửng
+còn lại có thể dùng làm
+chỗ đứng.
+<*********************>
+
+
+Bóng Thép
+<*********************>
+
+
+Con robot bảo vệ bay lượn
+này có thể bắn lên xuống
+hoặc trái phải. Nếu bị
+tấn công mạnh, nó sẽ bị
+hất tung.
+<*********************>
+
+
+Dế Máy
+<*********************>
+
+
+Dế Máy này nhảy lung tung.
+Nghe nóicó lần bùng phát
+dịch bệnh, mấy con này
+nhảy loạn xạ làm chết
+hàng trăm người, nên
+giờ ai cũng sợ.
+<*********************>
+
+
+Vệ Tinh Cảm Biến
+<*********************>
+
+
+Bộ lắp ráp robot này do
+Tập đoàn Serpent tặng cho
+trường học trên toàn quốc.
+Chúng không cần keo dán
+hay dụng cụ để lắp ráp và
+dễ dàng vứt bỏ.
+<*********************>
+
+
+Bánh Xe Gai
+<*********************>
+
+
+Vũ khí này được chế tạo
+từ 30 lốp xe tái chế và
+gắn 8 mũi nhọn nguy hiểm.
+Những mũi nhọn này cho
+phép nó lăn bất cứ đâu,
+bất kể địa hình.
+<*********************>
+
+
+Lò Xo Máy
+<*********************>
+
+
+Robot bảo vệ cơ khí này
+sử dụng hệ thống lò xo
+mạnh mẽ để nhảy liên tục.
+Nó được trang bị hệ thống
+ổn định đặc biệt giúp
+cân bằng.
+<*********************>
+
+
+Mỏ Neo Xích
+<*********************>
+
+
+Gai nhọn ở cuối dây xích
+của Robot này bám vào
+bề mặt và phóng ra một
+dòng điện mạnh vào
+mục tiêu. Có thể nắm lấy
+dây xích hoặc sử dụng nó
+như chỗ đứng.
+<*********************>
+
+
+Súng Phóng Đậu
+<*********************>
+
+
+Robot này áp dụng nguyên lý
+đòn bẩy. Nếu nó tích lũy đủ
+năng lượng, những tảng đá
+lửa mà nó phóng đi đủ sức
+xuyên thủng tường và gây ra
+vụ nổ khi va chạm.
+<*********************>
+
+
+Thằn Lằn Thiết Giáp
+<*********************>
+
+
+Con thằn lằn cơ khí này
+phóng những chiếc gai
+trên lưng như tên lửa.
+Bình thường nó khá hiền,
+nhưng nếu cảm thấy bị
+đe dọa, nó sẽ phản ứng
+dữ dội.
+<*********************>
+
+
+Khoan Lá Chắn
+<*********************>
+
+
+Con robot hình mũi khoan
+này liên tục xoay tròn
+với tốc độ cao. Nó có th
+tạo ra một lá chắn để
+chặn các đòn tấn công
+của kẻ thù, nhưng nó dễ
+mất kiểm soát.
+<*********************>
+
+
+Hươu Máy
+<*********************>
+
+
+Robot cao lớn này được
+cấu tạo bởi ba bộ phận
+chính: đầu, cổ và thân.
+Bên trong thân chứa một
+bộ phận có khả năng
+tái sinh các bộ phận
+bị hỏng.
+<*********************>
+
+
+Robot Tuần Tra
+<*********************>
+
+
+Robot bảo vệ này được
+thiết kế và phát triển bởi
+Tập đoàn Serpent. Nó đội
+mũ bảo hiểm và xuất hiện
+với số lượng lớn nhờ
+sản xuất hàng loạt.
+<*********************>
+
+
+Măng Ẩn Sĩ
+<*********************>
+
+
+Loài thực vật cơ khí được
+tìm thấy trong các khu rừng
+của Innerpeace. Hệ thống rễ
+của nó vô cùng sâu rộng,
+đến mức có tin đồn rằng
+tất cả các rễ đều kết nối
+với một nguồn duy nhất.
+<*********************>
+
+
+Ong Hỏa tiễn
+<*********************>
+
+
+Đám robot ong này rất
+bảo vệ lãnh thổ của chúng.
+Chúng thường di chuyển
+theo nhóm và sẵn sàng
+hy sinh cho nhau. Đôi khi,
+chúng sẽ kết hợp sức nóng
+của mình để phát nổ.
+<*********************>
+
+
+Cầu Xoáy 38
+<*********************>
+
+
+Nó phun lửa khi quay tròn
+với tốc độ cao. Lực quay 
+được tạo ra bởi một
+thiết bị truyền động
+bên trong. Nếu bị va chạm
+mạnh, nó sẽ văng ra
+khỏi dây và rất nguy hiểm.
+<*********************>
+
+
+Cầu Xoáy 44
+<*********************>
+
+
+Robot này chuyển động lên
+xuống trên một sợi dây
+kim loại. Nó dựa trên món
+đồ chơi mà con của nhà
+thiết kế thường chơi. Nó
+được tạo ra như tác phẩm
+nghệ thuật, nhưng giờ nó
+đã trở thành vũ khí.
+<*********************>
+
+
+Ốc Tiêu Lửa
+<*********************>
+
+
+Loài ốc cơ khí này có
+đôi chân với lực hút mạnh
+giúp chúng bám ngược trên
+bề mặt. Với một chút
+chỉnh sửa, cỗ máy nóng
+bỏng này đã trở thành
+bếp lò di động.
+<*********************>
+
+
+Rùa Máy
+<*********************>
+
+
+Loài rùa biển cơ khí này
+sử dụng vây để nổi trên
+mặt nước. Nó tự vệ khỏi
+kẻ thù bằng cách thả bom
+khi bơi xung quanh.
+<*********************>
+
+
+Tượng Hoảng Hốt
+<*********************>
+
+
+Robot này được thiết kế dựa
+trên 1 bức tượng điêu khắc
+khổng lồ. Nó bắn ra điện
+lan truyền trên mặt đất. 
+Trước đây, nó từng phát ra
+tiếng cười kỳ lạ, nhưng
+vì quá ghê nên chức năng
+đó đã bị loại bỏ.
+<*********************>
+
+
+Tượng Nóng chảy
+<*********************>
+
+
+Robot này là mẫu thứ 2 
+được thiết kế dựa trên
+1 bức tượng điêu khắc
+khổng lồ. Mẫu đặc biệt này
+phun lửa và sẽ thiêu đốt
+bất kỳ kẻ thù nào đến gần.
+Nhiều kỹ sư đã mất mạng
+trong giai đoạn thiết kế.
+<*********************>
+
+
+Tượng Băng Giá
+<*********************>
+
+
+Robot này là mẫu thứ 3
+được thiết kế dựa trên
+1 bức tượng điêu khắc
+khổng lồ. Nó bắn ra
+những khối băng khi kẻ thù
+đến gần và sẽ buồn khi
+không có ai ở gần.
+<*********************>
+
+
+Ruồi Trực Thăng
+<*********************>
+
+
+Những Robot này thường
+hoạt động theo nhóm ba và
+sẽ thay đổi đội hình của
+chúng để cố gắng làm
+đối phương bối rối trong
+khi chúng lao vào tấn công.
+<*********************>
+
+
+Dơi Máy
+<*********************>
+
+
+Những Robot dơi này có
+xu hướng xuất hiện bất ngờ
+và tập trung tấn công vào
+kẻ địch suy yếu. Có một
+truyền thuyết đô thị cho
+rằng những địa điểm chúng
+tụ tập đều bị nguyền rủa.
+<*********************>
+
+
+Pháo Chớp
+<*********************>
+
+
+Khẩu pháo này đã được
+cải tiến rất nhiều để
+tăng tốc độ bắn và tốc độ
+làm nguội. Lỗi chính của
+thiết kế này là nó quá
+nặng nên không thể
+di chuyển được.
+<*********************>
+
+
+Pháo Nổi
+<*********************>
+
+
+Khẩu pháo này có 2 lỗ bắn.
+Nếu kẻ địch đến gần, nó sẽ
+sử dụng khả năng lơ lửng
+để chạy trốn, nhưng nó
+nhanh hết năng lượng. Nó
+bắn 1 phát đạn đặc biệt,
+sau đó vỡ thành 3 phát đạn
+nhỏ hơn.
+<*********************>
+
+
+Cá Bo
+<*********************>
+
+
+Cá Robot này ăn vi sinh vật,
+chuyển hóa chúng thành
+năng lượng, và điều này giúp
+làm sạch nước, khiến nó khá
+thân thiện với môi trường.
+Tuy nhiên, nó không hề
+thân thiện với những kẻ thù
+xâm nhập lãnh thổ của nó.
+<*********************>
+
+
+Tảo Hải Quân
+<*********************>
+
+
+Robot này được thiết kế 
+như một vũ khí. Nó được
+tạo ra để cản trở kẻ địch
+dưới nước và dựa trên một
+sinh vật đã tuyệt chủng
+từ lâu.
+<*********************>
+
+
+Chuồn Chuồn Máy
+<*********************>
+
+
+Những Robot chuồn chuồn này
+có xu hướng di chuyển theo
+nhóm và hoạt động như
+lính canh. Chúng bắt đầu
+lao đi xung quanh khi
+cảm nhận được kẻ địch và
+truyền hình ảnh đến một
+vị trí khác.
+<*********************>
+
+
+Remettaur
+<*********************>
+
+
+Một nhà máy bắt đầu sản xuất
+những robot đặc biệt này
+theo yêu cầu của Tập đoàn
+Serpent. Mũ giáp giúp bào vệ
+chúng, khi phát nổ chúng
+sẽ giải phóng các phiên bản
+nhỏ hơn chạy xung quanh và
+phát nổ.
+<*********************>
+
+
+Bướm Nữ Hoàng
+<*********************>
+
+
+Con Robot hoang dã này sống
+ở những khu vực băng giá.
+Nó hầu như vô hại và
+người ta thường hay bắt
+chúng lại để trưng bày.
+<*********************>
+
+
+Bướm Lá
+<*********************>
+
+
+Robot này ngụy trang thành
+một chiếc lá. Nó có thể
+ẩn mình trong tán lá,
+nhưng sẽ hợp sức với những
+Robot khác để xua đuổi các
+mối đe dọa. Đôi cánh của
+chúng sắc bén và có thể
+gây ra sát thương lớn.
+<*********************>
+
+
+Lăng Kính 
+<*********************>
+
+
+Những thực thể bí ẩn này là
+kết quả của quá trình
+nghiên cứu công nghệ cổ đại.
+Các thí nghiệm đã thất bại
+và dẫn đến sự xuất hiện của
+những kẻ gây rối này. Chúng
+hành động hung hăng khi
+phát hiện kẻ thù.
+<*********************>
+
+
+Máy Bay Dơi
+<*********************>
+
+
+Cỗ máy bay khổng lồ này thả
+những khẩu pháo nảy từ
+khoang chở hàng của nó. Nó
+không bao giờ hạ cánh, nến
+khó tấn công trực diện.
+<*********************>
+
+
+Omega
+<*********************>
+
+
+Repliroid bí ẩn này được
+tìm thấy trong một số
+di tích cổ. Người ta đồn
+rằng nó đã bị tiêu diệt
+bởi một chiến binh đỏ
+huyền thoại.
+<*********************>
+
+
+Giga Aspis
+<*********************>
+
+
+Loài Rắn Cơ Khí này được
+kết hợp từ nhiều bộ phận lớn.
+Cơ thể nó được bao phủ bởi
+lớp giáp đặc biệt có thể
+phản đòn mọi tấn công.
+Điểm yếu duy nhất của nó
+là đầu.
+<*********************>
+
+
+Girouette (Model Z)
+<*********************>
+
+
+Girouette đã biến hình nhờ
+sức mạnh của Model Z. Cậu ta
+đã bị Serpent khống chế và
+bị lợi dụng cho mục đích
+xấu xa.
+<*********************>
+
+
+Serpent (Dạng 1)
+<*********************>
+
+
+Serpent biến hình thành dạng
+chiến đấu với sức mạnh từ
+mảnh Livemetal Model V.
+Những chiếc sừng màu cam
+đặc trưng của Model V
+xuất hiện trên đầu, vai
+và chân hắn.
+<*********************>
+
+
+Serpent (Dạng 2)
+<*********************>
+
+
+Dạng hình của Serpent sau khi
+bị Mô hình V hấp thụ. Hắn
+tiếp tục biến đổi sâu hơn
+khi chịu sát thương.
+<*********************>
+
+
+Purprill
+<*********************>
+
+
+Mandroid Purprill. Một nửa
+dữ liệu Model P được chứa
+trong đôi tay khổng lồ của
+hắn.
+<*********************>
+
+
+Hivolt
+<*********************>
+
+
+Raptoroid Hivolt. Một nửa
+dữ liệu Model H được chứa
+trong đôi cánh của hắn.
+<*********************>
+
+
+Hurricaune
+<*********************>
+
+
+Wolveroid Hurricaune. Một
+nửa dữ liệu Model H được
+chứa trong cổ của hắn.
+<*********************>
+
+
+Pandora
+<*********************>
+
+
+Người phụ nữ bí ẩn luôn
+đồng hành cùng Prometheus.
+Cô ta thuần thục sức mạnh
+của sấm sét và băng giá.
+Cô ta thích tấn công từ xa.
+<*********************>
+
+
+Fistleo
+<*********************>
+
+
+Predatoroid Fistleo. Một
+nửa dữ liệu Model F được
+chứa trong đầu của hắn.
+<*********************>
+
+
+Flammole
+<*********************>
+
+
+Moleroid Flammole. Một
+nửa dữ liệu Model F được
+chứa trong cánh tay mạnh mẽ
+của hắn.
+<*********************>
+
+
+Protectos
+<*********************>
+
+
+Goreroid Protectos. Một
+nửa dữ liệu Model P được
+chứa trong cái bụng lớn
+của hắn.
+<*********************>
+
+
+Prometheus
+<*********************>
+
+
+Người đàn ông bí ẩn luôn
+đi cùng Pandora. Hắn thuần
+thục cả những đòn tấn công
+thường lẫn tấn công lửa.
+Cây lưỡi hái khổng lồ hắn
+sử dụng còn lớn hơn cả
+cơ thể hắn.
+<*********************>
+
+
+Lurerre
+<*********************>
+
+
+Abysroid Lurerre. Một
+nửa dữ liệu Model L được
+chứa trong cái bẫy mà cô ta
+sử dụng.
+<*********************>
+
+
+Leganchor
+<*********************>
+
+
+Gelroid Leganchor. Một
+nửa dữ liệu Model L được
+chứa trong đầu của hắn.
+<*********************>
+
+
+Rồng Cơ Khí
+<*********************>
+
+
+Robot này thuộc sở hữu của
+một cá nhân giàu có.
+Vài ngày sau khi mua, nó
+bị nhiễm virus, bắt đầu
+ành động kỳ lạ và đã bị
+loại bỏ. Nó được trang bị
+một tia laser phân tán
+trong miệng.
+<*********************>
+
+
+Đại Bàng Đá
+<*********************>
+
+
+Robot này thuộc sở hữu của
+một cá nhân giàu có. Nó được
+lập trình để tuân lệnh
+chủ nhân, nhưng đã bỏ trốn
+và mất tích. Đôi cánh của nó
+giống những chiếc quạt
+khổng lồ có thể phóng ra. 
+<*********************>
+
+
+Galleon Cánh Vàng
+<*********************>
+
+
+Một phiên bản cải tiến của
+Galleon Có Cánh đã được dùng
+trong trận chiến tấn công
+căn cứ Vệ Binh. Nó có thêm
+chức năng tấn công độc quyền,
+chẳng hạn như bình nitro.
+<*********************>
+
+
+Ruồi Chúa
+<*********************>
+
+
+Robot khổng lồ hình ruồi
+này được điều khiển từ xa.
+Nó sử dụng loại nhiên liệu
+hóa học đặc biệt gọi là
+Methanhydrate và chỉ mới
+được đưa vào sản xuất
+gần đây với số lượng
+hạn chế.
+<*********************>
+
+
+Máy Nghiền
+<*********************>
+
+
+Robot này ban đầu được
+thiết kế để nghiền đá, nhưng
+đã được cải tiến thành vũ khí.
+Nó khá nặng, nhưng một khi
+bắt đầu di chuyển, nó có thể
+đạt tốc độ đáng kinh ngạc
+<*********************>
+
+
+Sư Tử Bay
+<*********************>
+
+
+Robot này từng thuộc sở hữu
+của một người giàu có. Một
+tháng sau khi mua, tất cả
+các chức năng đều ngừng
+hoạt động và nó đã bị vứt bỏ.
+Nó có ba bộ mạch logic và
+các bộ phận của nó có thể
+hoạt động độc lập.
+<*********************>
+
+
+Tentalamia
+<*********************>
+
+
+Robot này có khả năng kéo dài
+xúc tu từ bốn lỗ trên cơ thể
+để tấn công đối thủ. Đã có
+trường hợp nó hút sinh lực
+của các nạn nhân, do đó cần
+hết sức cẩn thận khi tiếp cận.
+<*********************>
+
+
+Powmettaur
+<*********************>
+
+
+Mettaur khổng lồ này
+di chuyển bằng cách nhảy
+xung quanh mặc dù kích thước
+của nó rất lớn. Nó được
+thiết kế như một linh vật
+công viên giải trí, nhưng
+cuối cùng đã được chuyển đổi
+thành Robot.
+<*********************>
+
+
+Quỷ Dung Nham
+<*********************>
+
+
+Không đòn tấn công nào có thể
+xuyên thủng lớp magma bao
+quanh Repliroid này. Nó bị mù,
+nhưng có thể phát hiện kẻ thù
+qua chuyển động. Khi phát hiện
+kẻ thù, nó có thể biến hình
+thành nhiều dạng khác nhau
+để tấn công.
+<*********************>
+
+
+Hareng
+<*********************>
+
+
+Anh ta luôn phải là người
+giỏi nhất trong mọi việc.
+Hareng cố gắng thể hiện
+vẻ ngoài ngầu lòi, nhưng khi
+gặp áp lực, anh ta thường mất
+kiểm soát và lộ rõ bản chất.
+<*********************>
+
+
+Anguille
+<*********************>
+
+
+Anh ấy khá là trầm tính,
+nhưng lại rất biết cách làm
+người khác thấy thoải mái
+và tự tin. Anh ấy phụ việc
+cho thợ máy Silure. Anh ấy
+cũng dễ xúc động, và đặc biệt
+là khi ở gần phụ nữ, anh ấy
+hay thích thể hiện.
+<*********************>
+
+
+Điều Hành
+<*********************>
+
+
+Ba người này phụ trách
+điều hành Căn cứ Vệ binh.
+Họ là (từ trái sang phải):
+Gardénia, Tulip và
+Marguerite.
+<*********************>
+
+
+Vệ Binh
+<*********************>
+
+
+Đây là những Vệ Binh thường
+gặp. Họ có thể giống nhau,
+nhưng mỗi người lại có một
+cá tính riêng khi bạn
+tiếp xúc với họ.
+<*********************>
+
+
+Carrelet
+<*********************>
+
+
+Anh ấy đam mê công việc và
+không chấp nhận sự thiếu
+nghiêm túc. Anh ấy tuyệt đối
+tin vào logic, và vì vậy,
+anh ấy khó lòng hòa hợp với
+Anguille, người sống thiên
+về cảm xúc.
+<*********************>
+
+
+Congre
+<*********************>
+
+
+Anh ấy rất dễ bị giật mình
+và được giao canh gác một
+trong bảy điều bí ẩn lớn
+của Đội Vệ binh.
+<*********************>
+
+
+Sardine
+<*********************>
+
+
+Cậu bé là Repliroid duy nhất
+trong Đội vệ Binh. Cậu bé
+lúc nào cũng chơi với món
+đồ chơi do Silure làm cho.
+<*********************>
+
+
+Silure
+<*********************>
+
+
+Ông ấy là thợ máy chính và
+là sếp của Anguille. Ông ấy
+bận rộn, nhưng luôn sẵn lòng
+lắp ráp đồ chơi vào
+thời gian rảnh. Fleuve
+đôi khi tìm đến ông ấy để
+xin ý kiến.
+<*********************>
+
+
+Girouette
+<*********************>
+
+
+Người thanh niên này là chủ
+sở hữu công ty vận tải riêng
+của mình, Chuyển Phát Nhanh
+Girouette. Anh ấy chăm sóc
+những đứa trẻ mồ côi và là
+người thông minh, chín chắn
+trước tuổi.
+<*********************>
+
+
+Scombrésoce
+<*********************>
+
+
+Anh ta có xu hướng xen vào
+chuyện không phải của mình,
+và điều này chẳng giúp
+anh ta được lòng những
+Vệ Binh khác. Mặc dù có
+điểm xấu này, anh ta luôn
+lịch thiệp với phụ nữ.
+<*********************>
+
+
+Cédre
+<*********************>
+
+
+Dù đôi lúc hơi khó chịu,
+nhưng cô ấy thật lòng
+quan tâm đến mọi người.
+Chỉ có điều, cô ấy dễ bị
+kích động. Vì vậy, Prairie
+đã quyết định điều cô ấy đến
+Căn cứ Vệ Binh để tránh những
+rắc rối có thể xảy ra.
+<*********************>
+
+
+Serpent
+<*********************>
+
+
+Vị chủ tịch nổi tiếng của
+Tập đoàn Serpent này được
+coi là một anh hùng dân tộc
+vì cách ông xử lý cuộc
+khủng hoảng năng lượng và
+đợt bùng phát của Maverick.
+<*********************>
+
+
+Truite
+<*********************>
+
+
+Anh ta chậm chạp và quá
+cẩn thận trong mọi việc.
+Mặc dù chu đáo, anh ta lại
+hay bị rối khi nói chuyện
+với người khác. Tuy vậy,
+chẳng ai nỡ nói cho anh ta
+biết anh ta sai..
+<*********************>
+
+
+Thon
+<*********************>
+
+
+Người to xác nhất Đội
+Vệ Binh. Tuy to xác thế
+nhưng anh ta lại sợ
+Prairie.
+<*********************>
+
+
+Fleuve
+<*********************>
+
+
+Anh ta là nhà nghiên cứu tại
+Căn cứ Vệ Binh. Anh ta rất
+ham học và luôn thích
+đọc sách mỗi khi có
+thời gian rảnh.
+<*********************>
+
+
+Prairie
+<*********************>
+
+
+Nữ chỉ huy thứ hai của đội
+Vệ binh. Cô ấy rất
+trân trọng con gấu bông mà
+vị chỉ huy đầu tiên đã
+tặng cho cô ấy.
+<*********************>
+
+
+Gấu Bông
+<*********************>
+
+
+Con gấu bông dễ thương này
+là một món quà từ chỉ huy
+Vệ binh đầu tiên cho
+Prairie. Nó đã từng đẹp hơn
+nhiều và đặc biệt là lưng
+của nó có nhiều vết khâu.
+<*********************>
+
+
+Người Dân Trong Thành Phố
+<*********************>
+
+
+Những người này sống tự do
+dưới sự bảo vệ của Tập Đoàn
+Serpent. Họ rất cảnh giác
+với những người lạ mặt và
+ít nói chuyện với người lạ.
+<*********************>
+
+
+Muguet
+<*********************>
+
+
+Cô ấy phụ trách cơ sở y tế
+tại Căn cứ Vệ Binh. Cách
+cô ấy tiếp xúc với bệnh nhân
+hơi cứng nhắc, nhưng
+phương pháp điều trị của
+cô ấy thì trên cả tuyệt vời.
+<*********************>
+
+
+Rose
+<*********************>
+
+
+Cô là trợ lý nhút nhát của
+Muguet. Người ta thường nghĩ
+là cô ít nói, nhưng chỉ cần
+ai đó làm cô ấy mở lòng
+được thì cô ấy sẽ nói
+liên tục.
+<*********************>
+
+
+Đĩa bí mật này vẫn chưa
+được giải mã.
+<*********************>
+
+<FIM>

@@ -1,0 +1,67 @@
+<script_info tipo='back' personagem='indefinido' tamanho='449' inicio_ponteiros='4' fim_ponteiros='31' inicio_textos='32' />
+<#####################>
+
+
+Không có dữ liệu
+<*********************>
+
+
+Dữ liệu hỏng
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <cima>/<baixo>:Chọn
+Phím <btn_a>:Lưu, Phím <btn_b>:Hủy
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <cima>/<baixo>:Chọn
+Phím <btn_a>:Nạp, Phím <btn_b>:Hủy
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <cima>/<baixo>:Chọn
+Phím <btn_a>:Xóa, Phím <btn_b>:Hủy
+<*********************>
+
+
+Lưu đè dữ liệu này?
+  Có    Không
+<*********************>
+
+
+Nạp dữ liệu này?
+  Có    Không
+<*********************>
+
+
+Xóa dữ liệu này?
+  Có    Không
+<*********************>
+
+
+Đã lưu dữ liệu
+<*********************>
+
+
+Đã nạp dữ liệu
+<*********************>
+
+
+Đã xóa dữ liệu
+<*********************>
+
+
+Lưu dữ liệu thất bại
+<*********************>
+
+
+Đang lưu dữ liệu...
+Không được tắt nguồn.
+<*********************>
+
+
+Xóa dữ liệu thất bại
+<*********************>
+
+<FIM>
