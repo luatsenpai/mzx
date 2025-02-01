@@ -2,7 +2,7 @@
 <#####################>
 
 <p 02><d D107><a 02><n 55>
-Có vẻ như vận chuyển
+Có vẻ như chuyển phát
 viên Girouette đã
 bị lũ Maverick
 <--------------------->
@@ -210,8 +210,8 @@ là tùy cậu.
 <--------------------->
 
 <p 02><d ED07><a 0D><n 03>
-Tớ sẽ dùng thiết bị
-dịch chuyển để quay về
+Tớ sẽ dùng Trạm
+Trung Chuyển để quay về
 căn cứ Vệ Binh.
 <--------------------->
 
@@ -231,8 +231,8 @@ tốt rồi.
 <--------------------->
 
 <p 02><d F007><a 02><n 04>
-Hãy đến thiết bị
-dịch chuyển ở
+Hãy đến Trạm
+Trung Chuyển ở
 phòng trong và chọn
 <--------------------->
 

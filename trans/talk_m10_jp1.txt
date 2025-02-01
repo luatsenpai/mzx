@@ -122,7 +122,7 @@ cơn ác mộng này!
 <p 02><d 943E><a 09><n 04>
 Dữ liệu về nhiệm vụ
 cuối cùng đã thêm vào
-Thiết Bị Dịch Chuyển.
+Trạm Trung Chuyển.
 <--------------------->
 
 <p 02><d 953E><a 09><n 04>

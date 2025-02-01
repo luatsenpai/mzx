@@ -12,8 +12,8 @@ dịch chuyển tới Căn Cứ.
 <--------------------->
 
 <p 02><d A30F><a 02><n 18>
-Dùng thiết bị
-dịch chuyển để đi tới
+Dùng Trạm
+Trung Chuyển để đi tới
 đó.
 <*********************>
 
@@ -268,7 +268,7 @@ Phòng thí nghiệm của
 Fleuve nằm ngay cạnh
 <--------------------->
 
-thiết bị dịch chuyển.
+Trạm Trung Chuyển.
 <--------------------->
 
 <p 02><d C70F><a 09><n 04>
@@ -530,8 +530,8 @@ Nào, Vent, đi thôi!
 <*********************>
 
 <p 03><d EE0F><a 23><n 2C>
-Hả? Lại thêm một người
-vận chuyển nữa sao?!
+Hả? Lại thêm một chuyển
+phát viên nữa sao?!
 <--------------------->
 
 <p 03><d EF0F><a 23><n 2C>
@@ -1145,8 +1145,8 @@ Sau khi tôi vạch xong
 kế hoạch, tôi sẽ gửi
 <--------------------->
 
-nó tới máy
-dịch chuyển.
+nó tới Trạm
+Trung Chuyển.
 <--------------------->
 
 <p 02><d 5110><a 0B><n 04>

@@ -198,24 +198,24 @@ Căn Cứ rồi.
 <*********************>
 
 <p 02><d D50B><a 2C><n 20>
-Hahaha! Tìm thấy tôi
+Hahaha! Tìm thấy anh
 thì cũng khá đấy!
 <--------------------->
 
 <p 02><d D60B><a 2C><n 20>
-Giá mà chúng tôi có
-những người như anh
+Giá mà bọn anh có
+những người như nhóc
 trong đội Vệ Binh.
 <--------------------->
 
 <p 02><d D70B><a 2C><n 20>
-Nhưng làm vận chuyển
-chắc hẳn là bận rộn
+Nhưng làm chuyển phát
+viên chắc hẳn là bận rộn
 lắm nhỉ.
 <--------------------->
 
 <p 02><d D80B><a 2C><n 20>
-Tôi phải quay về rồi.
+Anh phải quay về rồi.
 Hẹn gặp lại!
 <*********************>
 
@@ -261,8 +261,8 @@ của anh đã kết thúc.
 <--------------------->
 
 <p 02><d E00B><a 23><n 2E>
-Có một thiết bị
-dịch chuyển ở căn
+Có một Trạm
+Trung Chuyển ở căn
 phòng phía sau tôi đấy.
 <*********************>
 

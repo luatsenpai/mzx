@@ -285,8 +285,8 @@ Hạ vũ khí xuống.
 <*********************>
 
 <p 03><d 1704><a 09><n 04>
-Cô là người vận
-chuyển?
+Cô là chuyển phát
+viên?
 <*********************>
 
 <p 02><d 1804><a 05><n 02>
@@ -478,8 +478,8 @@ Tôi là Prairie.
 
 <p 03><d 3804><a 06><n 02>
 Và tôi là Aile. Hôm nay
-tôi sẽ là người vận
-chuyển của cô!
+tôi sẽ là chuyển phát
+viên của cô!
 <--------------------->
 
 <p 03><d 3904><a 05><n 02>
@@ -549,8 +549,8 @@ trước phải không?
 <*********************>
 
 <p 02><d 4304><a 05><n 02>
-Tôi là người vận
-chuyển, đây là gói
+Tôi là chuyển phát
+viên, đây là gói
 hàng của anh.
 <--------------------->
 
@@ -595,8 +595,8 @@ Này, ông có trông thấy
 Girouette? Lẽ ra phải
 <--------------------->
 
-còn một người vận
-chuyển nữa chứ. Cậu ta
+còn một chuyển phát
+viên nữa chứ. Cậu ta
 đã đến đây chưa?
 <--------------------->
 
@@ -627,8 +627,8 @@ không?
 <--------------------->
 
 <p 03><d 4E04><a 22><n 18>
-Có vẻ như có một người
-vận chuyển đã mất
+Có vẻ như có một
+chuyển phát viên đã mất
 tích trong khu này.
 <--------------------->
 
@@ -737,7 +737,7 @@ này rồi, thiết bị này
 được gọi là
 <--------------------->
 
-máy dịch chuyển, nó
+Trạm Trung Chuyển, nó
 nằm rải rác quanh đất
 nước này.
 <--------------------->

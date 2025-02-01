@@ -349,7 +349,7 @@ máu.
 <*********************>
 
 
-<c 01>Bình E
+<c 01>Lon E
 <c 00>Hồi toàn bộ
 máu. Công nghệ
 tạo ra nó đã
@@ -357,7 +357,7 @@ có từ rất lâu.
 <*********************>
 
 
-<c 01>Bình W
+<c 01>Lon W
 <c 00>Hồi toàn bộ
 năng lượng cho
 Livemetal đang

@@ -286,8 +286,8 @@ Hạ vũ khí xuống.
 <*********************>
 
 <p 03><d 1704><a 09><n 04>
-Anh là người vận
-chuyển?
+Anh là chuyển phát
+viên?
 <*********************>
 
 <p 02><d 1804><a 05><n 01>
@@ -528,8 +528,8 @@ phía trước.
 <*********************>
 
 <p 02><d 4304><a 05><n 01>
-Tôi là người vận
-chuyển, đây là gói
+Tôi là chuyển phát
+viên, đây là gói
 hàng của anh.
 <--------------------->
 
@@ -601,8 +601,8 @@ không?
 <--------------------->
 
 <p 03><d 4E04><a 22><n 18>
-Có vẻ như có một người
-vận chuyển đã mất
+Có vẻ như có một
+chuyển phát viên đã mất
 tích trong khu này.
 <--------------------->
 
@@ -702,7 +702,7 @@ này rồi, thiết bị này
 được gọi là
 <--------------------->
 
-máy dịch chuyển, nó
+Trạm Trung Chuyển, nó
 nằm rải rác quanh đất
 nước này.
 <--------------------->

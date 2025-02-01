@@ -2,7 +2,7 @@
 <#####################>
 
 <p 01><p 02><a 26><n 1A>
-Cô là ngươi vận chuyển,
+Cô là chuyển phát viên,
 <nome>?
 <--------------------->
 
@@ -367,7 +367,7 @@ Họ thật tuyệt vời.
 <p 02><a 25><n 19>
 Cô có thể nhận
 nhiệm vụ và ủy thác từ
-thiết bị dịch chuyển.
+Trạm Trung Chuyển.
 <--------------------->
 
 <p 02><a 25><n 19>
@@ -2067,8 +2067,8 @@ cho cô.
 <--------------------->
 
 <p 02><a 22><n 18>
-Hãy nộp nó lên thiết
-bị dịch chuyển và
+Hãy nộp nó lên Trạm
+Trung Chuyển và
 quay lại đây.
 <*********************>
 
