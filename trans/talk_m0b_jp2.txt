@@ -1,0 +1,132 @@
+<script_info tipo='Mission 11' personagem='indefinido' tamanho='1228' inicio_ponteiros='4' fim_ponteiros='15' inicio_textos='16' />
+<#####################>
+
+<p 02><d F92A><a 02><n 55>
+Tập Đoàn Serpent đang
+tập trung ở Khu K.
+<--------------------->
+
+<p 02><d FA2A><a 02><n 55>
+Chúng đang khai quật
+thứ gì đó rất lớn.
+<--------------------->
+
+<p 02><d FB2A><a 02><n 55>
+Có một tên Falseroid
+sở hữu mảnh Livemetal
+<--------------------->
+
+đang giám sát quá trình
+khai quật này.
+<--------------------->
+
+<p 02><d FC2A><a 02><n 55>
+Đến Khu K và thu hồi
+lại mảnh Livemetal
+từ tay Falseroid.
+<*********************>
+
+<p 02><d FD2A><a 02><n 04>
+Vị trí khai quật có vẻ
+như vẫn còn xuống sâu
+dưới lòng đất.
+<--------------------->
+
+<p 02><d FE2A><a 02><n 04>
+Hãy tìm đường để xuống
+dưới đó.
+<*********************>
+
+<p 03><d FF2A><a 1F><n 14>
+Hả? A... hóa ra là
+ngươi. Ngươi đang
+<--------------------->
+
+lén lút tới đây để
+trộm Livemetal sao.
+<--------------------->
+
+<p 03><d 002B><a 1F><n 14>
+Ta có thể cảm nhận được
+sự hiện diện của ngươi
+từ xa.
+<--------------------->
+
+Cảm giác như ai đó
+đang khoan thẳng xuống
+đây.
+<--------------------->
+
+<p 03><d 012B><a 1F><n 14>
+Chúa tể Serpent nói
+rằng có mảnh Livemetal
+mạnh mẽ đang được
+<--------------------->
+
+chôn sâu dưới lòng đất
+ở nơi đây.
+<--------------------->
+
+<p 03><d 022B><a 1F><n 14>
+Nhưng! Chưa khai thác
+được gì cả!
+<--------------------->
+
+<p 03><d 032B><a 1F><n 14>
+Ta là Flammole,
+Falseroid Model F.
+<--------------------->
+
+<p 03><d 042B><a 1F><n 14>
+Ta sẽ hạ ngươi và
+Livemetal mà ngươi
+đánh cắp sẽ trở về
+<--------------------->
+
+an toàn trong tay
+của bọn ta!
+<*********************>
+
+<p 03><d 052B><a 1F><n 14>
+Ha! Sức mạnh Livemetal
+đang bị lãng phí trong
+tay tên nhóc như ngươi!
+<*********************>
+
+<p 03><d 062B><a 1F><n 14>
+Giờ ta mới nhận ra...
+người mà ta tìm kiếm
+không phải là ngươi...
+<--------------------->
+
+<p 03><d 072B><a 1F><n 14>
+Đó có phải là... 
+Model V? Hay là...
+<--------------------->
+
+Thứ gì đó mà ta chưa
+từng biết đến?!
+<--------------------->
+
+<p 03><d 082B><a 1F><n 14>
+Aaaaa!
+<*********************>
+
+<p 03><d 092B><a 34><n 08>
+Haha! Thật lực cười
+khi kẻ yếu đuối lại
+có sức  mạnh của ta!
+<--------------------->
+
+<p 03><d 0A2B><a 34><n 08>
+Xin lỗi, nhưng sẽ
+mất thời gian để tôi
+khôi phục mật khẩu.
+<--------------------->
+
+<p 03><d 0B2B><a 34><n 08>
+Đừng lo, tôi sẽ lấy
+nó cho anh.
+<*********************>
+
+<FIM>

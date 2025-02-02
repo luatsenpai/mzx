@@ -1,0 +1,300 @@
+<script_info tipo='Mission 10' personagem='indefinido' tamanho='2906' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><d 1127><a 02><n 55>
+Chúng tôi đã nhận tin
+báo rằng đĩa dữ liệu
+của đội trinh sát
+<--------------------->
+
+Vệ Binh đã bị rơi vào
+tay địch.
+<--------------------->
+
+<p 02><d 1227><a 02><n 55>
+Tin tình báo nói nó
+đang đi cùng với
+Tập Đoàn Serpent.
+<--------------------->
+
+<p 02><d 1327><a 02><n 55>
+Kẻ thù đang vận chuyển
+nó qua một đường hầm
+<--------------------->
+
+sâu dưới biển ở
+khu J.
+<--------------------->
+
+<p 02><d 1427><a 02><n 55>
+Đến khu J và lấy lại
+Đĩa Dữ Liệu.
+<*********************>
+
+<p 02><d 1527><a 02><n 04>
+Chiếc đĩa đó chứa
+báo cáo của Chị lúc
+<--------------------->
+
+còn làm việc cho
+đội trinh sát.
+<--------------------->
+
+<p 02><d 1627><a 05><n 01>
+Đĩa này chứa phần
+dữ liệu còn thiếu mà
+<--------------------->
+
+chúng ta chưa tìm thấy
+ở trạm phát tín hiệu
+cầu cứu...
+<--------------------->
+
+<p 02><d 1727><a 02><n 04>
+Chúng tôi phát hiện ra
+tín hiệu Livemetal ở
+<--------------------->
+
+cùng đơn vị vận chuyển
+của kẻ thù.
+<--------------------->
+
+<p 02><d 1827><a 02><n 04>
+Chắc chắn trong cái
+đĩa đó có chứ cái
+gì đó rất quan trọng.
+<--------------------->
+
+<p 02><d 1927><a 02><n 04>
+Tín hiệu Livemetal
+phát ra phía sâu
+trong khu này.
+<--------------------->
+
+Hãy cẩn thận, Vent.
+<*********************>
+
+<p 03><d 1A27><a 1E><n 13>
+Hahaha! Vậy ra ngươi
+chính là Megaman
+vĩ đại, kẻ luôn
+<--------------------->
+
+cố gắng phá hỏng
+kế hoạch của ta.
+<--------------------->
+
+<p 03><d 1B27><a 1E><n 13>
+Chẳng thể trách một
+đứa trẻ khi chúng
+không thể hiểu được
+<--------------------->
+
+những gì bọn ta đang
+cố gắng thực hiện.
+<--------------------->
+
+<p 03><d 1C27><a 1E><n 13>
+Ngươi nên kính trọng
+người lớn và nên nghe
+theo lời họ.
+<--------------------->
+
+<p 02><d 1D27><a 05><n 01>
+Ta không thường tin
+tưởng những người
+<--------------------->
+
+như ngươi, những người
+giấu giếm sự thật.
+<--------------------->
+
+<p 02><d 1E27><a 05><n 01>
+Vậy nên, ngươi đừng
+mong ta tôn trọng
+ngươi.
+<--------------------->
+
+<p 03><d 1F27><a 1E><n 13>
+Hahaha! Đôi khi ngu
+ngốc lại là hạnh phúc
+đấy nhóc!
+<--------------------->
+
+<p 03><d 2027><a 1E><n 13>
+Ta là Leganchor,
+Falseroid Model L.
+<--------------------->
+
+<p 03><d 2127><a 1E><n 13>
+Có vẻ như ta phải dạy
+ngươi cách tôn trọng
+người khác.
+<*********************>
+
+<p 03><d 2227><a 1E><n 13>
+Đó mới là một cậu bé
+ngoan.
+<--------------------->
+
+Ngủ say giấc dưới
+lòng đại dương.
+<*********************>
+
+<p 03><d 2327><a 1E><n 13>
+Tại sao... tại sao
+ngươi lại cứng đầu
+đến vậy?
+<--------------------->
+
+Tại sao ngươi lại liều
+mạng vì đám ngốc đó?
+<--------------------->
+
+<p 03><d 2427><a 1E><n 13>
+Đúng là tuổi trẻ...
+chưa trải sự đời...
+<*********************>
+
+<p 03><d 2527><a 35><n 09>
+Tại sao lại có người
+trao quyền lực cho
+một kẻ như thế?!
+<--------------------->
+
+<p 03><d 2627><a 35><n 09>
+Xin lỗi, sẽ mất một
+chút thời gian để
+khôi phục lại mật khẩu.
+<--------------------->
+
+<p 03><d 2727><a 35><n 09>
+Tôi đảm bảo mọi thứ
+sẽ sẵn sàng khi anh
+<--------------------->
+
+bắt đầu đối đầu với
+Model V.
+<*********************>
+
+<p 02><d 2827><a 02><n 04>
+Vent, đĩa dữ liệu,
+nó...
+<--------------------->
+
+<p 02><d 2927><a 05><n 01>
+Ừm, trong đó chứa
+báo cáo của đội
+trinh sát.
+<*********************>
+
+<p 02><a 04><n 00>
+Đội trinh sát đã bị
+tiêu diệt bởi một
+thành viên phản bội.
+<*********************>
+
+<p 01><p 02><a 04><n 00>
+Tên hắn là Serpent và
+hắn đang điên cuồng
+<--------------------->
+
+nhắm đến mảnh Model V
+rất quyết liệt.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+Hắn đã xóa sạch dữ liệu
+nghiên cứu và biến mất
+cùng với Livemetal.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+Tôi chưa từng thấy
+một tên Maverick
+mạnh đến thế.
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+Model V chắc hẳn đã
+biến đổi hắn thành
+"một thứ gì đó khác."
+<--------------------->
+
+<p 01><p 02><a 04><n 00>
+Chúng ta giờ đây biết
+rằng Model V có
+khả năng tạo ra một
+<--------------------->
+
+kẻ thù đáng sợ hơn
+nhiều với lũ Maverick.
+<*********************>
+
+<p 02><a 04><n 00>
+Tôi chỉ mong rằng những
+gì tôi hy sinh đủ để
+<--------------------->
+
+chỉ huy có thời gian
+trốn thoát.
+<--------------------->
+
+<p 02><a 04><n 00>
+Tôi không còn nhiều
+thời gian nữa. Tôi
+mong rằng
+<--------------------->
+
+dữ liệu đó không rơi
+vào tay kẻ xấu.
+<--------------------->
+
+<p 02><d 2A27><a 02><n 04>
+Serpent có vẻ rất lo
+lắng cho việc dữ liệu
+rò rỉ ra bên ngoài.
+<--------------------->
+
+<p 02><d 2B27><a 02><n 04>
+Hắn chắc chắn biết
+người dân cả nước sẽ
+<--------------------->
+
+phản ứng ra sao nếu
+biết sự thật.
+<--------------------->
+
+<p 02><d 2C27><a 02><n 04>
+Hãy gửi đĩa dữ liệu
+cùng với báo cáo
+nhiệm vụ.
+<--------------------->
+
+<p 02><d 2D27><a 02><n 04>
+Chúng ta không thể để
+thông tin được chứa
+trên đó thoát ra ngoài
+<--------------------->
+
+cho đến khi chúng ta
+biết chính xác nó
+là gì.
+<--------------------->
+
+<p 02><d 2E27><a 05><n 01>
+Được rồi, tôi sẽ
+gửi nó.
+<--------------------->
+
+<p 02><d 2F27><a 02><n 04>
+Chị... chắc hẳn đã
+trốn thoát trong lúc
+mọi người đang cố thú.
+<--------------------->
+
+<p 02><d 3027><a 05><n 01>
+...
+<*********************>
+
+<FIM>

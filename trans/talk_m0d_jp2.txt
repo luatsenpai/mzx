@@ -1,0 +1,440 @@
+<script_info tipo='Mission 13' personagem='indefinido' tamanho='4147' inicio_ponteiros='4' fim_ponteiros='65' inicio_textos='66' />
+<#####################>
+
+<p 02><d C932><a 02><n 04>
+Aile! Cô có nghe rõ
+không?! Có chuyện rồi!
+<--------------------->
+
+<p 02><d CA32><a 02><n 04>
+Radar của Căn Cứ phát
+hiện ra nhiều tàu bay
+của Tập Đoàn Serpent!
+<--------------------->
+
+<p 02><d CB32><a 02><n 04>
+Đội tàu của chúng đang
+bay với tốc độ tối đa
+thẳng về phía chúng ta!
+<--------------------->
+
+<p 02><d CC32><a 02><n 04>
+Aile! Hãy quay lại đây
+mau! Chúng tôi cần cô
+giúp!
+<*********************>
+
+<p 03><d CD32><a 07><n 02>
+Prairie, tình hình
+hạm đội địch như
+thế nào rồi?!
+<*********************>
+
+<p 02><d CE32><a 0B><n 04>
+Rất tệ! Chúng đang ở
+trước mặt chúng tôi rồi!
+<--------------------->
+
+<p 02><d CF32><a 0B><n 04>
+Con tàu này không được
+thiết kế cho các
+trận chiến lớn.
+<--------------------->
+
+Nếu như kẻ địch lên
+được tàu thì coi như
+xong!
+<*********************>
+
+<p 02><d D032><a 02><n 55>
+Hạm đội của Tập Đoàn
+Serpent bắt đầu
+khai hỏa rồi!
+<--------------------->
+
+<p 02><d D132><a 02><n 55>
+Bắn trả!
+<*********************>
+
+<p 02><d D232><a 0B><n 04>
+Tất cả thành viên hãy
+vào vị trí và dùng
+súng máy bên mạn tàu!
+<--------------------->
+
+<p 02><d D332><a 0B><n 04>
+Đừng để chúng tiến lại
+gần hơn!
+<*********************>
+
+<p 02><d D432><a 0B><n 04>
+Aile! Mau lên boong tàu
+và bằng mọi giá ngăn
+<--------------------->
+
+những kẻ cố gắng muốn
+xâm nhập vào con tàu!
+<*********************>
+
+<p 03><d D532><a 07><n 02>
+Cứ giao cho tôi! Tôi
+sẽ không để ai bị
+thương!
+<--------------------->
+
+<p 03><d D632><a 07><n 02>
+Tôi sẽ bảo vệ an toàn
+cho tất cả Vệ Binh!
+<*********************>
+
+<p 02><d D732><a 07><n 02>
+Khoan. Tôi đã từng
+gặp chúng rồi!
+<--------------------->
+
+<p 02><d D832><a 02><n 04>
+Đội quân kẻ thù đã
+đổ bộ lên tàu!
+<--------------------->
+
+<p 02><d D932><a 02><n 04>
+Chúng đang hướng tới
+phòng năng lượng
+bên dưới!
+<--------------------->
+
+<p 02><d DA32><a 02><n 04>
+Cô phải xuống dưới và
+bảo vệ động cơ!
+Nhanh lên!
+<--------------------->
+
+<p 02><d DB32><a 07><n 02>
+Hừ! Tôi sẽ ngăn chúng
+lại!
+<*********************>
+
+<p 02><d DC32><a 23><n 2C>
+Tên kia! Tránh xa lò
+phản ứng ngay!
+<*********************>
+
+<p 03><d DD32><a 19><n 0E>
+Cút mau...
+<*********************>
+
+<p 02><d DE32><a 07><n 02>
+Prairie! Cô không sao
+chứ?
+<--------------------->
+
+<p 02><d DF32><a 0B><n 04>
+Aile!
+<*********************>
+
+<p 01><p 03><d E032><a 19><n 0E>
+Ngươi... là nhóc con
+lúc đó... lúc Model X
+và Model Z kết hợp...
+<--------------------->
+
+<p 01><p 03><d E132><a 18><n 0D>
+Hay bọn ta nên gọi là
+Model ZX nhỉ?
+<--------------------->
+
+<p 01><p 03><d E232><a 18><n 0D>
+Ta đến đây để tiêu diệt
+toàn bộ đám Vệ Binh
+một lần và mãi mãi,
+<--------------------->
+
+nhưng thật đáng tiếc
+khi mọi chuyện lại
+kết thúc quá dễ dàng.
+<--------------------->
+
+<p 01><p 03><d E332><a 18><n 0D>
+Ta sẽ xem ngươi có xứng
+làm quân cờ trên ván cờ
+<--------------------->
+
+lớn của ngài ấy hay là
+không!
+<--------------------->
+
+<p 01><p 02><d E432><a 07><n 02>
+Ván cờ?! Ván cờ của
+ai cơ?!
+<*********************>
+
+<p 03><d E532><a 19><n 0E>
+Prometheus... Không
+công bằng chút nào...
+<--------------------->
+
+<p 03><d E632><a 18><n 0D>
+Đừng lo. Tôi sẽ chừa
+một chút bất ngờ cho
+anh.
+<--------------------->
+
+<p 03><d E732><a 18><n 0D>
+Trừ khi cô ta quá
+yếu ớt và bị thổi bay
+thành từng mảnh.
+<*********************>
+
+<p 02><d E832><a 0B><n 04>
+Aile!
+<--------------------->
+
+<p 02><d E932><a 07><n 02>
+Lùi lại, Prairie! Để
+ha ắnho tôi!
+<*********************>
+
+<p 03><d EA32><a 18><n 0D>
+Ghê đấy... ngươi mạnh
+hơn ta nghĩ nhiều.
+<--------------------->
+
+<p 03><d EB32><a 18><n 0D>
+Ngươi đủ tư cách để
+trở thành một phần
+của bọn ta.
+<--------------------->
+
+<p 03><d EC32><a 18><n 0D>
+Hãy xem bản thân như
+một phần của ván cờ!
+<*********************>
+
+<p 02><d ED32><a 07><n 02>
+Một phần của ngươi?!
+Ngươi đang đùa sao!
+<*********************>
+
+<p 03><d EE32><a 18><n 0D>
+Ngươi là Aile, nhỉ?
+<--------------------->
+
+Chà, ta thấy tinh thần
+của ngươi rất tốt, vậy
+ta sẽ bỏ qua lần này!
+<*********************>
+
+<p 02><d EF32><a 07><n 02>
+K-khoan!
+<--------------------->
+
+<p 03><d F032><a 18><n 0D>
+Aile! Ngươi sẽ phải
+trưởng thành hơn nữa
+mới có thể hy vọng
+<--------------------->
+
+chống lại bọn ta,
+Hãy tìm bọn ta khi
+ngươi sẵn sàng!
+<*********************>
+
+<p 03><d F132><a 18><n 0D>
+Model V sẽ mở rộng vòng
+tay chào đón ngươi! 
+<*********************>
+
+<p 02><d F232><a 0B><n 04>
+Aile! Cô không sao chứ?
+<--------------------->
+
+<p 02><d F332><a 08><n 02>
+Tôi... là... ai?
+<*********************>
+
+<p 02><d F632><a 02><n 55>
+Chỉ huy Prairie!
+Hạm đội tàu địch
+đang rút lui!
+<--------------------->
+
+<p 02><d F732><a 0B><n 04>
+Kẻ địch đã rút lui.
+Hãy báo cáo thiệt hại
+ngay!
+<--------------------->
+
+<p 02><d F832><a 0C><n 04>
+Và hãy ưu tiên chăm sóc
+những người bị thương.
+<--------------------->
+
+<p 02><d F932><a 02><n 55>
+Đã rõ.
+<*********************>
+
+<p 02><d FA32><a 0C><n 04>
+Aile, quay về trung tâm
+chỉ huy thôi.
+<*********************>
+
+<p 03><d FB32><a 07><n 02>
+Cô phải kể lại những
+gì cô biết!
+<--------------------->
+
+<p 03><d FC32><a 07><n 02>
+Tôi là ai? Tại sao
+Girouette lại quan tâm
+tới tôi bấy lâu nay?!
+<*********************>
+
+<p 02><d FD32><a 0B><n 04>
+Bình tĩnh nào, Aile!
+Tôi cũng không biết
+chuyện gì đang xảy ra.
+<*********************>
+
+<p 02><d FE32><a 0B><n 04>
+Người đã ra lệnh cho
+Girouette bảo vệ cô
+<--------------------->
+
+chính là vị chỉ huy
+đầu tiên.
+<--------------------->
+
+<p 03><d FF32><a 05><n 02>
+Chỉ huy đầu tiên, là
+chị của cô đúng không?
+<*********************>
+
+<p 01><p 02><d 0033><a 0B><n 04>
+Nhiệm vụ của chúng tôi
+là bảo vệ những người
+<--------------------->
+
+còn sót lại sau cuộc
+tấn công tàn khốc đó.
+<--------------------->
+
+<p 01><p 02><d 0133><a 0B><n 04>
+Lúc đầu, tôi không
+hiểu tại sao
+<--------------------->
+
+chị ấy lại ra lệnh
+như thế.
+<*********************>
+
+<p 01><p 02><d 0233><a 0B><n 04>
+Nhưng khi tôi thấy
+Girouette biến hình
+thành Megaman Model Z,
+<--------------------->
+
+cuối cùng tôi cũng
+hiểu ra lý do.
+<--------------------->
+
+<p 01><p 02><d 0333><a 0B><n 04>
+Những người sống sót
+trong vụ đột kích của
+<--------------------->
+
+lũ Maverick bất ngờ có
+khả năng biến hình với
+Livemetal.
+<--------------------->
+
+<p 01><p 02><d 0433><a 0B><n 04>
+Những người giống cô
+và Girouette.
+<--------------------->
+
+<p 01><p 02><d 0533><a 0C><n 04>
+Tôi đã nói toàn bộ
+những gì tôi đã
+biết.
+<*********************>
+
+<p 02><d 0633><a 0B><n 04>
+Tôi cũng không biết
+tại sao có người được
+<--------------------->
+
+chọn là Megaman có
+người thì không.
+<--------------------->
+
+<p 02><d 0733><a 0B><n 04>
+Tôi đoán chỉ có một
+người biết tất cả
+<--------------------->
+
+sự thật chính là
+Serpent.
+<*********************>
+
+<p 03><d 0833><a 05><n 02>
+Vậy nếu tôi muốn biết
+sự thật, tôi phải
+tiếp tục chiến đấu.
+<--------------------->
+
+<p 03><d 0933><a 07><n 02>
+Được rồi. Hãy giao cho
+tôi nhiệm vụ tiếp theo.
+<--------------------->
+
+Tôi phải tìm ra
+tôi thực sự là ai!
+<*********************>
+
+<p 02><d C932><a 02><n 04>
+Aile! Cô có nghe rõ
+không?! Có chuyện rồi!
+<--------------------->
+
+<p 02><d CA32><a 02><n 04>
+Radar của Căn Cứ phát
+hiện ra nhiều tàu bay
+của Tập Đoàn Serpent!
+<--------------------->
+
+<p 02><d CB32><a 02><n 04>
+Đội tàu của chúng đang
+bay với tốc độ tối đa
+thẳng về phía chúng ta!
+<--------------------->
+
+<p 02><d CC32><a 02><n 04>
+Aile! Hãy quay lại đây
+mau! Chúng tôi cần cô
+giúp!
+<*********************>
+
+<p 02><d C932><a 02><n 04>
+Aile! Cô có nghe rõ
+không?! Có chuyện rồi!
+<--------------------->
+
+<p 02><d CA32><a 02><n 04>
+Radar của Căn Cứ phát
+hiện ra nhiều tàu bay
+của Tập Đoàn Serpent!
+<--------------------->
+
+<p 02><d CB32><a 02><n 04>
+Đội tàu của chúng đang
+bay với tốc độ tối đa
+thẳng về phía chúng ta!
+<--------------------->
+
+<p 02><d CC32><a 02><n 04>
+Aile! Hãy quay lại đây
+mau! Chúng tôi cần cô
+giúp!
+<*********************>
+
+<FIM>

@@ -1,0 +1,183 @@
+<script_info tipo='Mission 12' personagem='indefinido' tamanho='1799' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><d E12E><a 02><n 55>
+Chúng tôi tìm thấy PTN
+cũ ở Khu L.
+<--------------------->
+
+<p 02><d E22E><a 02><n 55>
+Bố cục của cơ sở này
+giống với nơi mà
+<--------------------->
+
+vị chỉ huy đầu tiên
+phát hiện ra
+Model X.
+<--------------------->
+
+<p 02><d E32E><a 02><n 55>
+Có thể có manh mối về
+Livemetal đang ở đó.
+<--------------------->
+
+<p 02><d E42E><a 02><n 55>
+Kẻ thù đang bắt đầu
+xâm nhập vào khu này.
+<--------------------->
+
+<p 02><d E52E><a 02><n 55>
+Chúng ta không thể để
+dữ liệu đó rơi vào
+tay chúng.
+<--------------------->
+
+<p 02><d E62E><a 02><n 55>
+Đến Khu L và thu thập
+dữ liệu trước chúng.
+<*********************>
+
+<p 02><d E72E><a 02><n 04>
+Vent! Kẻ thù đang
+tiến công!
+<--------------------->
+
+<p 02><d E82E><a 02><n 04>
+Chúng ta phải
+nhanh lên, nếu không
+<--------------------->
+
+tất cả dữ liệu trong
+PTN sẽ bị cướp mất!
+<--------------------->
+
+<p 02><d E92E><a 02><n 04>
+Căn phòng chứa dữ liệu
+đang ở phía trước!
+<*********************>
+
+<p 03><d EA2E><a 20><n 15>
+Cuối cùng ngươi cũng
+đến rồi sao...
+<--------------------->
+
+Tên Megaman tội nghiệp
+theo phe đám Vệ Binh.
+<--------------------->
+
+<p 03><d EB2E><a 20><n 15>
+Toàn bộ dữ liệu được
+tìm thấy ở đây đã
+<--------------------->
+
+được lưu vào ổ đĩa
+của ta.
+<--------------------->
+
+<p 03><d EC2E><a 20><n 15>
+Ta chỉ cần phá huỷ
+căn phòng này cùng
+với nhà ngươi
+<--------------------->
+
+và mọi khúc mắc sẽ
+được tháo gỡ.
+<--------------------->
+
+<p 03><d ED2E><a 20><n 15>
+Ta là Protectos,
+Falseroid Model P!
+<--------------------->
+
+<p 03><d EE2E><a 20><n 15>
+Ta sẽ nghiền nát bất kỳ
+ai cản đường bọn ta!
+<*********************>
+
+<p 03><d EF2E><a 20><n 15>
+Hừ! Cái công lý
+thấp kém của ngươi
+chẳng giúp ích gì.
+<*********************>
+
+<p 03><d F02E><a 20><n 15>
+Hả! Không! Không ai
+có thể phá hỏng lớp
+giáp của ta!
+<--------------------->
+
+<p 03><d F12E><a 20><n 15>
+Aaaaaa!
+<*********************>
+
+<p 03><d F22E><a 36><n 0A>
+Ôi, những kẻ từng
+oai phong nay đã
+suy tàn.
+<--------------------->
+
+Bộ giáp dù bền đến đâu
+cũng không thể so với
+sức mạnh ý chí.
+<--------------------->
+
+<p 03><d F32E><a 36><n 0A>
+Tôi sẽ cần một khoảng
+thời gian để có thể
+<--------------------->
+
+lấy lại được
+mật khẩu.
+<--------------------->
+
+<p 03><d F42E><a 36><n 0A>
+Mật khẩu sẽ sẵn sàng
+khi anh cần.
+<*********************>
+
+<p 02><d F52E><a 02><n 04>
+Không thể sai được.
+Đó là dữ liệu do Chị
+để lại.
+<--------------------->
+
+<p 02><d F62E><a 02><n 04>
+Đừng quên mang nó về
+căn cứ.
+<*********************>
+
+<p 02><a 01><n 00>
+Báo Cáo Lievemetal
+Phân Loại #555913
+* Model V *
+<--------------------->
+
+<p 02><a 01><n 00>
+...phát hiện ra...
+ý thức...trong...
+Live...tal Model V.
+<--------------------->
+
+<p 02><a 01><n 00>
+.......................
+<--------------------->
+
+<p 02><d F72E><a 08><n 01>
+Có vẻ như dữ liệu đã
+bị hỏng. Tôi không
+thể đọc được.
+<--------------------->
+
+<p 02><d F82E><a 02><n 04>
+Chúng ta có thể có
+thứ gì đó phục hồi
+dữ liệu tại Căn Cứ.
+<--------------------->
+
+<p 02><d F92E><a 02><n 04>
+Hãy gửi nó cho tôi
+kèm theo báo cáo
+nhiệm vụ.
+<*********************>
+
+<FIM>

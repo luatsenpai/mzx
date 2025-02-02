@@ -58,7 +58,7 @@ sẽ gặp chiến binh
 <--------------------->
 
 vĩ đại, hoá ra là
-một cậu nhóc.
+một tên nhóc.
 <--------------------->
 
 <p 03><d 611B><a 21><n 16>
@@ -156,7 +156,7 @@ mới phải...
 
 Nhưng ta đã thất bại
 dưới tay của một
-cậu nhóc!
+tên nhóc!
 <*********************>
 
 <p 03><d 6E1B><a 34><n 08>
