@@ -1,0 +1,101 @@
+<script_info tipo='Quest 15' personagem='indefinido' tamanho='887' inicio_ponteiros='4' fim_ponteiros='21' inicio_textos='22' />
+<#####################>
+
+<p 02><a 43><n 3E>
+Em đang tản bộ trên
+Đèo Núi thì bất ngờ
+có một cái lò xo máy
+<--------------------->
+
+nhảy ra khiến em
+giật mình.
+<--------------------->
+
+<p 02><a 43><n 3E>
+Vì quá bất ngờ nên em
+đã làm rơi túi xách...
+<--------------------->
+
+<p 02><a 43><n 3E>
+Đó là chiếc túi xách
+đặc biệt mà mẹ đã
+mua cho em.
+<--------------------->
+
+<p 02><a 43><n 3E>
+Xin anh đấy... anh
+nhất định phải tìm
+thấy nó...
+<*********************>
+
+<p 02><a 43><n 3E>
+Nếu em làm mất chiếc
+túi xách đó, mẹ em sẽ
+nổi giận cho xem.
+<*********************>
+
+<p 02><a 02><n 55>
+Tìm chiếc túi xác bị
+rơi ở Đèo Núi tại
+Khu B.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 43><n 3E>
+A? Anh đã tìm thấy nó
+chưa ạ?
+<--------------------->
+
+<p 02><a 43><n 3E>
+A! Em quyên mất!
+<--------------------->
+
+<p 02><a 43><n 3E>
+Em nghĩ có thể một
+con chim cắp mất nó
+sau khi em làm rơi
+<--------------------->
+
+và tha nó đến một
+nơi nào đó thật cao.
+<*********************>
+
+<p 02><a 43><n 3E>
+Túi xách của em!
+Cảm ơn anh rất nhiều!
+<*********************>
+
+<p 02><a 43><n 3E>
+Em sẽ gửi anh một món
+quà nhỏ. Đừng mách với
+mẹ em nhé...
+<--------------------->
+
+<p 02><a 43><n 3E>
+Anh sẽ nhận được nó
+tại trạm trung chuyển.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+100 EC đã được chuyển
+vào tài khoản của bạn.
+<*********************>
+
+<p 02><a 43><n 3E>
+Cảm ơn anh đã giúp em.
+<--------------------->
+
+<p 02><a 43><n 3E>
+Giờ mẹ sẽ không
+nổi giận với em nữa.
+<*********************>
+
+<FIM>
