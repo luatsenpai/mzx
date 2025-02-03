@@ -2,57 +2,57 @@
 <#####################>
 
 <p 02><a 2F><n 23>
-Oh, it's you again
+A, lại là cháu sao,
 Aile!
 <--------------------->
 
 <p 02><a 2F><n 23>
-Remember the rock you
-brought me earlier?
+Còn nhớ hòn đá cháu
+đã mang về cho ta
+lần trước không?
 <--------------------->
 
-Well, it's too hard for
-me to break open.
-<--------------------->
-
-<p 02><a 2F><n 23>
-I can't make what I
-want if I can't get at
-the material inside.
+Chà, nó quá cứng để
+đập vỡ nó.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Could you take it and
-smash it open using the
-crusher in Area E?
+Ta không thể tạo thứ
+ta muốn nếu không lấy
+vật liệu bên trong.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I sent Oeillet, another
-Guardian, to Area E.
-She should be waiting
+Cháu có thể mang nó
+và đập nó với máy
+nghiền ở Khu E?
 <--------------------->
 
-there for you, so just
-pass her the rock and
-she'll do the rest.
+<p 02><a 2F><n 23>
+Ta đã nhờ Oeillet,
+một vệ binh khác đến
+Khu E. Con bé đang
+<--------------------->
+
+chờ ở đó, chỉ cần đưa
+hòn đá và con bé sẽ
+xử lý nó.
 <*********************>
 
 <p 02><a 2F><n 23>
-Oeillet should be
-waiting for you at the
-crusher...
+Oeillet đang chờ cháu
+gần máy nghiền đó...
 <--------------------->
 
 <p 02><a 2F><n 23>
-If you give the rock to
-her, she should be able
-to handle the rest.
+Nếu cháu đưa hòn đá
+cho con bé, con bé sẽ
+xử lý phần còn lại.
 <*********************>
 
 <p 02><a 02><n 55>
-Break open the rock and
-return the material to
+Phá đá và lấy vật liệu,
+sau đó mang về cho
 Silure.
 <*********************>
 
@@ -62,52 +62,52 @@ Silure.
 <*********************>
 
 <p 02><a 2F><n 23>
-Just don't damage the
-power supply at the
-plant.
+Chỉ cần đừng phá nguồn
+cấp điện của nhà máy
+là được.
 <--------------------->
 
 <p 02><a 2F><n 23>
-The conveyor belt and
-crusher need power to
-run properly.
+Dây chuyền băng tải
+và máy nghiền phải
+có điện mới chạy được.
 <*********************>
 
 <p 02><a 24><n 28>
-I've heard the details
-from Silure.
+Tớ đã nghe ông Silure
+nói lại rồi.
 <--------------------->
 
 <p 02><a 24><n 28>
-Leave it to me!
+Hãy giao cho tớ!
 <*********************>
 
 <p 02><a 24><n 28>
-With the conveyor belt
-stopped, we can't crush
-that rock!
+Băng chuyền ngừng mất
+rồi, chúng ta không
+thể nghiền hòn đá!
 <--------------------->
 
 <p 02><a 24><n 28>
-You'll have to leave
-Area E and wait for the
-power to come back on.
+Cậu phải rời khỏi Khu E
+và chờ điện được
+hoạt động trở lại.
 <*********************>
 
 <p 02><a 2F><n 23>
-This is it! Now I can
-finally finish my
-masterpiece!
+Đây rồi! Giờ thì ta
+có thể hoàn thành
+kiệt tác của ta rồi!
 <*********************>
 
 <p 02><a 2F><n 23>
-I'll send it to you at
-the transerver.
+Ta sẽ gửi nó cho cháu
+tại trạm trung chuyển.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'm sure you'll like
-it!
+Ta chắc chắn cháu sẽ
+thích nó!
 <*********************>
 
 <p 02><a 02><n 55>
@@ -121,23 +121,22 @@ tài khoản của bạn.
 <*********************>
 
 <p 02><a 2F><n 23>
-Did you like what I
-made for you?
+Cháu có thích thứ ta
+làm cho cháu chứ?
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'll be happy just
-knowing it's doing some
-good.
+Ta rất vui khi biết
+nó mang lại lợi ích.
 <*********************>
 
 <p 02><a 24><n 28>
-Once you get the
-material that was in
-the rock,
+Một khi cậu thu thập
+được vật liệu từ
+hòn đá, hãy mang nó
 <--------------------->
 
-take it to Silure!
+đến cho Silure!
 <*********************>
 
 <FIM>

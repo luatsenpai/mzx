@@ -656,7 +656,7 @@ với 1 đứa trẻ.
 <*********************>
 
 
-<c 01Ngọc Trai Lạnh
+<c 01>Ngọc Trai Lạnh
 <c 00>Viên ngọc trai
 này dành cho
 Raven. Nó chỉ

@@ -126,12 +126,12 @@ trước khi quá muộn!
 <*********************>
 
 <p 02><a 30><n 24>
-Anh là <nome>, người
-được Model X chọn!
+Em là <nome>, người
+được Model X chọn sao!
 <--------------------->
 
 <p 02><a 30><n 24>
-Anh có cảm thấy khác
+Em có cảm thấy khác
 biệt khi sở hữu
 Livemetal không?
 <--------------------->
@@ -142,73 +142,73 @@ tốt chút nào.
 <--------------------->
 
 <p 02><a 30><n 24>
-A, xin lỗi. Tôi vẫn
+A, xin lỗi. Anh vẫn
 chưa giới thiệu về
 bản thân.
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi là thợ máy. 
-Tên tôi là Anguille!
+Anh là thợ máy. 
+Tên anh là Anguille!
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi làm cho Silure.
+Anh làm cho Silure.
 Ông ấy là thợ máy lớn
 tuổi nhất ở đây.
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi sẽ phải học hỏi
+Anh sẽ phải học hỏi
 nhiều cho tới khi
 giỏi như ông ấy.
 <*********************>
 
 <p 02><a 30><n 24>
-Có lẽ sẽ có lúc tôi sẽ
-cần anh giúp, <nome>.
+Có lẽ sẽ có lúc anh sẽ
+cần em giúp, <nome>.
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi rất cảm kích nếu
-anh có thể giúp đỡ!
+Anh rất cảm kích nếu
+em có thể giúp đỡ!
 <*********************>
 
 <p 02><a 30><n 24>
-<nome>, anh đã sống
-sót trở về!
+<nome>, em vẫn còn
+sống!
 <--------------------->
 
 <p 02><a 30><n 24>
-Mừng quá! Tôi cứ nghĩ
+Mừng quá! Anh cứ nghĩ
 là sẽ không bao giờ gặp
-lại anh nữa chứ!
+lại em nữa chứ!
 <--------------------->
 
 <p 02><a 30><n 24>
-Anh không phải hồn ma
+Em không phải hồn ma
 đó chứ? Không thể tin
-là anh vẫn ổn.
+là em vẫn ổn.
 <*********************>
 
 <p 02><a 30><n 24>
-<nome>, anh phải sống
+<nome>, em phải sống
 và tiếp tục từ nơi
 Girouette ngã xuống...
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi biết anh cảm thấy
+Anh biết em cảm thấy
 thế nào, nhưng hãy
 mạnh mẽ lên...
 <--------------------->
 
-Tôi tin anh ấy vẫn
-đang dõi theo anh
+Anh tin anh ấy vẫn
+đang dõi theo em
 <*********************>
 
 <p 02><a 30><n 24>
-Tôi cứ nghĩ đây là
+Anh cứ nghĩ đây là
 ngày tàn của Đội
 Vệ Binh.
 <--------------------->
@@ -220,9 +220,9 @@ suýt chết cùng nó.
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi không dám nghĩ
+Anh không dám nghĩ
 chuyện gì sẽ xảy ra
-nếu không có anh...
+nếu không có em...
 <--------------------->
 
 <p 02><a 30><n 24>
@@ -272,7 +272,7 @@ hắn.
 <*********************>
 
 <p 02><a 30><n 24>
-Anh là người duy nhất
+Em là người duy nhất
 có thể ngăn chặn tên
 Serpent, <nome>!
 <*********************>

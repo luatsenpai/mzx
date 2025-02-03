@@ -2,30 +2,31 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-Hey Vent! I have
-another favor to ask.
+Này, Vent! Anh có thêm
+một chuyện muốn nhờ
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I've got a new letter
-for you-know-who.
+Anh có thêm một lá thư
+mới cho người em đã
+biết là ai.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I put a lot of work
-into this one!
+Anh đã bỏ rất nhiều
+công sức vào nó!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I'm sure this time
-she'll fall head over
-heels for me.
+Lần này, anh chắc chắn
+em ấy sẽ yêu anh
+say đắm.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Don't worry, I'll
-reward you for your
-help.
+Đừng lo. Anh sẽ trả
+công vì sự giúp đỡ
+của em.
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -34,19 +35,18 @@ trạm trung chuyển rồi.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Whatever you do, don't
-read it!
+Cấm đọc nó đấy!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I stayed up all night
-to find the perfect way
-to win a woman's
+Anh đã thức trắng đêm
+nghĩ cách hoàn hảo để
+chinh phục trái tim
 <--------------------->
 
-heart, and I don't want
-to let the secret get
-out.
+một cô gái và anh
+không muốn tiết lộ
+bí mật này đâu..
 <*********************>
 
 <p 02><a 02><n 55>
@@ -60,79 +60,82 @@ tại Khu C-2.
 <*********************>
 
 <p 02><a 2A><n 1E>
-She hasn't read the
-letter yet, has she?
+Em ấy vẫn chưa nhận
+được thư sao?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I've done this before,
-but my heart is still
-racing!
+Dù đã gửi một lần.
+Nhưng trái tim anh vẫn
+đập thình thịch!
 <*********************>
 
 <p 02><a 4B><n 46>
-Oh, it's the
-transporter again.
-What?! Another letter?
+A, lại là cậu chuyển
+phát viên. Hả?!
+Lại là thư nữa?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I wonder who this one
-is from...
+Không biết là ai gửi
+nó nhỉ...
 <--------------------->
 
 <p 02><a 4B><n 46>
-"Are you a dog person
-or a cat person?"
+"Em là người yêu chó
+hay yêu mèo?"
 <--------------------->
 
 <p 02><a 4B><n 46>
-"I like lions myself!"
+"Riêng anh thì yêu
+sư tử!"
 <--------------------->
 
 <p 02><a 4B><n 46>
-What's the meaning of
-this?! Is this some
-kind of test?
+Cái gì thế này?!
+Đang định thách thức
+tớ à?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Alright, I'll answer...
+Rồi, tớ sẽ hồi âmr...
 <--------------------->
 
 <p 02><a 4B><n 46>
-I like dogs AND cats,
-but I DON'T like
-annoying men.
+Tớ thích cả chó VÀ mèo,
+nhưng KHÔNG thích mấy
+người làm phiền.
 <*********************>
 
 <p 02><a 2A><n 1E>
-She likes cats?
-Wonderful! A lion is a
-kind of cat after all.
+Em ấy thích mèo? Tuyệt!
+Vì sư tử cũng là mèo
+mà.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-This relationship is
-moving right along.
+Mối quan hệ này đang
+tiến triển tốt đẹp.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-It must be destiny!
+Đúng là định mệnh mà!
 <*********************>
 
 <p 02><a 4B><n 46>
-Transporter!
+Vận chuyển viên!
 <--------------------->
 
 <p 02><a 4B><n 46>
-Let him down easy for
-me, okay?
+Hãy từ chối anh ấy
+một cách dễ dàng
+giúp tớ nhé?
 <--------------------->
 
 <p 02><a 4B><n 46>
-Hmph. I don't know why
-I even bother...
+Hừm. Không hiểu sao
+mình phải bận tâm đến
+chuyện này...
 <*********************>
 
 <p 02><a 02><n 55>
@@ -145,14 +148,14 @@ vào tài khoản của bạn.
 <*********************>
 
 <p 02><a 4B><n 46>
-Not that it matters to
-you...
+Chuyện này không
+liên quan tới cậu...
 <--------------------->
 
 <p 02><a 4B><n 46>
-But there was nothing
-in that letter to stir
-a woman's heart.
+Nhưng lá thư đó không
+thể lay động trái tim
+của con gái đâu.
 <*********************>
 
 <FIM>

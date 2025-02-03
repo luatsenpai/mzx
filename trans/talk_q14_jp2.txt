@@ -2,73 +2,75 @@
 <#####################>
 
 <p 02><a 4F><n 4A>
-*sigh* What am I going
-to do about my boy...
+*haizz* Mình phải trị
+đứa con này thế nào
+đây...
 <--------------------->
 
 <p 02><a 4F><n 4A>
-He never puts his toys
-away after playing with
-them,
+Thằng bé chẳng bao giờ
+dọn đồ chơi sau khi
+chơi xong,
 <--------------------->
 
 <p 02><a 4F><n 4A>
-and he never listens
-to a word I say.
+và thằng bé chẳng chịu
+nghe lời mình.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Hey, you.
+Này, cháu.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I'm not sure if you're
-the right person to ask
-about this...
+Chú không chắc cháu có
+thích hợp để chú nhờ
+chuyện này không...
 <--------------------->
 
 <p 02><a 4F><n 4A>
-But could you clean my
-place up for me?
+Nhưng cháu có thể dọn
+dẹp phòng giúp chú
+được không?
 <--------------------->
 
 <p 02><a 4F><n 4A>
-If you could provide an
-example of someone
-cleaning,
+Nếu cháu có thể cho
+thằng bé xem ví dụ về
+việc ai đó đang
 <--------------------->
 
 <p 02><a 4F><n 4A>
-my boy might get the
-hint.
+dọn dẹp, có lẽ nó
+sẽ hiểu ý.
 <*********************>
 
 <p 02><a 4F><n 4A>
-I'm frankly embarrassed
-to make such a silly
-request,
+Chú thấy hơi ngại khi
+đưa ra yêu cầu ngớ ngẩn
+này, nhưng chú sẽ gửi
 <--------------------->
 
 <p 02><a 4F><n 4A>
-but I'll upload it to
-the transerver. I hope
-you'll consider it.
+nó lên trạm trung
+chuyển. Hy vọng là
+cháu sẽ xem xét.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-It'd be great if you
-could at least make
-sure the balls lying
+Sẽ rất tuyệt nếu cháu
+có thể đưa mấy quả
+bóng nằm rải rác
 <--------------------->
 
-around are all placed
-in the room down below.
+xung quanh xuống
+phòng bên dưới.
 <*********************>
 
 <p 02><a 02><n 55>
-Clean up the balls by
-moving them to the room
-down below.
+Dọn bóng bằng cách
+đưa nó xuống phòng
+bên dưới.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -77,47 +79,50 @@ down below.
 <*********************>
 
 <p 02><a 4F><n 4A>
-Did you put away all of
-the balls already?
+Cháu đã dọn sạch mấy
+quả bóng chưa?
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I'll compensate you for
-the help,
+Chú sẽ trả công vì
+sự giúp đỡ của cháu.
 <--------------------->
 
-so please try to get
-them all put away.
+Vậy nên hãy cố gắng
+dọn hết chúng nhé.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I hurt my back
-yesterday and I just
+Chú bị đau lưng từ
+hôm qua và rất cần
 <--------------------->
 
-can't do it without
-your help.
+sự hỗ trợ của cháu
+để hoàn thành nó.
 <*********************>
 
 <p 02><a 4F><n 4A>
-Oh wow! You put away
-all the balls!
+A! Cháu đã dọn hết
+mấy trái bóng rồi!
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Girouette Express
-really can take
-anything, anywhere.
+Chuyển Phát Nhanh
+Girouette thực sự
+<--------------------->
+
+có thể giao mọi thứ
+đế mọi nơi.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-Thank you!
+Cảm ơn cháu!
 <--------------------->
 
 <p 02><a 4F><n 4A>
-I sent along a little
-token of my gratitude
-to the transerver.
+Ta đã gửi một món quà
+nhỏ để tỏ lòng biết ơn
+với vận chuyển viên.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -130,17 +135,18 @@ vào tài khoản của bạn.
 <*********************>
 
 <p 02><a 4F><n 4A>
-My boy is all about
-cleaning his room now,
+Thằng bé đã bắt đầu
+dọn phòng rồi,
 <--------------------->
 
-thanks to your fine
-example.
+cảm ơn cháu đã làm
+mẫu cho thăng bé.
 <--------------------->
 
 <p 02><a 4F><n 4A>
-It feels great to have
-a clean house again!
+Cảm giác thật tuyệt
+khi nhà cửa lại
+sạch sẽ!
 <*********************>
 
 <FIM>

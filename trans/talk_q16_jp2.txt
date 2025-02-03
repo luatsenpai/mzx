@@ -6,62 +6,64 @@ Uhm... Aile?
 <--------------------->
 
 <p 02><a 2E><n 22>
-I have something I need
-to ask you.
+Chị có vài việc muốn
+nhờ em.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Old Muguet is looking
-really tired lately.
+Dạo gần đây trông Dì
+Muguet rất mệt mỏi.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Could you find
-something to pick her
-spirits up?
+Em có thể tìm thứ gì
+đó giúp vực dậy
+tinh thần của dì ấy?
 <--------------------->
 
 <p 02><a 2E><n 22>
-Please, help an old
-woman out.
+Làm ơn, hãy giúp
+dì ấy.
 <*********************>
 
 <p 02><a 2E><n 22>
-Muguet is treating all
-of the wounded here by
-herself.
+Dì Muguet đang một
+mình chăm sóc tất cả
+những người bị thương.
 <--------------------->
 
 <p 02><a 2E><n 22>
-And they just keep
-coming.
+Và họ cứ gia tăng
+không ngừng.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I don't have enough
-training to be of much
-help to her.
+Chị chưa được đào tạo
+bài bản để có thể
+giúp dì ấy.
 <--------------------->
 
 <p 02><a 2E><n 22>
-But I do what I can.
+Nhưng chị sẽ làm
+những gì có thể.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I want to at least do
-something to ease her
-burden.
+Ch muốn ít nhất làm
+gì đó để giảm bớt
+gánh nặng cho dì ấy.
 <--------------------->
 
 <p 02><a 2E><n 22>
-That's why I want to
-find something to give
-her a boost!
+Đó là lý do chị muốn
+tìm thứ gì đó có thể
+khích lệ dì ấy!
 <*********************>
 
 <p 02><a 02><n 55>
-Find the requested item
-in an Area L container.
+Tìm vật phẩm yêu cầu
+trong kho hàng ở
+Khu L.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -70,39 +72,38 @@ in an Area L container.
 <*********************>
 
 <p 02><a 2E><n 22>
-Did you find it yet?
+Em tìm thấy nó chưa?
 <--------------------->
 
 <p 02><a 2E><n 22>
-I can't find anything
-either...
+Chị không thể tìm ra
+bất kỳ thứ gì cả...
 <--------------------->
 
 <p 02><a 2E><n 22>
-I know you're busy, but
-please look for it if
-you have time.
+Chị biết em bận, nhưng
+xin em hãy tìm nó nếu
+có thời gian.
 <*********************>
 
 <p 02><a 2E><n 22>
-That's it! I'm sure
-this will perk her up
-when she uses it.
+Chính là nó! Chị chắc
+chắn dì ấy sẽ vui hơn
+nếu dùng cái này.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Thanks for all of the
-help!
+Cảm ơn em đã giúp!
 <*********************>
 
 <p 02><a 2E><n 22>
-I sent a little thank
-you to the transerver.
+Chị đã gửi chút quà
+cảm ơn tới trạm trung
+chuyển rồi.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Don't forget to pick
-it up!
+Đừng quên nhận nó nha!
 <*********************>
 
 <p 02><a 02><n 55>
@@ -115,39 +116,40 @@ vào tài khoản của bạn.
 <*********************>
 
 <p 02><a 2E><n 22>
-H-hello Aile.
+N-này Aile.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Remember the energy
-pack you brought me
-before?
+Em nhớ gói năng lượng
+mà em mang về cho chị
+lúc trước không?
 <--------------------->
 
 <p 02><a 2E><n 22>
-I modified it a bit and
-gave it to Muguet.
+Chỉ đã sửa lại nó
+một chút và đưa cho
+dì Muguet.
 <--------------------->
 
 <p 02><a 2E><n 22>
-She was so happy that
-she used it right away.
+Dì ấy đã rất phấn khởi
+sau khi dùng nó.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I'm usually not very
-useful to poor old
+Chị thường không giúp
+được gì nhiều cho dì
 Muguet.
 <--------------------->
 
 <p 02><a 2E><n 22>
-But this time it feels
-like I finally made a
-difference.
+Nhưng lần này chị
+cảm thấy như đã làm
+gì đó khác biệt.
 <--------------------->
 
 <p 02><a 2E><n 22>
-It's all thanks to you,
+Tất cả là nhờ vào em,
 Aile.
 <*********************>
 

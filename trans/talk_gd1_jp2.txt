@@ -148,96 +148,96 @@ trước khi quá muộn!
 <*********************>
 
 <p 02><a 30><n 24>
-Cô là <nome>, nhỉ?
+Em là <nome>, nhỉ?
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi kính trọng những
-cô gái mạnh mẽ như cô!
+Anh kính trọng những
+cô gái mạnh mẽ như em!
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi thực sự rất cần
-chút sức mạnh từ cô!
+Anh thực sự rất cần
+chút sức mạnh từ em!
 <--------------------->
 
 <p 02><a 30><n 24>
-A, xin lỗi, tôi nói
+A, xin lỗi, Anh nói
 nhiều quá rồi.
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi là thợ máy. 
-Tên tôi là Anguille!
+Anh là thợ máy. 
+Tên anh là Anguille!
 <--------------------->
 
 <p 02><a 30><n 24>
-Có thể trông tôi không
-nổi bật, nhưng tôi khá
+Có thể trông anh không
+nổi bật, nhưng anh khá
 giỏi về máy móc.
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi làm cho Silure và
-tôi luôn giúp đỡ
+Anh làm cho Silure và
+anh luôn giúp đỡ
 ông ấy.
 <*********************>
 
 <p 02><a 30><n 24>
-Có lẽ sẽ có lúc tôi sẽ
-cần cô giúp, <nome>.
+Có lẽ sẽ có lúc anh sẽ
+cần em giúp, <nome>.
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi rất cảm kích nếu
-cô có thể giúp đỡ!
+Anh rất cảm kích nếu
+em có thể giúp đỡ!
 <*********************>
 
 <p 02><a 30><n 24>
-<nome>, cô đã sống
-sót trở về!
+<nome>, em vẫn còn
+sống!
 <--------------------->
 
 <p 02><a 30><n 24>
-Mừng quá! Tôi cứ nghĩ
+Mừng quá! Anh cứ nghĩ
 là sẽ không bao giờ gặp
-lại cô nữa chứ!
+lại em nữa chứ!
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi không dám nghĩ đến
-việc chúng tôi sẽ ra
-sao khi không có cô...
+Anh không dám nghĩ đến
+việc bọn anh sẽ ra
+sao khi không có em...
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi biết cô muốn
-trả thù vì mẹ cô,
+Anh biết em muốn
+trả thù vì mẹ em,
 <--------------------->
 
 nhưng nó không có nghĩa
-là cô chấp nhận rủi ro
+là em chấp nhận rủi ro
 một cách thừa thãi.
 <*********************>
 
 <p 02><a 30><n 24>
-<nome>, cô phải sống
+<nome>, em phải sống
 và tiếp tục từ nơi
 Girouette ngã xuống...
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi biết cô cảm thấy
+Anh biết em cảm thấy
 thế nào, nhưng hãy
 mạnh mẽ lên...
 <--------------------->
 
-Tôi tin anh ấy vẫn
-đang dõi theo cô.
+Anh tin anh ấy vẫn
+đang dõi theo em.
 <*********************>
 
 <p 02><a 30><n 24>
-Cô không sao chứ, 
+Em không sao chứ, 
 <nome>?
 <--------------------->
 
@@ -248,17 +248,17 @@ vào Căn Cứ.
 <--------------------->
 
 <p 02><a 30><n 24>
-Cũng may là cô quay về
+Cũng may là em quay về
 kịp lúc.
 <--------------------->
 
 <p 02><a 30><n 24>
-Tôi không tưởng tượng
+Anh không tưởng tượng
 được chuyện gì sẽ
 <--------------------->
 
 xảy ra nếu không có
-cô...
+em...
 <*********************>
 
 <p 02><a 30><n 24>
@@ -272,7 +272,7 @@ họ đều hy sinh.
 <--------------------->
 
 <p 02><a 30><n 24>
-Chúng tôi chẳng khác gì
+Bọn anh chẳng khác gì
 món đồ chơi trong tay
 hắn.
 <--------------------->
@@ -296,7 +296,7 @@ hắn.
 <*********************>
 
 <p 02><a 30><n 24>
-Cô là người duy nhất
+Em là người duy nhất
 có thể ngăn chặn tên
 Serpent, <nome>!
 <*********************>

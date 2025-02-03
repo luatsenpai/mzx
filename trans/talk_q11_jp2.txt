@@ -2,51 +2,51 @@
 <#####################>
 
 <p 02><a 2F><n 23>
-Oh, it's you Aile!
+A, là cháu, Aile!
 <--------------------->
 
 <p 02><a 2F><n 23>
-I have something I want
-to ask you.
+Ta có một chuyện muốn
+nhờ cháu.
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'm trying to put
-something together,
+Ta đang hoàn thiện
+một thứ gì đó,
 <--------------------->
 
 <p 02><a 2F><n 23>
-but I'm missing a key
-component.
+nhưng ta lại thiếu mất
+một bộ phận quan trọng.
 <--------------------->
 
 <p 02><a 2F><n 23>
-That piece is sealed
-away inside of a rock
-found in Area K-1.
+Mảnh ghép đó bị giấu
+bên trong hòn đá tìm
+thấy tại Vùng K-1.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Unfortunately, I can't
-go and get it.
+Không may là ta không
+thể tới đó và tìm nó.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Would you be willing to
-find it and bring it
-back for me?
+Cháu có sẵn lòng tìm
+nó và mang về cho ta
+không?
 <*********************>
 
 <p 02><a 2F><n 23>
-If only I was young
-like you, I could get
-that rock myself.
+Chỉ khi ta trẻ như
+cháu, ta mới có thể
+tự mình đi tìm nó.
 <*********************>
 
 <p 02><a 02><n 55>
-Find the special rock
-in Area K-1 and
-deliver it to Silure.
+Tìm hòn đá đặc biệt
+ở Khu K-1 và mang về
+cho Silure.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -55,46 +55,47 @@ deliver it to Silure.
 <*********************>
 
 <p 02><a 2F><n 23>
-Did you find the rock
-already?
+Cháu đã tìm được
+hòn đá chưa?
 <--------------------->
 
 <p 02><a 2F><n 23>
-I'm sorry to make such
-a difficult request.
+Ta xin lỗi vì đã đưa ra
+yêu cầu khó đến vậy.
 <--------------------->
 
 <p 02><a 2F><n 23>
-But if you search
-carefully in Area K-1, 
+Nhưng nếu cháu tìm kỹ
+ở Khu K-1, 
 <--------------------->
 
-you should find it
-lying around somewhere.
+cháu sẽ tìm thấy nó
+ở đâu đó..
 <*********************>
 
 <p 02><a 2F><n 23>
-This is it! Thank you!
+Chính là nó!
+Cảm ơn cháu!
 <--------------------->
 
 <p 02><a 2F><n 23>
-Now that I have the
-final piece, I can make
-something good.
+Giờ ta đã có mảnh ghép
+cuối cùng, ta có thể
+tạo ra một cái gì đó.
 <--------------------->
 
 <p 02><a 2F><n 23>
-You'll see what it is
-soon enough.
+Cháu sẽ sớm biết đó
+là gì thôi.
 <*********************>
 
 <p 02><a 2F><n 23>
-I'll send you a little
-something to compensate
+Ta sẽ gửi cháu chút
+gì đó để bù đắp
 <--------------------->
 
-you for your trouble to
-the transerver.
+cho quá trình
+vận chuyển.
 <*********************>
 
 <p 02><a 02><n 55>

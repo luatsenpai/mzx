@@ -2,59 +2,60 @@
 <#####################>
 
 <p 02><a 2D><n 21>
-I've been so busy
-taking care of the
-injured that I
+Dì đã quá bận rộn
+chăm sóc cho những
+người bị thương nên
 <--------------------->
 
 <p 02><a 2D><n 21>
-haven't had a free
-moment to go and get
-more medical supplies.
+chưa có một phút rảnh
+nào để đi lấy thêm
+vật tư y tế.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Hey! You're a
-transporter. Perfect!
+A! Cháu là vận chuyển
+viên. Vậy tốt quá!
 <--------------------->
 
 <p 02><a 2D><n 21>
-I know you're busy, but
-could you find medical
-supplies for me?
+Dì biết cháu đang bận,
+nhưng cháu có thể tìm
+giúp ít vật tư y tế?
 <--------------------->
 
 <p 02><a 2D><n 21>
-Please bring back
-anything that might be
-useful.
+Xin cháu hãy mang về
+những thứ có thể
+dùng được.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Lives are depending on
-it. I need your help.
+Mọi sinh mạng đang
+phụ thuộc vào nó.
+Dì rất cần cháu giúp.
 <*********************>
 
 <p 02><a 2D><n 21>
-Bring back anything
-that might work as a
-first aid kit.
+Hãy mang về bất cứ
+thứ gì có thể dùng
+để sơ cứu.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Area L is infamous for
-being an Irregular
-stockpile.
+Khu L nổi tiếng là
+kho chứa đồ của lũ
+Maverick.
 <--------------------->
 
-You might find
-something there.
+Chắc cháu sẽ tìm được
+vài thứ ở đó.
 <*********************>
 
 <p 02><a 02><n 55>
-Bring back an aid kit
-from an enemy supply
-container.
+Đem túi cứu thương
+từ kho tiếp tế
+của kè thù.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -63,35 +64,35 @@ container.
 <*********************>
 
 <p 02><a 2D><n 21>
-You haven't located the
-medical supplies yet?
+Cháu vẫn chưa xác định
+được chỗ để vật tư
+ý tế sao?
 <--------------------->
 
 <p 02><a 2D><n 21>
-I'll do what I can to
-treat the wounded,
+Dì sẽ tận lực cứu chữa
+những người bị thương,
 <--------------------->
 
-but I'll need supplies
-soon!
+nhưng dì cần tiếp tế
+ngay!
 <*********************>
 
 <p 02><a 2D><n 21>
-Thank the stars! You've
-brought back aid.
-This will do nicely.
+Tạ ơn chúa! Cuối cùng
+cháu cũng mang tiếp tế
+về. Nó sẽ rất hứu ích.
 <--------------------->
 
 <p 02><a 2D><n 21>
-Now I can finally give
-them the treatment they
-require.
+Bây giờ dì có thể
+điều trị cho họ
+đúng cách.
 <*********************>
 
 <p 02><a 2D><n 21>
-If I start to run low
-again, I'll let you
-know.
+Nếu dì gần hết. Dì sẽ
+cho cháu biết.
 <*********************>
 
 <p 02><a 02><n 55>

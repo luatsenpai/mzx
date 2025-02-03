@@ -2,71 +2,73 @@
 <#####################>
 
 <p 02><a 2A><n 1E>
-Hey Vent! I hate to
-bother you, but I have
-a favor to ask.
+A, Vent! Anh không muốn
+làm phiền em, nhưng anh
+có chuyện muốn nhờ.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I was hoping you could
-deliver this letter to
-a girl.
+Anh mong là em có thể
+giao bức thư này cho
+một cô gái.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-You're surprised to
-hear people still write
+Chắc em đang ngạc nhiên
+rằng thời buổi này
 <--------------------->
 
-letters in this day and
-age?
-<--------------------->
-
-<p 02><a 2A><n 1E>
-Nothing beats a letter
-for capturing the human
-heart.
+làm gì còn ai gửi thư
+nữa?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Please, Vent.
+Thư vẫn là phương tiện
+tuyệt nhất để chạm
+đến trái tim.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I'll compensate you for
-your time!
+Nhờ cả vào em, Vent.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-As for the name of the
-girl of my dreams...
-I'm not sure.
+Anh sẽ trả xứng đáng
+cho quảng thời gian
+mà em bỏ ra!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-But I did see her
-near the fountain in
-town the other day.
+Còn về tên cô gái
+trong mơ thì... anh
+không biết.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Nhưng anh đã tình cờ
+gặp em ấy gần đài
+phún nước.
 <*********************>
 
 <p 02><a 2A><n 1E>
-Vent, I'll send the
-letter to the
-transerver.
+Vent, anh đã gửi thư
+tới trạm trung chuyển
+rồi.
 <--------------------->
 
 <p 02><a 2A><n 1E>
-Whatever you do, don't
-open it!
+Cấm tuyệt đối không
+được mở ra đó!
 <--------------------->
 
 <p 02><a 2A><n 1E>
-You're a transporter,
-so I'm sure you know
+Em là vận chuyển viên
+chắc em cũng biết là
+không được xâm phạm
 <--------------------->
 
-better than to invade a
-client's privacy.
+quyền riêng tư của
+khách hàng.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -80,68 +82,67 @@ tại Khu C-2.
 <*********************>
 
 <p 02><a 2A><n 1E>
-You haven't delivered
-the letter yet, have
-you?
+Em vẫn chưa giao
+lá thư đó sao?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-My heart is racing! I
-wonder what she'll
-say...
+Tim mình đang đập
+thình thịch! Liệu
+em ấy sẽ nói gì nhỉ...
 <--------------------->
 
 <p 02><a 2A><n 1E>
-She should be near the
-fountain, so make sure
-she gets it.
+Em ấy ở gần đài phun
+nước, hãy giao tận tay
+em ấy.
 <*********************>
 
 <p 02><a 4B><n 46>
-Oh, you're a
-transporter. You have a
-letter? For me?
+A, cậu là chuyện phát
+viên. Cậu đang đưa
+thư à? Cho tớ ư?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I wonder who it's
-from...
+Không biết là do ai
+gửi nhỉ...
 <--------------------->
 
 <p 02><a 4B><n 46>
-Let's see now... "Would
-you like to have dinner
-sometime?"
+Để xem nào... "Em có
+muốn ăn tối cùng anh
+không?"
 <--------------------->
 
 <p 02><a 4B><n 46>
-The nerve! Do I look
-that easy to ask out on
-a date?!
+Vô duyên! Bộ trông tớ
+giống kiểu người dễ
+tán tỉnh lắm à?!
 <*********************>
 
 <p 02><a 2A><n 1E>
-Did she say anything
-about the letter?
+Em ấy có nói gì về
+bức thư không?
 <--------------------->
 
 <p 02><a 2A><n 1E>
-I hope she writes one
-back to me!
+Anh mong là em ấy sẽ
+phản hồi lại!
 <*********************>
 
 <p 02><a 4B><n 46>
-Hey transporter!
+Này, chuyển phát viên!
 <--------------------->
 
 <p 02><a 4B><n 46>
-Tell that guy to knock
-it off!
+Nói với anh ta là
+thôi ngay đi!
 <--------------------->
 
 <p 02><a 4B><n 46>
-I don't even know him
-that well.
+Tớ còn chẳng biết
+anh ta là ai.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -154,14 +155,14 @@ vào tài khoản của bạn.
 <*********************>
 
 <p 02><a 4B><n 46>
-I know it's just your
-job to deliver things.
+Tớ biết công việc của
+cậu là giao mọi thứ.
 <--------------------->
 
 <p 02><a 4B><n 46>
-But I'll be honest, I
-found that letter
-creepy!
+Nhưng thú thật là, tớ
+thấy bức thư đó thật
+kinh tởm!
 <*********************>
 
 <FIM>
