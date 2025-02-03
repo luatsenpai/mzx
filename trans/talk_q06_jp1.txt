@@ -2,63 +2,63 @@
 <#####################>
 
 <p 02><a 2C><n 20>
-Ever been to the
-reservoir in Area B-4?
+Nhóc từng đến cái hồ
+trong Khu B-4 chưa?
 <--------------------->
 
 <p 02><a 2C><n 20>
-If ya have, you'll
-know what I'm about to
-tell ya.
+Nếu nhóc đã đến rồi
+thì nhóc sẽ hiểu những
+gì anh sắp nói.
 <--------------------->
 
 <p 02><a 2C><n 20>
-Serpent Co. is dumpin'
-waste from their
-factory in the lakes.
+Tập Đoàn Serpent đang
+xả nước thải xuống
+cái hồ đó.
 <--------------------->
 
 <p 02><a 2C><n 20>
-We've been spreadin'
-around neutralizer in
-the water.
+Bọn anh đã rải chất
+trung hòa trong nước.
 <--------------------->
 
 <p 02><a 2C><n 20>
-Would ya help us
-finish the job?
+Nhóc có thể giúp
+bọn anh hoàn thành
+công việc không?
 <--------------------->
 
 <p 02><a 2C><n 20>
-Oh! Sorry, I should
-explain better.
+A! Xin lỗi, anh nên
+giải thích kỹ hơn.
 <--------------------->
 
 <p 02><a 2C><n 20>
-The neutralizer is what
-cleans up the pollution
-in the water supply.
+Quá trình trung hòa là
+cách loại bỏ ô nhiễm
+khỏi nguồn nước.
 <*********************>
 
 <p 02><a 2C><n 20>
-I hate to think what
-would happen if the
-water from the
+Anh không dám nghĩ
+điều gì sẽ xảy ra
+nếu nước từ
 <--------------------->
 
-lakes made it into
-the river...
+các hồ chảy vào
+sông...
 <--------------------->
 
 <p 02><a 2C><n 20>
-We have to neutralize
-the pollution before
-that happens.
+Chúng ta cần trung hòa
+ô nhiễm trước khi
+điều đó xảy ra.
 <*********************>
 
 <p 02><a 02><n 55>
-Spread the neutralizer
-across the lakes.
+Rải chất trung hòa
+xung quanh hồ.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -67,20 +67,20 @@ across the lakes.
 <*********************>
 
 <p 02><a 2C><n 20>
-The water is still
-pretty dirty.
+Nước trong hồ vẫn còn
+khá bẩn.
 <--------------------->
 
 <p 02><a 2C><n 20>
-You'll have to use all
-5 neutralizers to clean
-the lakes up!
+Nhóc sẽ phải sử dụng
+tất cả 5 chất trung
+hòa để làm sạch hồ!
 <*********************>
 
 <p 02><a 2C><n 20>
-Well done. Well done!
-Don't forget to file a
-report.
+Giỏi lắm. Chúc mừng!
+Đừng quên nộp báo cáo
+nhé.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -93,17 +93,17 @@ vào tài khoản của bạn.
 <*********************>
 
 <p 02><a 2C><n 20>
-I'm definitely
-impressed.
+Anh thực sự rất
+ấn tượng đấy.
 <--------------------->
 
 <p 02><a 2C><n 20>
-I shoulda known
-someone with the
+Đáng ra anh phải biết
+rằng người có
 <--------------------->
 
-Livemetal could do a
-better job than us.
+Livemetal sẽ làm tốt
+hơn anh.
 <*********************>
 
 <FIM>

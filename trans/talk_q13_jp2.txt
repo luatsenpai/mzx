@@ -141,9 +141,9 @@ file your report.
 <--------------------->
 
 <p 02><a 02><n 55>
-200 EC and an item have
-been transferred to
-your account.
+200 EC và vật phẩm
+đã được chuyển vào
+tài khoản của bạn.
 <*********************>
 
 <p 02><a 30><n 24>

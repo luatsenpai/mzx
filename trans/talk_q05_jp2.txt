@@ -2,24 +2,24 @@
 <#####################>
 
 <p 02><a 3E><n 39>
-Hey again! Can you help
-a kid out?
+Lại gặp rồi! Chị có
+thể giúp em không?
 <--------------------->
 
 <p 02><a 3E><n 39>
-My little brother has
-another quiz ready and
-needs a challenger.
+Em trai em lại có một
+câu đố và đang muốn
+thách thức.
 <*********************>
 
 <p 02><a 3E><n 39>
-This time won't be as
-easy as the last time.
+Lần này sẽ không
+dễ dàng như lần trước.
 <*********************>
 
 <p 02><a 02><n 55>
-Answer the quiz for
-Yu's little brother.
+Trả lời câu đố của
+em trai Yu.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -28,111 +28,113 @@ Yu's little brother.
 <*********************>
 
 <p 02><a 3E><n 39>
-His quizzes can be
-ridiculously hard...
+Câu hỏi của em ấy
+có thể khó đến
+nực cười...
 <--------------------->
 
 <p 02><a 3E><n 39>
-But I'm sure it'll be a
-piece of cake for you.
+Nhưng em tin chị sẽ
+xử lý nó dễ như trở
+bàn tay.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Hi again!
+Chào!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Are you up to the next
-Lou challenge? Let's
-get it started!
+Anh có dám thử sức với
+câu đố tiếp theo của
+Lou? Bắt đầu thôi!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-There's a giant tree
-growing in Area A-3.
-What type is it?
+Có một cái cây lớn
+mọc ở Khu A-3. Đó
+là cây gì?
 <--------------------->
 
 <m><a 3F><n 3A>
-  Peach
-  Apple
-  Oak
+  Đào
+  Táo
+  Sồi
 <*********************>
 
 <p 02><a 3F><n 3A>
-Oh, too bad! I have to
-admit, this one was
-tough.
+Tệ quá! Em phải thừa
+nhận rằng câu này khó
+thực sự.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Thanks for trying
-though.
+Cảm ơn vì đã nỗ lực.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-I'll give you something
-as a consolation prize.
+Em sẽ tặng chị một
+cái gì đó để an ủi.
 <--------------------->
 
-Check the transerver
-when you get the
-chance.
+Lần tới hãy nhớ kiểm
+tra trạm trung chuyển
+nha.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Old Jack wanted it,
-but I'll give it to you
-instead.
+Ông Jack cũng muốn nó,
+nhưng em sẽ tặng chị
+thì vì tặng ông ấy.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Well done! Is there 
-anything you don't
-know?
+Đúng rồi! Liệu có gì
+mà chị không biết
+không nhỉ?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Thanks for stepping
-up to the challenge.
+Cảm ơn vì đã không
+lùi bước.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Oh yeah! I'll give you
-something as a reward.
+Tuyệt! Em sẽ tặng chị
+một món quà xứng đáng.
 <--------------------->
 
-Check the transerver
-next time you have a
-chance.
+Lần tới hãy nhớ kiểm
+tra trạm trung chuyển
+nha.
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Don't let old Jack
-know or he'll want it.
+Đừng nói ông Jack biết
+nha, không là ông ấy
+sẽ đòi đấy.
 <*********************>
 
 <p 02><a 3E><n 39>
-Well, was this quiz
-tougher than last time?
+Vậy, cậu đố kỳ này
+khó hơn đúng không?
 <--------------------->
 
 <p 02><a 3E><n 39>
-I was able to answer
-within just 5 seconds!
+Em có thể trả lời
+chỉ trong 5 giây!
 <*********************>
 
 <p 02><a 3F><n 3A>
-I wonder what the
-present might be?
+Liệu món quà sẽ là
+gì ư?
 <--------------------->
 
-You'll just have to
-wait and see!
+Chị phải đợi để tận
+mắt xem nó!
 <--------------------->
 
-I'm sure you'll like
-it.
+Em chắc chắn anh sẽ
+thích nó.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -140,9 +142,9 @@ it.
 <--------------------->
 
 <p 02><a 02><n 55>
-50 EC and an item have
-been transferred to
-your account.
+50 EC và vật phẩm
+đã được chuyển vào
+tài khoản của bạn.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -150,24 +152,24 @@ your account.
 <--------------------->
 
 <p 02><a 02><n 55>
-A pink crystal has
-been transferred as a
-reward.
+Một viên pha lê hồng
+đã được trao tặng như
+phần thưởng.
 <*********************>
 
 <p 02><a 3E><n 39>
-Thanks for the help. My
-brother is on cloud
+Cảm ơn chị đã giúp.
+Em trai em rất vui
 <--------------------->
 
-nine after you answered
-his quiz.
+khi chị đã giải được
+câu đố của em ấy..
 <*********************>
 
 <p 02><a 3F><n 3A>
-Did you see the present
-I gave you? Beautiful
-isn't it?
+Chị đã nhận được phần
+thưởng của em chưa?
+Nó đẹp không?
 <*********************>
 
 <FIM>

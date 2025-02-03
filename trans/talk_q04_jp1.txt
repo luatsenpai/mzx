@@ -2,53 +2,56 @@
 <#####################>
 
 <p 02><a 3E><n 39>
-Hey there! Could you
-help a kid out?
+Anh ơi! Anh có thể giúp
+em được không?
 <--------------------->
 
 <p 02><a 3E><n 39>
-My little brother needs
-someone to try his quiz
-out.
+Em trai của em muốn
+ai đó giải thử câu đố
+của em ấy.
 <--------------------->
 
 <p 02><a 3E><n 39>
-He loves quizzing
-people.
+Em ấy rất thích đánh đố
+mọi người.
 <--------------------->
 
 <p 02><a 3E><n 39>
-Would you try his quiz
-out for me?
+Anh có thể giải câu đố
+của em ấy hộ em được
+không?
 <*********************>
 
 <p 02><a 3E><n 39>
-You think it's a waste
-of time to help me out,
-huh?
+Anh đang nghĩ rằng
+giúp em chỉ phí
+thời gian, đúng không?
 <--------------------->
 
 <p 02><a 3E><n 39>
-Hmm...
+Hừm...
 <--------------------->
 
 <p 02><a 3E><n 39>
-Well, a transporter
-doesn't just deliver
-physical things...
+Ừm, vận chuẩn viên
+không chỉ vận chuyển
+vật chất...
 <--------------------->
 
-A transporter delivers
-hope too...
+Vận chuyển viên còn
+phải vận chuyển
+hy vọng nữa...
 <--------------------->
 
 <p 02><a 3E><n 39>
-Wow, that's deep.
+Quào, ý tưởng đó thật
+sâu sắc.
 <*********************>
 
 <p 02><a 02><n 55>
-Answer the quiz for
-Yu's little brother<c 01>.
+Trả lời câu đố của
+em trai Yu<c 01>.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -57,68 +60,70 @@ Yu's little brother<c 01>.
 <*********************>
 
 <p 02><a 3E><n 39>
-Lou's quizzes aren't
-easy...
+Câu đố của Lou không
+dễ tẹo nào đâu...
 <--------------------->
 
 <p 02><a 3E><n 39>
-But you look smart. I'm
-sure you'll do fine.
+Nhưng trông anh rất
+thông minh, em nghĩ
+là anh sẽ giải được.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Are you up to the Lou
-challenge?
+Anh đã sẵn sàng
+thách thức Lou?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Alright, let's get it
-started!
+Được rồi, chúng ta
+bắt đầu thôi!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Did you know there is a
-place to play games in
-Area C-2?
+Anh có biết ở Khu C-2
+có chỗ chơi game
+không?
 <--------------------->
 
 <p 02><a 3F><n 3A>
-What's the name of the
-game to the far right
-in that place?
+Tên của trò chơi ở
+phía cuối bên phải
+trong khu đó là gì?
 <--------------------->
 
 <m><a 3F><n 3A>
-  Bonbon Ball
-  Kick Kick Kick
-  Dribble Trouble
+  Bóng Bonbon
+  Đá Đá Đá
+  Rê Bóng Bất Trắc
 <*********************>
 
 <p 02><a 3F><n 3A>
-Oh, too bad! Wow,
-you're terrible at
-this.
+Thất vọng quá! Anh
+đúng là tệ ở khoản
+này.
 <*********************>
 
 <p 02><a 3F><n 3A>
-Well done! You're
-smarter than you look!
+Chính xác! Anh
+thông minh hơn em
+tưởng đấy!
 <*********************>
 
 <p 02><a 3E><n 39>
-What did you think of
-my brother's quiz?
-Wasn't easy was it?
+Anh thấy câu đố của
+em trai em thế nào?
+Không dễ đúng không?
 <*********************>
 
 <p 02><a 3F><n 3A>
-Hey, mister...
+Anh ơi...
 <--------------------->
 
 <p 02><a 3F><n 3A>
-I'll think of a new
-question, so come back
-again sometime.
+Em đang nghĩ ra câu đố
+mới, hãy ghé lại lần
+sau nha.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -135,8 +140,9 @@ vào tài khoản của bạn.
 <*********************>
 
 <p 02><a 3F><n 3A>
-If you're ever bored,
-come by and play!
+Nếu anh cảm thấy chán
+thì hãy lại đây chơi
+với em nha!
 <*********************>
 
 <FIM>
