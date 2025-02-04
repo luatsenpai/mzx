@@ -2,97 +2,98 @@
 <#####################>
 
 <p 02><a 2E><n 22>
-Remember the modified
-energy pack I gave
-to old Muguet?
+Còn nhớ gói năng lượng
+chị đã chỉnh sửa cho
+dì Muguet?
 <--------------------->
 
 <p 02><a 2E><n 22>
-Well now everyone in
-Base wants one!
+Giờ mọi người trong
+Căn Cứ đều muốn nó!
 <--------------------->
 
 <p 02><a 2E><n 22>
-I'm going to try my
-best to make one for
-everybody.
+Chị sẽ cố hết mình để
+tạo ra cho mỗi người
+một cái.
 <--------------------->
 
 <p 02><a 2E><n 22>
-You helped me so much
-last time Aile.
+Lần trước, em đã giúp
+chị rất nhiều, Aile.
 <--------------------->
 
 <e 22><a 2E><n 22>
-Could I get your help?
+Em giúp chị nữa nha?
   Có
   Không
 <*********************>
 
 <p 02><a 2E><n 22>
-Thanks Aile!
+Cảm ơn, Aile!
 <--------------------->
 
 <p 02><a 2E><n 22>
-Please bring me an
-energy pack like
-you did last time.
+Hãy mang về cho chị
+gói năng lượng giống
+lần trước nhé.
 <--------------------->
 
 <p 02><a 2E><n 22>
-With my newfound
-skill...
+Với kỹ năng mới
+phát hiện...
 <--------------------->
 
 <p 02><a 2E><n 22>
-I should be able to
-create enough of my
+Chị dự định sẽ tạo đủ
+quà để phát cho
 <--------------------->
 
-special presents for
-everyone in Base.
+toàn bộ mọi người
+trong căn cứ.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I can't wait to see
-their faces!
+Chị đang háo hức muốn
+thấy phản ứng của họ!
 <*********************>
 
 <p 02><a 2E><n 22>
-Oh... I see... I'm
-sorry to hear that.
+A... vậy à... tiếc
+thật đấy.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I guess I should stick
-to studying medicine.
+Chị đoán mình nên
+tiếp tục học y.
 <*********************>
 
 <p 02><a 2E><n 22>
-Where did you find the
-last one anyway?
+Mà lần trước em tìm
+nó ở đâu thế?
 <--------------------->
 
 <p 02><a 2E><n 22>
-What?! You went to that
-much trouble?
+Sao cơ?! Vất vả đến
+thế cơ à?
 <--------------------->
 
 <p 02><a 2E><n 22>
-I didn't know you had
-to take on Irregulars
-for it.
+Chị không biết là em
+phải đối đầu với lũ
+Maverick để có nó.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Be careful if you go
-back there. I don't
-want you to get hurt.
+Hãy cẩn thận nếu em có
+quay lại đó. Chị không
+muốn em bị thương đâu.
 <*********************>
 
 <p 02><a 02><n 55>
-Find the requested item
-in an Area L container.
+Tìm vật phẩm yêu cầu
+trong kho hàng ở
+Khu L.
 <*********************>
 
 <e 01><a 02><n 55>
@@ -101,76 +102,66 @@ in an Area L container.
 <*********************>
 
 <p 02><a 2E><n 22>
-Did you have any luck?
+Có tin tức gì không?
 <--------------------->
 
 <p 02><a 2E><n 22>
-It's no rush, so take
-your time.
+Không cần phải vội,
+hãy cứ thong thả.
 <--------------------->
 
 <p 02><a 2E><n 22>
-I'll be waiting here
-until you bring it
-back.
+Chị sẽ đợi ở đây
+đến khi em mang
+nó về.
 <*********************>
 
 <p 02><a 2E><n 22>
-Aile! You brought it!
+Aile! Em làm tốt lắm!
 <--------------------->
 
 <p 02><a 2E><n 22>
-I'll hand my special
-presents out later when
-they're done.
+Khi xong việc, chị sẽ
+trao tận tay món quà
+cho từng người.
 <*********************>
 
 <p 02><a 2E><n 22>
-The special present
-can only be used
-once unfortunately...
+Tiếc là món quà này
+chỉ có thể sử dụng
+một lần...
 <--------------------->
 
 <p 02><a 2E><n 22>
-If they want more
-later, I might have to
+Nếu sau này họ muốn
+thêm, có thể chị sẽ
 <--------------------->
 
-ask you for your help
-again.
+phải nhờ em giúp
+một tay.
 <*********************>
 
 <p 02><a 2E><n 22>
-I appreciate your
-assistance.
+Chị đánh giá cao
+sự giúp đỡ của em.
 <--------------------->
 
 <p 02><a 2E><n 22>
-Actually, I modified my
-present even more this
-time.
+Thực ra, lần này chị
+đã sửa đổi nhiều hơn
+nữa.
 <--------------------->
 
 <p 02><a 2E><n 22>
-And guess what? I
-discovered how to make
-an entirely new item!
+Và biết gì không? Chị
+đã phát minh ra một
+món đồ mới!
 <--------------------->
 
 <p 02><a 2E><n 22>
-I sent one to the
-transerver for you too,
-Aile!
-<*********************>
-
-<p 02><a 02><n 55>
-Ủy thác hoàn thành.
-<--------------------->
-
-<p 02><a 02><n 55>
-150 EC and a Sub Tank
-have been transferred
-to your account.
+Chị cũng gửi một cái
+cho em tới trạm trung
+chuyển rồi đó, Aile!
 <*********************>
 
 <p 02><a 02><n 55>
@@ -178,9 +169,18 @@ to your account.
 <--------------------->
 
 <p 02><a 02><n 55>
-150 EC has been
-transferred to your
-account.
+150 EC và Bình Dự Trữ
+đã được chuyển vào
+tài khoản của bạn.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC đã được chuyển
+vào tài khoản của bạn.
 <*********************>
 
 <FIM>

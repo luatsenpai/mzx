@@ -2,57 +2,57 @@
 <#####################>
 
 <m><a 02><n 55>
-  Mission Requests
-  Data Management
-  Transport
+  Yêu Cầu Nhiệm Vụ
+  Quản Lý Dữ Liệu
+  Dịch Chuyển
 <*********************>
 
 <m><a 02><n 55>
-  Mission Report
-  Data Management
-  Transport
+  Báo Cáo Nhiệm Vụ
+  Quản Lý Dữ Liệu
+  Dịch Chuyển
 <*********************>
 
 <m><a 02><n 55>
-  Abort Mission
-  Data Management
-  Transport
+  Hủy Nhiệm Vụ
+  Quản Lý Dữ Liệu
+  Dịch Chuyển
 <*********************>
 
 <m><a 02><n 55>
-  Mission Requests
-  Data Management
-  Exit
+  Yêu Cầu Nhiệm Vụ
+  Quản Lý Dữ Liệu
+  Thoát
 <*********************>
 
 <m><a 02><n 55>
-  Mission Report
-  Data Management
-  Exit
+  Báo Cáo Nhiệm Vụ
+  Quản Lý Dữ Liệu
+  Thoát
 <*********************>
 
 <m><a 02><n 55>
-  Abort Mission
-  Data Management
-  Exit
+  Hủy Nhiệm Vụ
+  Quản Lý Dữ Liệu
+  Thoát
 <*********************>
 
 <e 63><a 02><n 55>
-What will you do?
-  Data Management
-  Transport
+Bạn muốn làm gì?
+  Quản Lý Dữ Liệu
+  Dịch Chuyển
 <*********************>
 
 <e 63><a 02><n 55>
-What will you do?
-  Data Management
-  Exit
+Bạn muốn làm gì?
+  Quản Lý Dữ Liệu
+  Thoát
 <*********************>
 
 <e 63><a 02><n 55>
-What will you do?
-  Mission Report
-  Data Management
+Bạn muốn làm gì?
+  Báo Cáo Nhiệm Vụ
+  Quản Lý Dữ Liệu
 <*********************>
 
 <e 63><a 02><n 55>
@@ -395,7 +395,7 @@ Select the mission.
 <*********************>
 
 <p 01><e 01><a 02><n 55>
-What will you do?
+Bạn muốn làm gì?
   Hear Description
   Take Mission
 <*********************>

@@ -178,7 +178,7 @@ must be doing.
 
 <p 02><a 53><n 4E>
 I've never seen a
-transporter delivering
+Dịch Chuyểner delivering
 things on foot though.
 <*********************>
 
@@ -399,13 +399,13 @@ you did.
 
 <p 02><a 41><n 3C>
 Hey! You're a
-transporter? Wow,
+Dịch Chuyểner? Wow,
 that's cool!
 <--------------------->
 
 <p 02><a 41><n 3C>
 I didn't know
-transporters rescued
+Dịch Chuyểners rescued
 hostages too...
 <--------------------->
 
@@ -469,7 +469,7 @@ scream.
 <*********************>
 
 <p 02><a 41><n 3C>
-Hey Transporter!
+Hey Dịch Chuyểner!
 <--------------------->
 
 <p 02><a 41><n 3C>
@@ -733,7 +733,7 @@ that weirdo outfit!
 
 <p 02><a 52><n 4D>
 Oh, I see. You're a
-transporter for
+Dịch Chuyểner for
 Girouette Express.
 <--------------------->
 
@@ -1033,7 +1033,7 @@ rail?
 <--------------------->
 
 <p 02><a 4A><n 45>
-I thought transporters
+I thought Dịch Chuyểners
 were sticklers for
 following the rules...
 <*********************>
@@ -1329,7 +1329,7 @@ someone's house!
 <--------------------->
 
 <p 02><a 43><n 3E>
-I guess transporters
+I guess Dịch Chuyểners
 aren't hired for common
 sense nowadays.
 <--------------------->

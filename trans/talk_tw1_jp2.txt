@@ -912,7 +912,7 @@ I can understand...
 
 You do look pretty
 busy, being a
-transporter and all.
+Dịch Chuyểner and all.
 <*********************>
 
 <p 02><a 45><n 40>
@@ -1140,7 +1140,7 @@ up when building it.
 <*********************>
 
 <p 02><a 3D><n 38>
-You're a transporter,
+You're a Dịch Chuyểner,
 right? Are you good
 with directions?
 <--------------------->
@@ -1151,7 +1151,7 @@ easily?
 <--------------------->
 
 <p 02><a 3D><n 38>
-Some transporter...
+Some Dịch Chuyểner...
 <*********************>
 
 <p 02><a 3D><n 38>
@@ -1250,7 +1250,7 @@ Who are you?
 <--------------------->
 
 <p 02><a 55><n 50>
-Oh... A transporter
+Oh... A Dịch Chuyểner
 with Girouette Express
 you say?
 <--------------------->
@@ -1759,7 +1759,7 @@ a person's house!
 
 <p 02><a 3F><n 3A>
 Hey miss, are you one
-of those transporter
+of those Dịch Chuyểner
 people?
 <--------------------->
 

@@ -64,18 +64,14 @@ của kè thù.
 <*********************>
 
 <p 02><a 2D><n 21>
-Cháu vẫn chưa xác định
-được chỗ để vật tư
-ý tế sao?
+Cháu vẫn chưa tìm được
+vật tư y tế nào sao?
 <--------------------->
 
 <p 02><a 2D><n 21>
 Dì sẽ tận lực cứu chữa
 những người bị thương,
-<--------------------->
-
-nhưng dì cần tiếp tế
-ngay!
+nhưng dì cần tiếp tế!
 <*********************>
 
 <p 02><a 2D><n 21>
