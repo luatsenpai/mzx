@@ -1,0 +1,143 @@
+<script_info tipo='Quest 10' personagem='indefinido' tamanho='1237' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 2A><n 1E>
+A, Vent! Xin lỗi vì đã
+làm phiền em lần nữa,
+<--------------------->
+
+nhưng anh có một việc
+muốn nhờ.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Anh có một bức thư mới
+cho một người mà em
+cũng đã biết đó là ai.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Anh không muốn khoe,
+nhưng cái này chính là
+kiệt tác!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Anh đúng là bậc thầy
+lãng mạng mà!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Đừng lo, anh vẫn sẽ
+thưởng cho em vì sự
+giúp đỡ của em.
+<*********************>
+
+<p 02><a 2A><n 1E>
+Anh đã đưa lá thư tới
+trạm trung chuyển rồi.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Anh cảnh báo trước là
+cấm đọc lá thư đó
+đấy!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Một cậu bé như em không
+thể hiểu được tình yêu
+đâu...
+<*********************>
+
+<p 02><a 02><n 55>
+Giao lá thư cho cô gái
+tại Khu C-2.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 2A><n 1E>
+Mình đoán là cô ấy vẫn
+chưa nhận được thư...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Dù biết là quá tam ba
+bận, nhưng con tim mình
+vẫn rất bấn loạn!
+<*********************>
+
+<p 02><a 4B><n 46>
+A, lại là chuyển phát
+viên sao. Lại là thư
+à? Gửi tớ sao?
+<--------------------->
+
+<p 02><a 4B><n 46>
+Để tớ đoán xem là
+ai gửi nhé...
+<--------------------->
+
+<p 02><a 4B><n 46>
+"Xấu nhưng giàu, đẹp
+trai nhưng giàu."
+<--------------------->
+
+<p 02><a 4B><n 46>
+"Gu của em là gì?"
+<--------------------->
+
+<p 02><a 4B><n 46>
+Không thể tin được!
+<--------------------->
+
+<p 02><a 4B><n 46>
+Tất nhiên, cả hai
+đều quan trọng.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Dù có trả lời thế nào
+thì cũng sai!
+<*********************>
+
+<p 02><a 2A><n 1E>
+Em ấy nói gì?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Cả hai đều không?
+Em ấy thật bí ẩn.
+Thú vị nhỉ?
+<*********************>
+
+<p 02><a 4B><n 46>
+Chuyển phát viên! Tớ
+có lời muốn nhắn cho
+ông chú kia.
+<--------------------->
+
+<p 02><a 4B><n 46>
+Hãy học cách đối xử
+với phụ nữ!
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn tất.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC đã được chuyển
+vào tài khoản của bạn.
+<*********************>
+
+<p 02><a 4B><n 46>
+Mấy lá thư này khiến
+mình đau đầu quá...
+<*********************>
+
+<FIM>

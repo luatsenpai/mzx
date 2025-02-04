@@ -1,0 +1,166 @@
+<script_info tipo='Quest 1' personagem='indefinido' tamanho='1488' inicio_ponteiros='4' fim_ponteiros='25' inicio_textos='26' />
+<#####################>
+
+<p 02><a 4A><n 45>
+Cậu là vận chuyển viên
+đến từ Chuyển Phát Nhanh
+Girouette đúng không?
+<--------------------->
+
+<p 02><a 4A><n 45>
+Không biết là cậu
+có thể giúp tớ việc này
+không nhỉ.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Có một bông hoa kỳ diệu
+đang mọc trong rừng và
+<--------------------->
+
+tớ thực sự rất muốn
+có nó.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Tớ đã gửi ủy thác
+chính thức tới Chuyển
+Phát Nhanh Girouette.
+<--------------------->
+
+Nếu cậu muốn giúp thì
+xem dữ liệu nhiệm vụ ở
+trạm trung chuyển nha.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Tớ sẽ trả công
+xứng đáng cho cậu!
+<*********************>
+
+<p 02><a 4A><n 45>
+Bông hoa nở ở nơi mà
+tớ không thể nào
+với tới.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Nó thật kỳ diệu,
+nó không mọc ở
+bất cứ nơi đâu.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Nó thường xuất hiện ở
+những nơi hiểm trở
+như vách đá.
+<--------------------->
+
+Hãy giúp tớ tìm nó.
+<*********************>
+
+<p 02><a 02><n 55>
+Tìm bông hoa kỳ diệu
+đang nở rộ trong rừng.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 4A><n 45>
+Có vẻ như cậu vẫn chưa
+tìm ra bông hoa...
+<--------------------->
+
+<p 02><a 4A><n 45>
+Chắc hẳn nó rất khó
+tìm, đến cả vận chuyển
+<--------------------->
+
+viên cũng không thể
+tìm được nó.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Cảm giác này cứ ám ảnh
+tớ mãi...
+<--------------------->
+
+<p 02><a 4A><n 45>
+Tớ biết rồi, tớ từng
+thấy có gì đó ở đỉnh
+núi tại Khu A-1...
+<*********************>
+
+<p 02><a 4A><n 45>
+Chính là nó!
+<--------------------->
+
+<p 02><a 4A><n 45>
+Nó thật đẹp đúng không?
+<--------------------->
+
+<p 02><a 4A><n 45>
+Cảm ơn nha! Tớ đã
+chuyển vài E-Crystals
+<--------------------->
+
+vào tài khoản của cậu
+rồi đấy!
+<*********************>
+
+<p 02><a 4A><n 45>
+Đừng quên nhận
+E-Crystals tại trạm
+trung chuyển nha.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC đã được chuyển
+vào tài khoản của bạn.
+<*********************>
+
+<p 02><a 4A><n 45>
+Cảm ơn cậu đã giúp.
+<--------------------->
+
+<p 02><a 4A><n 45>
+Tớ ngắm bông hoa
+xinh đẹp này mãi mà
+không thấy chán...
+<--------------------->
+
+<p 02><a 4A><n 45>
+Cậu thấy giữa tớ và
+nó thì ai đẹp hơn?
+<--------------------->
+
+<e 1D><a 4A><n 45>
+Chà?
+  Tất nhiên là cậu!
+  Bông hoa!
+<*********************>
+
+<p 02><a 4A><n 45>
+Thật ư? A, cảm ơn nha!
+Cậu đúng là vận chuyển
+viên đáng yêu!
+<*********************>
+
+<p 02><a 4A><n 45>
+Hả?!
+<--------------------->
+
+<p 02><a 4A><n 45>
+Trong những người tớ
+gặp... cậu là người
+khiến tớ cảm thấy vui!
+<*********************>
+
+<FIM>

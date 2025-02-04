@@ -1,0 +1,399 @@
+<script_info tipo='Quest 3' personagem='indefinido' tamanho='3504' inicio_ponteiros='4' fim_ponteiros='33' inicio_textos='34' />
+<#####################>
+
+<p 02><a 53><n 4E>
+*Haizz* Dì lo quá...
+<--------------------->
+
+<p 02><a 53><n 4E>
+Gần đây con trai dì
+hay trốn học...
+<--------------------->
+
+<p 02><a 53><n 4E>
+Thằng bé dạo này cũng
+hay về khuya nên dì
+cảm thấy lo lắm.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Dì mong là thằng bé
+không bị đám bạn xấu
+dụ dỗ.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Dì lo quá... cháu
+có thể giúp gì đi 
+thằng bé thế nào không?
+<*********************>
+
+<p 02><a 53><n 4E>
+Kể từ sau vụ hỏa hoạn,
+thằng bé thường xuyên
+<--------------------->
+
+<p 02><a 53><n 4E>
+về nhà muộn.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Dì không hiểu sao lại
+như vậy.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Thằng bé đang định
+âm mưu gì chăng?
+<*********************>
+
+<p 02><a 02><n 55>
+Tìm cậu bé gần khu vực
+xảy ra hỏa hoạn.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 53><n 4E>
+Cháu vẫn chưa tìm thấy
+thằng bé ư?
+<--------------------->
+
+<p 02><a 53><n 4E>
+Dì thấy lo quá, cháu
+hãy mau đi tìm
+thằng bé đi!
+<--------------------->
+
+<p 02><a 53><n 4E>
+Thằng bé là tất cả
+với dì.
+<--------------------->
+
+Nếu cháu tìm thằng bé
+hộ dì, dì sẽ trả công
+xứng đáng.
+<*********************>
+
+<p 02><a 3A><n 35>
+3!
+2!
+1!
+<--------------------->
+
+<p 02><a 3A><n 35>
+0!
+Tớ tìm đây!
+<*********************>
+
+<p 02><a 3A><n 35>
+A! Anh làm em giật
+cả mình!
+<--------------------->
+
+<p 02><a 3A><n 35>
+Anh cũng đang chơi
+trốn tìm sao?
+<--------------------->
+
+<p 02><a 3A><n 35>
+Hả, đã đến lúc phải về
+nhà rồi ư?
+<--------------------->
+
+<p 02><a 3A><n 35>
+Em chưa về được! Em
+phải tìm mọi người!
+<--------------------->
+
+<p 02><a 3A><n 35>
+Hở?! Anh sẽ giúp em
+tìm họ ạ?
+<--------------------->
+
+<p 02><a 3A><n 35>
+A, cảm ơn nha! Vậy em
+sẽ cho anh gợi ý.
+<--------------------->
+
+<p 02><a 3A><n 35>
+Cái người trước kia là
+người đi tìm không
+giỏi đi trốn đâu.
+<--------------------->
+
+<p 02><a 3A><n 35>
+Cậu ấy chắc chắn đang
+trốn trong tầng cách
+đây không xa.
+<--------------------->
+
+<p 02><a 3A><n 35>
+Cảm ơn anh đã giúp!
+<*********************>
+
+<p 02><a 3B><n 36>
+A! Anh tìm thấy em
+rồi!
+<--------------------->
+
+<p 02><a 3B><n 36>
+Tại sao mọi người lại
+trốn giỏi hơn em nhỉ?
+<--------------------->
+
+<p 02><a 3B><n 36>
+Này, anh cũng đang tìm
+những người khác nhỉ?
+<--------------------->
+
+<p 02><a 3B><n 36>
+Muốn em gợi ý hem?
+<--------------------->
+
+<p 02><a 3B><n 36>
+Những thứ khó tìm nhất
+lại nằm ngay trước mắt.
+<*********************>
+
+<p 02><a 3C><n 37>
+Chà, anh tìm thấy em
+rồi! Này, mọi người
+đâu cả rồi?
+<--------------------->
+
+<p 02><a 3C><n 37>
+Anh đang tìm kiếm một
+người trong chúng em
+đúng không?
+<--------------------->
+
+<p 02><a 3C><n 37>
+Có một người rất
+ít nói.
+<--------------------->
+
+<p 02><a 3C><n 37>
+Cậu ấy chắc hẳn đang
+trốn ở góc nào đó.
+<*********************>
+
+<p 02><a 3D><n 38>
+...Hửm?
+<--------------------->
+
+<p 02><a 3D><n 38>
+Em đang trốn mà.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Này, đừng làm phiền
+em chứ.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Nơi này tối thật. Đúng
+là một nơi lý tưởng để
+trốn.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Anh muốn gì hả? Anh
+định chỉ điểm em à?
+Đi chỗ khác đi!
+<--------------------->
+
+<p 02><a 3D><n 38>
+Thôi kệ... chỉ cần anh
+tìm thấy cậu ấy là
+được.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Em không thích cậu ấy
+cho lắm.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Cậu ấy là người mới,
+nhưng cậu ấy trốn rất
+giỏi.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Anh họ Bonbon thường
+trêu chọc rằng em chỉ
+toàn chơi trò con nít.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Nhưng mà vấn đề
+không phải ở đó.
+<--------------------->
+
+Người mới đã chiếm mất
+vị trí trùm trốn tìm
+của em!
+<--------------------->
+
+<p 02><a 3D><n 38>
+Tìm cậu ta rất khó,
+anh phải cố gắng hết
+mình.
+<*********************>
+
+<p 02><a 39><n 34>
+Khônggg! Chỗ trốn đẹp
+thế này làm sao có
+người tìm ra chứ?
+<--------------------->
+
+<p 02><a 39><n 34>
+Khoan, em không quen
+anh.
+<--------------------->
+
+<p 02><a 39><n 34>
+A, mẹ em đã nhờ anh
+tới tìm em đúng không?
+<--------------------->
+
+<p 02><a 39><n 34>
+Em không ngờ là chơi
+cùng với bạn bè lại
+vui đến thế.
+<--------------------->
+
+<p 02><a 39><n 34>
+Mỗi khi đi học về,
+tất cả những gì chờ
+<--------------------->
+
+em chỉ là bài tập
+về nhà.
+<--------------------->
+
+<p 02><a 39><n 34>
+Em biết mẹ chỉ muốn
+tốt cho em thôi,
+nhưng giờ em
+<--------------------->
+
+<p 02><a 39><n 34>
+không muốn nghĩ đến
+chuyện tương lai.
+<--------------------->
+
+Dù sao thì em cũng chỉ
+là trẻ con thôi mà?
+<--------------------->
+
+<p 02><a 39><n 34>
+Anh có tin rằng chơi
+trốn tìm còn khó hơn
+đạt được 100 điểm
+<--------------------->
+
+<p 02><a 39><n 34>
+trong bài kiểm tra
+trên trường không?
+<--------------------->
+
+<p 02><a 39><n 34>
+Từ giờ trở đi, em sẽ
+làm những gì mình muốn!
+<--------------------->
+
+<p 02><a 39><n 34>
+...Nhưng mà, em cũng
+không muốn mẹ buồn
+đâu.
+<--------------------->
+
+<p 02><a 39><n 34>
+Em sẽ về nhà và nói
+bà ấy biết cảm nghĩ
+của em.
+<--------------------->
+
+Cảm ơn anh đã đến đón
+em.
+<*********************>
+
+<p 02><a 53><n 4E>
+Con của dì đã
+quay lại...
+<--------------------->
+
+<p 02><a 53><n 4E>
+Thằng bé là đứa trẻ
+ngoan. Không hiểu
+sao lại thế này...
+<--------------------->
+
+<p 02><a 53><n 4E>
+Đây lần đầu tiên dì
+phạt thằng bé.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Chắc chắn là do lũ bạn
+xấu xúi dục rồi.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Cảm ơn cháu đã đưa
+thằng bé về.
+<*********************>
+
+<p 02><a 53><n 4E>
+Dì đã gửi một chút
+gì đó tới trạm trung
+chuyển cho cháu.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+400 EC đã được chuyển
+vào tài khoản của bạn.
+<*********************>
+
+<p 02><a 53><n 4E>
+Hy vọng số tiền đó
+vừa ý cháu.
+<--------------------->
+
+Cảm ơn cháu đã giúp
+tìm thằng bé hộ dì.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Dì đã có một cuộc
+trò chuyện thẳng thắn
+với thằng bé
+<--------------------->
+
+<p 02><a 53><n 4E>
+và lần đầu dì nghe
+thằng bé nói vậy.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Chuyện gì cũng bất ngờ
+xảy ra, một cái nối
+tiếp một cái.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Làm cha mẹ không
+bao giờ là điều
+dễ dàng!
+<*********************>
+
+<FIM>

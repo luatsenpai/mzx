@@ -1,0 +1,186 @@
+<script_info tipo='Quest 24' personagem='indefinido' tamanho='1632' inicio_ponteiros='4' fim_ponteiros='27' inicio_textos='28' />
+<#####################>
+
+<p 02><a 2E><n 22>
+Còn nhớ gói năng lượng
+chị đã chỉnh sửa cho
+dì Muguet?
+<--------------------->
+
+<p 02><a 2E><n 22>
+Giờ mọi người trong
+Căn Cứ đều muốn nó!
+<--------------------->
+
+<p 02><a 2E><n 22>
+Chị sẽ cố hết mình để
+tạo ra cho mỗi người
+một cái.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Lần trước, em đã giúp
+chị rất nhiều, Vent.
+<--------------------->
+
+<e 22><a 2E><n 22>
+Em giúp chị nữa nha?
+  Có
+  Không
+<*********************>
+
+<p 02><a 2E><n 22>
+Cảm ơn, Vent!
+<--------------------->
+
+<p 02><a 2E><n 22>
+Hãy mang về cho chị
+gói năng lượng giống
+lần trước nhé.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Với kỹ năng mới
+phát hiện...
+<--------------------->
+
+<p 02><a 2E><n 22>
+Chị dự định sẽ tạo đủ
+quà để phát cho
+<--------------------->
+
+toàn bộ mọi người
+trong căn cứ.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Chị đang háo hức muốn
+thấy phản ứng của họ!
+<*********************>
+
+<p 02><a 2E><n 22>
+A... vậy à... tiếc
+thật đấy.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Chị đoán mình nên
+tiếp tục học y.
+<*********************>
+
+<p 02><a 2E><n 22>
+Mà lần trước em tìm
+nó ở đâu thế?
+<--------------------->
+
+<p 02><a 2E><n 22>
+Sao cơ?! Vất vả đến
+thế cơ à?
+<--------------------->
+
+<p 02><a 2E><n 22>
+Chị không biết là em
+phải đối đầu với lũ
+Maverick để có nó.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Hãy cẩn thận nếu em có
+quay lại đó. Chị không
+muốn em bị thương đâu.
+<*********************>
+
+<p 02><a 02><n 55>
+Tìm vật phẩm yêu cầu
+trong kho hàng ở
+Khu L.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 2E><n 22>
+Có tin tức gì không?
+<--------------------->
+
+<p 02><a 2E><n 22>
+Không cần phải vội,
+hãy cứ thong thả.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Chị sẽ đợi ở đây
+đến khi em mang
+nó về.
+<*********************>
+
+<p 02><a 2E><n 22>
+Vent! Em làm tốt lắm!
+<--------------------->
+
+<p 02><a 2E><n 22>
+Khi xong việc, chị sẽ
+trao tận tay món quà
+cho từng người.
+<*********************>
+
+<p 02><a 2E><n 22>
+Tiếc là món quà này
+chỉ có thể sử dụng
+một lần...
+<--------------------->
+
+<p 02><a 2E><n 22>
+Nếu sau này họ muốn
+thêm, có thể chị sẽ
+<--------------------->
+
+phải nhờ em giúp
+một tay.
+<*********************>
+
+<p 02><a 2E><n 22>
+Chị đánh giá cao
+sự giúp đỡ của em.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Thực ra, lần này chị
+đã sửa đổi nhiều hơn
+nữa.
+<--------------------->
+
+<p 02><a 2E><n 22>
+Và biết gì không? Chị
+đã phát minh ra một
+món đồ mới!
+<--------------------->
+
+<p 02><a 2E><n 22>
+Chị cũng gửi một cái
+cho em tới trạm trung
+chuyển rồi đó, Vent!
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC và Bình Dự Trữ
+đã được chuyển vào
+tài khoản của bạn.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC đã được chuyển
+vào tài khoản của bạn.
+<*********************>
+
+<FIM>

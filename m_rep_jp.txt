@@ -1,0 +1,24 @@
+<script_info tipo='rep' personagem='indefinido' tamanho='212' inicio_ponteiros='4' fim_ponteiros='11' inicio_textos='12' />
+<#####################>
+
+
+<dpad>Bàn Điều Khiển <esquerda>/<direita>:Chọn
+Phím <btn_a>:OK, Phím <btn_b>:Hủy
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <cima>/<baixo>:Chọn
+Phím <btn_a>:OK, Phím <btn_b>:Hủy
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <cima>/<baixo>:Chọn
+Không đủ E-Crystals
+<*********************>
+
+
+<dpad>Bàn Điều Khiển <cima>/<baixo>:Chọn
+Không cần sửa chữa
+<*********************>
+
+<FIM>

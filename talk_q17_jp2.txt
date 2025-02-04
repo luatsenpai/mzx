@@ -1,0 +1,88 @@
+<script_info tipo='Quest 23' personagem='indefinido' tamanho='819' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 2D><n 21>
+Thật đúng lúc!
+<--------------------->
+
+<p 02><a 2D><n 21>
+Bọn dì sắp hết vật tư
+y tế nữa rồi.
+<--------------------->
+
+<p 02><a 2D><n 21>
+Cháu có thể dành chút
+thời gian kiếm thêm
+cho dì được không?
+<*********************>
+
+<p 02><a 2D><n 21>
+Hãy mang về bất cứ
+thứ gì có thể dùng
+để sơ cứu.
+<--------------------->
+
+<p 02><a 2D><n 21>
+Khu L nổi tiếng là
+kho chứa đồ của lũ
+Maverick.
+<--------------------->
+
+Chắc cháu sẽ tìm được
+vài thứ ở đó.
+<*********************>
+
+<p 02><a 02><n 55>
+Đem túi cứu thương
+từ kho tiếp tế
+của kè thù.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 2D><n 21>
+Cháu vẫn chưa tìm được
+vật tư y tế nào sao?
+<--------------------->
+
+<p 02><a 2D><n 21>
+Dì sẽ tận lực cứu chữa
+những người bị thương,
+nhưng dì cần tiếp tế!
+<*********************>
+
+<p 02><a 2D><n 21>
+Tạ ơn chúa! Cuối cùng
+cháu cũng mang tiếp tế
+về. Nó sẽ rất hứu ích!
+<--------------------->
+
+<p 02><a 2D><n 21>
+Cháu là một thiên thần
+cứu mạng.
+<--------------------->
+
+<p 02><a 2D><n 21>
+Rose sẽ rất ấn tượng
+với những gì cháu
+đã làm với di cho xem.
+<*********************>
+
+<p 02><a 2D><n 21>
+Nếu dì gần hết. Dì sẽ
+cho cháu biết.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+150 EC đã được chuyển
+vào tài khoản của bạn.
+<*********************>
+
+<FIM>

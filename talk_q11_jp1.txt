@@ -1,0 +1,110 @@
+<script_info tipo='Quest 17' personagem='indefinido' tamanho='978' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 2F><n 23>
+A, là cháu, Vent!
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta có một chuyện muốn
+nhờ cháu.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta đang hoàn thiện
+một thứ gì đó,
+<--------------------->
+
+<p 02><a 2F><n 23>
+nhưng ta lại thiếu mất
+một bộ phận quan trọng.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Mảnh ghép đó bị giấu
+bên trong hòn đá tìm
+thấy tại Vùng K-1.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Không may là ta không
+thể tới đó và tìm nó.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Cháu có sẵn lòng tìm
+nó và mang về cho ta
+không?
+<*********************>
+
+<p 02><a 2F><n 23>
+Chỉ khi ta trẻ như
+cháu, ta mới có thể
+tự mình đi tìm nó.
+<*********************>
+
+<p 02><a 02><n 55>
+Tìm hòn đá đặc biệt
+ở Khu K-1 và mang về
+cho Silure.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 2F><n 23>
+Cháu đã tìm được
+hòn đá chưa?
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta xin lỗi vì đã đưa ra
+yêu cầu khó đến vậy.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Nhưng nếu cháu tìm kỹ
+ở Khu K-1, 
+<--------------------->
+
+cháu sẽ tìm thấy nó
+ở đâu đó.
+<*********************>
+
+<p 02><a 2F><n 23>
+Chính là nó!
+Cảm ơn cháu!
+<--------------------->
+
+<p 02><a 2F><n 23>
+Giờ ta đã có mảnh ghép
+cuối cùng, ta có thể
+tạo ra một cái gì đó.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Cháu sẽ sớm biết đó
+là gì thôi.
+<*********************>
+
+<p 02><a 2F><n 23>
+Ta sẽ gửi cháu chút
+gì đó để bù đắp
+<--------------------->
+
+cho quá trình
+vận chuyển.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+200 EC đã được chuyển
+vào tài khoản của bạn.
+<*********************>
+
+<FIM>

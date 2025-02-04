@@ -1,0 +1,1166 @@
+<script_info tipo='Mission 16' personagem='indefinido' tamanho='11312' inicio_ponteiros='4' fim_ponteiros='121' inicio_textos='122' />
+<#####################>
+
+<p 02><d 813E><a 0B><n 04>
+Vent. Chúng tôi đã
+xác định được vị trí
+Model V.
+<--------------------->
+
+<p 02><d 823E><a 0B><n 04>
+Nó nằm trong tòa nhà
+cao nhất ngay tại
+trung tâm đất nước -
+<--------------------->
+
+trụ sở chính của
+Tập Đoàn Serpent.
+<*********************>
+
+<p 01><p 02><d 833E><a 0B><n 04>
+Tôi phát hiện ra một
+nguồn năng lượng lớn
+<--------------------->
+
+đang tập trung bên
+trong tòa nhà.
+<--------------------->
+
+<p 01><p 02><d 843E><a 0B><n 04>
+Có cái gì đó rất khủng
+khiếp sắp xảy ra. Thứ
+gì đó rất nguy hiểm.
+<--------------------->
+
+<p 01><p 03><d 853E><a 05><n 01>
+Tôi biết nó sẽ rất
+nguy hiểm. Nhưng đây
+là điều tôi phải làm.
+<*********************>
+
+<p 02><d 863E><a 0C><n 04>
+Vent. Tôi biết bây giờ
+đã muộn, nhưng...
+<*********************>
+
+<p 02><d 873E><a 0C><n 04>
+Tôi thực sự xin lỗi
+vì đã để anh rơi
+vào nguy hiểm.
+<--------------------->
+
+<p 02><d 883E><a 0C><n 04>
+Nếu như tôi không
+yêu cầu vận chuyển
+thì,
+<--------------------->
+
+Anh đã không bị cuốn
+vào những rắc rối
+này.
+<--------------------->
+
+<p 02><d 893E><a 0C><n 04>
+Và Girouette...
+<--------------------->
+
+<p 02><d 8A3E><a 0C><n 04>
+Tôi cảm thấy mình
+đã gây ra cho anh
+quá nhiều đau khổ.
+<--------------------->
+
+<p 03><d 8B3E><a 05><n 01>
+Đừng nghĩ vậy chứ.
+Tôi cũng rất may mắn
+khi có cô.
+<*********************>
+
+<p 02><d 8C3E><a 0C><n 04>
+Thật ư? Tại sao?
+<--------------------->
+
+<p 03><d 8D3E><a 05><n 01>
+Đó là lỗi của tôi khi
+tôi không thể cứu Sếp.
+Tôi đã quá yếu đuối.
+<--------------------->
+
+<p 03><d 8E3E><a 05><n 01>
+Nhưng giờ tôi đã có
+sức mạnh của
+Livemetal.
+<--------------------->
+
+<p 03><d 8F3E><a 05><n 01>
+Đều là nhờ cô và
+Livemetal,
+<--------------------->
+
+<p 03><d 903E><a 05><n 01>
+Cuối cùng tôi cũng có
+đủ sức mạnh để bảo vệ
+
+<--------------------->
+những người tôi
+yêu thương.
+<--------------------->
+
+<p 02><d 913E><a 09><n 04>
+Vent...
+<--------------------->
+
+<p 03><d 923E><a 05><n 01>
+Tôi sẽ sớm quay lại.
+<--------------------->
+
+<p 03><d 933E><a 05><n 01>
+Tôi sẽ đi chấm dứt
+cơn ác mộng này!
+<--------------------->
+
+<p 02><d 943E><a 09><n 04>
+Dữ liệu về nhiệm vụ
+cuối cùng đã thêm vào
+Trạm Trung Chuyển.
+<--------------------->
+
+<p 02><d 953E><a 09><n 04>
+Vent. Hãy bình an
+trở về nhé?
+<*********************>
+
+<p 02><d 963E><a 02><n 55>
+Có tín hiệu Livemetal
+đến từ văn phòng chính
+<--------------------->
+
+của Tập Đoàn Serpent
+ở Khu D.
+<--------------------->
+
+<p 02><d 973E><a 02><n 55>
+Là Model V.
+<--------------------->
+
+<p 02><d 983E><a 02><n 55>
+Đi đến văn phòng chính
+của Tập Đoàn Serpent
+và phá hủy nó.
+<*********************>
+
+<p 03><d 993E><a 1B><n 10>
+Chiếc màn đã được kéo
+lên mừng thời đại mới!
+<--------------------->
+
+Tiếc là ngươi không có
+cơ hội chứng kiến
+điều đó.
+<--------------------->
+
+<p 03><d 9A3E><a 1B><n 10>
+Ánh sáng thế giới mới
+quá chói lòa
+<--------------------->
+
+với loại người như
+ngươi!
+<*********************>
+
+<p 01><p 03><d 9B3E><a 1B><n 10>
+Ngươi không đủ tầm
+để hiểu được
+<--------------------->
+
+tầm nhìn lớn lao
+của bọn ta...
+<*********************>
+
+<p 03><d 9C3E><a 1B><n 10>
+*khụ* *khụ* Ta không
+sợ hãi cái chết!
+<--------------------->
+
+<p 03><d 9D3E><a 1B><n 10>
+Linh hồn của ta sẽ
+hợp nhất với Model V
+và Chúa tể Serpent!
+<*********************>
+
+<p 03><d 9E3E><a 1A><n 0F>
+Không thể tin được!
+Ngươi đã làm phiền
+<--------------------->
+
+Chúa Tể Serpent trong
+suốt quảng thời gian
+qua
+<--------------------->
+
+<p 03><d 9F3E><a 1A><n 0F>
+Ranh con! Ta sẽ
+nghiền nát ngươi!
+<*********************>
+
+<p 01><p 03><d A03E><a 1A><n 0F>
+Chà! Chỉ có thế
+thôi sao?
+<--------------------->
+
+<p 01><p 03><d A13E><a 1A><n 0F>
+Đúng là ranh con
+chỉ có sức chiến đấu
+yếu kém!
+<*********************>
+
+<p 03><d A23E><a 1A><n 0F>
+A! Chúa Tể Serpent...
+Hãy lấy linh hồn của
+tôi! Nó là của ngài!
+<--------------------->
+
+<p 03><d A33E><a 1A><n 0F>
+Còn về phần ngươi,
+ta mong ngươi sẽ
+bị nghiền nát!
+<*********************>
+
+<p 03><d A43E><a 21><n 16>
+Lại có cơ hội đối đầu
+với nhóc rồi! Linh hồn
+của ta đang rực cháy!
+<--------------------->
+
+<p 03><d A53E><a 21><n 16>
+Được rồi, tên nhóc!
+Cho ta thấy sức mạnh
+của ngươi nào!
+<*********************>
+
+<p 03><d A63E><a 21><n 16>
+Nếu còn vương vấn
+quá khứ, làm sao
+<--------------------->
+
+ngươi có thể
+bước tới tương lai
+vinh quang?!
+<*********************>
+
+<p 03><d A73E><a 21><n 16>
+Ngay cả khi chỉ là
+linh hồn thì ta vẫn
+sẽ tiếp tục chiến đấu!
+<--------------------->
+
+Ta sẽ trở thành một
+với Model V!
+<--------------------->
+
+<p 03><d A83E><a 21><n 16>
+Đây... đây chính là
+điều mà Serpent đã
+từng nói về sức mạnh
+<--------------------->
+
+của thần linh!
+Thật khó tin...
+Quá đỗi kỳ diệu!
+<*********************>
+
+<p 03><d A93E><a 1D><n 12>
+Khẹc! Khẹc! Thật 
+kỳ diệu! Ta đã trở lại
+và lợi hại hơn xưa!
+<--------------------->
+
+<p 03><d AA3E><a 1D><n 12>
+Rất tiếc, cuộc chiến
+này sẽ không cân sức!
+<--------------------->
+
+Ta sẽ quật ngã ngươi
+chỉ với một cú!
+<*********************>
+
+<p 03><d AB3E><a 1D><n 12>
+Khẹc! Khẹc! Linh hồn
+của ngươi quá yếu để
+Model V hấp thụ!
+<*********************>
+
+<p 03><d AC3E><a 1D><n 12>
+Khẹc... Khẹc! Ta lại
+bị hạ gục!
+<--------------------->
+
+Mà ít ra ta cũng đã
+được trở lại một
+lúc.
+<--------------------->
+
+<p 03><d AD3E><a 1D><n 12>
+Chúa Tể Serpent! Hãy
+lấy linh hồn tôi
+dâng cho Model V!
+<*********************>
+
+<p 03><d AE3E><a 1C><n 11>
+Hừ. Ngươi đúng thật
+phiền phức. Cứ thích
+làm chuyện vô ích!.
+<--------------------->
+
+Chúa tể Serpent
+sẽ chiến thắng!
+<--------------------->
+
+<p 03><d AF3E><a 1C><n 11>
+Ta sẽ băm ngươi ra
+từng mảnh và mọi nỗ lực
+của ngươi sẽ vô nghĩa!
+<*********************>
+
+<p 03><d B03E><a 1C><n 11>
+Ngươi thật liều lĩnh
+khi dám đối đầu
+với ta!
+<--------------------->
+
+<p 03><d B13E><a 1C><n 11>
+Nhưng liều lĩnh thôi
+vẫn chưa đủ.
+<*********************>
+
+<p 03><d B23E><a 1C><n 11>
+Agh! Ta sẽ tiếp tục
+tồn tại, hòa nhập
+vào Model V...
+<--------------------->
+
+<p 03><d B33E><a 1C><n 11>
+Ta không quan tâm sẽ
+mất bao lâu, ta sẽ
+đánh bại ngươi!
+<*********************>
+
+<p 03><d B43E><a 1E><n 13>
+Ngươi đang lãng phí
+tuổi trẻ đấy.
+<--------------------->
+
+Ngươi vẫn tiếp tục
+thách thức Chúa Tể
+Serpent sao?!
+<--------------------->
+
+<p 03><d B53E><a 1E><n 13>
+Ngươi đang mù quáng
+trước thực tại!
+Thế giới mà Chúa Tể
+<--------------------->
+
+Serpent kiến tạo
+chính là bước
+tiến hóa nhân loại!
+<*********************>
+
+<p 03><d B63E><a 1E><n 13>
+Sự non nớt đang chống
+lại ngươi...
+<--------------------->
+
+Cần phải trưởng thành
+mới có thể trở thành
+Megaman thực thụ!
+<*********************>
+
+<p 03><d B73E><a 1E><n 13>
+Nếu ngươi trở thành
+một phần với Model V,
+ngươi sẽ sớm nhận ra
+<--------------------->
+
+sự thật thôi.
+<--------------------->
+
+<p 03><d B83E><a 1E><n 13>
+Chúng ta phải tiến hóa
+cùng với thế giới mới.
+<*********************>
+
+<p 03><d B93E><a 1F><n 14>
+Ngươi nên cám ơn ta!
+Ta đã đào sẵn
+<--------------------->
+
+huyệt cho nhà ngươi
+rồi!
+<--------------------->
+
+<p 03><d BA3E><a 1F><n 14>
+Giờ ta chỉ cần chôn
+nhà ngươi thôi!
+<*********************>
+
+<p 03><d BB3E><a 1F><n 14>
+Hừm! Việc ghép từng
+mảnh của nhà ngươi
+<--------------------->
+
+lại sẽ rất khó khăn
+lắm đây...
+<--------------------->
+
+<p 03><d BC3E><a 1F><n 14>
+Ta nghĩ ta sẽ chỉ rải
+chút bụi và bỏ qua
+phần chôn cất!
+<*********************>
+
+<p 03><d BD3E><a 1F><n 14>
+Ta đang cảm thấy
+năng lượng của Model V
+đang lan tỏa...
+<--------------------->
+
+<p 03><d BE3E><a 1F><n 14>
+Hãy tận hưởng giấc ngủ
+ngàn thu khi Model V
+xử đẹp ngươi!
+<*********************>
+
+<p 03><d BF3E><a 20><n 15>
+Ta không nghĩ rằng
+người vào được tận
+văn phòng chính...
+<--------------------->
+
+Nhưng đây sẽ là nơi
+kết thúc chuyến
+hành trình của ngươi.
+<--------------------->
+
+<p 03><d C03E><a 20><n 15>
+Sự tự mãn của ngươi
+chính là thứ sẽ
+hại chết ngươi!
+<*********************>
+
+<p 03><d C13E><a 20><n 15>
+Ngươi nên cảm thấy
+tự hào khi trở thành
+viên gạch đầu tiên
+<--------------------->
+
+lót đường cho
+kỷ nguyên mới!
+<*********************>
+
+<p 03><d C23E><a 20><n 15>
+Chúa Tể Serpent sẽ để
+lại dấu ấn lớn nhất
+trong lịch sử!
+<--------------------->
+
+<p 03><d C33E><a 20><n 15>
+Dấu ấn ở nơi ngài ấy
+nghiền nát nhà ngươi!
+<*********************>
+
+<p 02><d C43E><a 07><n 01>
+Tinh Linh Số? Tại sao
+lại nhiều đến thế?!
+<*********************>
+
+<p 03><d C53E><a 14><n 0C>
+Hẳn là ngươi đang
+thắc mắc tại sao
+bọn ta lại cần nhiều
+<--------------------->
+
+Tinh Linh Số để
+đánh thức Model V...
+<--------------------->
+
+<p 03><d C63E><a 14><n 0C>
+Ha! Nhóc con như ngươi
+sẽ không bao giờ hiểu
+được đâu.
+<*********************>
+
+<p 03><d C73E><a 14><n 0C>
+Nỗi sợ của chúng...
+<--------------------->
+
+đã trở thành thứ
+thúc đẩy Model V!!
+<*********************>
+
+<p 02><d C83E><a 07><n 01>
+Sao cơ?!
+<*********************>
+
+<p 03><d C93E><a 14><n 0C>
+Model V, đến lúc rồi!
+Nỗi sợ và tuyệt vọng
+<--------------------->
+
+của đất nước này
+thuộc về ngươi!
+<*********************>
+
+<p 03><d CA3E><a 14><n 0C>
+Tham gia cùng bọn ta
+là cánh cửa đưa những
+<--------------------->
+
+người yếu thế thoát
+khỏi nỗi thống khổ!
+<--------------------->
+
+<p 03><d CB3E><a 14><n 0C>
+Người được chọn,
+Megaman sẽ giải cứu
+mọi người!
+<--------------------->
+
+Đó chính là vinh quang
+của Dự Án Thiên Đường!
+<--------------------->
+
+<p 02><d CC3E><a 07><n 01>
+Megaman sẽ cứu mọi
+người sao?!
+<--------------------->
+
+<p 02><d CD3E><a 07><n 01>
+Ngươi lấy các Tinh Linh
+Số này từ đâu?!
+<--------------------->
+
+<p 03><d CE3E><a 14><n 0C>
+10 năm trước, người dân
+đã trở thành nạn nhân
+của Maverick.
+<--------------------->
+
+<p 03><d CF3E><a 14><n 0C>
+Lực lượng an ninh của
+ta đã loại trừ mối
+<--------------------->
+
+đe dọa của Maverick
+và được chào đón như
+người hùng.
+<--------------------->
+
+<p 03><d D03E><a 14><n 0C>
+Kể từ đó, đất nước
+này liên tục bị
+tấn công và tập đoàn
+<--------------------->
+
+của bọn ta luôn là
+chỗ dựa vững chắc.
+<--------------------->
+
+<p 03><d D13E><a 14><n 0C>
+Ta đã xây dựng lòng tin
+với người dân và
+đồng thời thu hoạch
+<--------------------->
+
+những linh hồn
+cần thiết!
+<--------------------->
+
+<p 03><d D23E><a 14><n 0C>
+Lịch sử của đấy nước
+này chỉ là khía cạnh
+<--------------------->
+
+nhỏ cho mục đích lớn
+của Dự Án Thiên Đường.
+<--------------------->
+
+<p 02><d D33E><a 07><n 01>
+Ngươi đã sử dụng những
+nạn nhân của vụ
+đột kích cách đây
+<--------------------->
+
+10 năm, những người
+như mẹ ta để tạo ra
+những Tinh Linh Số?!
+<--------------------->
+
+<p 02><d D43E><a 07><n 01>
+Tất cả! Mẹ của ta!
+Sếp! Chị của Prairie!
+<--------------------->
+
+Ngươi chính là kẻ
+gây ra cái chết
+của họ!
+<--------------------->
+
+<p 03><d D53E><a 14><n 0C>
+Chỉ có người mạnh nhất
+mới tồn tại! Kẻ yếu
+sẽ dần bị đào thải!
+<--------------------->
+
+Đó chính là quy luật
+khắc nhiệt của
+cuộc sống!
+<--------------------->
+
+<p 03><d D63E><a 14><n 0C>
+Linh hồn của mọi người
+đã ban cho ta những
+thứ cần thiết để
+<--------------------->
+
+sở hữu sức mạnh của
+Model V!
+<--------------------->
+
+<p 03><d D73E><a 14><n 0C>
+Nhìn xem! Ngươi chỉ
+có thể đứng trước
+mặt ta hôm nay nhờ
+<--------------------->
+
+sức mạnh Model Z
+hấp thụ từ tên
+Megaman đỏ kia!
+<--------------------->
+
+<p 03><d D83E><a 14><n 0C>
+Đến cuối cùng cũng
+chỉ có ta và ngươi!
+<*********************>
+
+<p 01><p 03><d D93E><a 15><n 0C>
+Nỗi sợ và tuyệt vọng
+của ngươi sẽ kết hợp
+<--------------------->
+
+với chiến thắng
+của ta...
+<--------------------->
+
+<p 01><p 03><d DA3E><a 15><n 0C>
+Chúng sẽ là món quà
+cuối cùng dành
+cho Model V!
+<*********************>
+
+<p 03><d DB3E><a 15><n 0C>
+Hahahaha!
+<--------------------->
+
+<p 02><d DC3E><a 07><n 01>
+Có gì mà vui chứ,
+Serpent?!
+<--------------------->
+
+<p 03><d DD3E><a 15><n 0C>
+Đúng như Prometheus
+và Pandora đã nói,
+<--------------------->
+
+ngươi chính là
+chìa khóa cuối cùng.
+<--------------------->
+
+<p 03><d DE3E><a 15><n 0C>
+Bây giờ... ngươi đang
+bị cảm xúc mãnh liệt
+thao túng...
+<*********************>
+
+<p 03><d DF3E><a 15><n 0C>
+Một cảm xúc mãnh liệt
+đến kinh ngạc!
+<*********************>
+
+<p 02><d E03E><a 07><n 01>
+Có... chuyện gì vậy?!
+Trạng thái biến hình
+của mình đã mất rồi!
+<*********************>
+
+<p 03><d E13E><a 15><n 0C>
+Cảm xúc hiện đang
+chi phối ngươi...
+<--------------------->
+
+<p 03><d E23E><a 15><n 0C>
+Cảm xúc đó không phải
+là sự dũng cảm...
+<--------------------->
+
+Nó không xuất phát từ
+mặt tốt...
+<--------------------->
+
+<p 03><d E33E><a 15><n 0C>
+Đó là hận thù! Hận thù
+vì ta đã lấy mọi thứ
+từ ngươi!
+<--------------------->
+
+<p 02><d E43E><a 07><n 01>
+Hả?!
+<*********************>
+
+<p 02><d E53E><a 08><n 01>
+Vậy có nghĩa... ta
+chính là chìa khóa
+đánh thức Model V?
+<--------------------->
+
+<p 02><d E63E><a 08><n 01>
+Tất cả những nỗi đau,
+những đấu tranh... đều
+là sai sao?
+<--------------------->
+
+<p 02><d E73E><a 31><n 05>
+Đừng bỏ cuộc.
+<*********************>
+
+<p 02><d E83E><a 32><n 06>
+Trận chiến của anh
+vẫn chưa kết thúc đâu.
+<--------------------->
+
+<p 02><d E93E><a 08><n 01>
+Hể?!
+<*********************>
+
+<p 02><d EA3E><a 33><n 07>
+Chúng tôi không trao
+sức mạnh cho cậu để
+<--------------------->
+
+cậu thực hiện những
+hành động trả thù...
+<--------------------->
+
+<p 02><d EB3E><a 34><n 08>
+Đánh một người chỉ vì
+hận thù thì không
+<--------------------->
+
+khác gì hành động
+bắt nạt.
+<--------------------->
+
+<p 02><d EC3E><a 35><n 09>
+Đừng khuất phục bởi
+sự hận thù.
+<--------------------->
+
+Nếu anh bơi ngược
+dòng chảy, thì cũng
+chỉ quay về chỗ cũ.
+<--------------------->
+
+<p 02><d ED3E><a 36><n 0A>
+Ngay cả nơi tối tăm
+nhất của đường hầm,
+cũng luôn có ánh sáng
+<--------------------->
+
+ở cuối đường để anh
+hướng tới.
+<*********************>
+
+<p 02><d EE3E><a 31><n 05>
+Sức mạnh của anh không
+xuất phát từ hận thù.
+<--------------------->
+
+<p 02><d EF3E><a 31><n 05>
+Sức mạnh thật sự đến
+từ bên trong. Chính là
+sự dũng cảm của anh!
+<--------------------->
+
+<p 02><d F03E><a 32><n 06>
+Hãy chiêm nghiệm lại
+bảm thân!
+<*********************>
+
+<p 02><d F13E><a 07><n 01>
+Cậu nói phải! Tôi đã
+từng hứa với cậu
+rồi mà!
+<--------------------->
+
+<p 02><d F23E><a 07><n 01>
+Tôi đã nói tôi sẽ
+bảo vệ mọi người.
+Không bỏ mặc ai!
+<--------------------->
+
+<p 03><d F33E><a 16><n 0C>
+Được thôi. Nếu ngươi
+tự tin đến thế thì
+xem ai sẽ là Megaman
+<--------------------->
+
+thống trị thế giới
+này!
+<--------------------->
+
+<p 02><d F43E><a 07><n 01>
+Ta không quan tâm
+đến việc cai trị
+thế giới!
+<--------------------->
+
+<p 02><d F53E><a 07><n 01>
+Serpent, nếu ngươi muốn
+trở thành Megaman
+thống trị thế giới.
+<--------------------->
+
+<p 02><d F63E><a 07><n 01>
+Thì ta sẽ là Megaman
+giải cứu thế giới
+đó!
+<*********************>
+
+<p 02><d F73E><a 07><n 01>
+Ngươi không phải là
+Megaman và ngươi không
+phải là người cai trị.
+<--------------------->
+
+<p 02><d F83E><a 07><n 01>
+Ngươi chỉ là công cụ
+cho Model V thôi.
+Người đùa giỡn với
+<--------------------->
+
+sinh mạng người khác.
+Ngươi không khác gì
+lũ Maverick!
+<--------------------->
+
+<p 03><d F93E><a 17><n 0C>
+Maverick?! Ta sao?
+Sao ngươi dám gọi ta
+là Maverick!
+<--------------------->
+
+<p 03><d FA3E><a 17><n 0C>
+Ngươi là kẻ kiềm hãm
+sự tiến bộ. Ngươi đang
+ngăn cản sự đổi mới.
+<--------------------->
+
+Có lẽ ngươi mới
+chính là Maverick!
+<--------------------->
+
+<p 03><d FB3E><a 17><n 0C>
+Con người và xã hội
+phải đối mặt với
+sự thay đổi!
+<--------------------->
+
+Họ phải vứt bỏ trái tim
+đầy hận thù và những
+cơ thể đau khổ.
+<--------------------->
+
+<p 03><d FC3E><a 17><n 0C>
+Chúng ta phải tiến lên!
+Chúng ta phải thay đổi!
+<--------------------->
+
+<p 02><d FD3E><a 07><n 01>
+Ta sẽ không để ai
+bước vào con đường
+"tiến bộ" của ngươi"
+<--------------------->
+
+<p 03><d FE3E><a 17><n 0C>
+Trên một hành tình...
+nơi con người và máy
+móc cùng chung sống...
+<--------------------->
+
+Làn sóng chiến tranh
+và hòa bình sẽ
+tiếp tục dâng trào.
+<--------------------->
+
+<p 03><d FF3E><a 17><n 0C>
+Và mỗi thời đại đều sẽ
+có một kẻ ngốc như
+ngươi chống lại nó.
+<--------------------->
+
+<p 03><d 003F><a 17><n 0C>
+Ngươi không muốn ai bị
+tổn thương. Ngươi muốn
+bảo vệ những người
+<--------------------->
+
+ngươi yêu thương.
+Ngươi không muốn mất
+đi bất kỳ thứ gì.
+<--------------------->
+
+<p 03><d 013F><a 17><n 0C>
+Việc theo đuổi
+ham muốn đó khiến
+<--------------------->
+
+ngươi luôn tìm cách
+lẩn tránh nỗi đau.
+<--------------------->
+
+<p 03><d 023F><a 17><n 0C>
+Định mệnh của Megaman
+là giải cứu thế giới
+sao?
+<--------------------->
+
+<p 03><d 033F><a 17><n 0C>
+Một cuộc sống không
+thay đổi...
+<--------------------->
+
+Một thế giới thiếu
+vắng ánh sáng hy vọng.
+Có ý nghĩa gì chứ?!
+<--------------------->
+
+<p 02><d 043F><a 07><n 01>
+Nhưng...!
+<*********************>
+
+<p 02><d 053F><a 31><n 05>
+Vent! Mọi thứ đang
+bắt đầu sụp đổ!
+Hãy rời khỏi đó ngay!
+<*********************>
+
+<p 02><d 063F><a 08><n 01>
+"Chúng ta phải
+tiến lên! Chúng ta
+phải thay đổi!"
+<--------------------->
+
+<p 02><d 073F><a 08><n 01>
+Tôi không biết phải
+nói thế nào.
+<*********************>
+
+<p 03><d 083F><a 0D><n 03>
+Vậy tại sao cậu lại
+lựa chọn đấu tranh?
+<*********************>
+
+<p 03><d 093F><a 0D><n 03>
+Tại sao? Đó là vì cậu
+muốn thế giới trở nên
+tốt đẹp hơn.
+<--------------------->
+
+<p 03><d 0A3F><a 0D><n 03>
+Cậu quyết định không
+để cho số phận
+chi phối bản thân.
+<--------------------->
+
+Chính cậu là người
+chiến đấu thay đổi
+số phận đó.
+<--------------------->
+
+<p 02><d 0B3F><a 05><n 01>
+Sếp?!
+<--------------------->
+
+<p 03><d 0C3F><a 0D><n 03>
+Cậu đúng thật
+phiền phức.
+<--------------------->
+
+<p 02><d 0D3F><a 05><n 01>
+...?!
+<--------------------->
+
+<p 03><d 0E3F><a 0D><n 03>
+Cậu chưa từng tôn trọng
+khác hàng.
+<--------------------->
+
+<p 03><d 0F3F><a 0D><n 03>
+Cậu đã phớt lờ tôi.
+<--------------------->
+
+Cậu luôn liều lĩnh
+hành động một mình.
+<*********************>
+
+<p 03><d 103F><a 0D><n 03>
+Ừm, cậu đúng là
+thật phiền phức.
+<--------------------->
+
+Cậu luôn khiến tôi
+bực mình, nhưng tôi
+vẫn luôn quan tâm cậu.
+<--------------------->
+
+<p 03><d 113F><a 0D><n 03>
+Ngay cả những lúc cậu
+khiến tôi bực mình...
+<--------------------->
+
+Mọi khoảng khắc đều là
+những kỷ niệm quý giá
+với tôi.
+<--------------------->
+
+<p 02><d 123F><a 05><n 01>
+Sếp...
+<*********************>
+
+<p 01><p 03><d 133F><a 0D><n 03>
+Tước bỏ đi hận thù và
+nỗi buồn khỏi trái tim
+chúng ta còn lại gì?
+<--------------------->
+
+<p 01><p 03><d 143F><a 0D><n 03>
+Serpent đã ném bỏ
+mọi thứ cho tới khi
+không còn lại gì
+<--------------------->
+
+và rồi cố gắng
+thay đổi thế giới.
+<--------------------->
+
+<p 01><p 03><d 153F><a 0D><n 03>
+Vent. Cậu sẽ làm gì?
+<--------------------->
+
+<p 01><p 02><d 163F><a 05><n 01>
+Tôi sẽ không bao giờ
+vượt qua được
+<--------------------->
+
+nỗi đau mất mẹ
+và anh.
+<--------------------->
+
+<p 01><p 02><d 173F><a 05><n 01>
+Nhưng những ký ức đó
+chứng minh rằng tôi
+đang tồn tại.
+<*********************>
+
+<p 01><p 02><d 183F><a 07><n 01>
+Những ký ức dù có
+đau buồn... nhưng
+<--------------------->
+
+tôi không muốn
+quên đi chúng!
+<--------------------->
+
+<p 01><p 02><d 193F><a 07><n 01>
+Tôi sẽ bảo vệ tất cả!
+<*********************>
+
+<p 03><d 1A3F><a 0E><n 03>
+Tiếp theo đến lượt
+của cậu, Vent. Hãy
+dấn dắt thế giới.
+<--------------------->
+
+<p 03><d 1B3F><a 0E><n 03>
+Mang đến cho thế giới
+một tương lai mà cậu
+cho là xứng đáng.
+<*********************>
+
+<p 03><d 1C3F><a 0E><n 03>
+Đây là nhiệm vụ
+cuối cùng của cậu,
+vận chuyển viên.
+<*********************>
+
+<p 02><d 1D3F><a 31><n 05>
+Mọi người đều giấu một
+nỗi đau, một điểm yếu
+nào đó trong trái tim.
+<--------------------->
+
+<p 02><d 1E3F><a 31><n 05>
+Nhưng chính nỗi đau ấy
+giúp con người kết nối
+với nhau.
+<--------------------->
+
+<p 02><d 1F3F><a 32><n 06>
+Đối mặt với số phận
+và tự mình tạo ra
+một tương lai mới.
+<--------------------->
+
+<p 02><d 203F><a 32><n 06>
+Đó là cuộc đấu tranh
+mà anh và mọi người
+<--------------------->
+
+trên hành tinh này
+phải đối mặt.
+<*********************>
+
+<p 02><d 213F><a 0A><n 04>
+Vent!
+<*********************>
+
+<p 01><p 03><d 223F><a 05><n 01>
+Vượt qua thử thách,
+kiến tạo tương lai...
+<--------------------->
+
+Đó là vấn đề chúng ta
+phải đấu tranh.
+<--------------------->
+
+<p 01><p 03><d 233F><a 05><n 01>
+Tôi có một thứ tôi
+phải bảo vệ.
+<--------------------->
+
+<p 01><p 03><d 243F><a 05><n 01>
+Và giờ tôi đã có
+sức mạnh để bảo vệ nó.
+<--------------------->
+
+<p 01><p 03><d 253F><a 05><n 01>
+Tôi sẽ chiến đấu
+hết mình!
+<--------------------->
+
+<p 01><p 03><d 263F><a 05><n 01>
+Tôi sẽ chiến đấu vì
+những điều tôi tin!
+<*********************>
+
+<FIM>

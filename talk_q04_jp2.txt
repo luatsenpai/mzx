@@ -1,0 +1,148 @@
+<script_info tipo='Quest 4' personagem='indefinido' tamanho='1205' inicio_ponteiros='4' fim_ponteiros='29' inicio_textos='30' />
+<#####################>
+
+<p 02><a 3E><n 39>
+Chị ơi! Chị có thể giúp
+em được không?
+<--------------------->
+
+<p 02><a 3E><n 39>
+Em trai của em muốn
+ai đó giải thử câu đố
+của em ấy.
+<--------------------->
+
+<p 02><a 3E><n 39>
+Em ấy rất thích đánh đố
+mọi người.
+<--------------------->
+
+<p 02><a 3E><n 39>
+Chị có thể giải câu đố
+của em ấy hộ em được
+không?
+<*********************>
+
+<p 02><a 3E><n 39>
+Chị đang nghĩ rằng
+giúp em chỉ phí
+thời gian, đúng không?
+<--------------------->
+
+<p 02><a 3E><n 39>
+Hừm...
+<--------------------->
+
+<p 02><a 3E><n 39>
+Ừm, vận chuẩn viên
+không chỉ vận chuyển
+vật chất...
+<--------------------->
+
+Vận chuyển viên còn
+phải vận chuyển
+hy vọng nữa...
+<--------------------->
+
+<p 02><a 3E><n 39>
+Quào, ý tưởng đó thật
+sâu sắc.
+<*********************>
+
+<p 02><a 02><n 55>
+Trả lời câu đố của
+em trai Yu<c 01>.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 3E><n 39>
+Câu đố của Lou không
+dễ tẹo nào đâu...
+<--------------------->
+
+<p 02><a 3E><n 39>
+Nhưng trông chị rất
+thông minh, em nghĩ
+là chị sẽ giải được.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Anh đã sẵn sàng
+thách thức Lou?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Được rồi, chúng ta
+bắt đầu thôi!
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Chị có biết ở Khu C-2
+có chỗ chơi game
+không?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Tên của trò chơi ở
+phía cuối bên phải
+trong khu đó là gì?
+<--------------------->
+
+<m><a 3F><n 3A>
+  Bóng Bonbon
+  Đá Đá Đá
+  Rê Bóng Bất Trắc
+<*********************>
+
+<p 02><a 3F><n 3A>
+Thất vọng quá! Chị
+đúng là tệ ở khoản
+này.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Chính xác! Chị
+thông minh hơn em
+tưởng đấy!
+<*********************>
+
+<p 02><a 3E><n 39>
+Chị thấy câu đố của
+em trai em thế nào?
+Không dễ đúng không?
+<*********************>
+
+<p 02><a 3F><n 3A>
+Chị ơi...
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Em đang nghĩ ra câu đố
+mới, hãy ghé lại lần
+sau nha.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+50 EC đã được chuyển
+vào tài khoản của bạn.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Nếu chị cảm thấy chán
+thì hãy lại đây chơi
+với em nha!
+<*********************>
+
+<FIM>

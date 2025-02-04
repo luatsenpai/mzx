@@ -1,0 +1,175 @@
+<script_info tipo='Quest 5' personagem='indefinido' tamanho='1540' inicio_ponteiros='4' fim_ponteiros='31' inicio_textos='32' />
+<#####################>
+
+<p 02><a 3E><n 39>
+Lại gặp rồi! Chị có
+thể giúp em không?
+<--------------------->
+
+<p 02><a 3E><n 39>
+Em trai em lại có một
+câu đố và đang muốn
+thách thức.
+<*********************>
+
+<p 02><a 3E><n 39>
+Lần này sẽ không
+dễ dàng như lần trước.
+<*********************>
+
+<p 02><a 02><n 55>
+Trả lời câu đố của
+em trai Yu.
+<*********************>
+
+<e 01><a 02><n 55>
+  Có
+  Không
+<*********************>
+
+<p 02><a 3E><n 39>
+Câu hỏi của em ấy
+có thể khó đến
+nực cười...
+<--------------------->
+
+<p 02><a 3E><n 39>
+Nhưng em tin chị sẽ
+xử lý nó dễ như trở
+bàn tay.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Chào!
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Anh có dám thử sức với
+câu đố tiếp theo của
+Lou? Bắt đầu thôi!
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Có một cái cây lớn
+mọc ở Khu A-3. Đó
+là cây gì?
+<--------------------->
+
+<m><a 3F><n 3A>
+  Đào
+  Táo
+  Sồi
+<*********************>
+
+<p 02><a 3F><n 3A>
+Tệ quá! Em phải thừa
+nhận rằng câu này khó
+thực sự.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Cảm ơn vì đã nỗ lực.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Em sẽ tặng chị một
+cái gì đó để an ủi.
+<--------------------->
+
+Lần tới hãy nhớ kiểm
+tra trạm trung chuyển
+nha.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Ông Jack cũng muốn nó,
+nhưng em sẽ tặng chị
+thì vì tặng ông ấy.
+<*********************>
+
+<p 02><a 3F><n 3A>
+Đúng rồi! Liệu có gì
+mà chị không biết
+không nhỉ?
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Cảm ơn vì đã không
+lùi bước.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Tuyệt! Em sẽ tặng chị
+một món quà xứng đáng.
+<--------------------->
+
+Lần tới hãy nhớ kiểm
+tra trạm trung chuyển
+nha.
+<--------------------->
+
+<p 02><a 3F><n 3A>
+Đừng nói ông Jack biết
+nha, không là ông ấy
+sẽ đòi đấy.
+<*********************>
+
+<p 02><a 3E><n 39>
+Vậy, cậu đố kỳ này
+khó hơn đúng không?
+<--------------------->
+
+<p 02><a 3E><n 39>
+Em có thể trả lời
+chỉ trong 5 giây!
+<*********************>
+
+<p 02><a 3F><n 3A>
+Liệu món quà sẽ là
+gì ư?
+<--------------------->
+
+Chị phải đợi để tận
+mắt xem nó!
+<--------------------->
+
+Em chắc chắn anh sẽ
+thích nó.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+50 EC và vật phẩm
+đã được chuyển vào
+tài khoản của bạn.
+<*********************>
+
+<p 02><a 02><n 55>
+Ủy thác hoàn thành.
+<--------------------->
+
+<p 02><a 02><n 55>
+Một viên pha lê hồng
+đã được trao tặng như
+phần thưởng.
+<*********************>
+
+<p 02><a 3E><n 39>
+Cảm ơn chị đã giúp.
+Em trai em rất vui
+<--------------------->
+
+khi chị đã giải được
+câu đố của em ấy..
+<*********************>
+
+<p 02><a 3F><n 3A>
+Chị đã nhận được phần
+thưởng của em chưa?
+Nó đẹp không?
+<*********************>
+
+<FIM>

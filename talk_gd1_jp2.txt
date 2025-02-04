@@ -1,0 +1,2408 @@
+<script_info tipo='Guardian NPCs' personagem='indefinido' tamanho='22424' inicio_ponteiros='4' fim_ponteiros='275' inicio_textos='276' />
+<#####################>
+
+<p 01><p 02><a 26><n 1A>
+Cô là chuyển phát viên,
+<nome>?
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Tôi là Hareng.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Còn quá sớm để nói
+tên thật của tôi.
+<--------------------->
+
+Hãy xem cái tên Hareng
+là bí danh của tôi.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+Tôi đã nghe tin đồn
+về...
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Một cô gái mạnh mẽ
+sử dụng Livemetal để
+chiến đấu.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Mạnh mẽ thì tốt, nhưng
+đôi khi cần lùi lại
+một bước để nhìn nhận
+<--------------------->
+
+mọi việc sáng suốt
+hơn
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+<nome>, cô đã sống
+sót trở về!
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Sức mạnh của Livemetal
+thật sự rất đáng
+kinh ngạc.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+Tôi rất vui vì cô vẫn
+an toàn.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Tính cách táo bạo đó
+là một phẩm chất tốt,
+nhưng đừng để nó
+<--------------------->
+
+khiến cô gặp
+nguy hiểm!
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Girouette đã hy sinh
+tính mạng vì cô, đừng
+quên điều đó.
+<--------------------->
+
+Vậy nên đừng vứt bỏ
+bản thân dễ dàng
+như vậy.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+Thật không thể tin
+được là chúng lại
+<--------------------->
+
+tấn công thẳng vào
+Căn Cứ.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Tôi đoán chúng ta không
+an toàn ngay cả khi
+trên bầu trời.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+Giá như tôi là người
+được chọn...
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Tôi sẽ khiến kẻ địch
+phải trả giá đắt.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Không biết người được
+chọn được lựa chọn như
+thế nào nhỉ.
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+Mọi chuyện đang dần
+tệ hơn, <nome>.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Giờ chúng ta đã biết
+mối nguy hiểm đứng sau
+Model V.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Bằng mọi cách, chúng ta
+phải ngăn chặn kế hoạch
+của chúng!
+<*********************>
+
+<p 01><p 02><a 26><n 1A>
+Lần đầu gặp nhau, tôi
+đã không tin rằng cô
+là người được chọn.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Tôi cứ nghĩ là cô sẽ
+không qua khỏi chứ...
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Giờ tôi biết tôi đã
+sai.
+<--------------------->
+
+<p 01><p 02><a 26><n 1A>
+Hãy ngăn chặn dã tâm
+mù quáng của Serpent
+trước khi quá muộn!
+<*********************>
+
+<p 02><a 30><n 24>
+Em là <nome>, nhỉ?
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh kính trọng những
+cô gái mạnh mẽ như em!
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh thực sự rất cần
+chút sức mạnh từ em!
+<--------------------->
+
+<p 02><a 30><n 24>
+A, xin lỗi, Anh nói
+nhiều quá rồi.
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh là thợ máy. 
+Tên anh là Anguille!
+<--------------------->
+
+<p 02><a 30><n 24>
+Có thể trông anh không
+nổi bật, nhưng anh khá
+giỏi về máy móc.
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh làm cho Silure và
+anh luôn giúp đỡ
+ông ấy.
+<*********************>
+
+<p 02><a 30><n 24>
+Có lẽ sẽ có lúc anh sẽ
+cần em giúp, <nome>.
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh rất cảm kích nếu
+em có thể giúp đỡ!
+<*********************>
+
+<p 02><a 30><n 24>
+<nome>, em vẫn còn
+sống!
+<--------------------->
+
+<p 02><a 30><n 24>
+Mừng quá! Anh cứ nghĩ
+là sẽ không bao giờ gặp
+lại em nữa chứ!
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh không dám nghĩ đến
+việc bọn anh sẽ ra
+sao khi không có em...
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh biết em muốn
+trả thù vì mẹ em,
+<--------------------->
+
+nhưng nó không có nghĩa
+là em chấp nhận rủi ro
+một cách thừa thãi.
+<*********************>
+
+<p 02><a 30><n 24>
+<nome>, em phải sống
+và tiếp tục từ nơi
+Girouette ngã xuống...
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh biết em cảm thấy
+thế nào, nhưng hãy
+mạnh mẽ lên...
+<--------------------->
+
+Anh tin anh ấy vẫn
+đang dõi theo em.
+<*********************>
+
+<p 02><a 30><n 24>
+Em không sao chứ, 
+<nome>?
+<--------------------->
+
+<p 02><a 30><n 24>
+Không thể tin là chúng
+lại tấn công trực diện
+vào Căn Cứ.
+<--------------------->
+
+<p 02><a 30><n 24>
+Cũng may là em quay về
+kịp lúc.
+<--------------------->
+
+<p 02><a 30><n 24>
+Anh không tưởng tượng
+được chuyện gì sẽ
+<--------------------->
+
+xảy ra nếu không có
+em...
+<*********************>
+
+<p 02><a 30><n 24>
+Ban đầu, mọi người đều
+được Serpent cứu...
+<--------------------->
+
+<p 02><a 30><n 24>
+Cuối cùng thì tất cả
+họ đều hy sinh.
+<--------------------->
+
+<p 02><a 30><n 24>
+Bọn anh chẳng khác gì
+món đồ chơi trong tay
+hắn.
+<--------------------->
+
+<p 02><a 30><n 24>
+Hắn ta chỉ là một tên
+côn đồ,lăm le hãm hại
+người yếu thế!
+<*********************>
+
+<p 02><a 30><n 24>
+Đừng để Tập đoàn
+Serpent khai quật
+được Model V!
+<--------------------->
+
+<p 02><a 30><n 24>
+Thế giới này sẽ tận thế
+nếu nó rơi vào tay của
+hắn.
+<*********************>
+
+<p 02><a 30><n 24>
+Em là người duy nhất
+có thể ngăn chặn tên
+Serpent, <nome>!
+<*********************>
+
+<p 02><a 25><n 19>
+Cảm ơn vì đã giúp.
+<--------------------->
+
+<p 02><a 25><n 19>
+Tôi biết cô sẽ vượt
+qua thử thách mà.
+<--------------------->
+
+<p 02><a 25><n 19>
+Tôi là Carrelet.
+Cô là <nome>,
+đúng không?
+<--------------------->
+
+<p 02><a 25><n 19>
+Nếu tôi có thể giúp
+gì thì xin hãy cho
+tôi biết!
+<*********************>
+
+<p 02><a 25><n 19>
+Không biết đến bao giờ
+Anguille mới làm xong
+con chip đây...
+<--------------------->
+
+<p 02><a 25><n 19>
+Tôi đã đưa cho ông ấy
+mọi thứ cần thiết từ
+nửa năm trước rồi.
+<--------------------->
+
+<p 02><a 25><n 19>
+Có vẻ như ông ấy không
+coi trọng giờ giấc
+cho lắm...
+<*********************>
+
+<p 02><a 25><n 19>
+Cô vẫn còn sống!
+<--------------------->
+
+<p 02><a 25><n 19>
+Dù có Livemetal hỗ trợ,
+nhưng cô vẫn phải làm
+nốt phần còn lại.
+<--------------------->
+
+<p 02><a 25><n 19>
+Con người có thể làm
+những điều khoa học
+không thể giải thích.
+<--------------------->
+
+<p 02><a 25><n 19>
+Họ thật tuyệt vời.
+<*********************>
+
+<p 02><a 25><n 19>
+Ừm.
+<--------------------->
+
+<p 02><a 25><n 19>
+Cô có thể nhận
+nhiệm vụ và ủy thác từ
+Trạm Trung Chuyển.
+<--------------------->
+
+<p 02><a 25><n 19>
+Để thuận tiện hơn thì
+nên nhận nhiệm vụ ở
+<--------------------->
+
+nơi gần vị trí làm
+nhiệm vụ.
+<*********************>
+
+<p 02><a 25><n 19>
+Cô làm gì đó?
+<--------------------->
+
+<p 02><a 25><n 19>
+Cô đã rất xuất sắc khi
+bảo vệ con tàu này.
+<--------------------->
+
+<p 02><a 25><n 19>
+Cô đã vượt qua
+thử thách và cứu
+tất cả chúng tôi.
+<--------------------->
+
+<p 02><a 25><n 19>
+Nhưng vẫn còn nhiều
+thử thách trên con
+đường phía trước.
+<*********************>
+
+<p 02><a 25><n 19>
+Hình như có vài tên
+Falseroid đang
+<--------------------->
+
+canh gác ở Vùng
+Hẻo Lánh.
+<--------------------->
+
+<p 02><a 25><n 19>
+Cô đã biết các nơi
+được chia thành nhiều
+khu.
+<--------------------->
+
+<p 02><a 25><n 19>
+Nhưng cô sẽ không biết
+Falseroid có trong khu
+<--------------------->
+
+đó hay không cho tới
+khi vào đó.
+<--------------------->
+
+<p 02><a 25><n 19>
+Dù vậy, những Falseroid
+hồi sinh sẽ được hiện
+trên bản đồ.
+<--------------------->
+
+<p 02><a 25><n 19>
+Nếu khu đó chớp đỏ,
+thì đó chính là
+<--------------------->
+
+dấu hiệu chúng đã
+hồi sinh.
+<*********************>
+
+<p 02><a 25><n 19>
+Cô đã đi một chặng
+đường dài.
+<*********************>
+
+<p 02><a 25><n 19>
+Tôi không nghĩ là cô
+có thể đi xa đến vậy
+<--------------------->
+
+khi chỉ chiến đấu
+một mình..
+<*********************>
+
+<p 02><a 25><n 19>
+Tôi có một chuyện muốn
+chia sẻ với cô.
+<--------------------->
+
+<p 02><a 25><n 19>
+Anguille cuối cùng cũng
+làm xong con chip mà
+tôi đã nhờ.
+<--------------------->
+
+<p 02><a 25><n 19>
+Nó được gọi là Chip
+Triệt Tiêu. Nó sẽ
+<--------------------->
+
+giúp cô chém đạn
+của kẻ thù.
+<--------------------->
+
+<p 02><a 25><n 19>
+Cái này cho cô dùng
+sẽ tốt hơn. Hãy nhận
+lấy.
+<*********************>
+
+<p 02><a 2B><n 1F>
+Oái! Cô làm tôi
+giật mình!
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Đừng dọa tôi thế chứ.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Cô nên gõ cửa trước
+khi vào.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+A, cô là cô gái đã
+vượt qua thử thách
+đúng không?
+<*********************>
+
+<p 02><a 2B><n 1F>
+Xin lỗi, tôi chưa tự
+giới thiệu. Tôi tên
+Congre.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Tôi chẳng biết mình
+ở đây để làm gì nữa...
+<*********************>
+
+<p 02><a 2B><n 1F>
+A! Là cô à... đừng
+dọa tôi như vậy
+chứ...
+<*********************>
+
+<p 02><a 2B><n 1F>
+Cô vẫn ổn chứ?
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Không ngờ cô có thể
+thoát khỏi tình huống
+nguy hiểm như vậy.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Tôi đánh giá cao lòng
+can dảm của cô...
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Nhưng cô cũng nên
+tránh xa nguy hiểm.
+<*********************>
+
+<p 02><a 2B><n 1F>
+*phù* Sợ quá đi mất...
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Đây là lần đầu tiên
+kẻ địch tấn công 
+<--------------------->
+
+thẳng vào căn cứ
+chúng ta.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Chúng ta đang bay rất
+cao, không ngờ là vẫn
+bị tấn công.
+<*********************>
+
+<p 02><a 2B><n 1F>
+Tôi sẽ trốn trong
+phòng thêm một lúc.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Tôi chưa biết có nên
+ra ngoài lúc này
+không.
+<--------------------->
+
+Chắc chắn chúng sẽ
+quay lại...
+<*********************>
+
+<p 02><a 2B><n 1F>
+Tôi biết cô có năng lực
+nhưng không ngờ là
+<--------------------->
+
+cô lại giỏi đến
+như vậy.
+<--------------------->
+
+<p 02><a 2B><n 1F>
+Tôi ao ước tôi có được
+sự can đảm như cô, dù
+chỉ là một phần nhỏ...
+<*********************>
+
+<p 02><a 2B><n 1F>
+Tôi biết mình không
+thể làm gì cho cô,
+<--------------------->
+
+nhưng tôi vẫn sẽ
+luôn cổ vũ cho cô!
+<*********************>
+
+<p 02><a 28><n 1C>
+Chị ơi, chị tên gì
+vậy ạ?
+<--------------------->
+
+<p 02><a 28><n 1C>
+A, <nome>. Đúng là một
+cái tên đẹp.
+<*********************>
+
+<p 02><a 28><n 1C>
+Em là Sardine.
+Chị Prairie đã đặt
+cho em cái tên đó.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Nó nghe rất hay
+đúng không?
+<--------------------->
+
+<p 02><a 28><n 1C>
+Em cũng đã thử đặt tên
+cho gấu bông của chị
+Prairie.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Nhưng chị ấy không
+thích mấy cái tên
+em đặt.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Đó cũng là một cái tên
+rất hay mà... Chị ấy
+đúng là thật tẻ nhạt.
+<*********************>
+
+<p 02><a 28><n 1C>
+Chị không sao chứ,
+<nome>?
+<--------------------->
+
+<p 02><a 28><n 1C>
+Em không muốn chị
+bị thương! Vậy nên
+hãy cẩn thận nha.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Nếu chị bị thương thì
+chúng ta không thể
+chơi cùng nhau nữa...
+<--------------------->
+
+<p 02><a 28><n 1C>
+Em không muốn mất
+thêm một người bạn
+nào nữa...
+<*********************>
+
+<p 02><a 28><n 1C>
+Chúng ta sẽ mãi là
+bạn thân nhé, <nome>?
+<*********************>
+
+<p 02><a 28><n 1C>
+Em chưa từng thấy
+kẻ thù tấn công
+như thế.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Nhưng em không sợ đâu!
+<--------------------->
+
+<p 02><a 28><n 1C>
+Em biết chị sẽ đến
+cứu mà, <nome>!
+<*********************>
+
+<p 02><a 28><n 1C>
+Có chị ở đây rồi thì
+em cũng có thể
+trở nên dũng cảm!
+<--------------------->
+
+<p 02><a 28><n 1C>
+Em muốn bảo vệ
+mọi người khi em
+lớn lên!
+<*********************>
+
+<p 02><a 28><n 1C>
+Hãy bắt Serpent vì
+em nhé, <nome>?
+<--------------------->
+
+<p 02><a 28><n 1C>
+Chị là niềm hy vọng
+duy nhất!
+<*********************>
+
+<p 02><a 28><n 1C>
+Nếu hòa bình trở lại,
+ông Silure sẽ tạo cho
+em món đồ chơi khác!
+<--------------------->
+
+<p 02><a 28><n 1C>
+Món đồ chơi này được
+gọi là Little Moby.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Ông Silure cũng tạo cho
+em những món đồ chơi
+khác, nhưng...
+<--------------------->
+
+*híc* Chúng hỏng vui
+chút nào...
+<--------------------->
+
+<p 02><a 28><n 1C>
+Một món thì giống
+lò nướng có chân...
+<--------------------->
+
+Chơi với nó em thấy
+dị dị sao á.
+<--------------------->
+
+<p 02><a 28><n 1C>
+Đừng kể cho ông Silure
+nghe nha, ông ấy sẽ
+buồn lắm đấy.
+<*********************>
+
+<p 02><a 2F><n 23>
+A, chào cháu. Cháu là
+<nome> từ Chuyển Phát
+Nhanh Girouette à?
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta là Silure. Rất hân
+hạnh được gặp cháu.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta không thể tin là
+cháu gái nhỏ đang đứng
+<--------------------->
+
+me is able to change
+into Model X!
+<--------------------->
+
+<p 02><a 2F><n 23>
+trước mặt ta là người
+đưởc Model X chọn...
+<--------------------->
+
+<p 02><a 2F><n 23>
+Tuy nhiên, việc phái
+một cô gái trẻ vào
+chiến trường cho thấy
+<--------------------->
+
+tình hình đã trở nên
+khốc liệt ra sao.
+<*********************>
+
+<p 02><a 2F><n 23>
+Ta luôn dành hàng giờ
+để nghiên cứu
+máy móc...
+<--------------------->
+
+<p 02><a 2F><n 23>
+Nhưng do hơi chật chội,
+nên đôi khi ta phải
+<--------------------->
+
+mượn phòng nghiên cứu
+của Fleuve.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Cậu ta có vẻ như đang
+nghiên cứu thứ gì đó
+rất quan trọng.
+<*********************>
+
+<p 02><a 2F><n 23>
+May quá, cháu vẫn
+còn sống, <nome>!
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta đã rất lo lắng
+cho cháu.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Nhân tiện...
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta nghe nói Tập Đoàn
+Serpent đang bắt đầu
+<--------------------->
+
+dùng Livemetal để tạo
+ra Repliroids..
+<--------------------->
+
+<p 02><a 2F><n 23>
+Fleuve đã kể cho ta
+nghe về chúng và gọi
+chúng là Falseroids.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta đoán tất cả các
+sự cố liên tục xảy ra
+ở Vùng Hẻo Lánh
+<--------------------->
+
+<p 02><a 2F><n 23>
+đều có liên quan đến
+các thí nghiệm
+Falseroid.
+<*********************>
+
+<p 02><a 2F><n 23>
+Falseroid Livemetal
+rất dễ bị phá hủy.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Điều đó có nghĩa là
+công nghệ Tập Đoàn
+Serpent
+<--------------------->
+
+<p 02><a 2F><n 23>
+dùng để nghiên cứu
+Livemetal vẫn chưa
+hoàn thiện.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Vài Repliroids và
+Robot cơ khí của
+<--------------------->
+
+<p 02><a 2F><n 23>
+Tập Đoàn Serpent
+đã tái sinh.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Đó có thể là sức mạnh
+tiềm ẩn bên trong
+Model V.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Chỉ nghĩ đến thôi
+mà ta đã rợn hết
+tóc gáy.
+<*********************>
+
+<p 02><a 2F><n 23>
+A, cháu vẫn bình an.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta không chắc con tau
+cũ kỹ này có thể trụ
+được bao lâu.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Ta rất vui vì đã giúp
+con bé vượt qua giai
+đoạn khó khăn này...
+<--------------------->
+
+<p 02><a 2F><n 23>
+Nhưng con bé sẽ không
+đủ sức để đối mặt với
+một thử thách khác.
+<*********************>
+
+<p 02><a 2F><n 23>
+Khu vực boong tàu
+đã chịu ảnh hưởng
+nặng nề nhất.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Và ta không có nhiều
+thời gian để sửa nó.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Chúng ta phải tiếp tục
+giúp con bé và hy vọng
+vào điều tốt nhất.
+<*********************>
+
+<p 02><a 2F><n 23>
+Chúng ta đã đi một
+chặng đường dài.
+<--------------------->
+
+<p 02><a 2F><n 23>
+Và trận chiến cuối cùng
+đang ở phía trước,
+<nome>.
+<*********************>
+
+<p 02><a 2F><n 23>
+Ông lão này sẽ luôn
+cổ vũ cho cháu!
+<*********************>
+
+<p 02><a 29><n 1D>
+Quào, anh không biết
+là có một cô gái
+đáng yêu ở đây.
+<--------------------->
+
+<p 02><a 29><n 1D>
+A! Anh biết em rồi,
+em tới từ Chuyển Phát
+Nhanh Girouette...
+<--------------------->
+
+<p 02><a 29><n 1D>
+Earl đúng không nhỉ?
+Hay là gì vậy ta...
+<--------------------->
+
+<p 02><a 29><n 1D>
+A... <nome>! Sao anh
+có thể quên tên của một
+cô gái đáng yêu chứ?
+<--------------------->
+
+<p 02><a 29><n 1D>
+Đó là sự nhục nhã cho
+một người tinh tế
+như anh.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Đừng giận nha. Aile,
+Earl, nghe cũng giống
+nhau mà?
+<*********************>
+
+<p 02><a 29><n 1D>
+Anh đã choáng ngợp
+trước vẻ đẹp mà quên
+phải giới thiệu.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Anh là Scombrésoce,
+người ngầu nhất trong
+đội.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Anh luôn ở đây. Cứ
+ghé chơi lúc nào
+cũng được.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Mấy người kia rất nhạt
+nhẽo, đừng nói chuyện
+với họ nha.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Hẹn gặp lại!
+<*********************>
+
+<p 02><a 29><n 1D>
+Này, em không sao chứ?
+<--------------------->
+
+<p 02><a 29><n 1D>
+Đừng tự đưa mình vào
+chỗ chết chỉ vì mình
+có Livemetal.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Thứ bị tổn thương là
+cơ thể của em, không
+phải là Livemetal.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Nên biết điểm dừng
+trước khi mọi chuyện
+đi quá xa.
+<*********************>
+
+<p 02><a 29><n 1D>
+Này, <nome>, anh có
+vài chuyện muốn nói.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Có một khu ở Vùng
+Hẻo Lánh phát ra
+tín hiệu rất mạnh.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Chúng làm rối loạn
+giác quan và khiến em
+không rõ trái phải và
+<--------------------->
+
+thậm chí đôi khi không
+thể dùng vũ khí.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Đừng quá lo lắng.
+Chỉ cần có chút
+muối ngửi là em
+<--------------------->
+
+sẽ tỉnh táo lại
+ngay.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Anh sẽ bán cho em
+với giá 10 EC.
+<*********************>
+
+<p 02><a 29><n 1D>
+Ai mà ngờ được chúng 
+lại dám tấn công vào
+căn cứ chứ?
+<--------------------->
+
+<p 02><a 29><n 1D>
+Anh đã háo hức muốn
+cho chúng thấy kỹ năng
+tuyệt đỉnh của anh.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Nhưng anh không thể
+ra ngoài. Xui nhỉ?
+<*********************>
+
+<p 02><a 29><n 1D>
+Anh sẽ không để chúng
+đụng vào một sợi tóc
+của em.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Hãy ở bên anh, <nome>!
+<*********************>
+
+<p 02><a 29><n 1D>
+Em không chỉ là một
+cô gái đáng yêu.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Anh không có ý chọc
+giận em. Nhưng em
+lỳ lợm thật đấy.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Anh sợ hãi cái chết
+đến mức không thể
+mạo hiểm như thế.
+<*********************>
+
+<p 02><a 29><n 1D>
+Phần còn lại phụ thuộc
+vào em rồi, <nome>!
+<--------------------->
+
+<p 02><a 29><n 1D>
+Bọn anh không thể
+giúp gì cho em trong
+trận chiến sắp tới.
+<*********************>
+
+<p 02><a 29><n 1D>
+Có chuyện gì thế?
+<--------------------->
+
+<p 02><e 01><a 29><n 1D>
+Mua muối ngửi?  
+  Có
+  Không
+<*********************>
+
+<p 02><a 29><n 1D>
+Cẩn thận vẫn hơn mà?
+<--------------------->
+
+<p 02><a 29><n 1D>
+Hãy nhớ là nó sẽ không
+có tác dụng nếu em
+<--------------------->
+
+dùng khi bị sóng
+nhiễu loạn tấn công.
+<--------------------->
+
+<p 02><a 29><n 1D>
+Anh muốn cho em
+nhiều hơn, Nhưng anh
+chỉ có 1 gói thôi.
+<*********************>
+
+<p 02><a 29><n 1D>
+Chúng chỉ có giá 10EC,
+nhưng em vẫn phải
+trả tiền.
+<*********************>
+
+<p 02><a 29><n 1D>
+Không sao? Chà, anh
+đoán là anh không thể
+ép em rồi.
+<*********************>
+
+<p 02><a 23><n 30>
+Cảm ơn đã giúp,
+<nome>!
+<--------------------->
+
+<p 02><a 23><n 30>
+Tôi là Sole.
+<*********************>
+
+<p 02><a 23><n 30>
+Quần áo của tôi vẫn
+còn ám mùi khói.
+<--------------------->
+
+<p 02><a 23><n 30>
+Thật không may khi
+chúng ta gặp nhau
+trong hoàn cảnh đó.
+<--------------------->
+
+Cơ hội để tạo ấn tượng
+ban đầu chỉ có một...
+<*********************>
+
+<p 02><a 23><n 30>
+Tôi không ngờ mọi
+chuyện lại diễn ra
+như vậy.
+<--------------------->
+
+<p 02><a 23><n 30>
+Giá như tất cả chỉ là
+một cơn ác mộng.
+<*********************>
+
+<p 02><a 23><n 30>
+May là kho hàng căn cứ
+đã được gia cố.
+<--------------------->
+
+<p 02><a 23><n 30>
+Thông thường, mọi thứ
+được giữ càng mỏng và
+<--------------------->
+
+nhẹ để việc bay
+trở nên dễ dàng hơn.
+<*********************>
+
+<p 02><a 23><n 30>
+Tôi biết tôi không
+phải là người đối đầu
+với Serpent.
+<--------------------->
+
+<p 02><a 23><n 30>
+Nhưng tôi vẫn cảm thấy
+rất lo lắng.
+<*********************>
+
+<p 02><a 23><n 30>
+<nome>, cô phải ngăn
+tên Serpent bằng
+mọi giá!
+<--------------------->
+
+<p 02><a 23><n 30>
+Chỉ có cô mới có thể
+làm được điều đó!
+<*********************>
+
+<p 02><a 23><n 2E>
+A! Tôi rất vui khi cô
+đã vượt qua thử thách.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Tôi là Dorado.
+<*********************>
+
+<p 02><a 23><n 2E>
+Gần đây, ngày càng có
+nhiều Maverick xuất
+hiện ở Vùng Hẻo Lánh.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Tình hình đã trở nên
+tồi tệ đến mức chúng ta
+<--------------------->
+
+không thể bảo vệ
+mọi người được nữa.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Giờ đã có cô rồi...
+<--------------------->
+
+<p 02><a 23><n 2E>
+Tôi hy vọng chúng ta
+có thể tìm cách 
+khắc phục tình hình.
+<*********************>
+
+<p 02><a 23><n 2E>
+Không thể tin được...
+Cô không sao chứ?
+<--------------------->
+
+<p 02><a 23><n 2E>
+Tôi không thể tin nổi
+cô vẫn đứng tiếp
+được sau pha va chạm
+<--------------------->
+
+kinh hoàng ấy.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Phải chăng đây là
+sức mạnh của Livemetal.
+<*********************>
+
+<p 02><a 23><n 2E>
+Tôi đã có dịp quay lại
+thành phố sau một
+thời gian dài.
+<--------------------->
+
+Tuy nhiên, quy mô rộng
+lớn của thành phố đã
+khiến tôi lạc.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Tôi đã quá cứng nhắc,
+không thèm xem bản đồ.
+<--------------------->
+
+Cô đừng phạm sai lầm
+giống tôi nhé.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Nhấn START để mở menu
+rồi chọn Nhiệm Vụ.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Anh có thể thấy các
+đường giữa các khu vực
+<--------------------->
+
+khác và vị trí
+hiện tại của cô.
+<*********************>
+
+<p 02><a 23><n 2E>
+Cô có bị thương
+ở đâu không?
+<--------------------->
+
+<p 02><a 23><n 2E>
+Con tàu rung lắc mạnh
+tới mức hất văng tôi
+ngã xuống sàn.
+<*********************>
+
+<p 02><a 23><n 2E>
+Thể trạng tôi vẫn chưa
+ổn định, nhưng tôi
+không thể ngồi yên.
+<*********************>
+
+<p 02><a 23><n 2E>
+Cô đã biết thứ gì đứng
+đằng sau Model V chưa?
+<--------------------->
+
+<p 02><a 23><n 2E>
+Gần đây có quá nhiều
+tin đồn lan truyền,
+<--------------------->
+
+tôi không biết đâu
+là thật, đâu là giả.
+<*********************>
+
+<p 02><a 23><n 2E>
+Chỉ có cô mới có thể
+chống lại Tập Đoàn
+Serpent.
+<--------------------->
+
+<p 02><a 23><n 2E>
+Tôi rất tiếc vì tôi
+không thể giúp gì
+nhiều cho cô.
+<*********************>
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+A! Đây là lần đầu tiên
+anh bắt gặp một cô bé
+ở đây.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Em đến từ đâu vậy?
+Anh mong là em được
+phép vào đây.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Em là người đã cứu
+Prairie và những người
+khác trong rừng sao?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Là EM thật sao?!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Quào! A, tên anh là
+Truite!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Em làm tốt lắm! Anh
+có thể xem Livemetal
+được không?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Không ư?! A, thôi nào!
+Cho anh xem đi mà!
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Nếu là anh thì anh sẽ
+cất tủ trưng bày để
+tránh bị bẩn.
+<*********************>
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Em là chuyển phát viên
+đúng không, <nome>?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Có thể một ngày nào đó
+anh sẽ cần em giúp.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Thực ra...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Hừm... mà thôi, anh
+không muốn làm phiền
+em lúc này.
+<*********************>
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+A, anh không biết là
+em đang nói chuyện
+với anh.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Em không sao đấy chứ?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Livemetal cũng sẽ chịu
+thua nếu em bị trúng
+vết thương chí mạng.
+<*********************>
+
+<p 02><a 2A><n 1E>
+...
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Hử? Em vẫn muốn nói
+với anh gì đó à?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Hiện tại anh đang
+khá bận.
+<*********************>
+
+<p 02><a 2A><n 1E>
+Vừa có một trận
+động đất lớn xảy ra
+đúng không?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Hả? Đó không phải là
+động đất sao?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Căn Cứ là một chiếc
+tàu bay á?!
+<*********************>
+
+<p 02><a 2A><n 1E>
+Anh còn không nhận ra
+là chúng ta đang bị
+tấn công.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Trời, sao anh không
+biết chuyện gì nhỉ?
+<--------------------->
+
+May là mọi người
+đã xử lý tất cả.
+<*********************>
+
+<p 02><a 2A><n 1E>
+Em đang tìm Model V
+sao?
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Anh cứ nghĩ em chỉ
+phụ trách vận chuyển
+<--------------------->
+
+cho Trụ Sở Vệ Binh
+thôi chứ.
+<*********************>
+
+<p 02><a 2A><n 1E>
+Anh không biết là em
+phải gánh vác trọng
+trách lớn như vậy.
+<--------------------->
+
+<p 02><a 2A><n 1E>
+Anh cứ nghĩ em chỉ là
+người may mắn được
+Model X chọn thôi chứ.
+<*********************>
+
+<p 02><a 2C><n 20>
+Này cô bé!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Anh đã rất lo cho nhóc,
+nhưng có vẻ nhóc đã
+vượt qua thử thách!
+<*********************>
+
+<p 02><a 2C><n 20>
+Nhóc tên gì?
+<--------------------->
+
+<p 02><a 2C><n 20>
+A! <nome> là một cái
+tên đẹp. Anh là Thon!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Hahaha! Nhóc nói tên
+đó hợp với một người
+to xác như anh sao?
+<*********************>
+
+<p 02><a 2C><n 20>
+Này cô bé, vẫn ổn
+đó chứ?
+<--------------------->
+
+<p 02><a 2C><n 20>
+Không thể tin là chúng
+lại tấn công một cô gái
+nhỏ hơn nửa người anh!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Lũ Tập Đoàn Serpent đó!
+Chúng đúng là không có
+liêm sỉ mà.
+<*********************>
+
+<p 02><a 2C><n 20>
+Trên cao thế này luôn
+mang lại cảm giác
+an toàn.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Nhưng mỗi khi nhìn
+xuống dưới, nhóc
+<--------------------->
+
+<p 02><a 2C><n 20>
+sẽ thấy lũ Maverick
+đang lộng hành.
+<--------------------->
+
+Đối đầu Tập Đoàn
+Serpent
+<--------------------->
+
+<p 02><a 2C><n 20>
+đồng nghĩa với việc
+đối đầu với cả
+quốc gia.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Chúng ta phải dốc hết
+sức mình, nếu không
+thì sẽ tiêu tùng.
+<*********************>
+
+<p 02><a 2C><n 20>
+Anh không ngờ rằng
+chuyện này lại xảy ra.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Anh đã nghĩ chúng sẽ
+đục một lỗ trên con
+tàu của chúng ta!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Prairie thật tuyệt.
+Không có gì có thể
+lung lay cô ấy...
+<--------------------->
+
+<p 02><a 2C><n 20>
+Sự dũng cảm của cô ấy
+thật đáng ngưỡng mộ.
+<*********************>
+
+<p 02><a 2C><n 20>
+Dù tập đoàn của chúng
+có lớn đến đâu anh
+cũng không quan tâm.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Nhóc hãy bắt chúng phải
+trả giá với những gì
+chúng gây ra!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Chúng phải được dạy
+rằng chúng ta không
+phải dạng vừa đâu!
+<*********************>
+
+<p 02><a 2C><n 20>
+Chúc may mắn, <nome>!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Anh vẫn không thể
+tin được.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Một cô bé nhưng lại có
+lòng dũng cảm của cả
+ngàn người gộp lại.
+<*********************>
+
+<p 02><a 2C><n 20>
+Nhóc thật đậc biệt,
+<nome>!
+<--------------------->
+
+<p 02><a 2C><n 20>
+Nhưng đôi vai nhỏ bé
+của nhóc lại đang gánh
+trọng trách lớn hơn
+<--------------------->
+
+bất kỳ những gì bọn anh
+có thể tưởng tượng.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Nhưng nhóc đã đi đến
+được đây rồi thì không
+còn gì phải lo.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Nhóc còn trẻ và có
+nhiều cơ hộ
+phía trước.
+<--------------------->
+
+<p 02><a 2C><n 20>
+Anh tin vào nhóc! Vậy
+nên nhóc hãy tin vào
+bản thân mình!
+<*********************>
+
+<p 02><a 23><n 2B>
+A, <nome>! Tôi là
+Bar.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Cảm ơn cô đã cứu tôi
+nhé.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Muguet đã chữa trị
+vết thương do Rắn
+<--------------------->
+
+Cơ Khí gây ra cho
+tôi rồi.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Muguet rất giỏi,
+nhưng cô ấy lại hay
+bắt bẻ quá mức.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Rose dịu dàng và
+nhút nhát, cô ấy hợp
+với gu của tôi.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Maquereau cũng bị
+thương. Không biết
+cậu ấy sao rồi.
+<*********************>
+
+<p 02><a 23><n 2B>
+Tôi có vài lời khuyên
+cho cô.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Đừng biến hình khi
+ở trong thành phố.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Lũ Maverick từ Vùng
+Hẻo Lánh có thể xâm
+nhập
+<--------------------->
+
+<p 02><a 23><n 2B>
+Hoặc Robot An Ninh
+có thể phá hiện cô
+đang cầm vũ khí
+<--------------------->
+
+<p 02><a 23><n 2B>
+và tấn công ngay
+lập tức.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Anh sẽ khiến người dân
+trong thành phố sẽ
+cảm thấy bị đe dọa.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Có thể sẽ có lúc cô
+phải đưa ra quyết định,
+hãy cẩn thận.
+<*********************>
+
+<p 02><a 23><n 2B>
+<nome>, cô làm
+chúng tôi lo quá.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Tôi hiểu cảm giác của
+cô khi không muốn
+ngồi yên một chỗ.
+<--------------------->
+
+Nhưng hãy cố gắng
+bình tĩnh lại.
+<*********************>
+
+<p 02><a 23><n 2B>
+Ừm.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Tôi đã phát hiện ra một
+thứ ở lũ Repliroid
+được gọi là Falseroid.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Chúng sở hữu khả năng
+tái sinh.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Nếu để yên, chúng sẽ
+tự động sống lại.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Có vẻ như đó là một
+trong những thứ mà
+Tập Đoàn Serpent đã
+<--------------------->
+
+nghiên cứu trong
+bí mật.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Mọi người không biết
+sự thật và đối xử với
+<--------------------->
+
+Serpent như một vị
+anh hùng dân tộc.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Hóa ra cô đã biết
+hết mọi chuyện rồi à?
+<*********************>
+
+<p 02><a 23><n 2B>
+Cô không sao chứ,
+<nome>?
+<--------------------->
+
+<p 02><a 23><n 2B>
+Đội Vệ Binh vẫn ổn
+nhờ hệ thống an ninh
+của các phòng.
+<*********************>
+
+<p 02><a 23><n 2B>
+Chúng ta bị tổn thất
+nặng nề quá
+<--------------------->
+
+Thật may mắn khi không
+ai bị thương nặng
+trong tình huống này.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Thực ra chúng tôi nên
+cảm ơn cô mới phải.
+<*********************>
+
+<p 02><a 23><n 2B>
+Cô đã tìm thấy 6 mảnh
+Livemetal rồi sao?
+<*********************>
+
+<p 02><a 23><n 2B>
+Giờ những gì cô cần là
+khai phá sức mạnh của
+Livemetal.
+<*********************>
+
+<p 02><a 23><n 2B>
+A!
+<--------------------->
+
+<p 02><a 23><n 2B>
+Tôi tìm thấy con chip
+này trong lúc đi
+tuần tra.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Với nó, cô sẽ không
+bị chìm hoặc xuyên qua
+các bề mặt mỏng.
+<--------------------->
+
+<p 02><a 23><n 2B>
+Tôi ít khi tới Vùng
+Hẻo Lánh nên không
+cần nó lắm.
+<--------------------->
+
+Cô hãy lấy nó đi.
+<*********************>
+
+<p 02><a 22><n 18>
+Ừm, <nome>, có chuyện
+gì sao?
+<*********************>
+
+<p 02><m><a 22><n 18>
+  Xem Dữ Liệu
+  Trò Chuyện
+  Không Có Gì
+<*********************>
+
+<p 02><m><a 22><n 18>
+  Sửa Livemetal
+  Xem Dữ Liệu
+  Trò Chuyện
+<*********************>
+
+<p 02><a 22><n 18>
+Có rất nhiều Vệ Binh
+trên con tàu này.
+<--------------------->
+
+<p 02><a 22><n 18>
+Nếu cô rảnh thì nên
+đi chào hỏi mọi người.
+<*********************>
+
+<p 02><a 22><n 18>
+Những Vệ Binh đôi khi
+có thể kỳ lạ, nhưng
+họ đều là người tốt.
+<--------------------->
+
+<p 02><a 22><n 18>
+Đừng nổi nóng và hãy
+lắng nghe họ.
+<*********************>
+
+<p 02><a 22><n 18>
+<nome>! Cô không sao
+chứ?!
+<--------------------->
+
+<p 02><a 22><n 18>
+Tôi biết cô muốn lao
+vào chiến đấu ngay.
+<--------------------->
+
+Nhưng cô phải học cách
+kiểm soát Livemetal
+trước đã..
+<*********************>
+
+<p 02><a 22><n 18>
+Thư giãn và làm chủ
+sức mạnh của
+Livemetal.
+<*********************>
+
+<p 02><a 22><n 18>
+Tôi đã rất sốc.
+<--------------------->
+
+<p 02><a 22><n 18>
+Tôi chưa bao giờ nghĩ
+rằng chúng ta lại bị
+kẻ thù phát hiện.
+<--------------------->
+
+<p 02><a 22><n 18>
+Chúng ta phải thay đổi
+lộ trình bay để tránh
+bị phát hiện lần nữa.
+<--------------------->
+
+<p 02><a 22><n 18>
+Tôi sẽ liên hệ với Đội
+Điều Hành để thay đổi
+lộ trình bay
+<*********************>
+
+<p 02><a 22><n 18>
+Tôi có một thứ rất
+thú vị muốn tiết lộ
+cho cô, <nome>.
+<--------------------->
+
+<p 02><a 22><n 18>
+Cô có biết rằng mỗi
+mảnh Livemetal đã được
+chia thành hai phần và
+<--------------------->
+
+cho hai Falseroid
+khác nhau không?
+<--------------------->
+
+<p 02><a 22><n 18>
+Nếu cô có thể tìm
+được cả hai phần,
+<--------------------->
+
+<p 02><a 22><n 18>
+cô sẽ mở khóa hai
+biến thể tấn công điện
+<--------------------->
+
+cho mỗi model.
+<--------------------->
+
+<p 02><a 22><n 18>
+Công dụng khác nhau
+tùy thuộc vào Model.
+<--------------------->
+
+<p 02><a 22><n 18>
+Với Model HX, LX và PX,
+cô cần tích năng lượng
+lên mức hai, rồi nhấn
+<--------------------->
+
+<p 02><a 22><n 18>
+đồng thời nút lên và
+thả nút tấn công để
+kích hoạt đòn đánh.
+<--------------------->
+
+<p 02><a 22><n 18>
+Với Model FX, cô cần
+tích năng lượng lê
+mức hai, rồi nhấn
+<--------------------->
+
+<p 02><a 22><n 18>
+đồng thời nút xuống và
+thả nút tấn công để
+kích hoạt đòn đánh.
+<*********************>
+
+<p 02><a 22><n 18>
+Cuối cùng cô cũng đã
+thu thập đủ 6 mảnh
+Livemetal rồi.
+<--------------------->
+
+<p 02><a 22><n 18>
+Tương lai của chúng tôi
+phụ thuộc vào cô,
+<nome>.
+<*********************>
+
+<p 02><a 22><n 18>
+Cô là người duy nhất
+có sức mạnh để cứu
+chúng tôi...
+<--------------------->
+
+<p 02><a 22><n 18>
+Chúng tôi luôn đặt
+niềm tin vào cô.
+<*********************>
+
+<p 02><a 22><n 18>
+A, <nome>...
+<--------------------->
+
+<p 02><a 22><n 18>
+Hay đem theo cái này.
+<--------------------->
+
+<p 02><a 22><n 18>
+Con Chip này sẽ giảm
+thời gian hồi chiêu
+nộ.
+<--------------------->
+
+<p 02><a 22><n 18>
+Vật này thuộc về một
+Vệ Binh khác
+<--------------------->
+
+<p 02><a 22><n 18>
+và sẽ mất thời gian để
+đồng bộ nó với
+Livemetal của cô..
+<--------------------->
+
+<p 02><a 22><n 18>
+Tôi mới hoàn thành nó
+cách đây không lâu.
+<*********************>
+
+<p 02><a 22><n 18>
+Cô cần báo cáo
+nhiệm vụ trước khi
+<--------------------->
+
+tôi sửa Livemetal
+cho cô.
+<--------------------->
+
+<p 02><a 22><n 18>
+Hãy nộp nó lên Trạm
+Trung Chuyển và
+quay lại đây.
+<*********************>
+
+<p 02><a 22><n 18>
+<nome>! Tôi có một
+tin bất ngờ đây!
+<--------------------->
+
+<p 02><a 22><n 18>
+Về cái hòn đá kỳ lạ
+mà cô tìm thấy ở
+Khu N-1.
+<--------------------->
+
+<p 02><a 22><n 18>
+Tôi nghĩ tôi có thể
+biết gì đó. Cô có
+thể cho tôi xem không?
+<*********************>
+
+
+Đã đưa <c 03>Hòn Đá Bí Ẩn
+<*********************>
+
+<p 02><a 22><n 18>
+...
+<--------------------->
+
+<p 02><a 22><n 18>
+Xong rồi! Hóa ra đây
+là một loại Livemetal
+đặc biệt.
+<--------------------->
+
+<p 02><a 22><n 18>
+Dù nó phát ra ánh sáng
+rất độc lạ, nhưng cô
+<--------------------->
+
+có thể dùng nó để
+biến hình.
+<*********************>
+
+<p 02><a 23><n 2F>
+Tôi cảm thấy mình
+thật thảm hại.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Tôi đã cố gắng cứu
+mọi người thoát khỏi
+đám cháy, nhưng
+<--------------------->
+
+cuối cùng lại phải
+tự mình kêu cứu.
+<*********************>
+
+<p 02><a 23><n 2F>
+Tôi rất vui vì cô
+đến rất đúng lúc.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Cảm ơn cô vì đã
+cứu tôi.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Tôi không dám nghĩ
+đến hậu quả nếu cô
+không đến kịp thời.
+<*********************>
+
+<p 02><a 23><n 2F>
+Chúng ta đang rơi vào
+tình hình khó xử.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Các đòn đánh của cô
+rất ấn tượng, cô đã
+<--------------------->
+
+đánh đuổi từng tên
+một khỏi con tàu.
+<*********************>
+
+<p 02><a 23><n 2F>
+Tập Đoàn Serpent đang
+ngày càng trở nên
+lớn mạnh hơn.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Chúng ta phải tìm các
+mảnh Livemetal còn lại.
+<--------------------->
+
+<p 02><a 23><n 2F>
+Nếu chúng ta không
+nhanh thì thế giới này
+sẽ rơi vào tay Serpent.
+<*********************>
+
+<p 02><a 23><n 2F>
+Nhờ có cô, tôi thấy
+Đội Vệ Binh sẽ nắm
+chắc phần thắng.
+<*********************>
+
+<p 02><a 23><n 2F>
+Tôi hy vọng chúng tôi
+không cản trở cô.
+Cảm giác như hiện tại
+<--------------------->
+
+<p 02><a 23><n 2F>
+chúng tôi không thể
+giúp gì nhiều.
+<*********************>
+
+<p 02><a 23><n 2C>
+Chào, <nome>!
+<--------------------->
+
+<p 02><a 23><n 2C>
+Dung nham đó khá
+đáng sợ, phải không?
+<--------------------->
+
+<p 02><a 23><n 2C>
+Côy có tìm thấy
+công tắc điều khiển
+dòng chảy không?
+<*********************>
+
+<p 02><a 23><n 2C>
+Tôi cảm thấy ngại khi
+luôn tục nhờ cô
+giúp đỡ.
+<--------------------->
+
+<p 02><a 23><n 2C>
+Đáng lẽ ra tôi phải là
+người cứu tất cả những
+người đó khỏi đám cháy,
+<--------------------->
+
+<p 02><a 23><n 2C>
+nhưng cuối cùng lại
+là cô.
+<--------------------->
+
+<p 02><a 23><n 2C>
+Khi căn phòng đầy khói,
+tôi đã nghĩ mình sẽ
+không thoát được. Nhưng
+<--------------------->
+
+<p 02><a 23><n 2C>
+rồi tôi nhìn thấy cô
+đang mỉm cười với tôi.
+Như thiên thần cứu mạng!
+<*********************>
+
+<p 02><a 23><n 2C>
+Tôi đã rất lo lắng cho
+cô, <nome>.
+<--------------------->
+
+<p 02><a 23><n 2C>
+Con tàu lắc lư dữ dội
+đến mức tôi nghĩ tàu
+bị thiên thạch đâm.
+<*********************>
+
+<p 02><a 23><n 2C>
+Cô không bị thương
+ở đâu đó chứ, <nome>?
+<--------------------->
+
+<p 02><a 23><n 2C>
+Tôi vẫn chưa hồi phục
+nên tôi sẽ ở đây để
+dưỡng thương.
+<*********************>
+
+<p 02><a 23><n 2C>
+Đó có phải là 6 mảnh
+Livemetal mà cô đang
+tìm kiếm không?
+<--------------------->
+
+<p 02><a 23><n 2C>
+Chúng thật ấn tượng.
+<*********************>
+
+<p 02><a 23><n 2C>
+Để tạo ra Livemetal,
+chắc chắn phải cần
+công nghệ tiên tiến.
+<--------------------->
+
+<p 02><a 23><n 2C>
+Không thể tin nổi một
+thứ như vậy đã tồn tại
+từ rất lâu...
+<*********************>
+
+<p 02><a 23><n 2D>
+Chào! Cô là <nome>,
+đúng không?
+<--------------------->
+
+<p 02><a 23><n 2D>
+Tôi là Morue! Và thật
+tuyệt khi được gặp
+cô.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Cô đã gặp mọi người
+trong căn cứ chưa?
+<--------------------->
+
+<p 02><a 23><n 2D>
+Họ đều là người tốt,
+cô nên bắt chuyện
+với họ.
+<*********************>
+
+<p 02><a 23><n 2D>
+Có vẻ như con đường ở
+Khu D-1 vẫn chưa
+sửa xong.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Ít ra nó cũng giúp
+ngăn chặn lũ Maverick
+đổ bộ.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Tấn công thật mạnh để
+kích hoạt công tắc
+phía trước.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Cô có thể đi tiếp
+được rồi.
+<*********************>
+
+<p 02><a 23><n 2D>
+Cô làm tôi lo quá,
+<nome>!
+<--------------------->
+
+<p 02><a 23><n 2D>
+Tôi cứ tưởng cô đã
+chết rồi. Tôi còn
+chuẩn bị tinh thần.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Nhưng thật tuyệt khi
+cô vẫn ổn!
+<*********************>
+
+<p 02><a 23><n 2D>
+Có thể cô đã biết
+điều này rồi,
+<--------------------->
+
+<p 02><a 23><n 2D>
+cô chỉ có thể nhận 1
+nhiệm vụ hoặc ủy thác
+thôi.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Nếu cô muốn nhảy qua
+nhiệm vụ khác,
+<--------------------->
+
+<p 02><a 23><n 2D>
+thì cô phải hủy
+nhiệm vụ hiện tại.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Nhưng nó cũng có nghĩa
+mọi công sức cô bỏ ra
+<--------------------->
+
+<p 02><a 23><n 2D>
+cho nhiệm vụ đó đều
+đổ sông đổ bể.
+<*********************>
+
+<p 02><a 23><n 2D>
+Tôi suýt tẻ ra quần
+khi thấy nhiều tàu
+bao vây chúng ta.
+<*********************>
+
+<p 02><a 23><n 2D>
+Cô quả thật dũng cảm,
+<nome>!
+<*********************>
+
+<p 02><a 23><n 2D>
+Đó là 6 mảnh Livemetal
+sao?
+<--------------------->
+
+<p 02><a 23><n 2D>
+Cứ như thể chúng đang
+tạo ra một bản hòa âm
+hoàn hảo.
+<*********************>
+
+<p 02><a 23><n 2D>
+Chỉ cần đừng để đám
+người Tập Đoàn Serpent
+đụng vào Model V.
+<--------------------->
+
+<p 02><a 23><n 2D>
+Thế giới này sẽ bị
+phá hủy nếu chúng
+nắm quyền!
+<*********************>
+
+<FIM>
