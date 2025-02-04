@@ -56,77 +56,77 @@ Bạn muốn làm gì?
 <*********************>
 
 <e 63><a 02><n 55>
-Abort the mission?
-  Continue
-  Abort
+Hủy nhiệm vụ?
+  Tiếp tục làm
+  Hủy
 <*********************>
 
 <a 02><n 55>
-Continuing mission
+Tiếp tục nhiệm vụ
 <*********************>
 
 <a 02><n 55>
-Mission aborted
+Hủy nhiệm vụ
 <*********************>
 
 <m><a 02><n 55>
-  Save Data
-  Load Data
-  Erase Data
+  Lưu Dữ Liệu
+  Nạp Dữ Liệu
+  Xóa Dữ Liệu
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-100 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 100EC.
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-150 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 150EC.
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-200 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 200EC.
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-250 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 250EC.
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-300 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 300EC.
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-350 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 350EC.
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-400 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 400EC.
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-450 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 450EC.
 <*********************>
 
 <p 02><a 02><n 55>
-Mission completion
-confirmed.
-500 EC transferred.
+Xác nhận nhiệm vụ
+hoàn thành.
+Đã chuyển 500EC.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -134,311 +134,306 @@ confirmed.
 <--------------------->
 
 <p 02><a 02><n 55>
-I sent a yellow card
-key to the server.
+Tôi đã gửi thẻ từ vàng
+lên máy chủ.
 <--------------------->
 
 <p 02><a 02><n 55>
-You'll be able to
-open yellow doors
-with it.
+Có thể dùng nó để
+mở cửa màu vàng.
 <*********************>
 
 
-Hivolt found in Area E-7
+Hivolt có mặt tại Khu E-7
 <*********************>
 
 
-Lurerre found in Area F-5
+Lurerre có mặt tại Khu F-5
 <*********************>
 
 
-Fistleo found in Area G-5
+Fistleo có mặt tại Khu G-5
 <*********************>
 
 
-Purprill found in Area H-4
+Purprill có mặt tại Khu H-4
 <*********************>
 
 
-Hurricaune found in Area I-3
+Hurricaune có mặt tại Khu I-3
 <*********************>
 
 
-Leganchor found in Area J-5
+Leganchor có mặt tại Khu J-5
 <*********************>
 
 
-Flammole found in Area K-4
+Flammole có mặt tại Khu K-4
 <*********************>
 
 
-Protectos found in Area L-4
+Protectos có mặt tại Khu L-4
 <*********************>
 
 <a 04><n 56>
-Fountain Power
-Supply System
-The power is on.
+Hệ Thống Nguồn Điện
+Đài Phun Nước:
+Đang hoạt động.
 <--------------------->
 
 <e 63><a 04><n 56>
-Cut the power?
+Tắt nguồn điện?
   Có
   Không
 <*********************>
 
 <a 04><n 56>
-Fountain Power
-Supply System
-The power is off.
+Hệ Thống Nguồn Điện
+Đài Phun Nước:
+Ngừng hoạt động.
 <--------------------->
 
 <e 63><a 04><n 56>
-Restore the power?
+Mở nguồn điện?
   Có
   Không
 <*********************>
 
 <a 04><n 00>
-The enemy placed this
-device to control the
-flow of lava.
+Kẻ thù đặt thiết bị
+này để điều khiển
+dòng chảy dung nham.
 <*********************>
 
 <a 03><n 56>
-Lava Flow
-Control System
+Hệ Thống Điều Khiển
+Dung Nham
 <--------------------->
 
 <e 02><a 03><n 56>
-Change the speed:
-  Slow
-  Normal
+Đổi tốc độ:
+  Chậm
+  Bình thường
 <--------------------->
 
 <a 03><n 56>
-The flow has been
-set to "slow."
+Dòng chảy đã được đặt
+sang "chậm."
 <*********************>
 
 <s 02><a 03><n 56>
-The flow has been
-set to "normal."
+Dòng chảy đã được đặt
+sang "bình thường."
 <*********************>
 
 <a 04><n 00>
-The Area K-1 door has
-been unlocked.
+Cửa ở Khu K-1 đã được
+mở khóa.
 <*********************>
 
 <p 01><a 04><n 57>
-Hard Mode added.
+Đã mở Chế Độ Khó.
 <*********************>
 
 <p 01><a 04><n 57>
-New game added to
-Morgan's store.
+Có game mới tại
+cửa hàng Morgan.
 <*********************>
 
 <p 01><a 04><n 57>
-You can transform into
-Model X now even after
-obtaining Model ZX.
+Vẫn có thể biến hình
+thành Model X kể cả khi
+đã có Model ZX.
 <*********************>
 
 <p 01><e 50><a 04><n 57>
-Save clear data?
+Lưu dữ liệu?
   Có
   Không
 <*********************>
 
 
-Found a <c 03>Life Up<c 00>!
+Đã nhận <c 03>Tăng Máu<c 00>!
 <*********************>
 
 
-Found a <c 03>Sub Tank<c 00>!
+Đã nhận <c 03>Bình Dự Trữ<c 00>!
 <*********************>
 
 <a 04><n 57>
-Play this game?
+Chơi trò này?
 <--------------------->
 
 <m><a 04><n 57>
   Có
   Không
-  Description
+  Mô tả
 <*********************>
 
 <a 04><n 57>
-Not enough E-Crystals
+Không Đủ E-Crystals
 <*********************>
 
 <a 04><n 57>
-<c 03>[Dribble Trouble]
-<c 00>It costs 20 EC to play
-this game.
+<c 03>[Rê Bóng Bất Trắc]
+<c 00>Cần 20 EC để chơi
+trò này.
 <--------------------->
 
 <a 04><n 57>
-Dribble the ball to the
-goal within the time
-limit.
+Rê bóng tới đích trong
+thời gian cho phép.
 <*********************>
 
 <a 04><n 57>
-<c 03>[Crusher F]
-<c 00>It costs 40 EC to play
-this game.
+<c 03>[Nghiền F]
+<c 00>Cần 40 EC để chơi
+trò này.
 <--------------------->
 
 <a 04><n 57>
-Punch to bounce the
-ball at the enemy to
-defeat them.
+Đấm để nảy bóng vào
+kẻ thù để tiêu diệt
+chúng.
 <*********************>
 
 <a 04><n 57>
-<c 03>[Mega Crusher F]
-<c 00>It costs 50 EC to play
-this game.
+<c 03>[Siêu Nghiền F]
+<c 00>Cần 50 EC để chơi
+trò này.
 <--------------------->
 
 <a 04><n 57>
-Punch to bounce the
-ball at the enemy to
-defeat them.
+Đấm để nảy bóng vào
+kẻ thù để tiêu diệt
+chúng.
 <--------------------->
 
 <a 04><n 57>
-This version of Crusher
-F is more difficult
-than the other one.
+Phiên bản Nghiền F
+này sẽ khó hơn.
 <*********************>
 
 <a 04><n 57>
-<c 03>[Energy Converter]
-<c 00>It costs 80 EC to play
-this game.
+<c 03>[Đổi Năng Lượng]
+<c 00>Cần 80 EC để chơi
+trò này.
 <--------------------->
 
 <a 04><n 57>
-Combine jewels of the
-same color to help
-destroy enemies.
+Ghép các viên đá
+cùng màu để tiêu diệt
+kẻ thù.
 <--------------------->
 
 <a 04><n 57>
-The blocks won't vanish
-if a black block is
-in-between them.
+Các khối sẽ không
+biến mất nếu có một
+khối màu đen nằm giữa.
 <--------------------->
 
 <a 04><n 57>
-Combine black blocks
-to erase them.
+Ghép các khối đen để
+xóa chúng.
 <--------------------->
 
 <a 04><n 57>
-Combine jewels and
-blocks while they're
-falling.
+Ghép đá và khối khi
+chúng rơi xuống.
 <--------------------->
 
 <a 04><n 57>
-A new enemy appears
-every time an old
-one's energy runs out.
+Kẻ thù mới sẽ xuất hiện
+ngay sau khi kẻ thù cũ
+bị tiêu diệt hết.
 <*********************>
 
 <a 04><n 57>
-I need something to
-open this door...
+Mình cần thứ gì đó để
+mở cánh cửa này...
 <*********************>
 
 <a 04><n 57>
-The Game Boy Advance
-Game Pak Rockman Zero
-3 is needed.
+Cần có thẻ game Megaman
+Zero 3 của máy Game Boy
+Advance.
 <*********************>
 
 <a 04><n 57>
-The Game Boy Advance
-Game Pak Rockman Zero
-4 is needed.
+Cần có thẻ game Megaman
+Zero 4 của máy Game Boy
+Advance.
 <*********************>
 
 <a 04><n 57>
-Turn the power off,
-then insert the
-Game Pak.
+Tắt nguồn, sau đó lắp
+thẻ game vào máy.
 <*********************>
 
 <e 63><a 04><n 57>
-Quit the game?
+Thoát Game?
   Có
   Không
 <*********************>
 
 
-The Guardian has run away!
+Vệ Binh đã chạy mất!
 <--------------------->
 
-Transform back to normal
+Biến hình về bình thường
 <*********************>
 
 <p 01><a 02><n 55>
-Select the mission.
-<dpad>Control Pad  Select
-<btn_a>Button  OK
+Chọn nhiệm vụ.
+<dpad>Bàn Điều khiển: Chọn
+Phím <btn_a>:  OK
 <*********************>
 
 <p 01><e 01><a 02><n 55>
 Bạn muốn làm gì?
-  Hear Description
-  Take Mission
+  Nghe Mô tả
+  Nhận Nhiệm Vụ
 <*********************>
 
 <p 02><a 23><n 2C>
-We were sent here to
-check out the trap in
-the area.
+Chúng tôi được cử đến
+để kiểm tra mấy cái
+bẫu trong khu vực.
 <--------------------->
 
 <p 02><a 23><n 2C>
-According to reports,
-lava flows through the
-next area
+Theo các báo cáo,
+dòng dung nham trong
+khu vực tiếp theo sẽ
 <--------------------->
 
 <p 02><a 23><n 2C>
-and sweeps intruders
-away.
+cuốn phăng mọi kẻ
+xâm nhập.
 <--------------------->
 
 <p 02><a 23><n 2C>
-That lava will do you
-in if you come into
-contact with it.
+Chạm vào dòng dung
+nham đó là về với
+đất mẹ luôn đấy.
 <*********************>
 
 <p 02><a 23><n 2C>
-Oh, I almost forgot! I
-have something else to
-tell you.
+A, quên mất! Tôi vẫn
+còn vài chuyện cần
+dặn dò.
 <--------------------->
 
 <p 02><a 23><n 2C>
-I've heard there's a
-device in Area K that
-controls the lava flow.
+Tôi nghe nói rằng ở
+Khu K có thiết bị điều
+khiển dòng dung nham.
 <--------------------->
 
 <p 02><a 23><n 2C>
-If you can't find
-another way across, try
-turning the flow off.
+Nếu không thể tìm cách
+vượt qua nó, thì thử
+đổi dòng dung nham xem.
 <*********************>
 
 <p 02><a 37><n 32>
@@ -446,52 +441,53 @@ turning the flow off.
 <--------------------->
 
 <p 02><a 37><n 32>
-Bosch! Help! It's a
-scary looking stranger!
+Bosch! Cứu tôi với!
+Có một kẻ lạ mặt
+đáng sợ ở đây!
 <*********************>
 
 <p 02><a 40><n 3B>
-Help!!! Some stranger
-is trying to take me
-away! 
+Cứu!!! Có một kẻ
+lạ mặt đang muốn
+bắt tôi đi! 
 <*********************>
 
 <p 02><a 44><n 3F>
-Who are you?! Stay
-back!
+Ngươi là ai?! Tránh xa
+ta ra!
 <*********************>
 
 <p 02><a 45><n 40>
-Are you... an
-Irregular? Oh man,
-what a scoop!
+Ngươi là... Maverick?
+A, đúng là tin sốt
+dẻo!
 <--------------------->
 
 <p 02><a 45><n 40>
-Oh no! The scoop of a
-lifetime and I'm out of
-film!
+Trời! Cơ hội ngàn vàng
+để chụp ảnh mà lại
+hết phim mất rồi!
 <*********************>
 
 <p 02><a 48><n 43>
-W-who are you?!
+N-ngươi là ai?!
 <--------------------->
 
 <p 02><a 48><n 43>
-I don't care what you
-look like, you don't
-scare me!
+Dù ngươi có là ai
+đi nữa, thì ta cũng
+không sợ ngươi đâu!
 <*********************>
 
 <p 02><a 4D><n 48>
-Gadzooks! What's with
-that getup?!
+Trời! Bộ đồ gì mà
+quái dị thế kia?!
 <--------------------->
 
 <p 02><a 4D><n 48>
-I must be slipping if I
-need help from some
-young weirdo.
+Ta chắc hẳn sắp xuống
+lỗ rồi mới phải nhờ
+một tên nhóc quái dị.
 <*********************>
 
 <p 02><a 51><n 4C>
@@ -499,173 +495,175 @@ young weirdo.
 <*********************>
 
 <p 02><a 55><n 51>
-Hey you! Did you start
-this fire?!
+Ê! Ngươi chính là kẻ
+phóng hỏa đúng không?!
 <--------------------->
 
 <p 02><a 55><n 51>
-Hmph! Well I hope
-you're happy!
+Hừ! Ta mong người
+thấy vui!
 <--------------------->
 
 <p 02><a 55><n 51>
-Serpent Co. won't take
-it easy on an Irregular
-like you!
+Tập Đoàn Serpent sẽ
+không nương tay với
+một tên Maverick!
 <*********************>
 
 <p 02><a 3A><n 35>
-I'm gonna find you
-guys!!!
+Ta sẽ truy lùng
+ngươi!!!
 <--------------------->
 
 <p 02><a 3A><n 35>
-Who are you? I don't
-talk to strangers!
+Ngươi là ai? Ta sẽ
+không nói chuyện với
+người lạ!
 <*********************>
 
 <p 02><a 3B><n 36>
-Here I am, come and
-get me!!!
+Ta đây này, đến bắt ta
+đi!!!
 <--------------------->
 
 <p 02><a 3B><n 36>
-Who are ya? I don't
-talk to strange people.
+Ngươi là ai? Ta sẽ
+không nói chuyện với
+người lạ.
 <*********************>
 
 <p 02><a 3C><n 37>
-Here I am, come and
-get me!!!
+Ta đây này, đến bắt ta
+đi!!!
 <--------------------->
 
 <p 02><a 3C><n 37>
-Who are ya? I don't
-talk to people I don't
-know.
+Ngươi là ai? Ta sẽ
+không nói chuyện với
+người lạ.
 <*********************>
 
 <p 02><a 3D><n 38>
-We have to call out in
-our version of hide and
-seek.
+Bọn ta thường hô to
+trong trò trốn tìm
+kiểu mới.
 <--------------------->
 
 <p 02><a 3D><n 38>
-I can't talk to you
-now since I'm in the
-middle of a game.
+Ta đang bận chơi nên
+không rảnh để nói
+chuyện với ngươi.
 <*********************>
 
 <p 02><a 39><n 34>
-I'm busy playing hide
-and seek.
+Ta đang bận chơi
+trốn tìm.
 <--------------------->
 
 <p 02><a 39><n 34>
-With that outfit,
-you'll get me spotted
-for sure. Go away!
+Với quả đồ đó thì ta
+sẽ dễ bị phát hiện
+cho xem! Đi đi!
 <*********************>
 
 
-You got <c 03>Cake<c 00>!
+Đã nhận <c 03>Bánh Kem<c 00>!
 <*********************>
 
 
-You got an <c 03>E Tank<c 00>!
+Đã nhận <c 03>Bình E<c 00>!
 <*********************>
 
 
-You got a <c 03>W Tank<c 00>!
+Đã nhận <c 03>Bình W<c 00>!
 <*********************>
 
 
-You got an <c 03>Orange<c 00>!
+Đã nhận <c 03>Cam<c 00>!
 <*********************>
 
 
-You got <c 03>Candy<c 00>!
+Đã nhận <c 03>Kẹo<c 00>!
 <*********************>
 
 
-You got <c 03>Bread<c 00>!
+Đã nhận <c 03>Bánh Mỳ<c 00>!
 <*********************>
 
 
-You got an <c 03>Apple<c 00>!
+Đã nhận <c 03>Táo<c 00>!
 <*********************>
 
 
-You got <c 03>Smelling Salts<c 00>!
+Đã nhận <c 03>Muối Ngửi<c 00>!
 <*********************>
 
 
-You got an <c 03>Absorber Chip<c 00>!
+Đã nhận <c 03>Chip Giảm Sóc<c 00>!
 <*********************>
 
 
-You got a <c 03>Featherweight Chip<c 00>!
+Đã nhận <c 03>Chip Lông Vũ<c 00>!
 <*********************>
 
 
-You got an <c 03>Extender Chip<c 00>!
+Đã nhận <c 03>Chip Bộ Lặp<c 00>!
 <*********************>
 
 
-You got a <c 03>Quick Charger Chip<c 00>!
+Đã nhận <c 03>Chip Nộ Nhanh<c 00>!
 <*********************>
 
 
-You got an <c 03>Ice Boots Chip<c 00>!
+Đã nhận <c 03>Chip Giày Băng<c 00>!
 <*********************>
 
 
-You got a <c 03>Wind Boots Chip<c 00>!
+Đã nhận <c 03>Chip Giày Gió<c 00>!
 <*********************>
 
 
-You got a <c 03>Frog Chip<c 00>!
+Đã nhận <c 03>Chip Cóc<c 00>!
 <*********************>
 
 
-You got an <c 03>Eraser Chip<c 00>!
+Đã nhận <c 03>Chip Triệt Tiêu<c 00>!
 <*********************>
 
 
-You found a <c 03>Miracle Flower<c 00>!
+Đã nhận <c 03>Hoa Kỳ Diệu<c 00>!
 <*********************>
 
 
-You got a <c 03>Stuffed Animal<c 00>!
+Đã nhận <c 03>Gấu Bông<c 00>!
 <*********************>
 
 
-You got a <c 03>Pink Crystal<c 00>!
+Đã nhận <c 03>Tinh Thể Hồng<c 00>!
 <*********************>
 
 
-You found a <c 03>Green Bird<c 00>!
+Đã nhận <c 03>Chim Lục<c 00>!
 <*********************>
 
 
-You found a <c 03>Mushroom<c 00>!
+Đã nhận <c 03>Nấm<c 00>!
 <*********************>
 
 
-You received a <c 03>Letter<c 00>!
+You received a <c 03>Lá thư<c 00>!
 <*********************>
 
 
-You found a <c 03>Pochette<c 00>!
+Đã nhận <c 03>Túi Xách<c 00>!
 <*********************>
 
 
-You found a <c 03>Cold Pearl<c 00>!
+Đã nhận <c 03>Ngọc Trai Lạnh<c 00>!
 <*********************>
 
 
-You found a <c 03>Special<c 00> <c 03>Rock<c 00>!
+Đã nhận <c 03>Đá<c 00> <c 03>Đặc Biệt<c 00>!
 <*********************>
 
 
@@ -673,127 +671,127 @@ You found <c 03>Ceratanium<c 00>!
 <*********************>
 
 
-You found a <c 03>Screw<c 00>!
+Đã nhận <c 03>Vít<c 00>!
 <*********************>
 
 
-You found an <c 03>Aid Kit<c 00>!
+Đã nhận <c 03>Túi Cứu Thương<c 00>!
 <*********************>
 
 
-You found an <c 03>Energy Pack<c 00>!
+Đã nhận <c 03>Gói Năng Lượng<c 00>!
 <*********************>
 
 
-You found a <c 03>Mysterious Rock<c 00>!
+Đã nhận <c 03>Hòn Đá Bí Ẩn<c 00>!
 <*********************>
 
 
-You found a <c 03>Computer Chip<c 00>!
+Đã nhận <c 03>Chip Máy Tính<c 00>!
 <*********************>
 
 
-You got a <c 03>Purple Card Key<c 00>!
+Đã nhận <c 03>Thẻ Từ Tím<c 00>!
 <*********************>
 
 
-You found a <c 03>Data Disk<c 00>!
+Đã nhận <c 03>Đĩa Dữ Liệu<c 00>!
 <*********************>
 
 
-You got a <c 03>Yellow Card Key<c 00>!
+Đã nhận <c 03>Thẻ Từ Vàng<c 00>!
 <*********************>
 
 
-You got a <c 03>Green Card Key<c 00>!
+Đã nhận <c 03>Thẻ Từ Lục<c 00>!
 <*********************>
 
 
-You got a <c 03>Red Card Key<c 00>!
+Đã nhận <c 03>Thẻ Từ Đỏ<c 00>!
 <*********************>
 
 
-You got a <c 03>Blue Card Key<c 00>!
+Đã nhận <c 03>Thẻ Từ Lam<c 00>!
 <*********************>
 
 
-You got a <c 03>White Card Key<c 00>!
+Đã nhận <c 03>Thẻ Từ Trắng<c 00>!
 <*********************>
 
 
-Disposed of the <c 03>Mushroom
+Đã vứt <c 03>Nấm
 <*********************>
 
 
-You can use Model OX!
+Có thể dùng Model OX!
 <*********************>
 
 
-The 8th floor door is open!
+Cửa tầng 8 đã mở!
 <*********************>
 
 
-Handed over <c 03>Miracle Flower
+Đã đưa <c 03>Hoa Kỳ Diệu
 <*********************>
 
 
-Handed over <c 03>Pink Crystal
+Đã đưa <c 03>Tinh Thể Hồng
 <*********************>
 
 
-Handed over <c 03>Green Bird
+Đã đưa <c 03>Chim Lục
 <*********************>
 
 
-Handed over <c 03>Mushroom
+Đã đưa <c 03>Nấm
 <*********************>
 
 
-Handed over <c 03>Letter
+Đã đưa <c 03>Lá thư
 <*********************>
 
 
-Handed over <c 03>Pochette
+Đã đưa <c 03>Túi Xách
 <*********************>
 
 
-Handed over <c 03>Cold Pearl
+Đã đưa <c 03>Ngọc Trai Lạnh
 <*********************>
 
 
-Handed over <c 03>Special<c 00> <c 03>Rock
+Đã đưa <c 03>Đá<c 00> <c 03>Đặc Biệt
 <*********************>
 
 
-Handed over <c 03>Ceratanium
+Đã đưa <c 03>Ceratanium
 <*********************>
 
 
-Handed over <c 03>Screws
+Đã đưa <c 03>Vít
 <*********************>
 
 
-Handed over <c 03>Aid Kit
+Đã đưa <c 03>Túi Cứu Thương
 <*********************>
 
 
-Handed over <c 03>Energy Pack
+Đã đưa <c 03>Gói Năng Lượng
 <*********************>
 
 
-Handed over <c 03>Mysterious Rock
+Đã đưa <c 03>Hòn Đá Bí Ẩn
 <*********************>
 
 
-Handed over <c 03>Computer Chip
+Đã đưa <c 03>Chip Máy Tính
 <*********************>
 
 
-Turned in <c 03>Data Disk
+Turned in <c 03>Đĩa Dữ Liệu
 <*********************>
 
 
-<c 03>Mushroom<c 00> was handed back
+<c 03>Nấm<c 00> đã được trả lại
 <*********************>
 
 <FIM>
