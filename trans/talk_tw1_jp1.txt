@@ -2,832 +2,839 @@
 <#####################>
 
 <p 02><a 37><n 32>
-Thanks mister!
+Cảm ơn anh!
 <--------------------->
 
 <p 02><a 37><n 32>
-I got a little too
-close to the fire,
-but I'll be okay.
+Dù em ở quá gần đám
+cháy, nhưng em sẽ
+ổn thôi.
 <--------------------->
 
 <p 02><a 37><n 32>
-You rescued me just in
-the nick of time!
+Cảm ơn anh đã cứu em
+kịp thời!
 <*********************>
 
 <p 02><a 37><n 32>
-I'm scared to go
-outside, so I'm staying
-here.
+Em sợ đi ra ngoài lắm,
+nên em sẽ ở trong này
+thôi.
 <*********************>
 
 <p 02><a 37><n 32>
-Why didn't Serpent Co.
-come and save us?
+Tại sao Tập Đoàn
+Serpent không đến cứu
+bọn em chứ?
 <--------------------->
 
 <p 02><a 37><n 32>
-That building is
-theirs, isn't it?
+Tòa nhà đó là của họ
+mà, đúng không?
 <*********************>
 
 <p 02><a 37><n 32>
-Their own employees
-were trapped inside
-with me.
+Nhân viên của họ cũng
+bị mắc kẹt trong đó
+giống em mà.
 <--------------------->
 
 <p 02><a 37><n 32>
-Mommy used to say
-that Serpent Co. saved
-this country...
+Mẹ em thường hay nói
+Tập Đoàn Serpent đã
+cứu thế giới này...
 <--------------------->
 
 <p 02><a 37><n 32>
-But I don't believe
-that anymore.
+Nhưng em không tin
+một ai cả.
 <*********************>
 
 <p 02><a 37><n 32>
-I went outside for the
-first time yesterday!
+Hôm qua là lần đầu
+em ra ngoài!
 <--------------------->
 
 <p 02><a 37><n 32>
-But when I reached the
-highway, I got really
-scared.
+Nhưng khi em tới
+đường cao tốc, em đã
+rất sợ.
 <*********************>
 
 <p 02><a 37><n 32>
-I can't just hide
-inside forever.
+Em không thể lẩn trốn
+mãi mãi.
 <--------------------->
 
 <p 02><a 37><n 32>
-When I see people like
-you staring danger
-straight in the face...
+Khi em thấy những người
+như anh, thẳng thắn đối
+mặt với hiểm nguy...
 <--------------------->
 
 <p 02><a 37><n 32>
-I want to be strong
-too!
+Em cũng muốn trở nên
+mạnh mẽ!
 <*********************>
 
 <p 02><a 37><n 32>
-Is that getup popular
-nowadays?
+Bộ đồ đó đang
+thịnh hành sao?
 <--------------------->
 
 <p 02><a 37><n 32>
-You look scary just
-like a Serpent Co.
-guard.
+Trông anh đáng sợ như
+lực lượng an ninh của
+Tập Đoàn Serpent.
 <*********************>
 
 <p 02><a 4D><n 48>
-Are you the young lad
-that saved me from the
-fire?
+Cháu là cậu bé đã cứu
+ta khỏi đám cháy đó
+ư?
 <--------------------->
 
 <p 02><a 4D><n 48>
-I thought so...
+Đúng là vậy rồi...
 <--------------------->
 
 <p 02><a 4D><n 48>
-These old bones are
-still around thanks to
-your help.
+Già đây vẫn còn đứng
+đây được cũng là nhớ
+cháu đã cứu.
 <--------------------->
 
 <p 02><a 4D><n 48>
-Thank you.
+Cảm ơn cháu.
 <*********************>
 
 <p 02><a 4D><n 48>
-Did you manage to save
-the others?
+Cháu có cứu được cả
+những người khác
+không?
 <--------------------->
 
 <p 02><a 4D><n 48>
-It'd be such a waste if
-only this old codger
-made it out...
+Thật đáng tiếc nếu chỉ
+có già đây còn sống...
 <*********************>
 
 <p 02><a 4D><n 48>
-I used to go out to the
-hot springs in Area K
-with my family...
+Ngày xưa, ta hay cùng
+gia đình đi tắm suối
+nước nóng ở Khu K...
 <--------------------->
 
 <p 02><a 4D><n 48>
-Now it's too hot to go
-in without burning
-myself.
+Bây giờ thì nó đã
+trở nên quá nóng
+có thể khiến ta bỏng.
 <*********************>
 
 <p 02><a 4D><n 48>
-I wonder what kind of
-treasure might be
+Liệu có thứ gì đó
+quý giá đang ẩn giấu
 <--------------------->
 
-hidden in the lava
-fields?
+bên dưới hồ dung nham
+kia?
 <--------------------->
 
 <p 02><a 4D><n 48>
-Those Serpent Co. folk
-seem to be awfully
-interested in the area.
+Tập Đoàn Serpent có vẻ
+như rất quan tâm tới
+khu vực này.
 <*********************>
 
 <p 02><a 4D><n 48>
-You know, I got to
-thinking...
+Đột nhiên, ta nghĩ
+tới một chuyện...
 <--------------------->
 
 <p 02><a 4D><n 48>
-Even though the fire
-took place in a Serpent
-Co. building,
+Dù tòa nhà của Tập Đoàn
+Serpent đang bị chìm
+trong đống lửa.
 <--------------------->
 
 <p 02><a 4D><n 48>
-there's not one peep,
-let alone an apology
-coming out of them.
+Nhưng họ vẫn im hơi
+lặng tiếng, không hề
+có động thái nào.
 <--------------------->
 
 <p 02><a 4D><n 48>
-I hate to talk bad
-about them,
+Ta không muốn nói xấu
+họ cho lắm,
 <--------------------->
 
-but they've
-got my knickers in a
-bunch!
+nhưng họ thực sự đã
+khiến ta rất bực mình!
 <*********************>
 
 <p 02><a 4D><n 48>
-Fiddlesticks,
-I shouldn't have said
-anything bad
-<--------------------->
-
-about Serpent Co.
+Thôi, ta không muốn nói
+mấy lời không hay về
+Tập Đoàn Serpent nữa.
 <--------------------->
 
 <p 02><a 4D><n 48>
-Forget I said it...
-I know I will.
+Tốt nhất là hãy quên
+những gì ta vừa nói...
 <*********************>
 
 <p 02><a 4D><n 48>
-Jumping jehosaphat!
-What are you?
+Trời đất thánh thần ơi!
+Cái thứ gì vậy?
 <--------------------->
 
 <p 02><a 4D><n 48>
-Get outta here! Go on
-skedaddle!
+Cút khỏi đây nhanh!
 <*********************>
 
 <p 02><a 3B><n 36>
-I know you. You're the
-hide and seek guy!
+Là anh, người đã chơi
+trốn tìm cùng em!
 <--------------------->
 
 <p 02><a 3B><n 36>
-When are ya gonna come
-back and play with us?!
+Khi nào anh sẽ lại
+chơi cùng với tụi em
+nữa vậy?!
 <*********************>
 
 <p 02><a 3B><n 36>
-I wonder if there's
-some trick to hide and
-seek...
+Không biết là có mẹo
+gì để chơi trốn tìm
+giỏi hơn không nhỉ...
 <--------------------->
 
 <p 02><a 3B><n 36>
-I guess if I was too
-good,
+Mình đoán là, nếu
+trốn quá giỏi, mấy bạn
 <--------------------->
 
-people would stop
-looking for me and
-that'd be no fun.
+sẽ không thèm tìm nữa.
+Vậy thì chẳng vui
+tý nào.
 <*********************>
 
 <p 02><a 3B><n 36>
-I wonder what I should
-play today...
+Không biết hôm nay nên
+chơi gì đây nhỉ...
 <--------------------->
 
 <p 02><a 3B><n 36>
-I can't play hide and
-seek without any
-seekers.
+Mình không thể chơi
+trốn tìm nếu không có
+ai đi tìm.
 <*********************>
 
 <p 02><a 3B><n 36>
-I'll just have to go to
-Morgan's shop in Area
-C-2 and play there.
+Chắc mình sẽ ghé tới
+chỗ chú Morgan ở Khu
+C-2 và chơi ở đó.
 <--------------------->
 
 <p 02><a 3B><n 36>
-Hmm, I only have enough
-money for one game...
+Hừm, mình chỉ đủ tiền
+chơi một trò thôi...
 <*********************>
 
 <p 02><a 3B><n 36>
-Mom always said I
-should play outside
-near mountains and
+Mẹ luôn bảo em nên
+ra ngoài chơi gần núi
+rừng vào những ngày
 <--------------------->
 
-forests on nice days.
-"Experience nature,"
-she says.
-<--------------------->
-
-<p 02><a 3B><n 36>
-But there are no safe
-places to play anymore.
+đẹp trời để "hòa mình
+vào thiên nhiên."
 <--------------------->
 
 <p 02><a 3B><n 36>
-That's why I just hang
-around town all the
-time now.
-<*********************>
-
-<p 02><a 3B><n 36>
-When it's safe again, I
-wanna explore a cave or
-climb a mountain.
+Nhưng chỗ đó không còn
+an toàn để vui chơi
+nữa.
 <--------------------->
 
 <p 02><a 3B><n 36>
-For now, I have to wait
-until the Irregulars
-are gone.
+Đó là lý do tại sao
+em chỉ loanh quanh
+trong thành phố.
 <*********************>
 
 <p 02><a 3B><n 36>
-Hm?
+Khi mọi thứ an toàn
+trở lại, em sẽ khám phá
+hang động hoặc leo núi.
 <--------------------->
 
 <p 02><a 3B><n 36>
-Haven't I seen you
-before? Maybe it's just
-my imagination.
+Hiện tại thì em phải
+chờ tới khi lũ Maverick
+kia biến mất.
+<*********************>
+
+<p 02><a 3B><n 36>
+Hử?
+<--------------------->
+
+<p 02><a 3B><n 36>
+Ta từng gặp cháu chưa
+nhỉ? Chắc là ta đã
+nhầm.
 <*********************>
 
 <p 02><a 55><n 51>
-You're the young boy
-that saved me, aren't
-you?
+Cháu là cậu bé đã
+cứu ta đúng không?
 <--------------------->
 
 <p 02><a 55><n 51>
-I'm sorry for the harsh
-words earlier.
+Ta xin lỗi vì những
+lời lẽ khiếm nhã
+trước đó.
 <*********************>
 
 <p 02><a 55><n 51>
-Four out of five
-buildings in the area
-belong to my company.
+Có 4 trong 5 tòa nhà
+trong khu vực này
+thuộc về công ty ta.
 <--------------------->
 
 <p 02><a 55><n 51>
-All of the maintenance
-is left to computers,
+Việc bảo dưỡng hầu hết
+được tự động hóa bởi
 <--------------------->
 
-so there aren't many
-people around.
-<--------------------->
-
-<p 02><a 55><n 51>
-Most of the employees
-are Repliroids.
+máy tính, nên nhân sự
+tại đây không nhiều.
 <--------------------->
 
 <p 02><a 55><n 51>
-Humans are too easily
-distracted by their
-emotions.
+Hầu hết nhân viên là
+Repliroids.
 <--------------------->
 
 <p 02><a 55><n 51>
-I can understand why
-the president doesn't
-want to hire them.
+Con người quá dễ bị
+phân tâm bởi cảm xúc
+của mình.
+<--------------------->
+
+<p 02><a 55><n 51>
+Ta có thể hiểu tại sao
+vị tổng thống không
+muốn thuê họ.
 <*********************>
 
 <p 02><a 55><n 51>
-This country wouldn't
-be the great place it
+Nếu không có sự đóng
+góp của Tập Đoàn
+Serpent. Đất nước này
 <--------------------->
 
-is today without
-Serpent Co.
+đã không phát triển
+như hôm nay.
 <--------------------->
 
 <p 02><a 55><n 51>
-I'm proud to be an
-employee of the best
-company on the planet!
+Ta rất tự hào khi là
+nhân viên của công ty
+tuyệt nhất hành tinh!
 <*********************>
 
 <p 02><a 55><n 51>
-We could use someone
-like you. You should
-join us!
+Bọn ta cần những người
+như cháu. Cháu cũng nên
+tham gia!
 <--------------------->
 
 <p 02><a 55><n 51>
-The competition to get
-in is fierce though.
+Tuy nhiên, để vào đó
+thì phải cạnh tranh
+khốc liệt.
 <--------------------->
 
 <p 02><a 55><n 51>
-Maybe it's better to
-give up any dreams of
-being elite like me.
+Có lẽ nên dẹp giấc mơ
+trở nên xuất chúng như
+ta, nó rất gian khổ.
 <*********************>
 
 <p 02><a 55><n 51>
-Something seems to be
-on the president's mind
-lately.
+Dạo này, có vẻ như
+Tổng thống đang trăn
+trở điều gì đó.
 <--------------------->
 
 <p 02><a 55><n 51>
-He keeps digging around
-in the Outlands like a
-man possessed.
+Ngài ấy cứ đào bới
+Vùng Hẻo Lánh như
+người mất hồn.
 <*********************>
 
 <p 02><a 55><n 51>
-I wonder when it all
-started.
+Ta không biết họ đã
+bắt đầu từ khi nào.
 <--------------------->
 
 <p 02><a 55><n 51>
-Seems to be around the
-time those two showed
-up...
+Hình như vào khoảng
+thời gian mà hai người
+kia xuất hiện...
 <--------------------->
 
 <p 02><a 55><n 51>
-I'm sure the president
-has just got a lot on
-his mind.
+Ta chắc tổng thống
+đang có rất nhiều thứ
+phải suy nghĩ.
 <--------------------->
 
 <p 02><a 55><n 51>
-I know he has our best
-interests at heart!
+Ta biết ngài ấy luôn
+đặt lợi ích của
+chúng ta lên hàng đầu!
 <*********************>
 
 <p 02><a 55><n 51>
-What's with that
-outfit?!
+Trang phục đó là sao
+vậy?!
 <--------------------->
 
 <p 02><a 55><n 51>
-If you look like that,
-the security guards are
-going to go after you.
+Nếu cháu cứ như thế
+thì sẽ thu hút
+lực lượng an ninh đó.
 <--------------------->
 
 <p 02><a 55><n 51>
-You better change
-clothes if you don't
-want trouble.
+Cháu nên thay bộ khác
+nếu không cháu sẽ
+gặp rắc rối.
 <*********************>
 
 <p 02><a 3A><n 35>
-Hey mister! Good to see
-you again!
+A! Rất vui khi gặp lại
+anh!
 <--------------------->
 
 <p 02><a 3A><n 35>
-What do you like to do
-besides play hide and
-seek?
+Ngoài trò trốn tìm ra
+thì anh còn thích trò
+gì không?
 <--------------------->
 
 <p 02><a 3A><n 35>
-Me? Hmm...
+Em á? Hừm...
 <--------------------->
 
 <p 02><a 3A><n 35>
-Soccer... Go carts...
+Bóng đá... Go carts...
 Board games...
 <--------------------->
 
 <p 02><a 3A><n 35>
-Oh! Kick the can,
-definitely kick the
-can.
+Thôi, cứ để sang một
+bên đi. Em thích
 <--------------------->
 
-I like treasure
-hunting too.
+cảm giác tìm kiếm
+kho báu hơn cơ.
 <*********************>
 
 <p 02><a 3A><n 35>
-Nothing beats the
-thrill of hearing the
-seeker's footsteps
+Không gì bằng cảm giác
+hồi hộp khi nghe thấy
+tiếng bước chân của
 <--------------------->
 
-closing in on you when
-you're hiding.
-<--------------------->
-
-<p 02><a 3A><n 35>
-The cave in Area A-4
-is the best!
+người đi tìm đang tiến
+gần đến em lúc em
+đang trốn.
 <--------------------->
 
 <p 02><a 3A><n 35>
-It feels just like I'm
-in an action adventure
-movie!
-<*********************>
-
-<p 02><a 3A><n 35>
-Have you ever been to
-the other side of the
-cave in Area A-4?
+Hang động ở Khu A-4
+là ấn tượng nhất!
 <--------------------->
 
 <p 02><a 3A><n 35>
-I heard there's an
-entrance from the sea
-in Area J.
-<--------------------->
-
-<p 02><a 3A><n 35>
-but I was too scared by
-the dark to go there.
+Cảm giác như em đang ở
+trong bộ phim hành động
+phiêu lưu vậy!
 <*********************>
 
 <p 02><a 3A><n 35>
-Mom and dad don't want
-me going to places like
-the forest or caves.
+Anh đã từng đến phía
+bên kia hang động
+trong Khu A-4 chưa?
 <--------------------->
 
 <p 02><a 3A><n 35>
-They think it's
-dangerous, but I crave
-danger.
-<--------------------->
-
-Danger is my best
-friend. Danger is...
-<*********************>
-
-<p 02><a 3A><n 35>
-Another busy day for
-you?
-<--------------------->
-
-I'm watching the place
-while everyone's out.
+Em nghe nói có một
+lối vào từ biển ở
+Khu J.
 <--------------------->
 
 <p 02><a 3A><n 35>
-It's so boring here
-with mom and dad gone
-all the time.
+Nhưng vì quá sợ bóng
+tối nên em không dám
+đến đó.
 <*********************>
 
 <p 02><a 3A><n 35>
-I'm tired of just
-playing by myself all
-the time.
+Ba mẹ không cũng không
+cho em đi những nơi
+như rừng hay hang động.
 <--------------------->
 
 <p 02><a 3A><n 35>
-It's always funner with
-friends.
+Họ nghĩ nó nguy hiểm,
+nhưng em lại khao khát
+sự nguy hiểm.
+<--------------------->
+
+Nguy hiểm là người bạn
+thân nhất của em...
 <*********************>
 
 <p 02><a 3A><n 35>
-Cool armor! Where can I
-buy a suit like that?
-<*********************>
+Lại là một ngày bận rộn
+ạ?
+<--------------------->
 
-<p 02><a 3A><n 35>
-Oh, hey!
+Em phải trông nơi này
+khi mọi người ra ngoài.
 <--------------------->
 
 <p 02><a 3A><n 35>
-I have a chip that
-would be just perfect
-for your armor!
+Vận nên, những lúc
+ba mẹ đi vắng thì
+ở đây khá chán.
+<*********************>
+
+<p 02><a 3A><n 35>
+Em cảm thấy mệt mỏi
+khi cứ phải chơi
+một mình.
 <--------------------->
 
 <p 02><a 3A><n 35>
-It's called a Frog
-Chip. Here, check it
-out!
+Khi có bạn bè, mọi thứ
+đều trở nên thú vị hơn.
+<*********************>
+
+<p 02><a 3A><n 35>
+Bộ giáp ngầu quá! Anh
+mua nó ở đâu thế?
+<*********************>
+
+<p 02><a 3A><n 35>
+A!
 <--------------------->
 
 <p 02><a 3A><n 35>
-It'll give you grip
-when sliding down
-walls.
+Em có con chip rất
+thích hợp với bộ giáp
+của anh!
 <--------------------->
 
 <p 02><a 3A><n 35>
-No one here uses it, so
-you can have it.
+Nó gọi là Chip Cóc.
+Đây, anh cầm lấy đi!
+<--------------------->
+
+<p 02><a 3A><n 35>
+Nó sẽ giúp anh bám
+chắc vào những
+bức tường hơn.
+<--------------------->
+
+<p 02><a 3A><n 35>
+Không ai ở đây có thể
+dùng nó, nên anh cứ
+nhận đi.
 <*********************>
 
 <p 02><a 4E><n 49>
-Aren't you the boy that
-saved us earlier?
+Cháu là cậu bé đã
+cứu bọn ta lần trước
+đó sao?
 <--------------------->
 
 <p 02><a 4E><n 49>
-I thought bravery was
-dead, but you've
-restored my faith.
+Ta cứ nghĩ rằng sự
+dũng cảm đã chết
+cho tới khi gặp cháu.
 <*********************>
 
 <p 02><a 4E><n 49>
-Thanks to you, I'm
-alive and my life's
-back to normal.
+Nhờ có cháu mà ta vẫn
+sống và cuộc sống mới
+trở lại bình thường.
 <--------------------->
 
 <p 02><a 4E><n 49>
-I'm taking strolls in
-the forest, fishing at
-the lake...
+Ta sẽ lang thang
+trong rừng sâu, thả
+câu bên hồ...
 <--------------------->
 
-Ah, it's bliss.
-<--------------------->
-
-<p 02><a 4E><n 49>
-I want to see so much
-of the world.
+Thật là hạnh phúc.
 <--------------------->
 
 <p 02><a 4E><n 49>
-If only the snowy
-mountains weren't in
-the Outlands,
+Ta muốn khám phá rất
+nhiều nơi trên
+thế giới.
 <--------------------->
 
-I'd whip out the old
-ice boots and go
-climbing.
+<p 02><a 4E><n 49>
+Ước gì những ngọn núi
+tuyết không nằm ở
+Vùng Hoang Vu,
+<--------------------->
+
+ta sẽ lôi đôi giày
+băng cũ ra và đi
+leo núi.
 <*********************>
 
 <p 02><a 4E><n 49>
-Why were you wearing
-those snazzy duds when
-you saved us?
+Tại sao cháu lại mặc
+bộ đồ đó khi tới
+cứu bọn ta?
 <--------------------->
 
 <p 02><a 4E><n 49>
-Ah... I get it!
+A... Ta biết rồi!
 <--------------------->
 
 <p 02><a 4E><n 49>
-You're part of the
-rescue squad from
-Serpent Co.!
+Cháu là thành viên 
+của đội cứu hộ từ
+Tập Đoàn Serpent!
 <--------------------->
 
 <p 02><a 4E><n 49>
-It must be some fancy
-new suit they developed
+Chắc hẳn đó là một bộ
+đồ mới rất đặc biệt mà
 <--------------------->
 
-and you were testing it
-out.
+họ đã phát triển và
+cháu đang thử nghiệm nó.
 <*********************>
 
 <p 02><a 4E><n 49>
-Where can I buy a
-costume like the one
-you were wearing?
+Ta có thể mua bộ đồ
+giống cháu ở đâu vậy?
 <--------------------->
 
 <p 02><a 4E><n 49>
-With that, I could
-climb the tallest
+Với nó, ta có thể leo
+lên đỉnh núi cao nhất
 <--------------------->
 
-mountain and swim in
-the deepest sea!
+và lặn xuống đáy biển
+sâu nhất!
 <*********************>
 
 <p 02><a 4E><n 49>
-I think there's a lot
-of undiscovered country
-waiting for me.
+Ta tin rằng còn rất
+nhiều điều mới mẻ đang
+chờ đợi ta khám phá.
 <--------------------->
 
 <p 02><a 4E><n 49>
-I want to explore as
-many ruins and distant
-lands as possible while
+Ta muốn khám phá hết
+những tàn tích và
+vùng đất xa xôi
 <--------------------->
 
-these legs can still
-walk.
+trước khi đôi chân này
+không còn đủ sức nữa.
 <*********************>
 
 <p 02><a 4E><n 49>
-Adventure is the heart
-and soul of a man.
+Phiêu lưu là trái tim
+và linh hồn của một
+người đàn ông.
 <--------------------->
 
 <p 02><a 4E><n 49>
-That's something that
-never changes no matter
-how old a man gets.
+Đó là điều không
+bao giờ thay đổi, dù
+có già đi đến đâu.
 <--------------------->
 
 <p 02><a 4E><n 49>
-I used to have nerves
-of steel when it came
-to facing danger.
+Ta từng có trái tim
+dũng cảm, không hề nao
+núng trước hiểm nguy.
 <--------------------->
 
 <p 02><a 4E><n 49>
-No matter how old I
-am, I always want to
-laugh in its face!
+Tuổi tác có thể cao,
+nhưng sẽ không mất đi
+ý chí đối đầu với nó!
 <*********************>
 
 <p 02><a 4E><n 49>
-Hey you! Can I have a
-moment?
+Này! Ta có thể phiền
+cháu một chút không?
 <--------------------->
 
 <p 02><a 4E><n 49>
-That sparkly doo-dad of
-yours...
+Cái món đồ lấp lánh kia
+của cháu...
 <--------------------->
 
 <p 02><a 4E><n 49>
-Is it a Pink Crystal?
+Là Tinh Thể Hồng sao?
 <--------------------->
 
 <p 02><a 4E><n 49>
-How did you get that?!
+Làm sao cháu có được
+nó thế?!
 <--------------------->
 
 <p 02><a 4E><n 49>
-I'll trade you this
-Ice Boots Chip for it!
+Ta sẽ đổi con Chip
+Giày Băng này cho
+cái đó!
 <--------------------->
 
 <p 02><a 4E><n 49>
-I won't take no for an
-answer!
+Ta không muốn câu
+trả lời là không đâu!
 <*********************>
 
 <p 02><a 4E><n 49>
-Woah! You scared me!
+A! Cháu làm ta
+giật mình!
 <--------------------->
 
 <p 02><a 4E><n 49>
-Incredible! I wish I
-had a great costume
-like that!
+Tuyệt vời! Giá như ta
+cũng có bộ đồ y vậy!
 <*********************>
 
 <p 02><a 38><n 33>
-Hey mister, you want
-something with me?
+Này, anh muốn gì ở em
+hả?
 <--------------------->
 
 <p 02><a 38><n 33>
-I was captured by some
-bad guys and was being
-held in a dark room.
+Em đã bị bọn xấu bắt
+cóc và bị giam giữ
+trong căn phòng tối.
 <--------------------->
 
 <p 02><a 38><n 33>
-But then someone came
-along and saved me.
+Nhưng rồi có ai đó đến
+và cứu em.
 <--------------------->
 
 <p 02><a 38><n 33>
-I couldn't see who it
-was though because the
-room was so dark.
+Tuy nhiên, em không thể
+nhìn thấy ai vì phòng
+quá tối.
 <*********************>
 
 <p 02><a 38><n 33>
-No one ever cleans the
-rooftop on this
-building.
+Không có ai chịu dọn
+dẹp mái nhà của tòa
+nhà này cả.
 <--------------------->
 
 <p 02><a 38><n 33>
-Weeds keep popping up
-there all the time.
+Cỏ dại cứ mọc lên
+um tùm trên đó.
 <*********************>
 
 <p 02><a 38><n 33>
-Are you the one that
-saved me from the dark
-room before?
+Có phải anh là người
+đã cứu em khỏi phòng
+tối lúc đó?
 <--------------------->
 
 <p 02><a 38><n 33>
-Nah... It can't be you.
+Không... không thể là
+anh đâu.
 <--------------------->
 
 <p 02><a 38><n 33>
-Ah, it doesn't matter
-anyway.
+A, dù sao thì nó cũng
+không quan trọng nữa.
 <*********************>
 
 <p 02><a 38><n 33>
-It was scary being
-trapped in such a small
-place for so long.
+Bị giam cầm trong một
+không gian nhỏ bé
+thật đáng sợ.
 <--------------------->
 
 <p 02><a 38><n 33>
-But I'm a boy, so of
-course I never cried.
+Nhưng em là con trai,
+nên đương nhiên em
+không bao giờ khóc.
 <--------------------->
 
 <p 02><a 38><n 33>
-The girl that was with
-me never stopped crying
-though...
+Dù vậy, cô bạn đi cùng
+em lại khóc không
+ngừng...
 <*********************>
 
 <p 02><a 38><n 33>
-My grandpa keeps saying
-the same things over
-and over again.
+Ông của em cứ mãi
+nhắc đi nhắc lại
+một câu.
 <--------------------->
 
 <p 02><a 38><n 33>
-He keeps telling me how
-"this country was
-without power and in
+Ông ấy thường kể cho
+em nghe về "quá khứ
+xa xưa, khi đất nước
 <--------------------->
 
-terrible shape a long
-time ago."
-<--------------------->
-
-<p 02><a 38><n 33>
-"Compared to that,
-this country is a
-paradise now."
+này còn nghèo khó,
+lạc hậu."
 <--------------------->
 
 <p 02><a 38><n 33>
-He loves to
-exaggerate...
+"So với thời đó, đất
+nước hiện tại giống
+như một thiên đường."
+<--------------------->
+
+<p 02><a 38><n 33>
+Ông ấy cứ thích thổi
+phồng mọi chuyện...
 <*********************>
 
 <p 02><a 38><n 33>
-"With our cushy
-lifestyles, we take
+"Với lối sống an nhàn
+hiện nay, chúng ta
 <--------------------->
 
-everything for granted
-nowadays..."
+có xu hướng xem nhẹ
+mọi thứ..."
 <--------------------->
 
 <p 02><a 38><n 33>
-That's what grandpa
-says anyway.
+Ông của em cũng hay
+nói thế.
 <*********************>
 
 <p 02><a 38><n 33>
-Hm? Who are you?
+Hả? Anh là ai?
 <--------------------->
 
 <p 02><a 38><n 33>
-Are you an...
-Irregular?
+Anh là...
+Maverick?
 <*********************>
 
 <p 02><a 45><n 40>
@@ -835,366 +842,374 @@ Irregular?
 <--------------------->
 
 <p 02><a 45><n 40>
-The name's Halison. You
-saved me from the
-burning building.
+Chào, anh là Halison.
+Em là người đã cứu anh
+khỏi tòa nhà bị cháy.
 <--------------------->
 
 <p 02><a 45><n 40>
-I may not look it, but
-I'm a cameraman.
+Trông vậy thôi chứ,
+Anh là thợ săn ảnh.
 <--------------------->
 
 <p 02><a 45><n 40>
-Innerpeace is too...
+Yên bình thế nhỉ...
 <--------------------->
 
-Well, peaceful. I
-thought it was my
-chance for a big break.
+Thôi thì yên bình vậy.
+Biết đâu đây lại là
+cơ hội khác đang đến.
 <*********************>
 
 <p 02><a 45><n 40>
-My plan was to take a
-few days off, but no
-rest for the wicked.
+Dù lòng muốn nghỉ nhưng
+cái ác cứ không muốn
+nghỉ.
 <--------------------->
 
 <p 02><a 45><n 40>
-Rain or shine, I have
-to go and earn a
-living.
+Dù trời mưa hay nắng,
+anh vẫn phải đi làm
+để mưu sinh.
 <--------------------->
 
 <p 02><a 45><n 40>
-I'm going to keep
-scanning the city for
-any hot scoops.
+Anh sẽ tiếp tục lùng
+sục khắp thành phố để
+tìm tin tức nóng hổi.
 <*********************>
 
 <p 02><a 45><n 40>
-I snapped a photo of
-the Irregular who saved
-us, but the subject was
+Anh đã chụp bức ảnh
+của Maverick đã cứu
+bọn anh, nhưng
 <--------------------->
 
 <p 02><a 45><n 40>
-too fast and all I 
-ended up with was a
-blur.
+đối tượng quá nhanh
+và chỉ chụp được
+vệt mờ.
 <--------------------->
 
 <p 02><a 45><n 40>
-Oh well, it's not like
-I could have gone
-public with it...
+Thôi vậy, xem như anh
+không thể cho mọi người
+biết rồi...
 <--------------------->
 
 <p 02><a 45><n 40>
-If I even hinted at
-Serpent Co.'s
-negligence,
+Chỉ cần anh bóng gió
+về sự tắc trách của
+Tập Đoàn Serpent,
 <--------------------->
 
-I'd be snaked off
-somewhere and
-disappear.
+anh sẽ bị 'xử lý'
+và biến mất không
+dấu vết.
 <*********************>
 
 <p 02><a 45><n 40>
-Nothing ever happens in
-this town...
+Chẳng có gì xảy ra
+trong thành phố cả...
 <--------------------->
 
 <p 02><a 45><n 40>
-I would love to bite
-into a juicy story and
+Anh rất muốn bám vào
+một câu chuyện hấp dẫn
 <--------------------->
 
-become famous like that
-one cameraman...
-<--------------------->
-
-<p 02><a 45><n 40>
-Old what's his name...
+và trở nên nổi tiếng
+như tay săn ảnh kia...
 <--------------------->
 
 <p 02><a 45><n 40>
-I don't remember
-exactly,
+Tên cũ của ông ấy là...
 <--------------------->
 
-but he was a famous
-wartime
-photojournalist!
+<p 02><a 45><n 40>
+Anh không nhớ rõ lắm,
+nhưng ông ấy là
+<--------------------->
+
+một phóng viên ảnh
+chiến tranh rất
+nổi tiếng!
 <*********************>
 
 <p 02><a 45><n 40>
-Hey <nome>!
+Này, <nome>!
 <--------------------->
 
 <p 02><a 45><n 40>
-Another day, and no
-scoops...
+Một ngày nữa trôi qua,
+và vẫn không có tin
+gì mới...
 <--------------------->
 
 <p 02><a 45><n 40>
-Guess I better expect
-the usual 20% pay cut
-this month.
+Chắc là tháng này lại
+bị trừ đi 20% lương
+rồi.
 <--------------------->
 
 <p 02><a 45><n 40>
-I need to find a
-company that doesn't
+Anh muốn tìm công ty
+không quan tâm đến
 <--------------------->
 
-care about making money
-and work there.
+việc kiếm tiền và
+làm việc ở đó.
 <*********************>
 
 <p 02><a 45><n 40>
-I've been working the
-beat and gathering the
-facts.
+Anh đã điểu tra quanh
+khu vực và thu thập
+các thông tin.
 <--------------------->
 
 <p 02><a 45><n 40>
-I think that Serpent
-Co...
+Anh nghĩ cái Tập Đoàn
+Serpent đó...
 <--------------------->
 
 <p 02><a 45><n 40>
-May not be as good a
-company as people give
-them credit for.
+Có thể tập đoàn này
+không tốt như mọi người
+vẫn nghĩ..
 <*********************>
 
 <p 02><a 45><n 40>
-O-oh! An Irregular in
-Innerpeace?!
+A! Một tên Maverick
+trong khu dân cư?!
 <--------------------->
 
 <p 02><a 45><n 40>
-Now this is a scoop!
-Camera, camera, where's
-my camera?!
+Đúng là tin sốt dẻo!
+Máy ảnh, máy ảnh của
+mình đâu mất rồi?!
 <*********************>
 
 <p 02><a 3C><n 37>
-Hey guy! How ya doin?
+Này! Dạo này anh
+thế nào?
 <--------------------->
 
 <p 02><a 3C><n 37>
-Me? Not so well, my
-dad's mad at me.
+Em á? Không ổn cho lắm,
+ba em đang giận em.
 <--------------------->
 
 <p 02><a 3C><n 37>
-He found out I was
-hanging out in the
+Ông ấy đã biết chuyện
+em lang thang tới
 <--------------------->
 
-Outlands and playing
-around.
-<--------------------->
-
-<p 02><a 3C><n 37>
-I'll bet Jeff's mom
-squealed on me.
+Vùng Hoang Vu để chơi
+trốn tìm.
 <--------------------->
 
 <p 02><a 3C><n 37>
-I'm never playing with
-that guy again.
+Em đoán mẹ của Jeff
+đã mách lẻo.
+<--------------------->
+
+<p 02><a 3C><n 37>
+Em sẽ không chơi với
+cậu ta nữa.
 <*********************>
 
 <p 02><a 3C><n 37>
-Hide-and-seek is a
-blast. We're lovin' it.
+Trò trốn tìm thật
+tuyệt vời. Chúng em
+rất thích nó.
 <--------------------->
 
 <p 02><a 3C><n 37>
-Well, after eight days
-straight, it did get a
-little stale.
+Thực ra, sau 8 ngày
+chơi một trò thì em
+thấy chán rồi.
 <--------------------->
 
 <p 02><a 3C><n 37>
-Maybe the first three
-days were fun...
+Có lẽ 3 ngày đầu còn
+cảm thấy vui...
 <--------------------->
 
 <p 02><a 3C><n 37>
-All good things should
-be taken in moderation.
+Cái gì quá cũng không
+tốt.
 <*********************>
 
 <p 02><a 3C><n 37>
-I heard somethin'
-interestin' from my
-grandpa.
+Ông vừa kể cho em
+nghe một chuyện
+khá thú vị.
 <--------------------->
 
 <p 02><a 3C><n 37>
-This used to be just a
-giant mountain of
-rubble.
+Trước đây, chỗ này chỉ
+là một nơi hoang tàn
+đổ nát.
 <--------------------->
 
 <p 02><a 3C><n 37>
-With all the wars that
-went on, nothin' will
-grow here anymore.
+Sau bao cuộc chiến,
+nơi đây chẳng còn gì
+có thể đâm chồi nữa.
 <*********************>
 
 <p 02><a 3C><n 37>
-I heard somethin'
-interestin' from my
-dad.
+Ba vừa kể cho em
+nghe một chuyện
+khá thú vị.
 <--------------------->
 
 <p 02><a 3C><n 37>
-Serpent Co. saved this
-country from an energy
-crisis.
+Tập Đoàn Serpent đã
+cứu cả đất nước khỏi
+khủng hoảng năng lượng.
 <--------------------->
 
 <p 02><a 3C><n 37>
-They must be geniuses
-to find a way to create
-all that energy!
+Họ chắc hẳn là những
+thiên tài, khi đã tìm
+ra cách tạo năng lượng!
 <*********************>
 
 <p 02><a 3C><n 37>
-If I study hard enough,
-maybe I can be a big
-shot like the president
+Nếu em nỗ lực học tập,
+có lẽ một ngày nào đó
+em cũng sẽ trở thành
 <--------------------->
 
-of Serpent Co.
-someday!
+người có tầm ảnh hưởng
+lớn như Chủ tịch
+Tập Đoàn Serpent!
 <--------------------->
 
 <p 02><a 3C><n 37>
-Huh? What's with the
-sad face?
+Hở? Sao mặt anh buồn
+thế?
 <*********************>
 
 <p 02><a 3C><n 37>
-Somethin' about the
-word "president" sounds
-cool.
+Nghe từ "chủ tịch" thôi
+là đã thấy oai phong
+rồi.
 <--------------------->
 
 <p 02><a 3C><n 37>
-"President Frank" has a
-nice ring to it, don't
-ya think?
+"Chủ tịch Frank"
+nghe rất hợp tai,
+phải không?
 <*********************>
 
 <p 02><a 3C><n 37>
-Wow! You're cool!
+A! Trông ngầu quá!!
 <--------------------->
 
 <p 02><a 3C><n 37>
-Oh... I'm sorry...
+Ơ... xin lỗi...
 <--------------------->
 
 <p 02><a 3C><n 37>
-My dad told me not to
-talk to strangers.
-<*********************>
-
-<p 02><a 3D><n 38>
-Oh! Hey, aren't you the
-seeker from our hide
-and seek game?
-<--------------------->
-
-<p 02><a 3D><n 38>
-You seeking again, or
-are you hiding this
-time?
+Ba em dặn là không
+được nói chuyện với
+người lạ.
 <*********************>
 
 <p 02><a 3D><n 38>
-Oh, you were just
-looking for us because
-of Jeff's mom, right?
+A! Anh là người đi tìm
+trong trò trốn tìm của
+bọn em đúng không?
 <--------------------->
 
 <p 02><a 3D><n 38>
-Man, she's such a worry
-wart.
-<--------------------->
-
-<p 02><a 3D><n 38>
-What kid would want to
-study inside when they
-<--------------------->
-
-could be outside
-playing?
+Lần này anh sẽ lại là
+người đi tìm hay là
+người đi trốn vậy?
 <*********************>
 
 <p 02><a 3D><n 38>
-This building looks
-weird doesn't it?
+A, hóa ra anh tìm em
+là vì mẹ của Jeff đã
+yêu cầu sao?
 <--------------------->
 
 <p 02><a 3D><n 38>
-You can't even get in
-without ducking down.
+Trời, dì ấy cứ thích
+lo chuyện vặt vãnh.
 <--------------------->
 
 <p 02><a 3D><n 38>
-It's like they messed
-up when building it.
+Trẻ con ai chẳng muốn
+tung tăng ngoài trời,
+khi mà trong lớp học,
+<--------------------->
+
+chỉ có bốn bức tường
+và những con chữ
+khô khan?
 <*********************>
 
 <p 02><a 3D><n 38>
-You're a Dịch Chuyểner,
-right? Are you good
-with directions?
+Tòa nhà này trông dị
+thật nhỉ?
 <--------------------->
 
 <p 02><a 3D><n 38>
-What?! You get lost
-easily?
+Muốn vào thì phải cúi
+người xuống.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Some Dịch Chuyểner...
+Có vẻ như họ đã mắc
+sai phạm trong khi
+thi công.
 <*********************>
 
 <p 02><a 3D><n 38>
-My mom told me not to
-go too far, so I'm
-stuck here.
+Anh là vận chuyển viên?
+Anh có rành về phương
+hướng không?
 <--------------------->
 
 <p 02><a 3D><n 38>
-Irregulars are even at
-the amusement park...
+Hả?! Anh cũng dễ bị
+lạc đường ư?
 <--------------------->
 
 <p 02><a 3D><n 38>
-All of the good play
-spots are getting taken
-away.
+Vận chuyển viên...
 <*********************>
 
 <p 02><a 3D><n 38>
-I remember having a ton
-of fun at the amusement
-park when I went there.
+Mẹ em dặn em không
+được đi quá xa, nên
+em phải ở đây.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Now even the
-attractions themselves
-have become Irregulars.
+Maverick còn có mặt ở
+công viên giải trí...
+<--------------------->
+
+<p 02><a 3D><n 38>
+Tất cả những địa điểm
+vui chơi tốt đều bị
+lấy đi.
+<*********************>
+
+<p 02><a 3D><n 38>
+Em nhớ mình đã vô cùng
+vui vẻ khi đến
+công viên giải trí.
+<--------------------->
+
+<p 02><a 3D><n 38>
+Giờ đây, ngay cả những
+điểm du lịch cũng bị
+lũ Maverick chiếm.
 <*********************>
 
 <p 02><a 3D><n 38>
@@ -1202,65 +1217,65 @@ have become Irregulars.
 <--------------------->
 
 <p 02><a 3D><n 38>
-*whisper* I'm not
-supposed to talk to
-weirdoes.
+*run rẩy* Em không
+được phép nhớ chuyện
+với người lạ.
 <*********************>
 
 <p 02><a 56><n 52>
-Woof!
+Gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Gấu gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof!
+Gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Rrr... Woof!
+Gừ... Gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Gấu gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Rrr... Woof!
+Gừ... Gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Gấu gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof woof!
-Woof woof woof woof!
+Gấu gấu gấu!
+Gấu gấu gấu gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Gấu gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof woof!
-Woof woof woof woof!
+Gấu gấu gấu!
+Gấu gấu gấu gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
+Gấu gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Woof woof!
-Woof woof woof!
-Woof woof woof woof!
+Gấu gấu!
+Gấu gấu gấu!
+Gấu gấu gấu gấu!
 <*********************>
 
 <p 02><a 56><n 52>
-Bark bark!
+Ẳng ẳng!
 <*********************>
 
 <p 02><a 55><n 50>
