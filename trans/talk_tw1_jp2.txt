@@ -1261,13 +1261,13 @@ Gấu gấu!
 <*********************>
 
 <p 02><a 55><n 50>
-Who are you?
+Cháu là ai?
 <--------------------->
 
 <p 02><a 55><n 50>
-Oh... A Dịch Chuyểner
-with Girouette Express
-you say?
+A... cháu là vận chuyển
+viên của Chuyển Phát
+Nhanh Girouette?
 <--------------------->
 
 <p 02><a 55><n 50>
