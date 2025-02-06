@@ -2,266 +2,267 @@
 <#####################>
 
 <p 02><a 42><n 3D>
-If you go a little
-further to the right
-down this road,
+Nếu chị đi về phía
+bên phải con đường
+này, 
 <--------------------->
 
-you'll see a door
-leading to a
-transerver.
-<--------------------->
-
-<p 02><a 42><n 3D>
-The other door in the
-room leads to the
-highway.
+chị sẽ thấy một
+cánh cửa dẫn đến
+Trạm Trung Chuyển.
 <--------------------->
 
 <p 02><a 42><n 3D>
-The highway is within
-Innerpeace, but there
-have been a lot of
-<--------------------->
-
-Irregulars showing up
-there lately.
+Cánh cửa khác trong
+phòng đó sẽ dẫn ra
+đường cao tốc.
 <--------------------->
 
 <p 02><a 42><n 3D>
-That's why mommy always
-says I shouldn't go
-there.
+Đường cao tốc đang
+yên bình thì tự dưng
+lũ Maverick từ đâu
+<--------------------->
+
+xuất hiện, khiến nhiều
+người hoang mang.
 <--------------------->
 
 <p 02><a 42><n 3D>
-You have to use the
-highway to reach the
-buildings in Area G.
+Đó là lý do tại sao
+mẹ em luôn dặn là
+em không được ra đó.
 <--------------------->
 
 <p 02><a 42><n 3D>
-I need to go there to
-buy pet food or my poor
-pets will go hungry.
+Muốn đến tòa nhà trong
+Khu G thì buộc phải
+đi qua đường cao tốc.
+<--------------------->
+
+<p 02><a 42><n 3D>
+Em cần phải tới đó để
+mua thức ăn cho cún,
+không nó sẽ chết đói.
 <*********************>
 
 <p 02><a 42><n 3D>
-I really love going on
-walks in the forest. I
-do it every day!
+Em có thói quen đi dạo
+trong rừng mỗi ngày và
+thực sự yêu thích nó!
 <--------------------->
 
 <p 02><a 42><n 3D>
-I was planning to go
-there again today too.
+Em dự đinh sẽ lại
+tới đó vào hôm nay.
 <--------------------->
 
 <p 02><a 42><n 3D>
-But lately, so many bad
-Mechaniroids have been
-showing up even in
+Nhưng gần đây, có rất
+nhiều Mechaniroids
+xấu xa xuất hiện cả
 <--------------------->
 
-Innerpeace that I'm a
-little scared.
+trong Vùng An Toàn nên
+em sợ lắm
 <--------------------->
 
 <p 02><a 42><n 3D>
-I know Innerpeace is
-supposed to be safe,
-but I'm still worried.
+Em biết Vùng An Toàn
+sẽ an toàn, nhưng em
+vẫn thấy lo.
 <*********************>
 
 <p 02><a 42><n 3D>
-My doggy's name is
+Chú cún của em tên
 Canis.
 <--------------------->
 
 <p 02><a 42><n 3D>
-He's a very good boy.
+Nó là một chú chó ngoan.
 <--------------------->
 
 <p 02><a 42><n 3D>
-He always finds
-mushrooms for me when
-we go to the woods.
+Nó thường hay tìm nấm
+về cho em, khi chúng em
+đi dạo trong rừng.
 <--------------------->
 
 <p 02><a 42><n 3D>
-Mommy's happy to have
-him around too since it
-saves on groceries!
+Mẹ rất vui khi có nó
+trong nhà, vì nó cũng
+ăn rất ít!
 <--------------------->
 
 <p 02><a 57><n 54>
-Woof woof!
+Gấu gấu!
 <*********************>
 
 <p 02><a 42><n 3D>
-I have a lot of pets!
+Em có rất nhiều
+thú cưng!
 <--------------------->
 
 <p 02><a 42><n 3D>
-I've got an anteater, a
-lemur, a chameleon and
-a piranha!
+Em còn nuôi kiến mồi,
+vượn cáo và cả cá
+dăm đao!
 <*********************>
 
 <p 02><a 42><n 3D>
-I enjoy taking Canis
-out for our little
-walks,
+Em rất thích dắt Canis
+đi dạo, nhưng nó luôn
 <--------------------->
 
 <p 02><a 42><n 3D>
-but he always sits down
-on the way and won't
-budge.
+ngồi xuống giữa đường
+và không chịu đi tiếp.
 <--------------------->
 
 <p 02><a 42><n 3D>
-As soon as it's
-lunchtime though, he
-comes to life.
+Thế nhưng, chỉ cần đến
+giờ ăn trưa thì nó trở
+nên tràn trề sức sống.
 <--------------------->
 
 <p 02><a 42><n 3D>
-You're too smart for
-your own good...
+Em đúng là thông minh
+quá mức cho phép...
 <--------------------->
 
 <p 02><a 57><n 54>
-Woof!
+Gấu!
 <*********************>
 
 <p 02><a 42><n 3D>
-Canis just learned how
-to shake hands.
+Canis vừa học được cách
+bắt tay.
 <--------------------->
 
 <p 02><a 42><n 3D>
-I wonder what I should
-teach him next...
+Không biết em nên dạy
+em ấy cái gì tiếp đây
+nhỉ...
 <*********************>
 
 <p 02><a 42><n 3D>
-Yikes! Who are you?
+Áaaa! Ai vậy?
 <--------------------->
 
 <p 02><a 42><n 3D>
-Canis is nervous around
-strangers, so please
-don't come any closer!
+Canis rất sợ người lạ,
+đừng đến gần đây!
 <--------------------->
 
 <p 02><a 57><n 54>
-Rrr...
+Grừ...
 <*********************>
 
 <p 02><a 53><n 4E>
-You're already working?
-At your age?
+Cháu đi làm rồi à?
+Ở cái tuổi này cơ à?
 <--------------------->
 
 <p 02><a 53><n 4E>
-That's amazing! I don't
-envy the tough work you
-must be doing.
+Thật ấn tượng! Bản thân
+dì không dám làm những
+công việc như cháu
 <--------------------->
 
 <p 02><a 53><n 4E>
-I've never seen a
-Dịch Chuyểner delivering
-things on foot though.
+Dì chưa từng thấy vận
+chuyển viên nào đi bộ
+để giao hàng.
 <*********************>
 
 <p 02><a 53><n 4E>
-Work is important, but
-you should study too!
+Dù công việc quan trọng,
+nhưng cháu cũng phải
+học hành nữa!
 <--------------------->
 
 <p 02><a 53><n 4E>
-It'll be too late to
-go back and study
-when you grow up.
+Khi cháu lớn lên thì
+không còn thời gian
+để học hành.
 <*********************>
 
 <p 02><a 53><n 4E>
-Did you see it?!
+Cháu có thấy không?!
 <--------------------->
 
 <p 02><a 53><n 4E>
-See what you say? The
-flash in the sky just
-now...
+Cháu hỏi là thấy gì ư?
+Một tia sáng vừa lóe
+lên trên bầu trời...
 <--------------------->
 
 <p 02><a 53><n 4E>
-I could've sworn that I
-heard a rumble too,
-like thunder.
+Hình như dì còn nghe
+tiếng ầm ầm nữa, như
+sấm ấy.
 <--------------------->
 
 <p 02><a 53><n 4E>
-The weather forecast
-didn't call for any
-storms today though...
+Mặc dù vậy, dự báo
+thời tiết hôm nay không
+nói gì về bão cả...
 <--------------------->
 
-Must just be my
-imagination.
+Chắc là do dì
+tưởng tượng thôi.
 <*********************>
 
 <p 02><a 53><n 4E>
-I've heard that here in
-the Outlands,
+Dì nghe nói rằng ở
+Vùng Hẻo Lánh có
 <--------------------->
 
-a lot of Irregulars are
-running around.
-<--------------------->
-
-<p 02><a 53><n 4E>
-But I don't see what
-the big deal is.
+rất nhiều Maverick
+xuất hiện ở đó.
 <--------------------->
 
 <p 02><a 53><n 4E>
-If there's a problem,
-Serpent Co. will take
-care of it.
+Nhưng dì thấy không
+có gì to tát lắm.
+<--------------------->
+
+<p 02><a 53><n 4E>
+Nếu có vấn đề thì
+Tập Đoàn Serpent sẽ
+xử lý nó ngay.
 <*********************>
 
 <p 02><a 53><n 4E>
-I'm so busy nowadays...
+Gần đây dì khá bận...
 <--------------------->
 
 <p 02><a 53><n 4E>
-I've got a lot on my
-mind with my son's
-future and all.
+Dì đang suy nghĩ rất
+nhiều về tương lai
+của con trai dì.
 <--------------------->
 
 <p 02><a 53><n 4E>
-As a mom,
+Với tư cách là một
+người mẹ,
 <--------------------->
 
 <p 02><a 53><n 4E>
-I would love to see him
-work for Serpent Co.
-someday!
+Dì muốn thằng bé được
+vào Tập Đoàn Serpent
+làm việc!
 <*********************>
 
 <p 02><a 53><n 4E>
-Lately Serpent Co.
-seems to be really busy
-too.
+Gần đây có vẻ như
+Tập Đoàn Serpent cũng
+đang bận rộn.
 <--------------------->
 
 <p 02><a 53><n 4E>
-I've seen a lot of them
-heading into the cave.
+Dì thấy rất nhiều người
+hướng vào một hang động.
 <*********************>
 
 <p 02><a 53><n 4E>
@@ -273,237 +274,236 @@ heading into the cave.
 <*********************>
 
 <p 02><a 40><n 3B>
-Thank you for before,
-ma'am!
+Cảm ơn chị về chuyện
+lần trước!
 <--------------------->
 
 <p 02><a 40><n 3B>
-I was just out shopping
-when the fire started.
+Em đang đi mua sắm
+thì bất ngờ có cháy.
 <--------------------->
 
 <p 02><a 40><n 3B>
-I saw the fire getting
-closer and closer. I
-was so scared!
+Lửa ngày càng đến gần,
+em sợ hãi vô cùng!
 <*********************>
 
 <p 02><a 40><n 3B>
-I want to forget about
-the fire.
+Em muốn quên đi vụ
+hỏa hoạn.
 <--------------------->
 
 <p 02><a 40><n 3B>
-My legs tremble when I
-even think about
-leaving my house.
+Đôi chân của em run
+lẩy bẩy kể cả khi nghĩ
+đến việc rời khỏi nhà.
 <*********************>
 
 <p 02><a 40><n 3B>
-Even the feeling of
-heat scares me,
+Ngay cả cảm giác nóng
+cũng khiến em sợ hãi,
 <--------------------->
 
-so I can't bake my
-favorite cookies
-anymore...
-<--------------------->
-
-<p 02><a 40><n 3B>
-If I can't bake my
-world famous cookies,
-<--------------------->
-
-how am I going to make
-friends?
+vậy nên em không thể
+nướng bánh quy yêu
+thích của mình nữa...
 <--------------------->
 
 <p 02><a 40><n 3B>
-Will you be my friend
-even if I can't make
-cookies?
+Nếu em không thể nướng
+món bánh quy trứ danh
+<--------------------->
+
+của em, làm sao em
+có thể kết bạn đây?
 <--------------------->
 
 <p 02><a 40><n 3B>
-Hmm...
+Chị sẽ làm bạn với em
+kể cả khi em không thể
+nướng bánh chứ?
 <--------------------->
 
 <p 02><a 40><n 3B>
-We could play make
-believe. Just pretend I
-baked cookies!
-<*********************>
-
-<p 02><a 40><n 3B>
-*sigh* Bored, bored,
-bored.
+Hừm...
 <--------------------->
 
 <p 02><a 40><n 3B>
-I just want to go
-outside and play...
+Chúng ta có thể chơi
+trò giả vờ. Cứ giả bộ
+như em nướng bánh quy!
 <*********************>
 
 <p 02><a 40><n 3B>
-It's so hard to enter
-and leave this room.
+*haizz* Chán quá, chán
+quá, chán quá.
 <--------------------->
 
 <p 02><a 40><n 3B>
-Whoever made this
-building must have been
-a little nutso.
+Em muốn ra ngoài kia
+vui chơi...
 <*********************>
 
 <p 02><a 40><n 3B>
-I want to move to a
-bigger house!
+Nhưng để ra vào căn
+phòng này khó quá.
 <--------------------->
 
 <p 02><a 40><n 3B>
-A giant palace with
-four kitchens and
-four living rooms!
+Ai xây cái tòa nhà
+này chắc đầu óc có
+vấn đề rồi.
 <*********************>
 
 <p 02><a 40><n 3B>
-Have I seen you before?
+Em muốn chuyển đến
+căn nhà lớn hơn!
 <--------------------->
 
 <p 02><a 40><n 3B>
-Hmm, I must be thinking
-of someone else.
+Một nơi thật lớn có
+4 phòng ngủ và 4
+phòng bếp!
+<*********************>
+
+<p 02><a 40><n 3B>
+Em đã từng gặp anh
+chưa nhỉ?
+<--------------------->
+
+<p 02><a 40><n 3B>
+Hừm, chắc em nhầm với
+người khác rồi.
 <*********************>
 
 <p 02><a 41><n 3C>
-Oh! You're the woman
-that saved all of us
+A! Chị chính là người
+đã cứu bọn em lúc
 <--------------------->
 
-when we were being held
-in that room.
-<--------------------->
-
-<p 02><a 41><n 3C>
-I knew it was you! 
-Even though you look a
-bit different now...
+bọn em đang bị giam
+trong căn phòng đó.
 <--------------------->
 
 <p 02><a 41><n 3C>
-I'm sorry I never got
-to thank you for what
-you did.
+Biết ngay là chị mà!
+Dù hiện tại trông chị
+hơi khác khác...
+<--------------------->
+
+<p 02><a 41><n 3C>
+Em xin lỗi vì chưa
+cảm ơn chị vì những
+gì chị đã làm.
 <*********************>
 
 <p 02><a 41><n 3C>
-Hey! You're a
-Dịch Chuyểner? Wow,
-that's cool!
+A! Chị là Vận Chuyển
+Viên sao? Quào, vậy
+thì tuyệt quá!
 <--------------------->
 
 <p 02><a 41><n 3C>
-I didn't know
-Dịch Chuyểners rescued
-hostages too...
+Em không biết là
+Vận Chuyển Viên cũng
+giải cứu con tin đó...
 <--------------------->
 
 <p 02><a 41><n 3C>
-You're like some kind
-of super hero!
+Trông chị cứ như là
+siêu anh hùng vậy!
 <*********************>
 
 <p 02><a 41><n 3C>
-I was scared, being
-trapped in that dark
-room...
+Em rất sợ hãi khi bị
+nhốt trong căn phòng
+tối tăm đó...
 <--------------------->
 
 <p 02><a 41><n 3C>
-The boy that was with
-me was scared too. He
-cried the whole time.
+Cậu bé đi cùng em
+cũng rất sợ. Cậu ấy
+cứ khóc suốt.
 <*********************>
 
 <p 02><a 41><n 3C>
-We were both imagining
-the worst.
+Cả hai bọn em đểu nghĩ
+đến viễn cảnh tăm tối.
 <--------------------->
 
 <p 02><a 41><n 3C>
-I never thought I would
-feel the sunshine
-again.
+Em nghĩ sẽ không thể
+cảm nhận được ánh
+bình minh nữa.
 <*********************>
 
 <p 02><a 41><n 3C>
-At night when it's
-dark,
+Vào mỗi đêm, khi trời
+tối sầm,
 <--------------------->
 
-I sometimes remember
-how scary it was in
-that room...
+Em lại nhớ cảm giác
+sợ hãi khi ở trong
+căn phòng đó...
 <--------------------->
 
 <p 02><a 41><n 3C>
-I can't sleep with the
-lights off yet.
+Em vẫn chưa thể ngủ
+khi tắt đèn.
 <*********************>
 
 <p 02><a 41><n 3C>
-Hey.
+A.
 <--------------------->
 
 <p 02><a 41><n 3C>
-Do you have any ideas
-for helping me get over
-my fear of the dark?
+Anh có cách nào giúp
+em vượt qua nỗi sợ
+bóng tối không?
 <--------------------->
 
 <p 02><a 41><n 3C>
-If I count one more
-sheep, I'm gonna
-scream.
+Em sắp phát ngán vì
+cứ phải đếm cừu mãi.
 <*********************>
 
 <p 02><a 41><n 3C>
-Hey Dịch Chuyểner!
+A, chị Vận Chuyển Viên!
 <--------------------->
 
 <p 02><a 41><n 3C>
-Take this!
+Hãy nhận cái này đi ạ!
 <--------------------->
 
 <p 02><a 41><n 3C>
-It's your birthday
-today, isn't it?
+Hôm nay là sinh nhật
+của chị phải không?
 <--------------------->
 
 <p 02><a 41><n 3C>
-I'd like to say I made
-it all by myself from
-scratch,
+Em muốn nói rằng mình
+đã tự tay làm tất cả
+từ đầu, nhưng thực ra
 <--------------------->
 
 <p 02><a 41><n 3C>
-but my sister helped me
-with most of it.
+chị em đã giúp em
+hầu hết mọi việc.
 <*********************>
 
 <p 02><a 41><n 3C>
-You're the one that
-rescued me earlier...
-Aren't you?
+Chị là người đã cứu em
+lúc trước, đúng không?
 <--------------------->
 
 <p 02><a 41><n 3C>
-If my mom catches
-me talking to you with
-that costume on,
+Nếu mẹ em bắt gặp em
+đang nói chuyện với
+chị trong bộ đồ đó,
 <--------------------->
 
-she'll get mad at me.
+bà ấy sẽ nổi giận
+với em mất.
 <*********************>
 
 <p 02><a 51><n 4C>
@@ -593,62 +593,63 @@ leave me alone please!
 <*********************>
 
 <p 02><a 48><n 43>
-Oh, you...
+A, cậu...
 <--------------------->
 
 <p 02><a 48><n 43>
-You're the one that
-saved us from the
+Cậu chính là người đã
+cứu bọn tớ khỏi
 <--------------------->
 
-burning building,
-aren't you?
-<--------------------->
-
-<p 02><a 48><n 43>
-It has to be you! I
-couldn't get a good
-<--------------------->
-
-look with all of the
-smoke,
+tòa nhà bị cháy
+đúng không?
 <--------------------->
 
 <p 02><a 48><n 43>
-but I remember your
-voice clear as day!
+Đúng là cậu rồi! Dù
+làn khói dày khiến tớ
+<--------------------->
+
+không thể nhìn rõ được
+ai.
 <--------------------->
 
 <p 02><a 48><n 43>
-I'm very good at
-remembering voices!
+Nhưng tớ vẫn nhớ rõ
+giọng nói của cậu!
+<--------------------->
+
+<p 02><a 48><n 43>
+Tớ rất giỏi trong việc
+nhớ được giọng nói của
+người khác!
 <*********************>
 
 <p 02><a 48><n 43>
-Thanks to you, I'm
-doing fine.
+Nhờ có cậu mà tớ mới
+có thể bình an.
 <--------------------->
 
 <p 02><a 48><n 43>
-The doctor said I
-should keep off my feet
-as much as possible.
+Bác sĩ nói tớ nên
+tránh đi lại càng ít
+càng tốt.
 <--------------------->
 
 <p 02><a 48><n 43>
-I had a lot of plans,
-like going out on dates
-and shopping,
+Tớ đã ấp ủ rất nhiều
+dự định, như hẹn hò,
+đi mua sắm, nhưng giờ
 <--------------------->
 
-but those are all out
-the window now.
+thì tất cả đều tan
+thành mây khói rồi.
 <*********************>
 
 <p 02><a 48><n 43>
-I was in the building
-looking for a present
-for my boyfriend.
+Tớ đang lươn lờ trong
+tòa nhà để tìm mua quà
+cho bạn trai.
 <--------------------->
 
 <p 02><a 48><n 43>
