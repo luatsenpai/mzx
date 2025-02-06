@@ -654,69 +654,69 @@ cho bạn trai.
 <--------------------->
 
 <p 02><a 48><n 43>
-My parents are dead set
-against our
-relationship.
+Ba mẹ tớ nhất quyết
+phản đối mối quan hệ
+của bọn tớ.
 <--------------------->
 
 <p 02><a 48><n 43>
-Just the other day,
-they tried to introduce
-me to a guy...
+Mới hôm qua thôi, họ
+đã cố gắng giới thiệu
+tớ cho một anh chàng...
 <--------------------->
 
 <p 02><a 48><n 43>
-Man! Dad is so behind
-the times, he's living
-in the Stone Age!
+Trời! Ba tớ cổ lỗ sĩ
+quá, ông ấy sống như
+thời đồ đá vậy!
 <--------------------->
 
 <p 02><a 48><n 43>
-Speaking of the Stone
-Age,
+Nói về thời kỳ đồ đá,
+thì người mà ông ấy
 <--------------------->
 
 <p 02><a 48><n 43>
-that guy he introduced
-me to was a fossil!
+giới thiệu cho tớ
+đúng là hóa thạch!
 <*********************>
 
 <p 02><a 48><n 43>
-I know dad's just
-worried about me and
-wants me to be happy,
+Tớ biết ba chỉ lo lắng
+cho tớ và muốn tớ
+hạnh phúc,
 <--------------------->
 
 <p 02><a 48><n 43>
-but he needs to get a
-clue.
+nhưng ông ấy cũng vừa
+phải thôi chứ.
 <--------------------->
 
 <p 02><a 48><n 43>
-Don't you think?
+Cậu nghĩ sao?
 <*********************>
 
 <p 02><a 48><n 43>
-I finally introduced my
-boyfriend to my
-parents.
+Cuối cùng thì tớ cũng
+dẫn bạn trai về ra mắt
+ba mẹ.
 <--------------------->
 
 <p 02><a 48><n 43>
-They saw how much he
-cares and have backed
-off a little bit.
+Họ đã thấy anh ấy
+quan tâm tớ rất nhiều
+và đã rút lui một chút.
 <*********************>
 
 <p 02><a 48><n 43>
-I knew it the moment I
-saw him.
+Tớ đã biết điều đó ngay
+từ lúc nhìn thấy anh ấy.
 <--------------------->
 
 <p 02><a 48><n 43>
-Our love is so pure,
-nothing and no one can
-ever come between us!
+Tình yêu của bọn tớ rất
+trong sáng, không gì
+có thể xen vào!
 <*********************>
 
 <p 02><a 48><n 43>
@@ -724,335 +724,332 @@ ever come between us!
 <--------------------->
 
 <p 02><a 48><n 43>
-Wha-?!
+Hả-?!
 <--------------------->
 
 <p 02><a 48><n 43>
-Don't come near me with
-that weirdo outfit!
+Đừng đứng gần tôi với
+bộ đồ dị hợm thế!
 <*********************>
 
 <p 02><a 52><n 4D>
-Oh, I see. You're a
-Dịch Chuyểner for
-Girouette Express.
+A, vậy à. Cháu là vận
+chuyển viên cho Chuyển
+Phát Nhanh Girouette.
 <--------------------->
 
 <p 02><a 52><n 4D>
-You were dressed
-differently last time I
-saw you.
+Cháu ăn bận khác so
+với lần cuối dì gặp
+cháu.
 <--------------------->
 
-I barely recognized
-you.
-<--------------------->
-
-<p 02><a 52><n 4D>
-I was whisked away by
-some weasel monster and
-held captive.
+Dì suýt nữa là không
+nhận ra cháu.
 <--------------------->
 
 <p 02><a 52><n 4D>
-Thank you so much for
-saving me!
+Dì đã bị một con
+quái vật giống chồn
+bắt cóc.
+<--------------------->
+
+<p 02><a 52><n 4D>
+Cảm ơn cháu đã cứu dì!
 <*********************>
 
 <p 02><a 52><n 4D>
-Are you trying out a
-new Girouette Express
-uniform or something?
+Cháu đang thử đồng phục
+mới của Chuyển Phát
+Nhanh Girouette à?
 <--------------------->
 
 <p 02><a 52><n 4D>
-It's a cool outfit, but
-others around town
-might not think so.
+Bộ đồ này rất ngầu,
+nhưng những người khác
+có thể không nghĩ vậy.
 <--------------------->
 
 <p 02><a 52><n 4D>
-They might think you're
-one of those Outland
-Irregulars.
+Bộ đồ này rất ngầu,
+nhưng những người khác
+có thể không nghĩ vậy.
 <--------------------->
 
 <p 02><a 52><n 4D>
-The Serpent Co.
-security patrols might
-try to attack you too.
+Lực lượng an ninh của
+Tập Đoàn Serpent cũng
+sẽ tấn công cháu.
 <--------------------->
 
 <p 02><a 52><n 4D>
-I know you saved me,
-but even I am a little
-nervous talking to you.
+Dù cháu đã cứu dì, dì
+vẫn thấy hồi hộp khi
+nói chuyện với cháu.
 <*********************>
 
 <p 02><a 52><n 4D>
-The weather's great
-today!
+Thời tiết hôm nay thật
+đẹp!
 <--------------------->
 
 <p 02><a 52><n 4D>
-Whenever it rains, I
-think back to that
-day...
+Mỗi khi trời mưa,
+dì lại nhớ về ngày
+hôm đó...
 <*********************>
 
 <p 02><a 52><n 4D>
-I had a nightmare about
-that weasel monster
-last night...
+Tối qua, dì đã mơ thấy
+một cơn ác mộng về
+quái vật chồn đó...
 <--------------------->
 
 <p 02><a 52><n 4D>
-I want to put the past
-behind me and return to
+Dì muốn gạt bỏ quá khứ
+và trở về thời điểm
 <--------------------->
 
-the days when I could
-be more carefree.
+mình sống vô lo
+vô nghĩ hơn.
 <*********************>
 
 <p 02><a 52><n 4D>
-I know he doesn't look
-it, but that guy Robert
+Dì biết trông bề ngoài
+anh ấy thế thôi chứ
 <--------------------->
 
-over there was an
-athlete.
+anh ấy là vận động viên
+thực thụ đấy.
 <*********************>
 
 <p 02><a 52><n 4D>
-He used to be really
-big into soccer.
+Anh ấy từng rất thích
+bóng đá.
 <--------------------->
 
 <p 02><a 52><n 4D>
-I should know... He
-never stops talking
-about his glory days.
+Dì hiểu mà... Anh ta
+luôn miệng kể về những
+thời huy hoàng đã qua.
 <*********************>
 
 <p 02><a 52><n 4D>
-It's hard to talk to
-you when you look like
-that...
+Thật khó để nói chuyện
+với cháu khi cháu đang
+trong bộ dạng đó...
 <--------------------->
 
 <p 02><a 52><n 4D>
-There might be a
-security guard watching
-us.
+Có thể sẽ có lực lượng
+an ninh đanh quan sát
+chúng ta.
 <--------------------->
 
 <p 02><a 52><n 4D>
-Could you go back to
-looking like a normal
-person for me?
+Cháu có thể biến về
+người thường hộ dì
+được không?
 <*********************>
 
 <p 02><a 49><n 44>
-You're the one that
-saved me from the
+Chính cậu là người đã
+cứu tớ thoát khỏi nơi
 <--------------------->
 
-confinement facility
-earlier, aren't you?
-<--------------------->
-
-<p 02><a 49><n 44>
-You had some kind of
-armor on at the time.
+giam giữ trước kia,
+phải không?
 <--------------------->
 
 <p 02><a 49><n 44>
-Was that some kind of
-work uniform?!
+Lúc đó cậu đang mặc
+bộ giáp nào đó.
+<--------------------->
+
+<p 02><a 49><n 44>
+Đó là loại đồng phục
+làm việc à?!
 <*********************>
 
 <p 02><a 49><n 44>
-It seems like the
-power was out in part
-of the facility.
+Có vẻ như một phần
+của cơ sở đã bị
+mất điện.
 <--------------------->
 
 <p 02><a 49><n 44>
-I guess the power from
-the plant got cut off
-somehow.
+Hình như nguồn điện
+từ nhà máy bị cắt mất
+lúc nào không hay.
 <--------------------->
 
 <p 02><a 49><n 44>
-It was pitch black and
-all of the conveyor
-machinery stopped.
+Mọi thứ chìm trong
+bóng tối và tất cả các
+máy móc đều ngừng.
 <*********************>
 
 <p 02><a 49><n 44>
-It's great weather
-today. Why am I hearing
-thunder?!
+Hôm nay trời đẹp thế
+mà sao tớ lại nghe
+tiếng sấm nhỉ?!
 <--------------------->
 
 <p 02><a 49><n 44>
-It sounded like a big
-sound came from over
-there.
+Nghe có vẻ như có một
+tiếng động lớn phát ra
+từ phía bên kia.
 <*********************>
 
 <p 02><a 49><n 44>
-You might want to be
-careful until we know
-what it is.
+Cậu nên cẩn thận cho
+đến khi chúng ta biết
+đó là cái gì.
 <--------------------->
 
 <p 02><a 49><n 44>
-My kid thinks that a
-battleship fell from
-the sky!
+Đám nhóc thì cứ nghĩ
+là tàu chiến rơi từ
+trên trời xuống!
 <--------------------->
 
 <p 02><a 49><n 44>
-Hmph. Kids...
+Hừm. Đám nhóc...
 <*********************>
 
 <p 02><a 49><n 44>
-Don't worry about me,
-I'm fine.
+Đừng bận tâm tới tớ,
+tớ không sao đâu.
 <--------------------->
 
 <p 02><a 49><n 44>
-But it does kind of
-concern me that nothing
+Nhưng điều khiến tớ
+lo lắng là báo chí
 <--------------------->
 
-about this is making
-headlines.
+chẳng đưa tin tức
+nào cả.
 <*********************>
 
 <p 02><a 49><n 44>
-Something that big
-should be all over the
-news by now!
+Chuyện lớn như vậy
+lẽ ra đã phải được
+đưa tin rầm rộ rồi!
 <--------------------->
 
 <p 02><a 49><n 44>
-There must be a good
-reason for keeping it
-quiet.
+Chắc chắn có lý do
+gì đó mà họ lại
+giấu kín điều này.
 <*********************>
 
 <p 02><a 49><n 44>
-Who are you? Wait...
-Aren't you the one that
-saved me?
+Cậu là ai? Khoan...
+cậu là người đã cứu
+tớ ư?
 <*********************>
 
 <p 02><a 4A><n 45>
-I'm happy that this
-country has come so far
+Tớ rất hạnh phúc khi
+thấy đất nước này 
+phát triển vượt bậc
 <--------------------->
 
-with the help of
-Serpent Co.
+nhờ sự hỗ trợ của
+Tập Đoàn Serpent.
 <--------------------->
 
 <p 02><a 4A><n 45>
-But I wish they would
-work on adding more
-greenery to the city.
+Nhưng tớ ước họ sẽ
+trồng thêm cây xanh
+cho thành phố.
 <*********************>
 
 <p 02><a 4A><n 45>
-I love flowers!
+Tớ rất thích hoa!
 <--------------------->
 
 <p 02><a 4A><n 45>
-I love flowers more
-than anything.
+Tớ thích hoa hơn bất kỳ
+điều gì khác.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Just one look and
-that's all it takes to
+Chỉ cần ngắm nhìn
+thôi cũng đủ xoa dịu
 <--------------------->
 
-soothe a troubled
-heart.
+những trái tim đang
+đau khổ.
 <*********************>
 
 <p 02><a 4A><n 45>
-I want to open my own
-flower shop someday.
+Tớ muốn mở một tiệm hoa
+cho riêng mình.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Spending all of my
-working day surrounded
-by beautiful flowers
+Ước mơ của tớ là được
+dành cả ngày làm việc
 <--------------------->
 
-would be a dream come
-true.
+quanh những bông hoa
+xinh đẹp.
 <*********************>
 
 <p 02><a 4A><n 45>
-What do you think gives
-flowers their beauty?
+Cậu nghĩ điều gì đã
+làm những bông hoa
+trở nên xinh đẹp?
 <--------------------->
 
 <p 02><a 4A><n 45>
-I think it's because
-they're so delicate and
-fleeting.
+Tớ nghĩ đó là do chúng
+sớm nở chóng tàn.
 <--------------------->
 
 <p 02><a 4A><n 45>
-Like chasing something
-that always remains
-just out of reach.
+Giống như đuổi theo
+thứ trước mắt nhưng
+không thể chạm tới.
 <--------------------->
 
 <p 02><a 4A><n 45>
-It's a lot like love.
-The passion is here
-today, gone tomorrow.
+Giống như tình yêu,
+đam mê đến rồi đi,
+chẳng hề báo trước.
 <--------------------->
 
 <p 02><a 4A><n 45>
-I must be attracted to
-things that don't last
-forever.
+Có lẽ tớ bị cuốn hút
+bởi những thứ chóng
+tàn.
 <*********************>
 
 <p 02><a 4A><n 45>
-Weren't you just
-walking on the guard
-rail?
+Cậu vừa đi trên lan can
+bảo vệ à?
 <--------------------->
 
 <p 02><a 4A><n 45>
-I thought Dịch Chuyểners
-were sticklers for
-following the rules...
+Tớ tưởng chuyển phát
+viên luôn tuân thủ
+các quy định chứ...
 <*********************>
 
 <p 02><a 4A><n 45>
-There aren't many
-flowers growing in this
-area.
+Hoa ở khu vực này
+rất ít.
 <--------------------->
 
 <p 02><a 4A><n 45>
-It's kind of sad
-without any.
+Cảm thấy hơi buồn khi
+thiếu vắng điều đó.
 <--------------------->
 
-I wish Serpent Co.
-would plant some around
-town.
+Tớ ước gì Tập Đoàn
+Serpent có thể trồng
+cây quanh thành phố.
 <*********************>
 
 <p 02><a 4A><n 45>
