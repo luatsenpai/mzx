@@ -507,89 +507,91 @@ với em mất.
 <*********************>
 
 <p 02><a 51><n 4C>
-Thank you for rescuing
-me from that fire.
+Cảm ơn cháu đã cứu dì
+khỏi đám cháy.
 <--------------------->
 
 <p 02><a 51><n 4C>
-My leg injury is not as
-bad as I thought it
-would be.
+Chân của dì không bị
+thương nghiêm trọng
+như dì nghĩ.
 <--------------------->
 
 <p 02><a 51><n 4C>
-I would never have
-expected that area to
-come under attack.
+Dì không thể ngờ là
+khu vực đó lại bị
+tấn công.
 <--------------------->
 
 <p 02><a 51><n 4C>
-It used to be part of
-Innerpeace...
+Nó từng là một phần
+của Vùng An Toàn...
 <*********************>
 
 <p 02><a 51><n 4C>
-What to do now...
+Giờ thì phải làm gì
+đây...
 <--------------------->
 
 <p 02><a 51><n 4C>
-My favorite store was
-in that building.
+Cửa hàng yêu thích của
+dì ở trong tòa nhà đó.
 <*********************>
 
 <p 02><a 51><n 4C>
-Why am I worrying?
+Mà sao dì phải lo lắng
+nhỉ?
 <--------------------->
 
 <p 02><a 51><n 4C>
-Serpent Co. will just
-build an even better
-building in its place!
+Tập Đoàn Serpent sẽ
+xây một tòa nhà tốt
+hơn tại nơi đó!
 <*********************>
 
 <p 02><a 51><n 4C>
-I guess in the meantime
-I'll just shop around
-here.
+Dì đoán trong lúc này,
+dì sẽ chỉ đi dạo quanh
+đây thôi.
 <--------------------->
 
 <p 02><a 51><n 4C>
-It's just a residential
-area though, so the
-shopping's not so hot.
+Dù vậy, vì chỉ là khu
+dân cư nên việc mua
+sắm không mấy sôi động.
 <*********************>
 
 <p 02><a 51><n 4C>
-Does Girouette Express
-even deliver to the
-Outlands?
+Liệu Chuyển Phát Nhanh
+Girouette có giao hàng
+tới Vùng Hẻo Lánh?
 <--------------------->
 
 <p 02><a 51><n 4C>
-That sounds dangerous!
-Be careful out there!
+Nghe có vẻ nguy hiểm!
+Cháu hãy cẩn thận nhé!
 <*********************>
 
 <p 02><a 51><n 4C>
-You poor child. Being
-forced to handle such
-risky business.
+Đứa trẻ tội nghiệp.
+Phải gánh vác những
+việc mạo hiểm.
 <--------------------->
 
 <p 02><a 51><n 4C>
-What kind of person
-would let a child do
-all their dirty work?
+Ai lại giao cho một
+đứa trẻ gánh hết mọi
+công việc thế chứ?
 <*********************>
 
 <p 02><a 51><n 4C>
-Who... Or what are you?
+Cháu... là ai?
 <--------------------->
 
 <p 02><a 51><n 4C>
-And what's with the
-Halloween costume? Just
-leave me alone please!
+Cái bộ đồ Halloween đó
+là sao? Hãy để dì yên
+đi!
 <*********************>
 
 <p 02><a 48><n 43>
@@ -1057,262 +1059,259 @@ cây quanh thành phố.
 <*********************>
 
 <p 02><a 4A><n 45>
-Do you have something
-you want to discuss
-with me?
+Cậu có vấn đề gì muốn
+trao đổi với tớ sao?
 <--------------------->
 
 <p 02><a 4A><n 45>
-If you want to talk,
-you're going to have to
-ditch the crazy outfit.
+Nếu muốn trò chuyện
+thì hãy thay bộ đồ
+dị hợm đó đi.
 <*********************>
 
 <p 02><a 4B><n 46>
-I love this place...
+Tớ thích nơi này...
 <--------------------->
 
 <p 02><a 4B><n 46>
-Doesn't it feel
-wonderful to sit next
+Thật dễ chịu khi được
+ngồi bên đài phun nước
 <--------------------->
 
-to the fountain and
-listen to the water?
+và lắng nghe tiếng
+nước chảy nhỉ?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I always come here to
-relax when things
-aren't going my way.
+Tớ luôn đến đây để
+thư giãn khi mọi thứ
+không như ý.
 <*********************>
 
 <p 02><a 4B><n 46>
-On some days, they shut
-off the water to do
-repairs or cleaning.
+Vào một số ngày, họ
+sẽ cắt nước để sửa
+chữa hoặc vệ sinh.
 <--------------------->
 
 <p 02><a 4B><n 46>
-There's nothing sadder
-than seeing a fountain
-without water.
+Không có gì buồn hơn
+khi nhìn thấy đài phun
+nước không có nước.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Did you know that in
-Winter, this fountain
-freezes over?
+Vào mùa đông, nước
+trong đài phun nước
+bị đóng bắng đấy?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I'm not sure why, but
-frozen fountains still
-help me to relax.
+Không hiểu sao, đài
+phun nước đóng băng
+vẫn giúp tớ thư giãn.
 <*********************>
 
 <p 02><a 4B><n 46>
-I haven't felt like
-going out much lately,
+Gần đây tớ không có
+hứng ra ngoài, nhưng
 <--------------------->
 
 <p 02><a 4B><n 46>
-but I always make sure
-I come here once a day.
+tớ luôn dành thời gian
+đến đây mỗi ngày.
 <*********************>
 
 <p 02><a 4B><n 46>
-Have you ever been to
-the power plant on the
+Cậu từng đến nhà máy
+điện ở bên kia đài
 <--------------------->
 
-other side of that
-fountain?
-<--------------------->
-
-<p 02><a 4B><n 46>
-Apparently Area I is
-beyond the plant, but
-I've never been there.
-<*********************>
-
-<p 02><a 4B><n 46>
-When I was young, the
-snowy mountains and
-<--------------------->
-
-lake were part of
-Innerpeace.
+phun nước đó bao giờ
+chưa?
 <--------------------->
 
 <p 02><a 4B><n 46>
-I used to go there with
-my family to see the
-Aurora. *sigh*
+Hình như Khu I nằm bên
+ngoài nhà máy mà tớ
+chưa từng tới đó.
 <*********************>
 
 <p 02><a 4B><n 46>
-The Outlands are slowly
-swallowing up
-Innerpeace.
+Lúc tớ còn bé, vùng
+núi tuyết và hồ nước
+<--------------------->
+
+từng là một phần của
+Vùng An Toàn.
 <--------------------->
 
 <p 02><a 4B><n 46>
-I'm sure Serpent Co.
-has some sort of plan
-in place though.
+Tớ từng đến đó cùng
+gia đình để ngắm
+cực quang *haizz*.
 <*********************>
 
 <p 02><a 4B><n 46>
-W-who are you?!
+Vùng Hẻo Lánh đang dần
+xâm chiếm Vùng An Toàn.
 <--------------------->
 
 <p 02><a 4B><n 46>
-Don't scare a girl like
-that!
+Tớ chắc chắn Tập Đoàn
+Serpent đã có kế hoạch
+với nó rồi.
+<*********************>
+
+<p 02><a 4B><n 46>
+C-cậu là ai?!
+<--------------------->
+
+<p 02><a 4B><n 46>
+Đừng dọa một cô gái
+như tớ chứ!
 <*********************>
 
 <p 02><a 54><n 4F>
-I recognize that
-uniform...
+Chị biết đồng phục
+này...
 <--------------------->
 
-You're from Girouette
-Express aren't you?
-<--------------------->
-
-<p 02><a 54><n 4F>
-I'm always calling on
-you guys when I send
-<--------------------->
-
-packages to my aunt in
-the next town over.
+Em tới từ Chuyển Phát
+Nhanh Girouette à?
 <--------------------->
 
 <p 02><a 54><n 4F>
-I remember a long
-haired guy with a red
-outfit.
+Chị thường hay gọi cho
+các em để nhờ giao hàng
+<--------------------->
+
+cho dì của chị ở
+thành phố bên cạnh.
 <--------------------->
 
 <p 02><a 54><n 4F>
-I haven't seen him
-lately though. Is he
-on vacation?
+Chị nhớ là còn một
+chàng trai tóc dài
+bận đồ đỏ.
+<--------------------->
+
+<p 02><a 54><n 4F>
+Nhưng dạo này chị không
+thấy cậu ta. Cậu ta
+đang nghỉ mát à?
 <*********************>
 
 <p 02><a 54><n 4F>
-Did you know that there
-are red switches around
-town?
+Em có biết rải rác
+quanh thành phố có
+những công tắc đỏ chứ?
 <--------------------->
 
 <p 02><a 54><n 4F>
-They're set up so that
-an impact on the switch
+Chúng được thiết lập
+sao cho khi tác động
 <--------------------->
 
-will open a nearby
-door.
+lên công tắc, cánh cửa
+gần đó sẽ mở ra.
 <--------------------->
 
 <p 02><a 54><n 4F>
-What could possibly be
-hiding behind such
-protected doors?
+Chẳng lẽ đằng sau những
+cánh cửa đó đang giấu
+thứ gì đó?
 <*********************>
 
 <p 02><a 54><n 4F>
-Irregulars are always
-causing trouble in the
-Outlands.
+Lũ Maverick luôn gây ra
+rắc rối ở Vùng Hẻo Lánh.
 <--------------------->
 
 <p 02><a 54><n 4F>
-But we don't get that
-kind of trouble here in
-Innerpeace.
+Nhưng chúng ta sẽ không
+gặp chúng trong Vùng
+An Toàn đâu.
 <*********************>
 
 <p 02><a 54><n 4F>
-This ideal lifestyle is
-possible thanks to
-Serpent Co.
+Chính Tập Đoàn Serpent
+đã tạo ra cuộc sống
+lý tưởng này.
 <--------------------->
 
 <p 02><a 54><n 4F>
-You should thank your
-lucky stars they're
-around.
+Em nên cảm thấy
+may mắn khi có họ
+quanh đây.
 <*********************>
 
 <p 02><a 54><n 4F>
-I come from a long line
-of bakers.
+Chị xuất thân từ
+gia đình làm bánh.
 <--------------------->
 
 <p 02><a 54><n 4F>
-My grandpa would love
-to open a bakery again
-someday.
+Ông chị ước ao được
+mở lại tiệm bánh vào
+một ngày nào đó.
 <*********************>
 
 <p 02><a 54><n 4F>
-For me personally, I'd
-rather open something
-other than a bakery.
+Cá nhân chị, chị thích
+mở một thứ gì đó khác
+ngoài tiệm bánh.
 <--------------------->
 
 <p 02><a 54><n 4F>
-Maybe even a candy
-store.
+Có lẽ là cả tiệm kẹo
+nữa.
 <*********************>
 
 <p 02><a 54><n 4F>
-My great great great
-great great great
-grandfather
+Tổ tiên xa xưa của
+chị từng làm việc
 <--------------------->
 
 <p 02><a 54><n 4F>
-used to work in a
-village bakery.
+tại một tiệm bánh
+trong làng.
 <--------------------->
 
 <p 02><a 54><n 4F>
-He learned his secret
-recipe for baking
-delicious bread from an
+Ông ấy đã học được
+công thức bí mật để
+nướng bánh thơm ngon
 <--------------------->
 
-old Repliroid...
-<--------------------->
-
-<p 02><a 54><n 4F>
-Baking must be in my
-family's genes.
+từ Repliroid cổ đại...
 <--------------------->
 
 <p 02><a 54><n 4F>
-Everyone loves our
-bread so much,
-<--------------------->
-
-sometimes it's hard to
-keep up with demand.
+Có lẽ việc nướng bánh
+đã ăn sâu vào máu mủ
+của gia đình chị.
 <--------------------->
 
 <p 02><a 54><n 4F>
-Would you like to try
-some? It's fresh from
-the oven!
+Mọi người yêu thích
+bánh mì của bọn chị
+<--------------------->
+
+đến nỗi đôi khi
+cung không đủ cầu.
 <--------------------->
 
 <p 02><a 54><n 4F>
-I can't possibly eat it
-all, so go ahead and
-have some.
+Em có muốn thử một
+chút không? Nó mới
+ra lò đấy!
+<--------------------->
+
+<p 02><a 54><n 4F>
+Chị không thể ăn hết
+được, nên cứ tự nhiên
+nhé.
 <*********************>
 
 <p 02><a 54><n 4F>
@@ -1320,255 +1319,256 @@ have some.
 <--------------------->
 
 <p 02><a 54><n 4F>
-I'm sorry, I can't talk
-to you...
+Xin lỗi, chị không thể
+nói chuyện với em...
 <*********************>
 
 <p 02><a 43><n 3E>
-Excuse me, are you a
-Dịch Chuyểner with
-Girouette Express?
+Xin lỗi, chị là vận
+chuyển viên của Chuyển
+Phát Nhanh Girouette?
 <--------------------->
 
 <p 02><a 43><n 3E>
-I saw you earlier when
-I was out shopping with
-mother.
+Em đã gặp chị lúc nãy,
+khi em đi mua sắm cùng
+mẹ em.
 <--------------------->
 
 <p 02><a 43><n 3E>
-You always wear the
-same thing.
+Chị luôn mặc cùng
+một bộ.
 <--------------------->
 
-You should buy some
-new, cute outfits!
+Chị nên mua một bộ mới
+dễ thương hơn!
 <*********************>
 
 <p 02><a 43><n 3E>
-Do you like this?
+Chị thích chứ?
 <--------------------->
 
 <p 02><a 43><n 3E>
-Mother bought this
-pochette for me.
+Mẹ đã mua túi xách này
+cho em đó.
 <--------------------->
 
 <p 02><a 43><n 3E>
-This is all the rage
-among girls around my
-age.
+Đây là mốt mà các
+cô gái đang rất
+ưa chuộng.
 <--------------------->
 
 <p 02><a 43><n 3E>
-The color pink is not
-well suited for girls
+Màu hồng thì không hợp
+với những cô gái đang
 <--------------------->
 
-growing closer to
-adulthood though...
+trong độ tuổi teen như
+chị...
 <--------------------->
 
 <p 02><a 43><n 3E>
-But then again, doing
-something slightly
+Nhưng mặt khác, làm
+điều gì đó phá cách
 <--------------------->
 
-outside the norm can be
-fashionable too.
+cũng có thể trở thành
+xu hướng thời trang.
 <*********************>
 
 <p 02><a 43><n 3E>
-I want to be a fashion
-model someday.
+Em muốn trở thành
+người mẫu thời trang.
 <--------------------->
 
 <p 02><e 01><a 43><n 3E>
-What do you think?  
-  You can do it!
-  No way!
+Chị nghĩ sao?  
+  Em sẽ làm được!
+  Không được đâu!
 <--------------------->
 
 <p 02><a 43><n 3E>
-Aww, that is sweet of
-you to say.
+A, chị thật dễ thương
+khi nói câu đó.
 <--------------------->
 
 <p 02><a 43><n 3E>
-When I grow up...
+Khi em lớn lên...
 <--------------------->
 
 <p 02><a 43><n 3E>
-I want to wear a pretty
-dress and dance at a
+Em muốn diện bộ váy
+thật đẹp và hòa mình
 <--------------------->
 
-fancy Serpent Co.
-ball.
+vào âm nhạc tại dạ hội
+của Tập Đoàn Serpent.
 <*********************>
 
 <p 02><s 01><a 43><n 3E>
-Hmph! Well I never!
+Hả! Không thể sao!
 <--------------------->
 
 <p 02><a 43><n 3E>
-You really know how to
-dash a little girl's
-dreams.
+Chị đúng là biết cách
+phá vỡ ước mơ của một
+cô bé.
 <*********************>
 
 <p 02><a 43><n 3E>
-Don't you think my
-fashion is ahead of the
-times?
+Chị có nghĩ thời trang
+của em đang dẫn đầu
+xu thế không?
 <--------------------->
 
 <p 02><e 02><a 43><n 3E>
-Well?
+Ừm?
   Có
   Không
 <--------------------->
 
 <p 02><a 43><n 3E>
-I see you have quite a
-bit of fashion sense
-yourself.
+Em thấy chị có gu
+thời trang khá ổn
+đấy.
 <--------------------->
 
 <p 02><a 43><n 3E>
-The stitches on the
-skirt frills are the
-latest thing.
+Đường chỉ khâu trên
+những lớp xếp ly váy
+là xu hướng mới nhất.
 <--------------------->
 
 <p 02><a 43><n 3E>
-It's something that the
-big clothing companies
-can't copy.
+Đó là điều mà các hãng
+thời trang lớn không
+sao chép được.
 <*********************>
 
 <p 02><s 02><a 43><n 3E>
-You think they're
-just ordinary?!
+Chị có thấy họ khá
+tầm thường không?!
 <--------------------->
 
 <p 02><a 43><n 3E>
-You're one to talk!
+Chị cũng chẳng khá
+hơn ai đâu!
 <--------------------->
 
 <p 02><a 43><n 3E>
-You should take a look
-in the mirror sometime.
+Chị nên tự soi mình
+trong gương đi.
 <*********************>
 
 <p 02><a 43><n 3E>
-Serpent Co. is
-searching for models.
+Tập Đoàn Serpent đang
+tìm người mẫu.
 <--------------------->
 
 <p 02><a 43><n 3E>
-Mother and father
-are quite opposed to my
-dreams.
+Mẹ và ba hoàn toàn
+phản đối ước mơ
+của em.
 <--------------------->
 
 <p 02><a 43><n 3E>
-But if they hear it's
-Serpent Co. looking
-for models,
+Nhưng nếu họ biết là
+Tập Đoàn Serpent đang
+tuyển người mẫu,
 <--------------------->
 
-they couldn't possibly
-be opposed.
+họ chắc chắn sẽ không
+phản đối đâu.
 <*********************>
 
 <p 02><a 43><n 3E>
-Serpent Co. is where
-the future is at.
+Tập Đoàn Serpent, nơi
+tương lai rộng mở.
 <--------------------->
 
 <p 02><a 43><n 3E>
-If Serpent Co. ever
-went out of business,
+Nếu Tập Đoàn Serpent
+ngừng hoạt động,
 <--------------------->
 
-this country would be
-in trouble!
+đất nước này sẽ gặp
+rắc rối!
 <*********************>
 
 <p 02><a 43><n 3E>
-I almost forgot!
+Em quên mất!
 <--------------------->
 
 <p 02><a 43><n 3E>
-If you'd like, I could
-give you some cool
-clothes!
+Nếu chị thích, em sẽ
+cho chị vài bộ thật
+ngầu!
 <--------------------->
 
 <p 02><a 43><n 3E>
-I'll pick something
-that suits you
-perfectly!
+Em sẽ chọn cho chị
+một bộ gì đó thật
+hợp với chị!
 <--------------------->
 
-What do you think?
+Chị thấy sao?
 <--------------------->
 
 <p 02><m><a 43><n 3E>
-  Different is good
-  I'm fine as I am
-  I like blue
+  Khác biệt cũng tốt
+  Chị thích bộ cũ hơn
+  Chị thích màu lam
 <*********************>
 
 <p 02><a 43><n 3E>
-How about this one? I
-think it's totally you.
+Cái này thì sao? Em
+nghĩ nó sẽ hợp.
 <--------------------->
 
 <p 02><a 43><n 3E>
-It's the same brand I'm
-wearing now.
+Đây là bộ cùng hãng
+mà em đang mặc.
 <--------------------->
 
 <p 02><a 43><n 3E>
-Just wear it with
-pride. The brand has an
-image to maintain.
+Cứ tự tin diện nó.
+Thương hiệu cũng cần
+duy trì hình ảnh.
 <*********************>
 
 <p 02><a 43><n 3E>
-Ignoring the
-fashion advice of a
-future model...
+Bỏ qua lời khuyên
+thời trang của một
+người mẫu tương lai...
 <--------------------->
 
 <p 02><a 43><n 3E>
-Pft, whatever. It's
-your life...
+Phì, tùy chị. Cuộc sống
+của chị mà...
 <*********************>
 
 <p 02><a 43><n 3E>
-You like blue, huh?
+Chị thích màu lam ư?
 <--------------------->
 
 <p 02><a 43><n 3E>
-You have to try new
-things. Fashion is
+Hãy thử những điều
+mới lạ! Thời trang
 <--------------------->
 
-about challenging the
-norms.
+chính là phá vỡ
+giới hạn thông thường.
 <*********************>
 
 <p 02><a 43><n 3E>
-Eww! What's with that
-outfit?!
+Ui! Cái bộ đồ quái dị
+gì thế này?!
 <--------------------->
 
 <p 02><a 43><n 3E>
-Is that the big fashion
-somewhere else?
+Có phải đó là mốt lớn
+ở đâu đó không?
 <*********************>
 
 <FIM>
