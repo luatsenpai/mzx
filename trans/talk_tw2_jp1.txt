@@ -182,7 +182,7 @@ chuyển viên nào đi bộ
 <*********************>
 
 <p 02><a 53><n 4E>
-Dù công việc quan trọng,
+Dù công việc quan trọng
 nhưng cháu cũng phải
 học hành nữa!
 <--------------------->
@@ -280,7 +280,7 @@ hướng vào một hang động.
 <*********************>
 
 <p 02><a 40><n 3B>
-Cảm ơn chị về chuyện
+Cảm ơn anh về chuyện
 lần trước!
 <--------------------->
 
@@ -916,7 +916,7 @@ trên trời xuống!
 <--------------------->
 
 <p 02><a 49><n 44>
-Hừm. Đám nhóc...
+Hừm. Đúng là trẻ con...
 <*********************>
 
 <p 02><a 49><n 44>
@@ -1099,7 +1099,7 @@ nước không có nước.
 <p 02><a 4B><n 46>
 Vào mùa đông, nước
 trong đài phun nước
-bị đóng bắng đấy?
+bị đóng băng đấy?
 <--------------------->
 
 <p 02><a 4B><n 46>
@@ -1221,7 +1221,8 @@ thứ gì đó?
 
 <p 02><a 54><n 4F>
 Lũ Maverick luôn gây ra
-rắc rối ở Vùng Hẻo Lánh.
+rắc rối ở Vùng Hẻo
+Lánh.
 <--------------------->
 
 <p 02><a 54><n 4F>
@@ -1371,9 +1372,9 @@ người mẫu thời trang.
 <--------------------->
 
 <p 02><e 01><a 43><n 3E>
-Anh nghĩ sao?  
-  Em sẽ làm được!
-  Không được đâu!
+Anh nghĩ sao? 
+ Em sẽ làm được!
+ Không được đâu!
 <--------------------->
 
 <p 02><a 43><n 3E>
@@ -1412,8 +1413,8 @@ xu thế không?
 
 <p 02><e 02><a 43><n 3E>
 Ừm?
-  Có
-  Không
+ Có
+ Không
 <--------------------->
 
 <p 02><a 43><n 3E>
@@ -1435,8 +1436,8 @@ sao chép được.
 <*********************>
 
 <p 02><s 02><a 43><n 3E>
-Anh có thấy họ khá
-tầm thường không?!
+Anh thấy chúng khá
+tầm thường sao?!
 <--------------------->
 
 <p 02><a 43><n 3E>
@@ -1501,9 +1502,9 @@ hợp với anh!
 <--------------------->
 
 <p 02><m><a 43><n 3E>
-  Khác biệt cũng tốt
-  Anh thích bộ cũ hơn
-  Anh thích màu lam
+ Khác biệt cũng tốt
+ Anh thích bộ cũ hơn
+ Anh thích màu lam
 <*********************>
 
 <p 02><a 43><n 3E>

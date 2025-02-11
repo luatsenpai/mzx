@@ -28,8 +28,8 @@ Gửi lá thư tới Truite
 <*********************>
 
 <e 01><a 02><n 55>
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -56,7 +56,7 @@ nản lòng."
 <p 02><a 2A><n 1E>
 "Em thấy khó chịu về
 tính cách cứng đầu và
-kạc quan của anh."
+lạc quan của anh."
 <--------------------->
 
 <p 02><a 2A><n 1E>
@@ -140,8 +140,8 @@ Cảm ơn...
 <--------------------->
 
 <p 02><a 4B><n 46>
-Nếu anh có thêm một
-lá thư nữa. Thì anh
+Nếu tớ có thêm một
+lá thư nữa. Thì tớ
 biết phải gọi ai rồi!
 <*********************>
 

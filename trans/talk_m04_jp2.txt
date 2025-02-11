@@ -280,7 +280,7 @@ Livemetal để phân tích.
 
 <p 02><d C80F><a 09><n 04>
 Tôi sẽ phân tích
-con chíp cô mang về
+con chip cô mang về
 ở đó.
 <*********************>
 
@@ -329,8 +329,8 @@ nhiệm vụ sau.
 <*********************>
 
 <p 02><d CE0F><a 02><n 55>
-Đã rõ! Phát hiện lũ
-Maverick ở Khu D!
+Nhắc lại! Phát hiện
+lũ Maverick ở Khu D!
 <--------------------->
 
 <p 02><d CF0F><a 02><n 55>
@@ -374,7 +374,7 @@ của lũ Maverick sao?
 
 <p 02><d D50F><a 0B><n 04>
 Sau khi kiểm tra con
-chíp mà cô mang về.
+chip mà cô mang về.
 Chúng tôi phát hiện
 <--------------------->
 

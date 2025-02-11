@@ -2,63 +2,63 @@
 <#####################>
 
 <m><a 02><n 55>
-  Yêu Cầu Nhiệm Vụ
-  Quản Lý Dữ Liệu
-  Dịch Chuyển
+ Yêu Cầu Nhiệm Vụ
+ Quản Lý Dữ Liệu
+ Dịch Chuyển
 <*********************>
 
 <m><a 02><n 55>
-  Báo Cáo Nhiệm Vụ
-  Quản Lý Dữ Liệu
-  Dịch Chuyển
+ Báo Cáo Nhiệm Vụ
+ Quản Lý Dữ Liệu
+ Dịch Chuyển
 <*********************>
 
 <m><a 02><n 55>
-  Hủy Nhiệm Vụ
-  Quản Lý Dữ Liệu
-  Dịch Chuyển
+ Hủy Nhiệm Vụ
+ Quản Lý Dữ Liệu
+ Dịch Chuyển
 <*********************>
 
 <m><a 02><n 55>
-  Yêu Cầu Nhiệm Vụ
-  Quản Lý Dữ Liệu
-  Thoát
+ Yêu Cầu Nhiệm Vụ
+ Quản Lý Dữ Liệu
+ Thoát
 <*********************>
 
 <m><a 02><n 55>
-  Báo Cáo Nhiệm Vụ
-  Quản Lý Dữ Liệu
-  Thoát
+ Báo Cáo Nhiệm Vụ
+ Quản Lý Dữ Liệu
+ Thoát
 <*********************>
 
 <m><a 02><n 55>
-  Hủy Nhiệm Vụ
-  Quản Lý Dữ Liệu
-  Thoát
+ Hủy Nhiệm Vụ
+ Quản Lý Dữ Liệu
+ Thoát
 <*********************>
 
 <e 63><a 02><n 55>
 Bạn muốn làm gì?
-  Quản Lý Dữ Liệu
-  Dịch Chuyển
+ Quản Lý Dữ Liệu
+ Dịch Chuyển
 <*********************>
 
 <e 63><a 02><n 55>
 Bạn muốn làm gì?
-  Quản Lý Dữ Liệu
-  Thoát
+ Quản Lý Dữ Liệu
+ Thoát
 <*********************>
 
 <e 63><a 02><n 55>
 Bạn muốn làm gì?
-  Báo Cáo Nhiệm Vụ
-  Quản Lý Dữ Liệu
+ Báo Cáo Nhiệm Vụ
+ Quản Lý Dữ Liệu
 <*********************>
 
 <e 63><a 02><n 55>
 Hủy nhiệm vụ?
-  Tiếp tục làm
-  Hủy
+ Tiếp tục làm
+ Hủy
 <*********************>
 
 <a 02><n 55>
@@ -70,9 +70,9 @@ Hủy nhiệm vụ
 <*********************>
 
 <m><a 02><n 55>
-  Lưu Dữ Liệu
-  Nạp Dữ Liệu
-  Xóa Dữ Liệu
+ Lưu Dữ Liệu
+ Nạp Dữ Liệu
+ Xóa Dữ Liệu
 <*********************>
 
 <p 02><a 02><n 55>
@@ -183,8 +183,8 @@ Hệ Thống Nguồn Điện
 
 <e 63><a 04><n 56>
 Tắt nguồn điện?
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <a 04><n 56>
@@ -195,8 +195,8 @@ Ngừng hoạt động.
 
 <e 63><a 04><n 56>
 Mở nguồn điện?
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <a 04><n 00>
@@ -212,8 +212,8 @@ Dung Nham
 
 <e 02><a 03><n 56>
 Đổi tốc độ:
-  Chậm
-  Bình thường
+ Chậm
+ Bình thường
 <--------------------->
 
 <a 03><n 56>
@@ -248,8 +248,8 @@ thành Model X kể cả khi
 
 <p 01><e 50><a 04><n 57>
 Lưu dữ liệu?
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 
@@ -265,9 +265,9 @@ Chơi trò này?
 <--------------------->
 
 <m><a 04><n 57>
-  Có
-  Không
-  Mô tả
+ Có
+ Không
+ Mô tả
 <*********************>
 
 <a 04><n 57>
@@ -372,8 +372,8 @@ thẻ game vào máy.
 
 <e 63><a 04><n 57>
 Thoát Game?
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 
@@ -386,19 +386,19 @@ Biến hình về bình thường
 <p 01><a 02><n 55>
 Chọn nhiệm vụ.
 <dpad>Bàn Điều khiển: Chọn
-Phím <btn_a>:  OK
+Phím <btn_a>: OK
 <*********************>
 
 <p 01><e 01><a 02><n 55>
 Bạn muốn làm gì?
-  Nghe Mô tả
-  Nhận Nhiệm Vụ
+ Nghe Mô tả
+ Nhận Nhiệm Vụ
 <*********************>
 
 <p 02><a 23><n 2C>
 Chúng tôi được cử đến
 để kiểm tra mấy cái
-bẫu trong khu vực.
+bẫy trong khu vực.
 <--------------------->
 
 <p 02><a 23><n 2C>
@@ -441,7 +441,7 @@ vượt qua nó, thì thử
 <--------------------->
 
 <p 02><a 37><n 32>
-Bosch! Cứu tôi với!
+Bosch! Cứu ta với!
 Có một kẻ lạ mặt
 đáng sợ ở đây!
 <*********************>
@@ -449,7 +449,7 @@ Có một kẻ lạ mặt
 <p 02><a 40><n 3B>
 Cứu!!! Có một kẻ
 lạ mặt đang muốn
-bắt tôi đi! 
+bắt cháu đi! 
 <*********************>
 
 <p 02><a 44><n 3F>
@@ -511,57 +511,56 @@ một tên Maverick!
 <*********************>
 
 <p 02><a 3A><n 35>
-Ta sẽ truy lùng
-ngươi!!!
+Tớ đi tìm đâu!!!
 <--------------------->
 
 <p 02><a 3A><n 35>
-Ngươi là ai? Ta sẽ
-không nói chuyện với
-người lạ!
+Ai vậy? En sẽ không
+nói chuyện với
+người lạ đâu!
 <*********************>
 
 <p 02><a 3B><n 36>
-Ta đây này, đến bắt ta
-đi!!!
+Tớ đây này, đến tìm
+tớ đi!!!
 <--------------------->
 
 <p 02><a 3B><n 36>
-Ngươi là ai? Ta sẽ
-không nói chuyện với
-người lạ.
+Ai vậy? En sẽ không
+nói chuyện với
+người lạ đâu!
 <*********************>
 
 <p 02><a 3C><n 37>
-Ta đây này, đến bắt ta
-đi!!!
+Tớ đây này, đến tìm
+tớ đi!!!!!!
 <--------------------->
 
 <p 02><a 3C><n 37>
-Ngươi là ai? Ta sẽ
-không nói chuyện với
-người lạ.
+Ai vậy? En sẽ không
+nói chuyện với
+người lạ đâu!
 <*********************>
 
 <p 02><a 3D><n 38>
-Bọn ta thường hô to
+Bọn em thường hô to
 trong trò trốn tìm
 kiểu mới.
 <--------------------->
 
 <p 02><a 3D><n 38>
-Ta đang bận chơi nên
+Em đang bận chơi nên
 không rảnh để nói
-chuyện với ngươi.
+chuyện đâu.
 <*********************>
 
 <p 02><a 39><n 34>
-Ta đang bận chơi
+Em đang bận chơi
 trốn tìm.
 <--------------------->
 
 <p 02><a 39><n 34>
-Với quả đồ đó thì ta
+Với quả đồ đó thì em
 sẽ dễ bị phát hiện
 cho xem! Đi đi!
 <*********************>
@@ -667,7 +666,7 @@ You received a <c 03>Lá thư<c 00>!
 <*********************>
 
 
-You found <c 03>Ceratanium<c 00>!
+Tìm thấy <c 03>Ceratanium<c 00>!
 <*********************>
 
 
@@ -787,7 +786,7 @@ Cửa tầng 8 đã mở!
 <*********************>
 
 
-Turned in <c 03>Đĩa Dữ Liệu
+Đã gắn <c 03>Đĩa Dữ Liệu
 <*********************>
 
 

@@ -3,7 +3,7 @@
 
 <p 02><a 4A><n 45>
 Cậu là vận chuyển viên
-đến từ Chuyển Phát Nhanh
+của Chuyển Phát Nhanh
 Girouette đúng không?
 <--------------------->
 
@@ -65,8 +65,8 @@ Tìm bông hoa kỳ diệu
 <*********************>
 
 <e 01><a 02><n 55>
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 4A><n 45>
@@ -143,8 +143,8 @@ nó thì ai đẹp hơn?
 
 <e 1D><a 4A><n 45>
 Chà?
-  Tất nhiên là cậu!
-  Bông hoa!
+ Tất nhiên là cậu!
+ Bông hoa!
 <*********************>
 
 <p 02><a 4A><n 45>

@@ -117,8 +117,9 @@ Model V đang ngụ.
 <*********************>
 
 <p 03><d CB36><a 05><n 02>
-Chúng ta phải nhanh lên!
-Chúng đang khai quật
+Chúng ta phải nhanh
+lên! Chúng đang
+khai quật
 <--------------------->
 
 và sắp tới lõi
@@ -422,8 +423,7 @@ Hãy làm mọi thứ có thể!
 <*********************>
 
 
-Chìa khóa cuối cùng
-đã hiện diện!
+Chìa khóa cuối cùng!
 <*********************>
 
 <p 01><p 02><a 04><n 00>

@@ -68,7 +68,7 @@ tiến hóa khả năng phóng
 tia điện để bắt mồi.
 Với cảm biến hồng ngoại
 ở bụng, nó vẫn có thể
-hoạt động trong bóng tối
+hoạt động trong bóng tối.
 <*********************>
 
 
@@ -735,10 +735,10 @@ Giga Aspis
 
 
 Loài Rắn Cơ Khí này được
-kết hợp từ nhiều bộ phận lớn.
-Cơ thể nó được bao phủ bởi
-lớp giáp đặc biệt có thể
-phản đòn mọi tấn công.
+kết hợp từ nhiều bộ phận
+lớn. Cơ thể nó được bao
+phủ bởi lớp giáp đặc biệt
+có thể phản đòn tấn công.
 Điểm yếu duy nhất của nó
 là đầu.
 <*********************>
@@ -774,7 +774,7 @@ Serpent (Dạng 2)
 <*********************>
 
 
-Dạng hình của Serpent sau khi
+Dạng hình của Serpent khi
 bị Mô hình V hấp thụ. Hắn
 tiếp tục biến đổi sâu hơn
 khi chịu sát thương.
@@ -928,7 +928,7 @@ Một phiên bản cải tiến của
 Galleon Có Cánh đã được dùng
 trong trận chiến tấn công
 căn cứ Vệ Binh. Nó có thêm
-chức năng tấn công độc quyền,
+chức năng tấn công độc quyền
 chẳng hạn như bình nitro.
 <*********************>
 
@@ -954,10 +954,10 @@ Máy Nghiền
 
 Robot này ban đầu được
 thiết kế để nghiền đá, nhưng
-đã được cải tiến thành vũ khí.
+được cải tiến thành vũ khí.
 Nó khá nặng, nhưng một khi
 bắt đầu di chuyển, nó có thể
-đạt tốc độ đáng kinh ngạc
+đạt tốc độ đáng kinh ngạc.
 <*********************>
 
 
@@ -969,7 +969,7 @@ Robot này từng thuộc sở hữu
 của một người giàu có. Một
 tháng sau khi mua, tất cả
 các chức năng đều ngừng
-hoạt động và nó đã bị vứt bỏ.
+hoạt động và nó bị vứt bỏ.
 Nó có ba bộ mạch logic và
 các bộ phận của nó có thể
 hoạt động độc lập.
@@ -985,7 +985,8 @@ xúc tu từ bốn lỗ trên cơ thể
 để tấn công đối thủ. Đã có
 trường hợp nó hút sinh lực
 của các nạn nhân, do đó cần
-hết sức cẩn thận khi tiếp cận.
+hết sức cẩn thận khi
+tiếp cận.
 <*********************>
 
 
@@ -1010,12 +1011,12 @@ Quỷ Dung Nham
 
 Không đòn tấn công nào có thể
 xuyên thủng lớp magma bao
-quanh Repliroid này. Nó bị mù,
-nhưng có thể phát hiện kẻ thù
-qua chuyển động. Khi phát hiện
-kẻ thù, nó có thể biến hình
-thành nhiều dạng khác nhau
-để tấn công.
+quanh Repliroid này. Nó bị
+mù, nhưng có thể phát hiện
+kẻ thù qua chuyển động. Khi
+phát hiện kẻ thù, nó có thể
+biến hình thành nhiều dạng
+khác nhau để tấn công.
 <*********************>
 
 
@@ -1027,7 +1028,7 @@ Anh ta luôn phải là người
 giỏi nhất trong mọi việc.
 Hareng cố gắng thể hiện
 vẻ ngoài ngầu lòi, nhưng khi
-gặp áp lực, anh ta thường mất
+gặp áp lực, anh ta hay mất
 kiểm soát và lộ rõ bản chất.
 <*********************>
 
@@ -1041,7 +1042,7 @@ nhưng lại rất biết cách làm
 người khác thấy thoải mái
 và tự tin. Anh ấy phụ việc
 cho thợ máy Silure. Anh ấy
-cũng dễ xúc động, và đặc biệt
+dễ xúc động, và đặc biệt
 là khi ở gần phụ nữ, anh ấy
 hay thích thể hiện.
 <*********************>
@@ -1159,8 +1160,8 @@ quan tâm đến mọi người.
 Chỉ có điều, cô ấy dễ bị
 kích động. Vì vậy, Prairie
 đã quyết định điều cô ấy đến
-Căn cứ Vệ Binh để tránh những
-rắc rối có thể xảy ra.
+Căn cứ Vệ Binh để tránh
+những rắc rối có thể xảy ra.
 <*********************>
 
 

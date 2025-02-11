@@ -13,7 +13,7 @@ muốn nhờ.
 <p 02><a 2A><n 1E>
 Anh có một bức thư mới
 cho một người mà em
-cũng đã biết đó là ai.
+đã biết đó là ai.
 <--------------------->
 
 <p 02><a 2A><n 1E>
@@ -56,8 +56,8 @@ tại Khu C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -84,7 +84,7 @@ ai gửi nhé...
 
 <p 02><a 4B><n 46>
 "Xấu nhưng giàu, đẹp
-trai nhưng giàu."
+trai nhưng nghèo."
 <--------------------->
 
 <p 02><a 4B><n 46>

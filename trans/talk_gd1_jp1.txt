@@ -840,7 +840,7 @@ A, cháu vẫn bình an.
 <--------------------->
 
 <p 02><a 2F><n 23>
-Ta không chắc con tau
+Ta không chắc con tàu
 cũ kỹ này có thể trụ
 được bao lâu.
 <--------------------->
@@ -1059,9 +1059,9 @@ Có chuyện gì sao?
 <--------------------->
 
 <p 02><e 01><a 29><n 1D>
-Mua muối ngửi?  
-  Có
-  Không
+Mua muối ngửi? 
+ Có
+ Không
 <*********************>
 
 <p 02><a 29><n 1D>
@@ -1819,15 +1819,15 @@ gì sao?
 <*********************>
 
 <p 02><m><a 22><n 18>
-  Xem Dữ Liệu
-  Trò Chuyện
-  Không Có Gì
+ Xem Dữ Liệu
+ Trò Chuyện
+ Không Có Gì
 <*********************>
 
 <p 02><m><a 22><n 18>
-  Sửa Livemetal
-  Xem Dữ Liệu
-  Trò Chuyện
+ Sửa Livemetal
+ Xem Dữ Liệu
+ Trò Chuyện
 <*********************>
 
 <p 02><a 22><n 18>

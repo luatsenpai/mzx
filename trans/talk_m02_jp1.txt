@@ -77,7 +77,7 @@ nhá.
 <*********************>
 
 <p 02><d DB07><a 05><n 01>
-Một con chíp máy tính
+Một con chip máy tính
 sao?
 <--------------------->
 
@@ -120,7 +120,7 @@ Sếp!
 
 <p 02><d E207><a 0D><n 03>
 Khi lũ Maverick
-bao vây tớ,
+bao vây tôi,
 <--------------------->
 
 Livemetal đột nhiên
@@ -128,13 +128,13 @@ Livemetal đột nhiên
 <--------------------->
 
 <p 02><d E307><a 0D><n 03>
-Trong chớp mắt, tớ đã
+Trong chớp mắt, tôi đã
 đánh bại chúng trong
 hình dạng đó.
 <--------------------->
 
 <p 02><d E407><a 0D><n 03>
-Tớ biết chúng ta đang
+Tôi biết chúng ta đang
 vận chuyển thứ gì đó
 rất quan trọng.
 <--------------------->

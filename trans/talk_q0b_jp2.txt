@@ -13,7 +13,7 @@ muốn nhờ.
 <p 02><a 2A><n 1E>
 Anh có một bức thư mới
 cho một người mà em
-cũng đã biết đó là ai.
+đã biết đó là ai.
 <--------------------->
 
 <p 02><a 2A><n 1E>
@@ -66,8 +66,8 @@ tại Khu C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -109,7 +109,7 @@ gì cơ chứ?!
 
 <p 02><a 4B><n 46>
 Anh ta như vì tinh tú
-giữa trưa trời rực nắng.
+giữa trưa rực nắng.
 <--------------------->
 
 <p 02><a 4B><n 46>

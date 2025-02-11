@@ -23,7 +23,7 @@ mua cho em.
 <--------------------->
 
 <p 02><a 43><n 3E>
-Xin chị đấy... chị
+Xin anh đấy... anh
 nhất định phải tìm
 thấy nó...
 <*********************>
@@ -41,12 +41,12 @@ Khu B.
 <*********************>
 
 <e 01><a 02><n 55>
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 43><n 3E>
-A? Chị đã tìm thấy nó
+A? Anh đã tìm thấy nó
 chưa ạ?
 <--------------------->
 
@@ -66,17 +66,17 @@ nơi nào đó thật cao.
 
 <p 02><a 43><n 3E>
 Túi xách của em!
-Cảm ơn chị rất nhiều!
+Cảm ơn anh rất nhiều!
 <*********************>
 
 <p 02><a 43><n 3E>
-Em sẽ gửi chị một món
+Em sẽ gửi anh một món
 quà nhỏ. Đừng mách với
 mẹ em nhé...
 <--------------------->
 
 <p 02><a 43><n 3E>
-Chị sẽ nhận được nó
+Anh sẽ nhận được nó
 tại trạm trung chuyển.
 <*********************>
 
@@ -90,7 +90,7 @@ vào tài khoản của bạn.
 <*********************>
 
 <p 02><a 43><n 3E>
-Cảm ơn chị đã giúp em.
+Cảm ơn anh đã giúp em.
 <--------------------->
 
 <p 02><a 43><n 3E>

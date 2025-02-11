@@ -102,7 +102,7 @@ tôi mãi mãi.
 <*********************>
 
 <p 03><d BF36><a 05><n 01>
-Vậy cí nghĩa Model V
+Vậy có nghĩa Model V
 là...
 <--------------------->
 
@@ -186,7 +186,8 @@ khai quật sắp tới
 lõi rồi.
 <--------------------->
 
-Chúng ta phải nhanh lên!
+Chúng ta phải nhanh
+lên!
 <*********************>
 
 <p 02><d CC36><a 09><n 04>
@@ -226,13 +227,13 @@ rồi...
 <*********************>
 
 <p 02><d D236><a 32><n 06>
-We'll open the door
-when you're ready.
+Chúng tôi sẽ mở cửa
+khi anh sẵn sàng.
 <*********************>
 
 <p 02><d D336><a 07><n 01>
-Chúng tôi sẽ mở cửa
-khi anh sẵn sàng.
+Tôi đã sẵn sàng cho
+mọi thứ.
 <*********************>
 
 <p 02><d D436><a 31><n 05>
@@ -489,8 +490,7 @@ Hãy cố gắng hết mình!
 <*********************>
 
 
-Chìa khóa cuối cùng
-đã hiện diện!
+Chìa khóa cuối cùng!
 <*********************>
 
 <p 02><d B136><a 02><n 04>

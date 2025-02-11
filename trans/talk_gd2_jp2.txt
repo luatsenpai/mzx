@@ -95,8 +95,8 @@ lại mạnh đến thế!
 
 <p 02><a 24><n 28>
 Tớ chắc chắn Prairie sẽ
-rất vui khi có cậu trong
-đội.
+rất vui khi có cậu
+trong đội.
 <--------------------->
 
 <p 02><a 24><n 28>
@@ -258,7 +258,7 @@ chậm chạp.
 <p 02><a 24><n 29>
 Tớ tin rằng chỉ có cậu
 mới có thể hạ toàn bộ
-lụ Falseroids.
+lũ Falseroids.
 <--------------------->
 
 <p 02><a 24><n 29>
@@ -302,9 +302,9 @@ cho cậu một bộ không?
 <--------------------->
 
 <p 02><m><a 24><n 29>
-  Chắc rồi, cảm ơn!
-  Không cần đâu.
-  Tớ thích màu lam.
+ Chắc rồi, cảm ơn!
+ Không cần đâu.
+ Tớ thích màu lam.
 <*********************>
 
 <p 02><a 24><n 29>
@@ -404,7 +404,7 @@ Tớ đang bối rối...
 
 <p 02><a 27><n 1B>
 Tớ không thể ngờ rằng
-cón chuyện như vậy
+có chuyện như vậy
 xảy ra với Căn Cứ.
 <*********************>
 
@@ -438,7 +438,7 @@ thích mấy kẻ đó
 <*********************>
 
 <p 02><a 27><n 1B>
-<nome>, tớ biệt cậu sẽ
+<nome>, tớ biết cậu sẽ
 hạ tên Serpent vì
 bọn tớ!
 <*********************>
@@ -477,9 +477,9 @@ thứ gì đó.
 <--------------------->
 
 <p 02><e 01><a 27><n 1B>
-Vậy 200 EC thì sao?  
-  Được thôi...
-  Đừng mơ!
+Vậy 200 EC thì sao? 
+ Được thôi...
+ Đừng mơ!
 <*********************>
 
 <p 02><a 27><n 1B>
@@ -572,7 +572,7 @@ quyết định dùng 6 mảnh
 <--------------------->
 
 Livemetal sao cho
-tôi ưu nhất.
+tối ưu nhất.
 <*********************>
 
 <p 02><a 24><n 2A>
@@ -593,14 +593,14 @@ Chọn.
 <*********************>
 
 <p 02><a 0B><n 04>
-Gặp được cậu khiến tớ
+Gặp được cô khiến tôi
 cảm thấy như đây là
 định mệnh.
 <*********************>
 
 <p 02><a 0B><n 04>
-Bọn tớ đang truy vết
-các tín hiệi Livemetal
+Bọn tôi đang truy vết
+các tín hiệu Livemetal
 còn lại.
 <--------------------->
 
@@ -615,23 +615,23 @@ Hãy cẩn thận, <nome>.
 <--------------------->
 
 <p 02><a 0B><n 04>
-Tớ không biết mọi
+Tôi không biết mọi
 chuyện sẽ ra sao nếu
-không có cậu...
+không có cô...
 <*********************>
 
 <p 02><a 0C><n 04>
-Tớ không thể tin là
+Tôi không thể tin là
 chuyện này lại xảy ra.
 <--------------------->
 
 <p 02><a 0C><n 04>
-Tớ đã quá ngây thơ...
+Tôi đã quá ngây thơ...
 <*********************>
 
 <p 02><a 0B><n 04>
 Chỉ cần nhìn sàn tàu
-thôi thì cậu cũng
+thôi thì cô cũng
 <--------------------->
 
 có thể thấy chúng bị
@@ -639,8 +639,8 @@ tổn hại lớn thế nào.
 <--------------------->
 
 <p 02><a 0B><n 04>
-Tớ không thể để cảm xúc
-chi phối.
+Tôi không thể để
+cảm xúc chi phối.
 <--------------------->
 
 <p 02><a 0B><n 04>
@@ -652,21 +652,21 @@ Chị ấy sẽ rất mạnh mẽ.
 <*********************>
 
 <p 02><a 09><n 04>
-Cảm ơn cậu.
+Cảm ơn cô.
 <--------------------->
 
 <p 02><a 09><n 04>
-Bọn tớ có thể đi xa
-đến vậy là nhờ cậu.
+Bọn tôi có thể đi xa
+đến vậy là nhờ cô.
 <*********************>
 
 <p 02><a 09><n 04>
 Phần còn lại đang nằm
-trong tay cậu.
+trong tay cô.
 <--------------------->
 
-Bọn tớ đặt niềm tin
-vào cậu và Livemetal.
+Bọn tôi đặt niềm tin
+vào cô và Livemetal.
 <--------------------->
 
 <p 02><a 09><n 04>

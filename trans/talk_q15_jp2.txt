@@ -59,8 +59,8 @@ của kè thù.
 <*********************>
 
 <e 01><a 02><n 55>
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 2D><n 21>
@@ -77,7 +77,7 @@ nhưng dì cần tiếp tế!
 <p 02><a 2D><n 21>
 Tạ ơn chúa! Cuối cùng
 cháu cũng mang tiếp tế
-về. Nó sẽ rất hứu ích.
+về. Nó sẽ rất hữu ích.
 <--------------------->
 
 <p 02><a 2D><n 21>

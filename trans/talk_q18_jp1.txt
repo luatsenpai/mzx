@@ -2,9 +2,9 @@
 <#####################>
 
 <p 02><a 2E><n 22>
-Còn nhớ gói năng lượng
-chị đã chỉnh sửa cho
-dì Muguet?
+Em còn nhớ gói năng
+lượng chị đã chỉnh sửa
+cho dì Muguet?
 <--------------------->
 
 <p 02><a 2E><n 22>
@@ -25,8 +25,8 @@ chị rất nhiều, Vent.
 
 <e 22><a 2E><n 22>
 Em giúp chị nữa nha?
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 2E><n 22>
@@ -97,8 +97,8 @@ Khu L.
 <*********************>
 
 <e 01><a 02><n 55>
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 2E><n 22>

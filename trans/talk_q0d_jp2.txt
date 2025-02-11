@@ -37,8 +37,8 @@ tại Khu C-2.
 <*********************>
 
 <e 01><a 02><n 55>
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 2A><n 1E>
@@ -139,7 +139,7 @@ vào tài khoản của bạn.
 <*********************>
 
 <p 02><a 2A><n 1E>
-Cho dù cô ấy có nói
+Cho dù em ấy có nói
 gì đi nữa...
 <--------------------->
 
@@ -151,7 +151,7 @@ lần cuối cùng gặp mặt.
 <p 02><a 2A><n 1E>
 Có lẽ em ấy không
 quan tâm đến chuyện gì
-sẽ xảy ra với tôi.
+sẽ xảy ra với anh.
 <*********************>
 
 <FIM>

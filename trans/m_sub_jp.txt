@@ -337,7 +337,7 @@ Có máy chủ trong khu này
 
 
 Có 2 máy chủ trong khu này
-<dpad>Bàn Điều Khiển:Scan Khu Map
+<dpad>Bàn Điều Khiển:Lướt Bản Đồ
 <*********************>
 
 
@@ -740,7 +740,8 @@ ra thứ gì đó.
 này dành cho
 Muguet để giúp
 điều trị những
-người bị thương.
+người bị
+thương.
 <*********************>
 
 
@@ -753,7 +754,8 @@ người bị thương.
 này dành cho
 Muguet để giúp
 điều trị những
-người bị thương.
+người bị
+thương.
 <*********************>
 
 

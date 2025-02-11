@@ -31,7 +31,7 @@ thế nào rồi?
 
 <p 02><d CE32><a 0B><n 04>
 Rất tệ! Chúng đang ở
-trước mặt chúng tôi rồi!
+trước mặt chúng ta rồi!
 <--------------------->
 
 <p 02><d CF32><a 0B><n 04>
@@ -349,8 +349,8 @@ Chị ấy là con người.
 <--------------------->
 
 <p 01><p 02><d 0333><a 09><n 04>
-Cô ấy là nhà khoa học,
-đang bảo vệ Repliroids
+Chị ấy là nhà khoa học,
+đã bảo vệ Repliroids
 <--------------------->
 
 chúng tôi khi bị cả

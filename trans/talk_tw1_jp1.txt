@@ -623,7 +623,8 @@ Chắc hẳn đó là một bộ
 <--------------------->
 
 họ đã phát triển và
-cháu đang thử nghiệm nó.
+cháu đang thử nghiệm
+nó.
 <*********************>
 
 <p 02><a 4E><n 49>
@@ -1939,7 +1940,7 @@ hồ dung nham.
 <--------------------->
 
 <p 02><a 44><n 3F>
-Dung nham vẩn đang
+Dung nham vẫn đang
 dâng và mọi người
 đang lo về nó.
 <--------------------->
@@ -1971,7 +1972,7 @@ lảng vảng quanh đó.
 <*********************>
 
 <p 02><a 44><n 3F>
-Tớ không thể ngủ được
+Tôi không thể ngủ được
 với những âm thanh
 đào bới vào ban đêm.
 <--------------------->
@@ -2113,8 +2114,8 @@ cho riêng mình.
 <--------------------->
 
 <p 02><a 4C><n 47>
-Dừng lại đi... em làm
-anh mắc cỡ quá.
+Dừng lại đi... anh làm
+em mắc cỡ quá.
 <*********************>
 
 <p 02><a 47><n 42>

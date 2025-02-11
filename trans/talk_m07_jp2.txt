@@ -231,13 +231,13 @@ A, mật khẩu.
 <--------------------->
 
 Xin lỗi, nhưng hiện
-tôi chứa thể cho cô
+tôi CHƯA thể cho cô
 toàn bộ.
 <--------------------->
 
 <p 03><d 781B><a 34><n 08>
 Serpent đã chia đôi
-sức mạnh của tôi, nữa
+sức mạnh của tôi, nửa
 <--------------------->
 
 còn lại nằm trong tay
@@ -356,13 +356,13 @@ cô nên không sợ.
 <*********************>
 
 <p 02><a 37><n 32>
-Không! Tôi không thể
-tìm thấy Bosch!
+Không! Em không thể
+tìm thấy Bosch đâu cả!
 <--------------------->
 
 <p 02><a 37><n 32>
 Ai đó! Làm ơn hãy
-cứu thằng bé với!
+cứu nó với!
 <*********************>
 
 <p 02><a 40><n 3B>
@@ -443,8 +443,8 @@ từ đội cứu hộ ư?
 
 <p 02><e 01><a 48><n 43>
 Làm ơn! Cứu tôi với!
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 02><a 48><n 43>
@@ -480,28 +480,28 @@ nguy hiểm.
 <*********************>
 
 <p 02><s 01><a 48><n 43>
-Hả?! Đừng đùa nữa
-và đến giúp tôi đi!
+Hả?! Đừng đùa nữa và
+đưa tớ ra khỏi đây!
 <--------------------->
 
 <p 02><a 48><n 43>
-Tôi không biết phải
+Tớ không biết phải
 nói gì, nhưng...
 <--------------------->
 
 <p 02><a 48><n 43>
-Cảm ơn cô.
+Cảm ơn cậu.
 <*********************>
 
 <p 02><a 4D><n 48>
-Tôi đã quá chậm chạp
+Ta đã quá chậm chạp
 và không thể trốn
 thoát kịp thời.
 <--------------------->
 
 <p 02><a 4D><n 48>
-Nếu cô không đến
-kịp lúc, thì tôi
+Nếu cháu không đến
+kịp lúc, thì ta
 <--------------------->
 
 đã thành lão già
@@ -509,18 +509,18 @@ bốc lửa rồi.
 <--------------------->
 
 <p 02><a 4D><n 48>
-Vẩn còn nhiều người
+Vẫn còn nhiều người
 khác cần giúp đỡ.
 <*********************>
 
 <p 02><a 51><n 4C>
-Tôi đã bị bong gân
+Dì đã bị bong gân
 và tuột lại phía sau.
 <--------------------->
 
 <p 02><a 51><n 4C>
 Từ khi không thể
-di chuyển, tôi cứ lo
+di chuyển, dò cứ lo
 <--------------------->
 
 rằng mình sẽ không thể
@@ -528,8 +528,8 @@ sống sót ra khỏi đây.
 <--------------------->
 
 <p 02><a 51><n 4C>
-Tôi thật may mắn khi
-thấy cô đến thật
+Dì thật may mắn khi
+thấy cháu đến thật
 đúng lúc!
 <--------------------->
 
@@ -544,13 +544,13 @@ vào tình cảnh này?
 <--------------------->
 
 <p 02><a 55><n 51>
-Này, cô gì đó ơi!
-Giúp tôi một tay
-được không?
+Này, cháu gì đó ơi!
+Cháu đến cứu ta
+đúng không?
 <--------------------->
 
 <p 02><a 55><n 51>
-Tôi sẽ cho cô một
+Ta sẽ cho cháu một
 thứ gì đó xứng đáng!
 <--------------------->
 
@@ -562,7 +562,7 @@ tính mạng cả.
 
 <p 02><a 55><n 51>
 Hãy nhận nó. Nó là
-của cô!
+của cháu!
 <*********************>
 
 <p 02><a 56><n 52>

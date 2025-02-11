@@ -235,7 +235,7 @@ cánh cửa khóa.
 <--------------------->
 
 <p 02><d 8E17><a 02><n 04>
-Chung tôi đang bẻ khóa
+Chúng tôi đang bẻ khóa
 từ Trung Tâm Vệ Binh.
 <--------------------->
 

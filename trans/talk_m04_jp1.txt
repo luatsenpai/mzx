@@ -278,7 +278,7 @@ Livemetal để phân tích.
 
 <p 02><d C80F><a 09><n 04>
 Tôi sẽ phân tích
-con chíp anh mang về
+con chip anh mang về
 ở đó.
 <*********************>
 
@@ -327,8 +327,8 @@ nhiệm vụ sau.
 <*********************>
 
 <p 02><d CE0F><a 02><n 55>
-Đã rõ! Phát hiện lũ
-Maverick ở Khu D!
+Nhắc lại! Phát hiện
+lũ Maverick ở Khu D!
 <--------------------->
 
 <p 02><d CF0F><a 02><n 55>
@@ -372,7 +372,7 @@ của lũ Maverick sao?
 
 <p 02><d D50F><a 0B><n 04>
 Sau khi kiểm tra con
-chíp mà anh mang về.
+chip mà anh mang về.
 Chúng tôi phát hiện
 <--------------------->
 
@@ -573,12 +573,12 @@ Sếp! Chuyện gì vậy?!
 <--------------------->
 
 <p 03><d F70F><a 13><n 03>
-Vent! B-bắn tớ đi...
+Vent! B-bắn tôi đi...
 <*********************>
 
 <p 02><d F80F><a 07><n 01>
 Dừng lại đi! Sếp, đừng
-bỏ tớ lại!
+bỏ tôi lại!
 <--------------------->
 
 <p 03><d F90F><a 13><n 03>

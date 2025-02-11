@@ -26,17 +26,17 @@ Phím <btn_a>:Xóa, Phím <btn_b>:Hủy
 
 
 Lưu đè dữ liệu này?
-  Có    Không
+ Có  Không
 <*********************>
 
 
 Nạp dữ liệu này?
-  Có    Không
+ Có  Không
 <*********************>
 
 
 Xóa dữ liệu này?
-  Có    Không
+ Có  Không
 <*********************>
 
 

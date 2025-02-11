@@ -103,7 +103,7 @@ Chúc may mắn!
 
 <p 02><d C60B><a 24><n 28>
 Ha ha! Biết thế đã
-không trốn chỗi này
+không trốn chỗ này
 rồi.
 <--------------------->
 
@@ -164,8 +164,8 @@ gì cả!
 
 <p 02><d CF0B><a 25><n 19>
 Dù sao thì, tôi phải về
-Căn Cứ đây, chúc may mắn
-với bài kiểm tra!
+Căn Cứ đây, làm bài
+kiểm tra thật tốt nha!
 <*********************>
 
 <p 02><d D00B><a 2B><n 1F>
@@ -210,8 +210,8 @@ trong đội Vệ Binh.
 
 <p 02><d D70B><a 2C><n 20>
 Nhưng làm chuyển phát
-viên chắc hẳn là bận rộn
-lắm nhỉ.
+viên chắc hẳn là bận
+rộn lắm nhỉ.
 <--------------------->
 
 <p 02><d D80B><a 2C><n 20>

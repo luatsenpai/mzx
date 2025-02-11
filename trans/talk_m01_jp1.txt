@@ -66,7 +66,7 @@ không!?
 <*********************>
 
 <p 01><p 02><d F503><a 0D><n 03>
-Anh có thể thấy toà 
+Cậu có thể thấy toà 
 nhà của Tập Đoàn
 Serpent từ đây.
 <--------------------->
@@ -187,7 +187,7 @@ tốt nhất là không
 nên hỏi nhiều.
 <--------------------->
 
-Tớ chắc chắn nó rất
+Tôi chắc chắn nó rất
 quan trọng và rất
 nguy hiểm.
 <--------------------->
@@ -263,7 +263,7 @@ cho Đội Vệ Binh!
 
 <p 02><d 1304><a 04><n 03>
 Tôi sẽ bắt kịp cậu
-sau khi tớ xử lý
+sau khi tôi xử lý
 đám trên này!
 <--------------------->
 
@@ -322,7 +322,7 @@ rời khỏi đây ngay!
 <*********************>
 
 <p 03><d 1E04><a 23><n 2C>
-Aaagh!
+Aaaaa!
 <*********************>
 
 <p 03><d 1F04><a 0C><n 04>
@@ -498,7 +498,7 @@ giúp cô gái đó
 <--------------------->
 
 kể cả khi anh chưa
-từng gặp trước đây.
+từng gặp bao giờ.
 <--------------------->
 
 <p 02><d 3E04><a 31><n 05>
@@ -723,8 +723,8 @@ lưu dữ liệu.
 
 <p 03><e 01><a 22><n 18>
 Lưu dữ liệu?
-  Có
-  Không
+ Có
+ Không
 <*********************>
 
 <p 03><d 6404><a 22><n 18>

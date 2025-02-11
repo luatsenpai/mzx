@@ -343,7 +343,7 @@ vẫn chưa đủ.
 <*********************>
 
 <p 03><d B23E><a 1C><n 11>
-Agh! Ta sẽ tiếp tục
+Aaa! Ta sẽ tiếp tục
 tồn tại, hòa nhập
 vào Model V...
 <--------------------->
@@ -808,7 +808,7 @@ sự dũng cảm của cô!
 
 <p 02><d F03E><a 32><n 06>
 Hãy chiêm nghiệm lại
-bảm thân!
+bản thân!
 <*********************>
 
 <p 02><d F13E><a 07><n 02>
