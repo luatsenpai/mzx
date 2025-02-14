@@ -142,7 +142,7 @@ em nộp báo cáo.
 <p 02><a 02><n 55>
 200 EC và vật phẩm
 đã được chuyển vào
-tài khoản của bạn.
+tài khoản.
 <*********************>
 
 <p 02><a 30><n 24>

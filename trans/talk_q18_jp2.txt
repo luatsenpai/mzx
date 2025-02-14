@@ -171,7 +171,7 @@ chuyển rồi đó, Aile!
 <p 02><a 02><n 55>
 150 EC và Bình Dự Trữ
 đã được chuyển vào
-tài khoản của bạn.
+tài khoản.
 <*********************>
 
 <p 02><a 02><n 55>
@@ -180,7 +180,7 @@ tài khoản của bạn.
 
 <p 02><a 02><n 55>
 150 EC đã được chuyển
-vào tài khoản của bạn.
+vào tài khoản.
 <*********************>
 
 <FIM>

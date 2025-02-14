@@ -38,19 +38,19 @@
 <*********************>
 
 <e 63><a 02><n 55>
-Bạn muốn làm gì?
+Cậu muốn làm gì?
  Quản Lý Dữ Liệu
  Dịch Chuyển
 <*********************>
 
 <e 63><a 02><n 55>
-Bạn muốn làm gì?
+Cậu muốn làm gì?
  Quản Lý Dữ Liệu
  Thoát
 <*********************>
 
 <e 63><a 02><n 55>
-Bạn muốn làm gì?
+Cậu muốn làm gì?
  Báo Cáo Nhiệm Vụ
  Quản Lý Dữ Liệu
 <*********************>
@@ -390,7 +390,7 @@ Phím <btn_a>: OK
 <*********************>
 
 <p 01><e 01><a 02><n 55>
-Bạn muốn làm gì?
+Cậu muốn làm gì?
  Nghe Mô tả
  Nhận Nhiệm Vụ
 <*********************>

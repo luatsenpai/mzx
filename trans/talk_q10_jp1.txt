@@ -120,7 +120,7 @@ trung chuyển!
 
 <p 02><a 02><n 55>
 300 EC đã được chuyển
-vào tài khoản của bạn.
+vào tài khoản.
 <*********************>
 
 <p 02><a 47><n 42>

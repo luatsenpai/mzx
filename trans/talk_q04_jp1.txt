@@ -132,7 +132,7 @@ sau nha.
 
 <p 02><a 02><n 55>
 50 EC đã được chuyển
-vào tài khoản của bạn.
+vào tài khoản.
 <*********************>
 
 <p 02><a 02><n 55>

@@ -361,7 +361,7 @@ chuyển cho cháu.
 
 <p 02><a 02><n 55>
 400 EC đã được chuyển
-vào tài khoản của bạn.
+vào tài khoản.
 <*********************>
 
 <p 02><a 53><n 4E>
