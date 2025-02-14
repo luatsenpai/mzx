@@ -46,8 +46,8 @@ quay lại.
 <--------------------->
 
 <p 03><d 5F1B><a 23><n 2C>
-Hãy dùng Trạm
-Trung Chuyển cũ này đi.
+Hãy dùng Máy Tín Hiệu
+cầm tay cũ này đi.
 Hãy cứu mọi người!
 <*********************>
 
@@ -234,7 +234,7 @@ sức mạnh của tôi, nửa
 <--------------------->
 
 còn lại nằm trong tay
-tên Falseroid khác..
+tên Falseroid khác.
 <--------------------->
 
 <p 03><d 791B><a 34><n 08>

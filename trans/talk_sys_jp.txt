@@ -511,11 +511,11 @@ một tên Maverick!
 <*********************>
 
 <p 02><a 3A><n 35>
-Tớ đi tìm đâu!!!
+Tớ đi tìm đây!!!
 <--------------------->
 
 <p 02><a 3A><n 35>
-Ai vậy? En sẽ không
+Ai vậy? Em sẽ không
 nói chuyện với
 người lạ đâu!
 <*********************>
@@ -526,7 +526,7 @@ tớ đi!!!
 <--------------------->
 
 <p 02><a 3B><n 36>
-Ai vậy? En sẽ không
+Ai vậy? Em sẽ không
 nói chuyện với
 người lạ đâu!
 <*********************>
@@ -537,7 +537,7 @@ tớ đi!!!!!!
 <--------------------->
 
 <p 02><a 3C><n 37>
-Ai vậy? En sẽ không
+Ai vậy? Em sẽ không
 nói chuyện với
 người lạ đâu!
 <*********************>
@@ -610,7 +610,7 @@ cho xem! Đi đi!
 <*********************>
 
 
-Đã nhận <c 03>Chip Nộ Nhanh<c 00>!
+Đã nhận <c 03>Chip Trọng Kích Nhanh<c 00>!
 <*********************>
 
 

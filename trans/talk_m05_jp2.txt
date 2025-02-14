@@ -60,7 +60,7 @@ Girouette biến mất.
 <*********************>
 
 <p 02><d 9213><a 02><n 04>
-Tín hiệu nàylà ...
+Tín hiệu này là...
 Tinh Linh Số?!
 <--------------------->
 
@@ -148,7 +148,7 @@ ta là những con rối
 <--------------------->
 
 đơn giản như đám
-Maverick kia..
+Maverick kia.
 <--------------------->
 
 <p 03><d A013><a 1B><n 10>

@@ -144,7 +144,7 @@ Có tín hiệu Livemetal
 <--------------------->
 
 của Tập Đoàn Serpent
-ở Khu D..
+ở Khu D.
 <--------------------->
 
 <p 02><d 973E><a 02><n 55>
@@ -979,8 +979,9 @@ Hãy là người chủ động
 <--------------------->
 
 <p 03><d 0E3F><a 0D><n 03>
-Only you can decide
-your destiny.
+Chỉ có cậu mới có thể
+quyết định số phận
+của cậu.
 <--------------------->
 
 <p 02><d 0F3F><a 05><n 02>

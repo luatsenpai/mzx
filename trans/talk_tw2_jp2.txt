@@ -79,7 +79,8 @@ Canis.
 <--------------------->
 
 <p 02><a 42><n 3D>
-Nó là một chú chó ngoan.
+Nó là một chú chó
+ngoan.
 <--------------------->
 
 <p 02><a 42><n 3D>
@@ -457,7 +458,7 @@ A.
 <--------------------->
 
 <p 02><a 41><n 3C>
-Anh có cách nào giúp
+Chị có cách nào giúp
 em vượt qua nỗi sợ
 bóng tối không?
 <--------------------->
@@ -833,7 +834,7 @@ bóng đá.
 <--------------------->
 
 <p 02><a 52><n 4D>
-Dì hiểu mà... Anh ta
+Dì hiểu mà... Anh ấy
 luôn miệng kể về những
 thời huy hoàng đã qua.
 <*********************>

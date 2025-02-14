@@ -358,7 +358,7 @@ di chuyển!
 
 <p 02><d F336><a 07><n 02>
 Tôi không kịp ngăn
-chúng khai quật Model V!
+khai quật Model V!
 Cô bắt kịp chúng chứ?
 <*********************>
 
@@ -501,7 +501,8 @@ cho những điều tốt đẹp
 <--------------------->
 
 và dẫn dắt mọi người
-đến tương lai tươi sáng.
+đến tương lai
+tươi sáng.
 <*********************>
 
 <FIM>

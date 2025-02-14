@@ -236,7 +236,7 @@ xin lỗi, Vent.
 <p 02><d 8D17><a 02><n 04>
 Tôi đang đọc tín hiệu
 Livemetal phía bên kia
-cánh cửa khóa..
+cánh cửa khóa.
 <--------------------->
 
 <p 02><d 8E17><a 02><n 04>

@@ -46,8 +46,8 @@ quay lại.
 <--------------------->
 
 <p 03><d 5F1B><a 23><n 2C>
-Hãy dùng Trạm
-Trung Chuyển cũ này đi.
+Hãy dùng Máy Tín Hiệu
+cầm tay cũ này đi.
 Hãy cứu mọi người!
 <*********************>
 
@@ -104,7 +104,7 @@ ngươi.
 <--------------------->
 
 <p 03><d 661B><a 21><n 16>
-Sau tất cả, ngươi đã
+Cùng là vì ngươi đã
 sống sót sau cuộc
 <--------------------->
 
@@ -153,7 +153,7 @@ Ta phải nỗ lực hơn.
 <p 03><d 6C1B><a 21><n 16>
 Làm sao có thể? Ta
 đã biến hình thành
-Falseroid..
+Falseroid.
 <--------------------->
 
 <p 03><d 6D1B><a 21><n 16>

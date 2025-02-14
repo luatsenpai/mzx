@@ -586,7 +586,7 @@ Livemetal.
 
 <p 03><d 4804><a 22><n 18>
 Dù sao thì, tôi rất vui
-khi cậu đã đưa nó tới
+khi cô đã đưa nó tới
 đây an toàn.
 <--------------------->
 
@@ -667,7 +667,7 @@ vào rắc rối nữa sao!?
 <--------------------->
 
 <p 02><d 5504><a 07><n 02>
-Vậu sao! Bây giờ gói
+Vậy sao! Bây giờ gói
 hàng quý giá của ông
 đã về, ông không
 <--------------------->
@@ -683,7 +683,7 @@ N-nhưng!
 
 <p 02><d 5704><a 02><n 04>
 Khoan! Fleuve! Cứ để
-cô ta đi!
+cô ấy đi!
 <--------------------->
 
 <p 03><d 5804><a 22><n 18>
@@ -719,11 +719,11 @@ Trụ Sở Vệ Binh.
 <--------------------->
 
 <p 02><d 5E04><a 02><n 04>
-Go, help him.
+Đi giúp cậu ta đi.
 <--------------------->
 
 <p 02><d 5F04><a 05><n 02>
-Đi giúp cậu ta đi.
+Cảm ơn cô, Prairie.
 <--------------------->
 
 <p 03><d 6004><a 22><n 18>

@@ -68,7 +68,7 @@ chôn sâu dưới lòng đất
 <--------------------->
 
 <p 03><d 022B><a 1F><n 14>
-Nhưng! Chưa khai thác
+Nhưng chưa khai thác
 được gì cả!
 <--------------------->
 
@@ -90,7 +90,7 @@ của bọn ta!
 <p 03><d 052B><a 1F><n 14>
 Ha! Sức mạnh Livemetal
 đang bị lãng phí trong
-tay tên nhóc như ngươi!
+tay nhóc con như ngươi!
 <*********************>
 
 <p 03><d 062B><a 1F><n 14>
@@ -126,7 +126,7 @@ khôi phục mật khẩu.
 
 <p 03><d 0B2B><a 34><n 08>
 Đừng lo, tôi sẽ lấy
-nó cho anh.
+nó cho cô.
 <*********************>
 
 <FIM>

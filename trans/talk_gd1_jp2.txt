@@ -37,7 +37,7 @@ một bước để nhìn nhận
 <--------------------->
 
 mọi việc sáng suốt
-hơn
+hơn.
 <*********************>
 
 <p 01><p 02><a 26><n 1A>
@@ -279,7 +279,7 @@ hắn.
 
 <p 02><a 30><n 24>
 Hắn ta chỉ là một tên
-côn đồ,lăm le hãm hại
+côn đồ, lăm le hãm hại
 người yếu thế!
 <*********************>
 
@@ -450,7 +450,7 @@ có thể đi xa đến vậy
 <--------------------->
 
 khi chỉ chiến đấu
-một mình..
+một mình.
 <*********************>
 
 <p 02><a 25><n 19>
@@ -750,13 +750,14 @@ Ta không thể tin là
 cháu gái nhỏ đang đứng
 <--------------------->
 
-me is able to change
-into Model X!
+trước mặt ta là người
+đưởc Model X chọn!
 <--------------------->
 
 <p 02><a 2F><n 23>
-trước mặt ta là người
-đưởc Model X chọn...
+Anh còn không biết
+làm sao nhóc được chọn
+nữa...
 <--------------------->
 
 <p 02><a 2F><n 23>
@@ -810,7 +811,7 @@ Serpent đang bắt đầu
 <--------------------->
 
 dùng Livemetal để tạo
-ra Repliroids..
+ra Repliroids.
 <--------------------->
 
 <p 02><a 2F><n 23>
@@ -1292,7 +1293,7 @@ rồi chọn Nhiệm Vụ.
 <--------------------->
 
 <p 02><a 23><n 2E>
-Anh có thể thấy các
+Cô có thể thấy các
 đường giữa các khu vực
 <--------------------->
 
@@ -1658,7 +1659,7 @@ còn gì phải lo.
 
 <p 02><a 2C><n 20>
 Nhóc còn trẻ và có
-nhiều cơ hộ
+nhiều cơ hội
 phía trước.
 <--------------------->
 
@@ -1733,7 +1734,7 @@ lập tức.
 <--------------------->
 
 <p 02><a 23><n 2B>
-Anh sẽ khiến người dân
+Cô sẽ khiến người dân
 trong thành phố sẽ
 cảm thấy bị đe dọa.
 <--------------------->
@@ -1915,7 +1916,7 @@ vào chiến đấu ngay.
 
 Nhưng cô phải học cách
 kiểm soát Livemetal
-trước đã..
+trước đã.
 <*********************>
 
 <p 02><a 22><n 18>
@@ -1994,7 +1995,7 @@ kích hoạt đòn đánh.
 
 <p 02><a 22><n 18>
 Với Model FX, cô cần
-tích năng lượng lê
+tích năng lượng lên
 mức hai, rồi nhấn
 <--------------------->
 
@@ -2038,7 +2039,7 @@ Hay đem theo cái này.
 <p 02><a 22><n 18>
 Con Chip này sẽ giảm
 thời gian hồi chiêu
-nộ.
+trọng kích.
 <--------------------->
 
 <p 02><a 22><n 18>
@@ -2049,7 +2050,7 @@ Vệ Binh khác
 <p 02><a 22><n 18>
 và sẽ mất thời gian để
 đồng bộ nó với
-Livemetal của cô..
+Livemetal của cô.
 <--------------------->
 
 <p 02><a 22><n 18>
@@ -2372,7 +2373,7 @@ cho nhiệm vụ đó đều
 <*********************>
 
 <p 02><a 23><n 2D>
-Tôi suýt tẻ ra quần
+Tôi suýt tè ra quần
 khi thấy nhiều tàu
 bao vây chúng ta.
 <*********************>

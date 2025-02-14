@@ -173,7 +173,7 @@ sẽ sẵn sàng khi cô
 <--------------------->
 
 bắt đầu đối đầu với
-Model V..
+Model V.
 <*********************>
 
 <p 02><d 2827><a 02><n 04>
@@ -300,7 +300,8 @@ tương tự?
 
 <p 02><d 3027><a 02><n 04>
 Aile, cô sẽ không biến
-thành một người như hắn.
+thành một người như
+hắn.
 <--------------------->
 
 Hãy nhớ lại sự dũng cảm

@@ -279,7 +279,7 @@ chỉ là một kẻ xâm nhập
 <--------------------->
 
 ngăn cản kế hoạch của
-chúa tể Serpent..
+chúa tể Serpent.
 <--------------------->
 
 <p 03><d 9517><a 1A><n 0F>
@@ -295,7 +295,7 @@ Falseroid Model L
 <--------------------->
 
 <p 03><d 9717><a 1A><n 0F>
-ITa sẽ xé xác ngươi ra
+Ta sẽ xé xác ngươi ra
 từng mảnh!
 <--------------------->
 
@@ -410,7 +410,7 @@ Model Z vĩ đại.
 <--------------------->
 
 <p 03><d A817><a 35><n 09>
-Tôi sẽ cho anh
+Tôi sẽ cho cô
 mật khẩu, nhưng
 <--------------------->
 

@@ -44,7 +44,7 @@ Chào!
 <--------------------->
 
 <p 02><a 3F><n 3A>
-Anh có dám thử sức với
+Chị có dám thử sức với
 câu đố tiếp theo của
 Lou? Bắt đầu thôi!
 <--------------------->
@@ -133,7 +133,7 @@ Chị phải đợi để tận
 mắt xem nó!
 <--------------------->
 
-Em chắc chắn anh sẽ
+Em chắc chắn chị sẽ
 thích nó.
 <*********************>
 
@@ -163,7 +163,7 @@ Em trai em rất vui
 <--------------------->
 
 khi chị đã giải được
-câu đố của em ấy..
+câu đố của em ấy.
 <*********************>
 
 <p 02><a 3F><n 3A>

@@ -1942,7 +1942,7 @@ kích hoạt đòn đánh.
 
 <p 02><a 22><n 18>
 Với Model FX, anh cần
-tích năng lượng lê
+tích năng lượng lên
 mức hai, rồi nhấn
 <--------------------->
 
@@ -1986,7 +1986,7 @@ Hay đem theo cái này.
 <p 02><a 22><n 18>
 Con Chip này sẽ giảm
 thời gian hồi chiêu
-nộ.
+trọng kích.
 <--------------------->
 
 <p 02><a 22><n 18>
@@ -2317,7 +2317,7 @@ cho nhiệm vụ đó đều
 <*********************>
 
 <p 02><a 23><n 2D>
-Tôi suýt tẻ ra quần
+Tôi suýt tè ra quần
 khi thấy nhiều tàu
 bao vây chúng ta.
 <*********************>

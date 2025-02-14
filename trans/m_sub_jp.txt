@@ -241,7 +241,7 @@ Chọn vũ khí để sửa
 
 
 Sắp xếp các ô vuông sao
-cho đường đạt nối liền
+cho đường đạn nối liền
 <*********************>
 
 
@@ -396,7 +396,7 @@ làm. Hồi 6
 <c 00>Quả táo này 
 rụng không xa
 Khu A-3. Hồi
-8 điểm máue.
+8 điểm máu.
 <*********************>
 
 
@@ -431,9 +431,9 @@ công.
 <*********************>
 
 
-<c 01>Nộ Nhanh
+<c 01>Trọng Kích Nhanh
 <c 00>Giảm thời gian
-hồi chiêu nộ.
+trọng kích.
 <*********************>
 
 
@@ -463,8 +463,8 @@ bám tường.
 <c 00>Giúp vũ khí
 dạng kiếm
 triệt tiêu các
-đòn tấn công
-bằng năng lượng.
+đòn đánh bằng
+năng lượng.
 <*********************>
 
 
@@ -495,9 +495,9 @@ công.
 <*********************>
 
 
-<c 01>Nộ Nhanh
+<c 01>Trọng Kích Nhanh
 <c 00>Giảm thời gian
-hồi chiêu nộ.
+trọng kích.
 (Trang Bị)
 <*********************>
 
@@ -531,8 +531,8 @@ bám tường.
 <c 00>Giúp vũ khí
 dạng kiếm
 triệt tiêu các
-đòn tấn công
-bằng năng lượng.
+đòn đánh bằng
+năng lượng.
 (Trang Bị)
 <*********************>
 
@@ -794,9 +794,10 @@ mở cửa tím.
 bị bỏ lại trong
 một thiết bị
 thu phát. Nó
-chứa báo cáo của
-đơn vị trinh sát
-của Đội Vệ Binh.
+chứa báo cáo
+đơn vị trinh
+sát của Đội Vệ
+Binh.
 <*********************>
 
 

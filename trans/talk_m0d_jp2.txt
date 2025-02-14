@@ -190,8 +190,8 @@ Aile!
 <--------------------->
 
 <p 02><d E932><a 07><n 02>
-Lùi lại, Prairie! Để
-ha ắnho tôi!
+Lùi lại, Prairie!
+Để hắn cho tôi!
 <*********************>
 
 <p 03><d EA32><a 18><n 0D>

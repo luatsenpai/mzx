@@ -51,7 +51,7 @@ nên không sao đâu.
 
 <p 02><a 30><n 24>
 Nếu mà sếp anh biết
-chuyệt, ông ấy sẽ
+chuyện, ông ấy sẽ
 mắng anh té tát...
 <--------------------->
 
@@ -94,9 +94,8 @@ cho em rồi...
 <--------------------->
 
 <p 02><a 30><n 24>
-Anh e rằng không thể
-làm xong dự án đặc biệt
-cho em rồi?
+Em thực sự muốn bỏ cuộc
+sao? Em chắc chứ?
 <*********************>
 
 <p 02><a 30><n 24>
@@ -105,7 +104,7 @@ mang ốc vít về,
 <--------------------->
 
 anh có thể hoàn thành
-việc này..
+việc này.
 <*********************>
 
 <p 02><a 30><n 24>
